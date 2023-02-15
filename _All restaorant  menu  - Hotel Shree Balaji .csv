@@ -1,0 +1,84 @@
+label,nodeType,order,path,price,description,link,imageLink
+Maharashtrian Breakfast,ProductClass,1,"Inventory,Food,Restaurant,",,,https://drive.google.com/file/d/1WxOGbCZF3hlCn-_s-nxEXAooyb8CBWa2/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food122021/MaharashtrianBreakfast.png
+Vegeterain,ProductLine,2,"Inventory,Food,Restaurant,Maharashtrian Breakfast,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterain,ProductLine,2,"Inventory,Food,Restaurant,Maharashtrian Breakfast,",,,,
+Puri Bhaji,ProductType,3,"Inventory,Food,Restaurant,Maharashtrian Breakfast,Vegeterain,",45,,https://drive.google.com/file/d/1c_oQ60JkRMIn0-mQiPpe_55Q96Zhvx3E/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PuriBhaji.png
+Aloo Vada,ProductType,4,"Inventory,Food,Restaurant,Maharashtrian Breakfast,Vegeterain,",35,,https://drive.google.com/file/d/1guh9RCBy_N69Ni8tZ61vPxXfGKU41Yyy/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/AlooVada.jpg
+Khichadi,ProductType,5,"Inventory,Food,Restaurant,Maharashtrian Breakfast,Vegeterain,",20,,https://drive.google.com/file/d/1ir4S6PiQHq6sI1ulqEFIXvlmuWa3dayK/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Khichadi.jpg
+Shabudana,ProductType,6,"Inventory,Food,Restaurant,Maharashtrian Breakfast,Vegeterain,",35,,https://drive.google.com/file/d/1jwr-SPdd9Re4PTyfOyuNpZWuP-Gu0BDa/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Shabudana.jpg
+Sheera,ProductType,7,"Inventory,Food,Restaurant,Maharashtrian Breakfast,Vegeterain,",20,, ,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Sheera.jpg
+Dahi Misal,ProductType,8,"Inventory,Food,Restaurant,Maharashtrian Breakfast,Vegeterain,",35,,https://drive.google.com/file/d/1EVOvE6Fgp8fCcDYYUT9HDoZ2t_E44iCR/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/DahiMisal.jpg
+Upma,ProductType,9,"Inventory,Food,Restaurant,Maharashtrian Breakfast,Vegeterain,",20,,https://drive.google.com/file/d/13GQTe4OiqscBJk7ZffGulypnLQLHUbGI/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Upma.jpg
+Bhaji Misal,ProductType,10,"Inventory,Food,Restaurant,Maharashtrian Breakfast,Vegeterain,",35,, ,
+Papad,ProductType,11,"Inventory,Food,Restaurant,Maharashtrian Breakfast,Vegeterain,",15,,https://drive.google.com/file/d/16hT2z2acPZOT8kC3lLy6aGyloDfdTzJO/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Papad.jpg
+Masala Papad,ProductType,12,"Inventory,Food,Restaurant,Maharashtrian Breakfast,Vegeterain,",20,,https://drive.google.com/file/d/1ypAnHqCtC52zDbEKyPOq7b5i9Uwj2c_r/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/MasalaPapad.jpg
+Dahi Wati,ProductType,13,"Inventory,Food,Restaurant,Maharashtrian Breakfast,Vegeterain,",15,,https://drive.google.com/file/d/1XKB5-vJScr6ytIBqV44tfvNzz5vAyX9H/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/DahiWati.jpg
+Dosa,ProductType,14,"Inventory,Food,Restaurant,Maharashtrian Breakfast,Vegeterain,",40,,https://drive.google.com/file/d/1S27_SamV5I_MnNM6yoDxAQT_kPAyDE-1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Dosa.jpg
+South Indian Breakfast,ProductClass,1,"Inventory,Food,Restaurant,",,,https://drive.google.com/file/d/1hdUcV6tcWyjAYkqZH3mT8rgtupCqQr7g/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food122021/SouthIndianBreakfast.jpg
+Vegeterain,ProductLine,2,"Inventory,Food,Restaurant,South Indian Breakfast,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+Vegeterain,ProductLine,2,"Inventory,Food,Restaurant,South Indian Breakfast,",,,,
+Dosa,ProductType,3,"Inventory,Food,Restaurant,South Indian Breakfast,Vegeterain,",40,,https://drive.google.com/file/d/1S27_SamV5I_MnNM6yoDxAQT_kPAyDE-1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Dosa.jpg
+Masala Dosa,ProductType,4,"Inventory,Food,Restaurant,South Indian Breakfast,Vegeterain,",50,,https://drive.google.com/file/d/1_-oVk3t6Cho2sazbziKyWFSIPhSBbfKQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MasalaDosa.jpg
+Cut Dosa,ProductType,5,"Inventory,Food,Restaurant,South Indian Breakfast,Vegeterain,",50,,https://drive.google.com/file/d/1l8pElnwn_LfSa3XWFCL_UOqoF0kED8Eb/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/CutDosa.jpg
+Chutney Dosa,ProductType,6,"Inventory,Food,Restaurant,South Indian Breakfast,Vegeterain,",50,, ,
+Upma Dosa,ProductType,7,"Inventory,Food,Restaurant,South Indian Breakfast,Vegeterain,",50,,https://drive.google.com/file/d/1MRrGTNua_YSCErmB7n0xObPrERptQFLG/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Upma-Dosa.jpg
+Butter Dosa,ProductType,8,"Inventory,Food,Restaurant,South Indian Breakfast,Vegeterain,",50,,https://drive.google.com/file/d/1FS7UDjRVGEOjLCoaFIdxiydPupGI1KLQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ButterDosa.jpg
+Sat Dosa,ProductType,9,"Inventory,Food,Restaurant,South Indian Breakfast,Vegeterain,",50,, ,
+Special Cheese Dosa,ProductType,10,"Inventory,Food,Restaurant,South Indian Breakfast,Vegeterain,",80,,https://drive.google.com/file/d/1FdZi_kcrOsruRfC0dFX8eto76yANJVnc/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Special-Cheese-Dosa.jpg
+Extra Cheese Dosa,ProductType,11,"Inventory,Food,Restaurant,South Indian Breakfast,Vegeterain,",100,,https://drive.google.com/file/d/1yGoddhDh-Y3Y248AulRzh16mkfjsHC9t/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ExtraCheeseDosa.jpg
+Special Paneer Dosa,ProductType,12,"Inventory,Food,Restaurant,South Indian Breakfast,Vegeterain,",70,,https://drive.google.com/file/d/120dEHs0uN6Qi-eyilmZNFQ3UZWW0bqd4/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Special-Paneer-Dosa.jpg
+Uttappa,ProductType,13,"Inventory,Food,Restaurant,South Indian Breakfast,Vegeterain,",40,,https://drive.google.com/file/d/1H3XHRTGbrp7HeMDFD8nZJh2zTcLCp_1W/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Uttappa.jpg
+Butter Uttappa,ProductType,14,"Inventory,Food,Restaurant,South Indian Breakfast,Vegeterain,",50,,https://drive.google.com/file/d/1opU95MvdI32j1T_hwuraKypTgFGY64_p/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ButterUttappa.png
+Masala Uttappa,ProductType,15,"Inventory,Food,Restaurant,South Indian Breakfast,Vegeterain,",50,,https://drive.google.com/file/d/1r_dBCJd91WOfpHDhO8CajbjLp7xEfFEl/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MasalaUttappa.jpg
+Special Cheese Uttappa,ProductType,16,"Inventory,Food,Restaurant,South Indian Breakfast,Vegeterain,",80,,https://drive.google.com/file/d/1J3ttcy_ERSEIZEPQb2a2XQQaqK0u_TOF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Special-Cheese-Uttappa.jpg
+Vada Sambhar,ProductType,17,"Inventory,Food,Restaurant,South Indian Breakfast,Vegeterain,",35,,https://drive.google.com/file/d/1d1kqi3td-U1gYyPlufdbEAtxYNBWYped/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VadaSambhar.jpg
+Vada Chutney,ProductType,18,"Inventory,Food,Restaurant,South Indian Breakfast,Vegeterain,",45,,https://drive.google.com/file/d/18A1ASeFpn4yAKHWx4vks43qNXNPNt0DT/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vada-Chutney.jpg
+Idli Sambhar,ProductType,19,"Inventory,Food,Restaurant,South Indian Breakfast,Vegeterain,",25,,https://drive.google.com/file/d/1x_0cTWlWQvJ87Lc-ut0NOo1ZzQT3Fk-d/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/IdliSambhar.jpg
+Idli Chutney,ProductType,20,"Inventory,Food,Restaurant,South Indian Breakfast,Vegeterain,",30,,https://drive.google.com/file/d/1qcw2PR8m9PhBjKRd8TLmxCZOccdxuQNQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/IdliChutney.jpg
+Idli Vada Mix,ProductType,21,"Inventory,Food,Restaurant,South Indian Breakfast,Vegeterain,",35,,https://drive.google.com/file/d/1DoXmdXFHnAD3HbD41QtrDjWXcZK24ljX/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/IdliVadaMix.jpg
+Dahi Vada,ProductType,22,"Inventory,Food,Restaurant,South Indian Breakfast,Vegeterain,",35,,https://drive.google.com/file/d/1-BwtRPHlb0C4bpqSXJrWa4FUJYm4O70Q/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Dahivada.jpg
+Sweets,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/sweet.jpg
+Vegeterain,ProductLine,2,"Inventory,Food,Restaurant,Sweets,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterain,ProductLine,2,"Inventory,Food,Restaurant,Sweets,",,,,
+Balushahi,ProductType,3,"Inventory,Food,Restaurant,Sweets,Vegeterain,",15,,https://drive.google.com/file/d/16Xhod-IyPN92UduSWaUfoMgX6wMu2TeJ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Balushahi.jpg
+Gulab Jamun,ProductType,4,"Inventory,Food,Restaurant,Sweets,Vegeterain,",20,,https://drive.google.com/file/d/1TbtnkGTLMpu0NDPKRVb7_KyhTDD652nr/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/GulabJamun.jpg
+Basundi,ProductType,5,"Inventory,Food,Restaurant,Sweets,Vegeterain,",35,,https://drive.google.com/file/d/1V28jcGpS-2v6W2Ip_XRtcU2pKcCzFnWz/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Basundi.jpg
+Beverages,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Beverages.jpg
+Vegeterain,ProductLine,2,"Inventory,Food,Restaurant,Beverages,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterain,ProductLine,2,"Inventory,Food,Restaurant,Beverages,",,,,
+Tea,ProductType,3,"Inventory,Food,Restaurant,Beverages,Vegeterain,",10,,https://drive.google.com/file/d/1fd2gFK13kA_Nc4iEqwyT__x9hmcV5BvG/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Tea.jpg
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+1,,,,,,,

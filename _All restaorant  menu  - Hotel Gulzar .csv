@@ -1,0 +1,20 @@
+label,nodeType,order,path,price,description,link,imageLink
+Rice,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Rice.jpg
+Vegetarian ,ProductLine,2,"Inventory,Food,Restaurant,Rice,",,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Rice,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg
+Chicken Biryani,ProductType,4,"Inventory,Food,Restaurant,Rice,NonVegeterian,",,,https://drive.google.com/file/d/1t_vJcJvBj1doCQPhohH0pwo72xfAG-wI/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenBiryani.jpg
+Mutton Biryani,ProductType,5,"Inventory,Food,Restaurant,Rice,NonVegeterian,",,,https://drive.google.com/file/d/1LoNGcmv8OAlfx8Ryh7Fqaz3YxRdO0wAS/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MuttonBiryani.jpg
+Starters,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Starters.jpg
+Vegetarian ,ProductLine,2,"Inventory,Food,Restaurant,Starters,",,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Starters,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg
+Chicken Masala,ProductType,4,"Inventory,Food,Restaurant,Starters,NonVegeterian,",,,https://drive.google.com/file/d/16eM27vE_lLNM8GKZT5a35PjfaUi0laY9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenMasala.jpg
+Chicken 65,ProductType,5,"Inventory,Food,Restaurant,Starters,NonVegeterian,",,,https://drive.google.com/file/d/1KiB00yMYljrQJTd8pi_-yERqqS-9omgS/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Chicken65.jpg
+Only Dum Murga,ProductType,6,"Inventory,Food,Restaurant,Starters,NonVegeterian,",,,https://drive.google.com/file/d/1OKt8uRiq7FAO78o5cVtEDlY3MTujnZsp/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/dummurga.jpg
+Mutton Masala,ProductType,7,"Inventory,Food,Restaurant,Starters,NonVegeterian,",,,https://drive.google.com/file/d/1-4YOHkbknBQIIukm4yZwJM6f8unGYrqS/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/NonVegeterian/MuttonMasala.jpg
+Anda Curry,ProductType,8,"Inventory,Food,Restaurant,Starters,NonVegeterian,",,,https://drive.google.com/file/d/1BCryV9DFuzGTHFf0DaHehExwimD3aw2Z/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/AndaCurry.jpg
+Fish Fry,ProductType,9,"Inventory,Food,Restaurant,Starters,NonVegeterian,",,,https://drive.google.com/file/d/1PpL_a6K_-PvE4WO7M0QLOPLORYanqmK0/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/NonVegeterian/FishFry.jpg
+Boiled Egg,ProductType,10,"Inventory,Food,Restaurant,Starters,NonVegeterian,",,,https://drive.google.com/file/d/1I1fvjXIdn4TF_zzPff_NW7gxDvjVSW-o/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/BoiledEgg.jpg
+Roti and Naan,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Roti.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Roti and Naan,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+Non Vegetarian ,ProductLine,3,"Inventory,Food,Restaurant,Roti and Naan,",,,,
+Chapati,ProductType,4,"Inventory,Food,Restaurant,Roti and Naan,Vegeterian,",,,https://drive.google.com/file/d/1BCZG8M0F-__45K4lUhTp357cF_FXpX8k/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Chapati.jpg

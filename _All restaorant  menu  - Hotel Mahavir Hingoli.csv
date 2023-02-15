@@ -1,0 +1,342 @@
+label,nodeType,order,path,price,description,ingredients,link,imageLink
+Soups,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Soup.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Soups,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,,"Inventory,Food,Restaurant,Soups,",,,,,
+Veg Manchow Soup,ProductType,3,"Inventory,Food,Restaurant,Soups,Vegeterian,",60,,"  Oil,  Garlic,  Ginger,,  Green Chilies,  Mixed Vegetable,  Vegetable Stockwater,  green Chili Sauce,  Soy sauce,  Vinegar,Salt to taste,  black Pepper Powder,  Corn Flour, (Mix with   water),Fried noodles.",https://drive.google.com/file/d/1ZHfj80mG4nonkD938YcNcqpsbo76_3Bh/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/vegManchowSoup.jpg
+Tomato Soup,ProductType,4,"Inventory,Food,Restaurant,Soups,Vegeterian,",60,,"  chopped fresh tomatoes, slice onion, cloves garlic,  chicken broth,  butter,  allpurpose flour,  salt,  white sugar, or to taste.",https://drive.google.com/file/d/1qhWW38vtbUr23w3F0uYayqtGNJhxmiYf/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Tomato-Soup.jpg
+Hot & Sour Soup,ProductType,5,"Inventory,Food,Restaurant,Soups,Vegeterian,",60,,"Oil,  finely chopped Onion,  finely chopped Ginger,  finely chopped Garlic,  finely chopped Cabbage,  finely chopped Green French Beans,  finely chopped Carrot,  finely chopped Carrot,  finely chopped Capsicum ,    Vegetable Stock or Water, sCornflour ,  Soy Sauce,  Chilli Sauce,  Black Pepper Powder,Salt to taste.",https://drive.google.com/file/d/1teNyAur_VckwNp4ujk5k5x5svxiTBSGq/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/HotSourSoup.jpg
+Singapuri Soup,ProductType,6,"Inventory,Food,Restaurant,Soups,Vegeterian,",60,,,https://drive.google.com/file/d/1vY1XPLrdkwnLrEBq3QiHHZFDz4eNC0P_/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/SingapuriSoup.jpg
+Noodles Soup,ProductType,7,"Inventory,Food,Restaurant,Soups,Vegeterian,",60,,"  noodles,  chilli oil, onion, chopped, garlic cloves, finely chopped, ginger, green chilli,  curry powder,  curry paste, jar vegetable stock,  lime juice,  coconut milk,  soya sauce,  chicken strips, lemons,Coriander leaves,Salt and pepper.",https://drive.google.com/file/d/1MTOXbQIRsTKicDIajKuuBdQQdeQ4ijPs/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/NoodlesSoup.jpg
+Mushroom Soup,ProductType,8,"Inventory,Food,Restaurant,Soups,Vegeterian,",70,,"  unsalted butter, garlic cloves, shallot, ounces crimini mushrooms,, ounces white button mushrooms,  allpurpose flour,  chicken stock,  fine sea salt, or to taste,  ground black pepper, or to taste,",https://drive.google.com/file/d/1IJRfO1JqfR7_7ZNQPd9ykGx1I3G6__4i/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MushroomSoup.jpg
+Mix Soup,ProductType,9,"Inventory,Food,Restaurant,Soups,Vegeterian,",70,,,https://drive.google.com/file/d/1NZ4dNb6iBUPobxVMGuOoTS9GuaKDSXj9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MixSoup.jpg
+Breakfast,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Breakfast.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Breakfast,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Breakfast,",,,,,
+Spl Pavbhaji,ProductType,4,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",50,,"  Cauliflower,  Carrot,  French Beans, Capsicum,  Potatoes,  Oil,   Onion,  Ginger Garlic paste,  Tomatoes,  Turmeric,  Red Chili Powder,   Pav Bhaji masala,Salt to taste,  Butter, Ladi Pavs,  Butter.",https://drive.google.com/file/d/11hETRXI8dsTC3HF50CDK1H3W4-SCOjg9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/SplPavBhaji.jpg
+Butter Pavbhaji,ProductType,5,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",70,,"  Cauliflower,  Carrot,  French Beans, Capsicum,  Potatoes,  Oil,   Onion,  Ginger Garlic paste,  Tomatoes,  Turmeric,  Red Chili Powder,   Pav Bhaji masala,Salt to taste,  Butter, Ladi Pavs,  Butter.",https://drive.google.com/file/d/1ArO3Cpc9vRqLZf3xrNT4GWHAXqWY7wy9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/ButterPavBhaji.jpg
+Jain Pavbhaji,ProductType,6,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",80,," Raw Banana, Tomatoes,  Cauliflower Florets,.  Green Peas,. Capsicum,  Oil,  Pav Bhaji Masala,.  Turmeric Powder,  Red Chilli Powder,Handful of Coriander leaves,Salt to taste,Water as required,Butter to serve .",https://drive.google.com/file/d/14N3_Xp4ZWjOwQukokmRZ_IOw27WwG0xL/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/10222/JainPavBhaji.jpg
+Paneer Pavbhaji,ProductType,7,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",70,,"  Paneer, potato, carrot,  Frozen peas, Beetroot, Capsicum, Tomato, onion,  Ginger garlic paste, tblsp Butter,  oil,  Pav bhaji masala,Salt as needed,  Cumin seeds,Coriander leaves to garnish.",https://drive.google.com/file/d/1wLsBXei6KpvGBwZAedJP5kX7tTMl4XIM/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerPavBhaji.jpg
+Dryfruit Pavbhaji,ProductType,8,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",90,,"  Cauliflower,  Carrot,  French Beans, Capsicum,  Potatoes,  Oil,   Onion,  Ginger Garlic paste,  Tomatoes,  Turmeric,  Red Chili Powder,   Pav Bhaji masala,Salt to taste,  Butter, Ladi Pavs,  Butter,Dryfruits.",https://drive.google.com/file/d/1WY_gV3J9fZEJIs9-Ut3IUaHWfb9E0_YD/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/DryfruitPavbhaji.jpg
+Cheese Pavbhaji,ProductType,9,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",90,,"  Cauliflower,  Carrot,  French Beans, Capsicum,  Potatoes,  Oil,   Onion,  Ginger Garlic paste,  Tomatoes,  Turmeric,  Red Chili Powder,   Pav Bhaji masala,Salt to taste,  Butter, Ladi Pavs,  Butter,Cheese.",https://drive.google.com/file/d/1PqEcuK6Wv1P9GmI2lsuX2caCz8_c2eux/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/CheesePavBhaji.jpg
+Extra Pav,ProductType,10,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",15,,,https://drive.google.com/file/d/1zYqEN7zZK3kGGbNA9YdfHQqIKF7dB0-k/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ExtraPav.jpg
+Rice,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Rice.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Rice,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Rice,",,,,,
+Fried Rice,ProductType,4,"Inventory,Food,Restaurant,Rice,Vegeterian,",70,,""" ​ veg oil,  onion diced, carrot,  cut zucchini,Fresh green peas from  pods, Green chillies,  tomato,  black pepper,  salt,  oregano,  chilli flakes""",https://drive.google.com/file/d/1DIwrqLBQA06tZTNutwX-gYSolgANQhBp/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/FriedRice.jpg
+Schezwan Rice,ProductType,5,"Inventory,Food,Restaurant,Rice,Vegeterian,",70,,"  cooked Plain Rice, Mixed Vegetables (french beans, carrot, capsicum, cabbage, celery), cloves of Garlic, finely chopped (approx.  ),  Schezwan Sauce,Salt to taste,etc",https://drive.google.com/file/d/1GKO3YVjZ7d_a-_WJkiE7mWyZFQFK7k-u/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Schezwan-Rice.jpg
+Singapuri Rice,ProductType,6,"Inventory,Food,Restaurant,Rice,Vegeterian,",70,,"   long grain rice,   garlic chopped,   leek or spring onions,   bell peppers (red, green and yellow),   peri peri sauce,   chilli garlic sauce,   light soya sauce,etc",https://drive.google.com/file/d/15uJPTxX70D9dvD31hFNjgNhgOfpKk-BE/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food122021/SingapuriRice.jpg
+HongKong Rice,ProductType,7,"Inventory,Food,Restaurant,Rice,Vegeterian,",70,,"  cooked rice,  french beans chopped,  carrot chopped,  capsicum chopped, onion chopped,  soy sauce,  red chilli sauce,  peppercorn crushed,  cooking oil,salt to taste,etc",https://drive.google.com/file/d/114um__VgOZglIrXc3Okch9kIktz3egnt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/HongKongRice.jpg
+Manchurian Rice,ProductType,8,"Inventory,Food,Restaurant,Rice,Vegeterian,",90,,"  rice washed and soaked,  vinegar,  cornflour,  maida,  chopped green onion,For Manchurian....   grated or finely chopped veggies (carrot, capsicum, cabbage, green onion),  red chilli sauce,  chopped green onion,  soya sauce, black pepper, chopped carrot, onion chopped,",https://drive.google.com/file/d/1Ch4wLqTOpUXAlrKTThDvGYmRd1iScQGs/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ManchurianRice.jpg
+Kashmiri Pulav,ProductType,9,"Inventory,Food,Restaurant,Rice,Vegeterian,",100,,"  basmati rice,  cumin seeds, cloves, stick cinnamon, cardamom, bay leaf,  milk,  fresh creambeaten,  sugar,Salt to taste,  ghee,  dried fruits, edible rose petals.",https://drive.google.com/file/d/1WS70TmGf55XCNXOHfWjWGGCbVLxicy6b/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/KashmiriPulav.jpg
+Paneer Rice,ProductType,10,"Inventory,Food,Restaurant,Rice,Vegeterian,",100,,"  Basmati Rice ,  Paneer, cubed, large Onion,  grated Ginger,  crushed Garlic, Green Chilli, finely chopped,  Green Peas,inch piece of Cinnamon, Cloves,  piece of Bay Leaf,  Lemon Juice,  Water,  or to taste Salt,     Oil,  Ghee,  Coriander Leaves.",https://drive.google.com/file/d/1qalwVk9KrX2QFZ98LDBcBc1_bBj70eUp/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/PaneerRice.jpg
+Paneer Pulav,ProductType,11,"Inventory,Food,Restaurant,Rice,Vegeterian,",100,,"  Basmati Rice,  Paneer, large Onion,  grated Ginger,  crushed Garlic, Green Chilli, finely chopped,  Green Peas,inch piece of Cinnamon, Cloves,  piece of Bay Leaf,  Lemon Juice,  Water,  or to taste Salt,     Oil,  Ghee,  Coriander Leaves.",https://drive.google.com/file/d/177oVJEjOHWvKtQ8TAV3cU-UbI53mhWE/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerPulav.jpg
+Cocktail Rice,ProductType,12,"Inventory,Food,Restaurant,Rice,Vegeterian,",100,,"rice    ,water  ,salt as required,red chili powder    ,coriander powder    ,cumin powder     ,garam masala powder    ,red kidney beans boiled    ,peas    ,potato cut in  pieces    ,onion cut in slices   ,tomato chopped  ,carrot cut in  cubes   ,chicken mince    ,lemon juice   ,ginger garlic paste    ,vegetable oilbutter     .",https://drive.google.com/file/d/1-W4wLFWuq3DiZndsM-VNjy6Qq-SnS7AU/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/CocktailRice.jpg
+Veg Triple Schezwan Rice,ProductType,13,"Inventory,Food,Restaurant,Rice,Vegeterian,",100,,,https://drive.google.com/file/d/1BtO36UWsujXqUZapyRmp6o_Fn8mK9lcF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/VegTripleSchezwanRice.jpg
+Paneer Triple Schezwan Rice,ProductType,14,"Inventory,Food,Restaurant,Rice,Vegeterian,",110,,,https://drive.google.com/file/d/1w2PP2qMYbj350jNcKKc958M7Rw0YoaBa/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/PaneerTripleSchezwanRice.jpg
+Veg Tawa Pulav,ProductType,15,"Inventory,Food,Restaurant,Rice,Vegeterian,",110,,"  basmati rice,  of water , to  drops of oil,salt as required, large tomatoes ,  onion,  red chili powder,  turmeric powder,  cumin seeds,  Butter  to  carrot,  potato,  green peas,  lemon juice ,salt as required.",https://drive.google.com/file/d/1giMLuZ7qVNsZGequ1m-e7t0PrnxoyB1D/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/VegTawaPulav.jpg
+Mushroom Rice,ProductType,16,"Inventory,Food,Restaurant,Rice,Vegeterian,",110,,,https://drive.google.com/file/d/1KF_QbR0UUrS_QKV54PLFKv_TxEi12wa5/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MushroomRice.jpg
+Spl Rice,ProductType,17,"Inventory,Food,Restaurant,Rice,Vegeterian,",110,,,,
+Veg Pulav,ProductType,18,"Inventory,Food,Restaurant,Rice,Vegeterian,",70,,"""  Cabbage,  onions,  of capcicum,  of soya chunks,  carrots, spoon of garam masala, spoon of ginger garlic paste, spoon of jeera seeds, spoons ofsalt, spoon of ghee,  of oil,  of peas""",https://drive.google.com/file/d/1JVN_maOr1Clvt-SlU51QylwBcZng4liR/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegPulav.jpg
+Noodles,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/Noodles.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Noodles,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Noodles,",,,,,
+Veg Hakka Noodles,ProductType,4,"Inventory,Food,Restaurant,Noodles,Vegeterian,",70,,"""  oil,   onion chopped,  crushed garlic and green chillies, carrot, s beans,   capsicum,  chilli sauce,  soya sauce,  Schezwan sauce,  mixed herbs""",https://drive.google.com/file/d/1Q90LHM1ZJtlXVlbMoWnysu0n9Ip0TJG0/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Hakka-Noodles.jpg
+Veg Schezwan Hakka Noodles,ProductType,5,"Inventory,Food,Restaurant,Noodles,Vegeterian,",70,,"  noodles,  olive oil, clove garlic (finely chopped),  spring onion (chopped), carrot (chopped),  cabbage (shredded), capsicum (chopped),  schezwan sauce,  salt,etc",https://drive.google.com/file/d/1yUdA8Ox7wByuwSQ6Pm-GnmVdfP7Rj9iy/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220217/VegSchezwanHakkaNoodles.jpg
+Veg Hongkong Noodles,ProductType,6,"Inventory,Food,Restaurant,Noodles,Vegeterian,",70,,"  cooked Noodles,  french beans chopped,  carrot chopped,  capsicum chopped, onion chopped,  soy sauce,  red chilli sauce,  peppercorn crushed,  cooking oil,salt to taste,etc",https://drive.google.com/file/d/178Eehi56D9hj6T2f1F3pUCLdoUq99Gyx/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegHongkongNoodles.jpg
+Veg Singapuri Noodles,ProductType,7,"Inventory,Food,Restaurant,Noodles,Vegeterian,",70,,"  Noodle,   garlic chopped,   leek or spring onions,   bell peppers (red, green and yellow),   peri peri sauce,   chilli garlic sauce,   light soya sauce,etc",https://drive.google.com/file/d/1dXiPWFtx4V8HdI5vKLIWqKSIzm2tmsmR/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegSingapuriNoodles.jpg
+Manchurian Noodles,ProductType,8,"Inventory,Food,Restaurant,Noodles,Vegeterian,",90,,,https://drive.google.com/file/d/19N-JQkUrPKu0oRyP7RY2aOh0gUT7yL3K/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ManchurianNoodles.jpg
+Triple Noodles,ProductType,9,"Inventory,Food,Restaurant,Noodles,Vegeterian,",100,,,https://drive.google.com/file/d/1gclBtJ5-c0ghqzq6E5TMixwDFnZPZEWx/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Triple-Noodles.jpg
+Cocktail Noodles,ProductType,10,"Inventory,Food,Restaurant,Noodles,Vegeterian,",100,,,https://drive.google.com/file/d/1zARrYWTUH6PVfcWzTjpoUYHht8kJV775/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/CocktailNoodles.jpg
+Mushroom Noodles,ProductType,11,"Inventory,Food,Restaurant,Noodles,Vegeterian,",110,," Noodles,  Mushrooms,  Chopped Garlic,  Chopped ginger,  Chopped green chilies,  Black pepper or white pepper,  Chopped spring onions, to .  Oil,  Soya Sauce,  Rice vinegar or regular vinegar,Spring onion greens for garnish,salt as required.",https://drive.google.com/file/d/1LpIuh6Qae06blbHRIf-nqM0OwPDvM-CP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MushroomNoodles.jpg
+Spl Noodles,ProductType,12,"Inventory,Food,Restaurant,Noodles,Vegeterian,",110,,,https://drive.google.com/file/d/1Li920_QTgqEZGUZ3QbWfaFkR7H8TZ9Le/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/SplNoodles.jpg
+Paneer Noodles,ProductType,13,"Inventory,Food,Restaurant,Noodles,Vegeterian,",110,,"Noodles  ,Onions   chopped,Spring onions,Corrot  ,Chilly sauce  tbs,Roasted cashewnuts,Pepper powder  tbs,Chopped French Beans  ,Cabbage   chopped,Garlic   chopped,Green chilies  chopped,Paneer (cottage cheese) .",https://drive.google.com/file/d/1k8Tjx8FJsxTvB9M1zcPv26BF_CCbGkdX/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerNoodles.jpg
+Paneer Triple Schezwan Noodles,ProductType,14,"Inventory,Food,Restaurant,Noodles,Vegeterian,",110,,,https://drive.google.com/file/d/1JRA-syG5-8Ap559VP3oVtrd2fuD3ldX-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/PaneerTripleSchezwanNoodles.jpg
+Juices,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/OrengeJuice.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Juices,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Juices,",,,,,
+Pineapple Juice,ProductType,4,"Inventory,Food,Restaurant,Juices,Vegeterian,",40,," Ripe Pineapple ,  Sugar or to taste , Ice cubes.",https://drive.google.com/file/d/1ZEbR-NEdaJrVFOlCKFWiOWfhZr80EI-t/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Pineapple-juice.jpg
+Mango Juice,ProductType,5,"Inventory,Food,Restaurant,Juices,Vegeterian,",50,," Ripe  Mango ,  Sugar or to taste , Ice cubes.",https://drive.google.com/file/d/1Z2ndzc3lm0bwIqXvHXUUWbBmlXq4if_k/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Mangojuice.png
+Chikoo Juice,ProductType,6,"Inventory,Food,Restaurant,Juices,Vegeterian,",50,," Ripe  Chikoo ,  Sugar or to taste , Ice cubes.",https://drive.google.com/file/d/1v4flN05eFpLh4aEkTDhqp1EnU-UaQHAg/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/ChikooJuice.jpg
+Apple Juice,ProductType,7,"Inventory,Food,Restaurant,Juices,Vegeterian,",50,," Apple, Chikoo ,  Sugar or to taste , Ice cubes.",https://drive.google.com/file/d/1SSByeYHJ7OOY4sbQnftcyiadxrpfgoo5/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/AppleJuice.jpg
+Mix Juice,ProductType,8,"Inventory,Food,Restaurant,Juices,Vegeterian,",50,,,https://drive.google.com/file/d/1L5IHjoQIkIx3300TL2BHvtOKnAh1pbNb/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MixJuice.jpg
+Papai Juice,ProductType,9,"Inventory,Food,Restaurant,Juices,Vegeterian,",50,,"   Papaya ,  Sugar or to taste , Ice cubes.",https://drive.google.com/file/d/1R1VHe6eOEHuiTBAt47s6LKO7t0LYi7oI/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/PapaiJuice.jpg
+Tarbuj Juice,ProductType,10,"Inventory,Food,Restaurant,Juices,Vegeterian,",50,,,https://drive.google.com/file/d/1NVvb8rOY_eBr09G8QDGiy9AoAtlwBLrJ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/TarbujJuice.jpg
+Orange Juice,ProductType,11,"Inventory,Food,Restaurant,Juices,Vegeterian,",50,,,https://drive.google.com/file/d/1j80vvKuqCQogkjKBmGOBZMFTfVIxYuJM/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/OrengeJuice.jpg
+Beverages,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Beverages.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Beverages,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Beverages,",,,,,
+Lassi,ProductType,4,"Inventory,Food,Restaurant,Beverages,Vegeterian,",40,,,https://drive.google.com/file/d/1z2BJrtvZR9kkdK-COuqLNCQlIbTJNxnX/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Lassi.jpg
+Ice Cream Lassi,ProductType,5,"Inventory,Food,Restaurant,Beverages,Vegeterian,",60,,,https://drive.google.com/file/d/1lOLExyPwUwBjI2bjl2c128u3p9l0pE1S/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/IceCreamLassi.jpg
+Dry Fruit Lassi,ProductType,6,"Inventory,Food,Restaurant,Beverages,Vegeterian,",70,,"  Thick CurdPlain Yogurt, Almonds, Pistachios, Whole Cashews, Dried Figs,  Sugar, Green Cardamom,Large Pinch SaffronKesar,Slivered Almonds & Pistachios as needed.",https://drive.google.com/file/d/1nDqopy0K6rm8RMo-39vvkRm5ypzxctit/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/DryFruitLassi.jpg
+Mango Lassi,ProductType,7,"Inventory,Food,Restaurant,Beverages,Vegeterian,",70,,"  diced fresh mango,  plain nonfat yogurt,  milk,  white sugar,Dash of cinnamon,Dash of cinnamon.",https://drive.google.com/file/d/1RkvHqFFspNgXQ54LhM0OPgafaOn-kCox/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/MangoLassi.jpg
+Kesar Lassi,ProductType,8,"Inventory,Food,Restaurant,Beverages,Vegeterian,",70,,"  Curd (Dahi  Yogurt) , pinch Saffron strands, Cardamom (Elaichi),  Whole Almonds,  Pistachios ,,slivered for garnish.",https://drive.google.com/file/d/1rGND5pvO8aliTzgOjvEkfulBGp-q2FBu/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream2/Juice/KesarLassi.jpg
+Pista Lassi,ProductType,9,"Inventory,Food,Restaurant,Beverages,Vegeterian,",70,,"  Yogurt,  Milk,  Pistachios, units Cardamom Pods, to   Sugar.",https://drive.google.com/file/d/1urXzxxcdRQc4ghyXeSFTRIUoeEHeXjrq/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream2/Juice/PistaLassi.jpg
+Chocolate Lassi,ProductType,10,"Inventory,Food,Restaurant,Beverages,Vegeterian,",70,,"  yoghurt (curd),  dark chocolate, almonds,  Water.",https://drive.google.com/file/d/1AQr0G0PuS7xAuWgnDOoUFKaoE2R_qBKR/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/ChocolateLassi.jpg
+Strawberry Lassi,ProductType,11,"Inventory,Food,Restaurant,Beverages,Vegeterian,",70,,"  fresh strawberry puree,  sugar or to taste, yogurt,  milk, pinch of cardamom powder,  rose wate.",https://drive.google.com/file/d/1veW0_lfq_o_ZtVKObNJ6pSalXiKyQceJ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/StrawberryLassi.jpg
+Mahavir Spl Ice Cream,ProductType,12,"Inventory,Food,Restaurant,Beverages,Vegeterian,",50,,,,
+Rajbhog Ice Cream,ProductType,13,"Inventory,Food,Restaurant,Beverages,Vegeterian,",30,,,https://drive.google.com/file/d/16TKUTa-0iT_EGQNQp1ZWhfAwJzlvn8NW/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/imgs-2/RajbhogIceCream.jpg
+American Dry Fruits Ice Cream,ProductType,14,"Inventory,Food,Restaurant,Beverages,Vegeterian,",30,,,https://drive.google.com/file/d/1Ewo-rjyfuS8U_Iv2w3z_Y3XSfU5G0z8r/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/AmericanDryFruitsIceCream.jpg
+Paan Masala Ice Cream,ProductType,15,"Inventory,Food,Restaurant,Beverages,Vegeterian,",30,,,https://drive.google.com/file/d/15yq0xH10KPX66JQRAXE21UKT6NJzGE3c/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/PaanMasalaIceCream.jpg
+Butter Scotch Ice Cream,ProductType,16,"Inventory,Food,Restaurant,Beverages,Vegeterian,",30,,,https://drive.google.com/file/d/1-a-q4go2bkH7WxUIstGJa2gEK6yx79bI/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ButterscotchIceCream.jpg
+Chocolate Lassi Ice Cream,ProductType,17,"Inventory,Food,Restaurant,Beverages,Vegeterian,",30,,,https://drive.google.com/file/d/1NmfO26ow88Uefr1er389x8HeZRhJu3rl/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/ChocolateLassiIceCream.jpg
+Mango Ice Cream,ProductType,18,"Inventory,Food,Restaurant,Beverages,Vegeterian,",30,,,https://drive.google.com/file/d/1uqPSpgSPzXUjCg8HRC_bT9Pu8KSeUOT5/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MangoIceCream.jpg
+Gulkand Ice Cream,ProductType,19,"Inventory,Food,Restaurant,Beverages,Vegeterian,",30,,,https://drive.google.com/file/d/1GLWHCPlw1ZrpEtYPrY5ZVxTAeIZpKbM3/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/GulkandIceCream.jpg
+Pista Ice Cream,ProductType,20,"Inventory,Food,Restaurant,Beverages,Vegeterian,",30,,,https://drive.google.com/file/d/1hggG4qN2JrwbnRwIwscLWhfMIIp6tzSb/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Pista-Ice-Cream.jpg
+Kaju Kismish Ice Cream,ProductType,21,"Inventory,Food,Restaurant,Beverages,Vegeterian,",30,,,https://drive.google.com/file/d/1NRPEFISlFCFqWMN-OPwBTvF6kpvY-yRE/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/KajuKismishIceCream.jpg
+Strawberry Ice Cream,ProductType,22,"Inventory,Food,Restaurant,Beverages,Vegeterian,",30,,,https://drive.google.com/file/d/1OjhtOcogtVerazjOYpKXg7y_kYaViLP8/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/StrawberryIceCream.jpg
+Vanila Ice Cream,ProductType,23,"Inventory,Food,Restaurant,Beverages,Vegeterian,",30,,,https://drive.google.com/file/d/1ft5XtMxkzEda406-fIO0XBrbAHsOXfle/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/VanilaIceCream.jpg
+Rangoli Spl Ice Cream,ProductType,24,"Inventory,Food,Restaurant,Beverages,Vegeterian,",110,,,,
+Sitafal Ice Cream,ProductType,25,"Inventory,Food,Restaurant,Beverages,Vegeterian,",30,,,https://drive.google.com/file/d/1LHiGgpbe8Sis9ZlKaXGJDV3zEHyZMypJ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/SitafalIceCream.jpg
+Family Pack 500gm,ProductType,26,"Inventory,Food,Restaurant,Beverages,Vegeterian,",130,,,https://drive.google.com/file/d/1DysEngZpW19_e7DEfIOFsk5li-BsFomu/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/FamilyPack500gm.jpg
+Family Pack1kg,ProductType,27,"Inventory,Food,Restaurant,Beverages,Vegeterian,",250,,,,
+Mava Kulfi,ProductType,28,"Inventory,Food,Restaurant,Beverages,Vegeterian,",15,,,https://drive.google.com/file/d/1MfRv81y07-hv4pRrhoIJ3WaMpBFq43-f/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/MavaKulfi.jpg
+Gulkand Kulfi,ProductType,29,"Inventory,Food,Restaurant,Beverages,Vegeterian,",15,,,https://drive.google.com/file/d/1kMKymYbSk0sw-gkSxtXmb9jcpH5KMij3/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/GulkandKulfi.jpg
+Pista Kulfi,ProductType,30,"Inventory,Food,Restaurant,Beverages,Vegeterian,",20,,,https://drive.google.com/file/d/1jXPZJ8WoXKeHc13KfXcojQZ6KQSp4bUK/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Pista-Kulfi.jpg
+Kesar Kulfi,ProductType,31,"Inventory,Food,Restaurant,Beverages,Vegeterian,",25,,,https://drive.google.com/file/d/1mpuch6F7y8NyR61bRspiN9Gzwgg9q6RK/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/KesarKulfi.jpg
+Mango Kulfi,ProductType,32,"Inventory,Food,Restaurant,Beverages,Vegeterian,",25,,,https://drive.google.com/file/d/1QdPtaDX8kB-mF71yUaf58vTqePFU3WHk/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/MangoKulfi.jpg
+Choco Bar,ProductType,33,"Inventory,Food,Restaurant,Beverages,Vegeterian,",25,,,https://drive.google.com/file/d/12P8LORS45RdoQQgcqmKVxstT3OjhxGrp/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/ChocoBar.jpg
+Choco Bar,ProductType,34,"Inventory,Food,Restaurant,Beverages,Vegeterian,",35,,,https://drive.google.com/file/d/12P8LORS45RdoQQgcqmKVxstT3OjhxGrp/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/ChocoBar.jpg
+Sitafal Rabadi,ProductType,35,"Inventory,Food,Restaurant,Beverages,Vegeterian,",80,,,https://drive.google.com/file/d/1EgqGDGngHzE6kz6E5cUqH6KEy3eGmHYJ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/SitafalRabadi.jpg
+Rabadi Shikangi,ProductType,36,"Inventory,Food,Restaurant,Beverages,Vegeterian,",90,,,,
+Mango Mastani,ProductType,37,"Inventory,Food,Restaurant,Beverages,Vegeterian,",70,," mango, scoops vanilla ice cream,  milk (chilled),nuts,tutti frutti,",https://drive.google.com/file/d/1x1W3-4w0CLGLlbwKYCXVTc1dCDP448KA/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MangoMastani.jpg
+Kesar Mastani,ProductType,38,"Inventory,Food,Restaurant,Beverages,Vegeterian,",70,,,https://drive.google.com/file/d/11Mf5xWDPzN6k02ccJesP_u45uaRF4b8e/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/KesarMastani.jpg
+Chocolate Mastani,ProductType,39,"Inventory,Food,Restaurant,Beverages,Vegeterian,",70,,,https://drive.google.com/file/d/1SofbABMDvQhAQN6Jr5mHXizE0C-mgjJb/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/ChocolateMastani.jpg
+Pineapple Mastani,ProductType,40,"Inventory,Food,Restaurant,Beverages,Vegeterian,",70,,,,
+Strawberry Mastani,ProductType,41,"Inventory,Food,Restaurant,Beverages,Vegeterian,",70,,,https://drive.google.com/file/d/1-VrZqVxwSpNRlhYrK4cz28hbVT-V4bK-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Strawberry-Mastani.jpg
+Pista Mastani,ProductType,42,"Inventory,Food,Restaurant,Beverages,Vegeterian,",70,,,https://drive.google.com/file/d/1ALwWxYVMMpRyCD7NXuOiLASyT_oQayrZ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Cafe/PistaMastani.jpg
+Mava Mastani,ProductType,43,"Inventory,Food,Restaurant,Beverages,Vegeterian,",70,,,https://drive.google.com/file/d/1MmaFekK7YLo_0s95967fePSODqj2ZlAt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/MavaMastani.jpg
+Rabadi Faluda,ProductType,44,"Inventory,Food,Restaurant,Beverages,Vegeterian,",90,,,https://drive.google.com/file/d/1r7zia5dMkXBF6DraulmesIQJrcDEC4EZ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/RabadiFaluda.jpg
+Sadha Faluda,ProductType,45,"Inventory,Food,Restaurant,Beverages,Vegeterian,",70,,,https://drive.google.com/file/d/1izK-0a2OCt4r_WOwSjWo4FZsa77-BCF-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/SadhaFaluda.jpg
+Mango Faluda,ProductType,46,"Inventory,Food,Restaurant,Beverages,Vegeterian,",70,,,https://drive.google.com/file/d/1ZatpdemvzxLUqFNdTaB2LqsnirpvZ9-p/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/MangoFaluda.jpg
+Pista Faluda,ProductType,47,"Inventory,Food,Restaurant,Beverages,Vegeterian,",70,,,https://drive.google.com/file/d/1I-D587nQ3Ld8ljD9NhkxkTqQLUGHDmRE/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/PistaFaluda.jpg
+Strawberry Faluda,ProductType,48,"Inventory,Food,Restaurant,Beverages,Vegeterian,",70,,,https://drive.google.com/file/d/1_Y8mTZPa4JSBb6S8Boac05jSc-hZX0_1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/StrawberryFaluda.jpg
+Chocolate Faluda,ProductType,49,"Inventory,Food,Restaurant,Beverages,Vegeterian,",70,,,https://drive.google.com/file/d/1bnVF-Sn_ggZR2vXHl2oEAnpT37NvbFVq/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/ChocolateFaluda.jpg
+Kesar Faluda,ProductType,50,"Inventory,Food,Restaurant,Beverages,Vegeterian,",70,,,https://drive.google.com/file/d/1tePUxsHXbzM9RqqXow90m-XDD5AHhybZ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/KesarFaluda.jpg
+Pineapple Faluda,ProductType,51,"Inventory,Food,Restaurant,Beverages,Vegeterian,",60,,,https://drive.google.com/file/d/17qGmNXkQX1tFWeUulCJgZGFbmNlnH23u/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/PineappleFaluda.jpg
+Cold Coffee With Ice Cream,ProductType,52,"Inventory,Food,Restaurant,Beverages,Vegeterian,",60,,,https://drive.google.com/file/d/1ixG-19xuTet6etiV_HGmXGeen2fqVazw/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ColdCoffeeWithIceCream.jpg
+Cold Coffee,ProductType,53,"Inventory,Food,Restaurant,Beverages,Vegeterian,",50,,"  instant coffee,  warm water, to   raw sugar or add as required,  whole milk cold or chilled, to  ice cubes or as needed optional.",https://drive.google.com/file/d/12q3woJzjR7FpBQfmLThIsX0ExUZ8wRPo/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ColdCoffee.jpg
+Shakes,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Shakes.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Shakes,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Shakes,",,,,,
+Badam Shake,ProductType,4,"Inventory,Food,Restaurant,Shakes,Vegeterian,",40,,"   milk, almonds,  low calorie sweetener,  green cardamom powder,   custard powder,A pinch of saffron,  fresh cream.",https://drive.google.com/file/d/1yuiFYnfX8zdFzNxbludbOv29szU4cvAh/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/BadamShake.jpg
+Anjeer Shake,ProductType,5,"Inventory,Food,Restaurant,Shakes,Vegeterian,",50,," Dried figs,  Milk,  scoops Ice cream.",https://drive.google.com/file/d/1vcwHowDMy32OxL-aDKL-b3__08lPI0uf/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Cafe/AnjeerShake.jpg
+Fruit Salad,ProductType,6,"Inventory,Food,Restaurant,Shakes,Vegeterian,",40,,,https://drive.google.com/file/d/1kYhYOMSfljm_u87hykH_87E_eg0zapEw/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/FruitSalad.jpg
+Mango Shake,ProductType,7,"Inventory,Food,Restaurant,Shakes,Vegeterian,",50,," ripe mangoes,    milk ,  sugar or maple syrup optional, handful ice ,",https://drive.google.com/file/d/1GuSXG_n0eiI0Wv_5z5lA4V93edCGPgOl/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MangoShake.jpg
+Chocolate Shake,ProductType,8,"Inventory,Food,Restaurant,Shakes,Vegeterian,",50,,,https://drive.google.com/file/d/1vd3hiiVRRj69WGpVL156_sxW22aFsHkp/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChocolateShake.jpg
+Pineapple Shake,ProductType,9,"Inventory,Food,Restaurant,Shakes,Vegeterian,",50,,"  milk,  pineapple cubes,  vanilla ice cream, slice pineapple, optional, garnish,  whipped cream, optional, garnish.",https://drive.google.com/file/d/1St8ZJbOVaVCb-AJtu0P_x9gDwI2adoKb/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/PineappleShake.jpg
+Strawberry Shake,ProductType,10,"Inventory,Food,Restaurant,Shakes,Vegeterian,",50,,"  strawberries,  milk, to   raw sugar, to  scoops strawberry ice cream.",https://drive.google.com/file/d/1Fdnyc6aGR4CFaJ03M1rjQ0pqahi_lzy3/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/StrawberryShake.jpg
+Oreo Shake,ProductType,11,"Inventory,Food,Restaurant,Shakes,Vegeterian,",60,," Oreo cookies,  vanilla ice cream,  sugar,  milk,  chocolate sauce.",https://drive.google.com/file/d/1e_eFRRnkBekms2_ce6lXpp43RDyRtZQu/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/OreoShake.jpg
+Snacks,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/img/Smiley.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Snacks,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Snacks,",,,,,
+Masala Dosa,ProductType,4,"Inventory,Food,Restaurant,Snacks,Vegeterian,",50,,"""  parboiled rice,  refined oil,  urad dal,  fenugreek seeds,  salt& For Filling  kilo boiled potato,   sliced onion,  chopped green chilli,  mustard seeds, leaves curry leaves,  turmeric,  watersalt as requiredetc.""",https://drive.google.com/file/d/1_-oVk3t6Cho2sazbziKyWFSIPhSBbfKQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MasalaDosa.jpg
+Sadha Dosa,ProductType,5,"Inventory,Food,Restaurant,Snacks,Vegeterian,",40,,"  soaked basmati rice,  grated coconut,  salt,  Water,  sunflower oil,  urad dal,",https://drive.google.com/file/d/10y740RZeqw7IuiPZyDliKr-BVHCg-QYI/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/10222/sadhadosa.jpg
+Butter Dosa,ProductType,6,"Inventory,Food,Restaurant,Snacks,Vegeterian,",80,,"  Paneer crumbled, Onion, Onion,  Garlic,  Turmeric,  Red chilli powder,  Garam masala powder, Green chilli,  Coriander leaves chopped,Salt As needed.",https://drive.google.com/file/d/1FS7UDjRVGEOjLCoaFIdxiydPupGI1KLQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ButterDosa.jpg
+Paneer Dosa,ProductType,7,"Inventory,Food,Restaurant,Snacks,Vegeterian,",80,,,https://drive.google.com/file/d/1OCz0j13QiBzrGoWeA25GNhpPgvJZ94Kv/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerDosa.jpg
+Uttapam,ProductType,8,"Inventory,Food,Restaurant,Snacks,Vegeterian,",60,,"Dosa batter  ,Onions  ,Tomatoes  ,Green Chili  ,Salt to taste,Chaat masala  .",https://drive.google.com/file/d/1oVRdOvjT4AJpZwdx2CRyfbOOHgeLd9Ve/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/grocery20220203/Uttapam.jpg
+Paneer Uttapam,ProductType,9,"Inventory,Food,Restaurant,Snacks,Vegeterian,",80,,,https://drive.google.com/file/d/14vVBzPJmchJAWXzuw7ExP1QmdA44U3BO/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/PaneerUttapam.jpg
+Butter Uttapam,ProductType,10,"Inventory,Food,Restaurant,Snacks,Vegeterian,",80,,,https://drive.google.com/file/d/1_j0rDQNnGJ7X3C37GR5Tfb_DzTdP279t/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/ButterUttapam.jpg
+Masala Uttapam,ProductType,11,"Inventory,Food,Restaurant,Snacks,Vegeterian,",70,,,https://drive.google.com/file/d/1gryGq86cALDsUcPaNlXyiMAtKy7F7Ls8/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-5/MasalaUttapam.jpg
+Chinese Bhel,ProductType,12,"Inventory,Food,Restaurant,Snacks,Vegeterian,",90,,"noodles fried  ,onion sliced  ,capsicum cut into fine slices  ,powder sugar   ,tomato sauce   ,lemon juice  ,red chilli powder  ,pepper powder  ,chopped coriander leaves  ,salt  ,roasted ground nuts  ",https://drive.google.com/file/d/1GPi9hn0ZkUeegyxQKlKo7r_UcsvbSsw4/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/ChineseBhel.jpg
+Chinese Choppsy,ProductType,13,"Inventory,Food,Restaurant,Snacks,Vegeterian,",100,,""" Capsicum,  green onion,  cabbage,  tomato sauce,  Chili sauce,  cornstarch,  oil for deep frying, packet noodles taste maker, carrot""",,
+American Choppsy,ProductType,14,"Inventory,Food,Restaurant,Snacks,Vegeterian,",100,,,https://drive.google.com/file/d/1vDdFu1RXvNeHVG82si8t4bQQJp1Ucw6X/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/AmericanChoppsy.jpg
+Veg Lolipop,ProductType,15,"Inventory,Food,Restaurant,Snacks,Vegeterian,",100,,,https://drive.google.com/file/d/1j4XskVsyWexf_t2k5kwlXKabSsGzfjrR/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegLolipop.jpg
+Aloo Chilli,ProductType,16,"Inventory,Food,Restaurant,Snacks,Vegeterian,",80,,,https://drive.google.com/file/d/1QKn9OSY-3cXZh67qeiGTT3_mB0U6Stwe/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/AlooChilli.jpg
+Finger Chips,ProductType,17,"Inventory,Food,Restaurant,Snacks,Vegeterian,",70,,"potato ( finger chopped),Oil  for deep fry,Salt  ,Black pepper  .""",https://drive.google.com/file/d/1WqsZvM7FYMNNTf5L-ia1UO8zPhtnxOAt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/FingerChips.jpg
+Mushroom Manchurian,ProductType,18,"Inventory,Food,Restaurant,Snacks,Vegeterian,",110,,""" capiscum,  pieces of ginger, white onion gloves,   green chilli, green onion,  soya sauce,  ketchup,  vinegar,  chilli sauce,  sugar,  black pepper,  salt for curry""",https://drive.google.com/file/d/1h9mq-N1nat_cG5ELIeoeIHppq06tVhlv/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MushroomManchurian.jpg
+Mushroom Chilli,ProductType,19,"Inventory,Food,Restaurant,Snacks,Vegeterian,",110,,"  maida  plain flour  all purpose flour,  corn flour,  kashmiri red chilli powder  lal mirch powder,  pepper,  pepper,  salt,  water, mushroom (halves),oil for deep frying,  oil, clove garlic, inch ginger, green chilli,  spring onion, capsicum,  tomato sauce,  chilli sauce,  vinegar,  soy sauce,  pepper,  sugar,  salt,  corn flour,  water.",https://drive.google.com/file/d/1U0ZgiXdil7TP99NMF9TVpI2cA0l0qfft/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/MushroomChilli.jpg
+Mushroom 65,ProductType,20,"Inventory,Food,Restaurant,Snacks,Vegeterian,",110,,,https://drive.google.com/file/d/1bJ-A8uTjILB-X4-AvGlb5xjqKwvEMhBk/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Mushroom65.jpg
+Mushroom Basket,ProductType,21,"Inventory,Food,Restaurant,Snacks,Vegeterian,",110,,,https://drive.google.com/file/d/1Mr3R5HyLWKJVYVfG4XVNmNBCrA9UXczP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/MushroomBasket.jpg
+Starters,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Starters.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Starters,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Starters,",,,,,
+Veg Manchurian Dry,ProductType,4,"Inventory,Food,Restaurant,Starters,Vegeterian,",20,,,https://drive.google.com/file/d/1WUVLy-4rg52XSvwqhUfVZYomOF7VhOB2/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/veg-manchurian-dry.jpg
+Veg Manchurian Gravy,ProductType,5,"Inventory,Food,Restaurant,Starters,Vegeterian,",70,,,https://drive.google.com/file/d/1wPkxuJ9K-9j-NR_MKQVMCchKSpYneBfK/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegManchurianGravy.jpg
+Veg 65,ProductType,6,"Inventory,Food,Restaurant,Starters,Vegeterian,",70,,,https://drive.google.com/file/d/1vNWQi-EBkMH-6PuGayKQApq8nSpw6IHV/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg65.jpg
+Veg Crispy,ProductType,7,"Inventory,Food,Restaurant,Starters,Vegeterian,",80,,", Ankurit moth,  Onion chopped,  Tomato chopped,  Green chilli chopped,  Turmeric powder,  Coriander chilli powder  oon,as per taste Salt,  Water,  Coriander,  Oil.",https://drive.google.com/file/d/1eRoWy7sVeONn6q-umwbzYIj5GCmDsI26/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/VegCrispy.jpg
+Onion Pakoda,ProductType,8,"Inventory,Food,Restaurant,Starters,Vegeterian,",80,,"  onion, chilli ,  coriander,  chilli powder,  turmeric,  cumin powder,  ajwain,  ginger paste, salt,  besan   flour,  rice flour,oil (for frying).",https://drive.google.com/file/d/1GSiQ3dldo8AURsDTZvnk5venQv5TLYWe/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/OnionPakoda.jpg
+Aloo Pakoda,ProductType,9,"Inventory,Food,Restaurant,Starters,Vegeterian,",90,,,https://drive.google.com/file/d/1uWwVdDLBut5h078Fs6FNOy_Uq44xxECR/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/AlooPakoda.jpg
+Paneer Pakoda,ProductType,10,"Inventory,Food,Restaurant,Starters,Vegeterian,",90,," Paneer ,  besan, pinch turmeric powder, to  pinches red chili powder, pinch asafoetida (hing), to  pinches Garam Masala,  carom seeds (ajwain), to  water or as required.",https://drive.google.com/file/d/1GXXvajp0oAFz1nuXU7rs31No579wKwgl/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerPakoda.jpg
+Soyabean Manchurian,ProductType,11,"Inventory,Food,Restaurant,Starters,Vegeterian,",100,,,https://drive.google.com/file/d/1vFKACZGXDoaOOpsdmJ9zhxUP0W83eNpz/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/SoyabeanManchurian.jpg
+Soyabean 65,ProductType,12,"Inventory,Food,Restaurant,Starters,Vegeterian,",80,,"  Soyabean ,  Rice Flour,   flour (besan),  cornstarch,  green chili paste,  garlic paste,  ginger paste,  red chili powder, to   Garam Masala,  lemon juice ,  oil –,salt as required,  finely chopped onions, to  green chilies ,  finely chopped ginger,  finely chopped garlic, to  dry red chilies , to  pinches salt.",https://drive.google.com/file/d/1a6xw_9uFk8pfcdc21f45-RGsBENmuNlD/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Soyabean-65.jpg
+Soyabean Schezwan,ProductType,13,"Inventory,Food,Restaurant,Starters,Vegeterian,",80,,,https://drive.google.com/file/d/1DegsPE3rtXAL0JDBveFbtLHJULE2uFIL/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Soyabean-Schezwan.jpg
+Soyabean Chilli,ProductType,14,"Inventory,Food,Restaurant,Starters,Vegeterian,",80,,"Soyabean   cubed,Onions:  finely sliced,Capsicum:  sliced,Green chillies: ,Garlic:   finely chopped,Corn flour:   ,Salt:  ,Black pepper powder:  ,Soya sauce:  ,Tomato sauce:  ,Red chilli sauce:  """,https://drive.google.com/file/d/16JREf59QBqZODVgLSOHfRbMQX0HiIpvl/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/SoyabeanChilli.jpg
+Paneer Manchurian,ProductType,15,"Inventory,Food,Restaurant,Starters,Vegeterian,",80,,"""ingredients for Balls : chopped onion  ,chopped green chillies  ,paneer shredded  s,chopped Coriander leaves  ,cornflour  ,salt  ,white papper  ,Ingredients for gravy :oil  ,garlic chopped  ,ginger chopped  """,https://drive.google.com/file/d/1EqHE3hvCkPqEYjP6uu4p5S3htSY97pAP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/PaneerManchurian.jpg
+Paneer Chilli,ProductType,16,"Inventory,Food,Restaurant,Starters,Vegeterian,",100,,"""Paneer:   cubed,Onions:  finely sliced,Capsicum:  sliced,Green chillies: ,Garlic:   finely chopped,Corn flour:   ,Salt:  ,Black pepper powder:  ,Soya sauce:  ,Tomato sauce:  ,Red chilli sauce:  """,https://drive.google.com/file/d/1Kk0U0y2YhiaEMjyJl-zWAzSE1Y1J7mHd/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/Paneerchilli.jpg
+Paneer 65,ProductType,17,"Inventory,Food,Restaurant,Starters,Vegeterian,",100,,"  Paneer ,  Rice Flour,   flour (besan),  cornstarch,  green chili paste,  garlic paste,  ginger paste,  red chili powder, to   Garam Masala,  lemon juice ,  oil –,salt as required,  finely chopped onions, to  green chilies ,  finely chopped ginger,  finely chopped garlic, to  dry red chilies , to  pinches salt.",https://drive.google.com/file/d/18eQOtotfInWqsh70Rc6NLKcegEIaW-3Y/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Paneer65.jpg
+Paneer Schezwan Dry,ProductType,18,"Inventory,Food,Restaurant,Starters,Vegeterian,",100,,,https://drive.google.com/file/d/18goGaU-d5OWbPOOToV0EzyYAODTmSgDJ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/PaneerSchezwanDry.jpg
+Paneer Crispy,ProductType,19,"Inventory,Food,Restaurant,Starters,Vegeterian,",100,,,https://drive.google.com/file/d/1TJp0KX-8wfgwRILDcIYKAlOmRFxEiX8y/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerCrispy.jpg
+Paneer Singapuri,ProductType,20,"Inventory,Food,Restaurant,Starters,Vegeterian,",100,,,https://drive.google.com/file/d/1mlN_WY2pADkIgsnuvnEBTRNv3pZvgFFz/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerSingapuri.jpg
+paneer Basket,ProductType,21,"Inventory,Food,Restaurant,Starters,Vegeterian,",110,,,https://drive.google.com/file/d/12n0EZ-bZcQMXueFmYviUfs7G3hW3mXXQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/paneerBasket.jpg
+Paneer Dragon,ProductType,22,"Inventory,Food,Restaurant,Starters,Vegeterian,",110,,"Paneer ,Corn flour ,Oil for frying ,Ginger  ,Garlic  ,Green chilli  ,Oil  ,Onion  large,Red chilli paste  ,Chilli sauce  ,Pepper powder  ,Tomato sauce  ,Water  ,Coriander leaves finely chopped  ,Salt to taste  .",https://drive.google.com/file/d/1DIHLnkwXhHC6cBSt6GbzCBjKD-AgOn_s/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/PaneerDragon.jpg
+paneer Chilli Dry,ProductType,23,"Inventory,Food,Restaurant,Starters,Vegeterian,",100,,"""Paneer:   cubed,Onions:  finely sliced,Capsicum:  sliced,Green chillies: ,Garlic:   finely chopped,Corn flour:  ,Salt:  ,Black pepper powder:  ,Soya sauce:  ,Tomato sauce:  ,Red chilli sauce:  """,https://drive.google.com/file/d/1BwMOrfcmYnZt2KHib5uG2oK7XhU3RoBt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerChilliDry.jpg
+Paneer Manchurian Dry,ProductType,24,"Inventory,Food,Restaurant,Starters,Vegeterian,",100,,"""ingredients for Balls : chopped onion  ,chopped green chillies  ,paneer shredded  ,chopped Coriander leaves  ,cornflour  ,salt  ,white papper  ,Ingredients for gravy :oil  ,garlic chopped  ,ginger chopped  """,https://drive.google.com/file/d/1iphxPADj136KiBhX4DvSmgVwW73AIPIR/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerManchurianDry.jpg
+Veg Manchurian,ProductType,25,"Inventory,Food,Restaurant,Starters,Vegeterian,",70,,"""  grated cabbage, grated carrot,  maida,  Salt,  chilli sauce,  soya sauce,  tomato ketchup,  lemon juice,  sugar,capsicum, onion,  chopped garlic""",https://drive.google.com/file/d/1JcRpKUkGtHAU_F6awJQH4SDEVFXNNJY_/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegManchurian.jpg
+Paneer Schezwan,ProductType,26,"Inventory,Food,Restaurant,Starters,Vegeterian,",100,,"  Paneer, Dried red chilli,  Chopped ginger,  Chopped garlic,  Chopped spring onion, large Diced onion,  Capsicum diced, Schezwan peppercorns,  Cornflour,  Black Pepper,Salt as required,Soy sauce as required,Vinegar as required.",https://drive.google.com/file/d/19rUFjqvrPjc0B7V8CwPm3-rmuHQy9zo_/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerSchezwan.jpg
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+1,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+1,,,,,,,,
