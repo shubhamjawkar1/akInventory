@@ -1,0 +1,6 @@
+label,nodeType,order,path,price,description,link,imageLink
+Entree,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant7/Entree.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Entree,",,,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Entree,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg
+Puna Special Chicken Biryani,ProductType,3,"Inventory,Food,Restaurant,Entree,Non Vegeterian,",100,,https://drive.google.com/file/d/1BfoDu4R3d56wHlkAM4uLPc-B5c-ReGJr/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenBiryani.jpg
+Puna Special Dalcha,ProductType,4,"Inventory,Food,Restaurant,Entree,Non Vegeterian,",100,,https://drive.google.com/file/d/1jMmjVEEf84WujEpK0HmRNGHuaM_gFsdz/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/dalcha.jpg

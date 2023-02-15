@@ -1,0 +1,121 @@
+label,nodeType,order,path,price,ingredients,description,link,imageLink
+Cakes,ProductClass,1,"Inventory,Food,Bakery,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/img/ChocolateCake.png
+Vegeterian,ProductLine,2,"Inventory,Food,Bakery,Cakes,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Bakery,Cakes,",,,,,
+Pineapple,ProductType,4,"Inventory,Food,Bakery,Cakes,Vegeterian,",250,"Refined Flour 1 bowls,Baking Powder 1 tbsp,
+Baking Soda 1 tbsp,Sugar 1 bowls,Butter 1 bowls,
+Pinepapple Essence 4-5 drop,Milk 1 cups,
+Pineapple Sliced Tin 1 nos",, ,
+Pineapple Half Kg,ProductUnit,5,"Inventory,Food,Bakery,Cakes,Vegeterian,Pineapple,",250,"Refined Flour 1 bowls,Baking Powder 1 tbsp,
+Baking Soda 1 tbsp,Sugar 1 bowls,Butter 1 bowls,
+Pinepapple Essence 4-5 drop,Milk 1 cups,
+Pineapple Sliced Tin 1 nos",,https://drive.google.com/file/d/1dRH-LDpoEZht9vApaaQDcS7Eigqe65UV/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/PineappleHalfKg.jpg
+Butterscotch,ProductType,6,"Inventory,Food,Bakery,Cakes,Vegeterian,",280,"Thick Curd – 1/2 cup,Baking Soda – 1/2 tsp,
+Vinegar – 1 tbsp,Maida – 1 and 1/2 cups,Sugar – 1 cup,
+Baking Powder – 1 tsp,Melted Butter – 1/8 cup,
+Butterscotch Essense – 1 tsp,Butterscotch Chips – 1/2 cup,
+Water – 1/2 cup",, ,
+Butterscotch Half Kg,ProductUnit,7,"Inventory,Food,Bakery,Cakes,Vegeterian,Butterscotch,",280,"Thick Curd – 1/2 cup,Baking Soda – 1/2 tsp,
+Vinegar – 1 tbsp,Maida – 1 and 1/2 cups,sugar – 1 cup,
+Baking Powder – 1 tsp,Melted Butter – 1/8 cup,
+Butterscotch Essense – 1 tsp,Butterscotch Chips – 1/2 cup,
+Water – 1/2 cup",,https://drive.google.com/file/d/1z3nIFjaD0H8Nl60jMES-xAoFGc--3i_C/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/ButterscotchHalfKg.jpg
+Red Velvet,ProductType,8,"Inventory,Food,Bakery,Cakes,Vegeterian,",280,"All purpose flour 1 cup,Powdered sugar 1/2 cup,
+Cocoa powder 1 teaspoon,Red food color 1 teaspoon,
+Baking powder 1 teaspoon,Baking soda 1/4 teaspoon,
+Butter 1/2 cup,Milk 1 cup,Lemon juice 2 teaspoons,
+Whipped cream 200 grams",,https://drive.google.com/file/d/1ak-uVi5q0QyXDKjWvj0v7pHqyleDiZ5o/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Red-Velvet.gif
+Red Velvet Half Kg,ProductUnit,9,"Inventory,Food,Bakery,Cakes,Vegeterian,Red Velvet,",280,"All purpose flour 1 cup,Powdered sugar 1/2 cup,
+Cocoa powder 1 teaspoon,Red food color 1 teaspoon,
+Baking powder 1 teaspoon,Baking soda 1/4 teaspoon,
+Butter 1/2 cup,Milk 1 cup,Lemon juice 2 teaspoons,
+Whipped cream 200 grams",,https://drive.google.com/file/d/1NtRLQi00pV6r1aIVoPspCoeX6gJjyAqi/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food123021/RedVelvetHalfKg.jpg
+Black Currant,ProductType,10,"Inventory,Food,Bakery,Cakes,Vegeterian,",280,"1 3/4 cup flour/maida,3/4 cup butter,
+3/4 cup sugar powdered,1 1/2 tsp baking powder,
+3/4 tsp baking soda,3/4 cup milk,
+6 tblsp Black Currant Crush,Beetroot Cream Cheese Frosting,
+1/2 packet cream cheese",,https://drive.google.com/file/d/1xNKOtUhh2LZ17ybEGVfyhSxvN_-VrYhQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/blackcurrant.jpg
+Black Currant Half Kg,ProductUnit,11,"Inventory,Food,Bakery,Cakes,Vegeterian,Black Currant,",280,"1 3/4 cup flour/maida,3/4 cup butter,
+3/4 cup sugar powdered,1 1/2 tsp baking powder,
+3/4 tsp baking soda,3/4 cup milk,6 tblsp Black Currant Crush,
+Beetroot Cream Cheese Frosting:,1/2 packet cream cheese",,https://drive.google.com/file/d/1JZgcXR-Z7FTzUtMLRTNAMpyCXA8Qf8Gd/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/BlackCurrantHalfKg.jpg
+Vanila,ProductType,12,"Inventory,Food,Bakery,Cakes,Vegeterian,",250,"1 cup flour,1 cup butter,1 cup powder sugar,
+1 tsp baking powder,1 tsp vanila essence,200 gram Fondant,
+2 cup whipped cream,1 cup sugar syrup",,,
+Vanila Half Kg,ProductUnit,13,"Inventory,Food,Bakery,Cakes,Vegeterian,Vanila,",250,"1 cup flour,1 cup butter,1 cup powder sugar,
+1 tsp baking powder,1 tsp vanila essence,
+200 gram Fondant,2 cup whipped cream,
+1 cup sugar syrup",,https://drive.google.com/file/d/1k9-6DS3tuVLrtz2gAZoLHahOoBbZqhqs/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/VanilaHalfKg.jpg
+White Forest,ProductType,14,"Inventory,Food,Bakery,Cakes,Vegeterian,",280,"Flour 1 cups,powder Sugar 1 cups,Butter 1 cups,
+milkmaid 1/2 cups,Baking powder 1 tsp,
+vanilla essence 1 tsp,milk 1/2 cups,
+For icing: White Chocolate Curls 4 cups,
+Whipped Cream 2 tbsp",,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/WhiteForest.jpg
+White Forest Half Kg,ProductUnit,15,"Inventory,Food,Bakery,Cakes,Vegeterian,White Forest,",280,"Flour 1 cups,powder Sugar 1 cups,Butter 1 cups,
+milkmaid 1/2 cups,Baking powder 1 tsp,
+vanilla essence 1 tsp,milk 1/2 cups,For icing: White Chocolate Curls 4 cups,Whipped Cream 2 tbsp",,https://drive.google.com/file/d/1M1EUsTRUvfGzPpxhTpaaGxMHg2MEA_zG/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/WhiteForestHalfKg.jpg
+Chocolate Truffle,ProductType,16,"Inventory,Food,Bakery,Cakes,Vegeterian,",280,"1.5 Cup all purpose flour,1 cup sugar,
+3 tbsp unsweetened cocoa powder,1 teaspoon coffee powder,
+1/3 cup butter,1/2 tsp baking powder,1/4 teaspoon baking soda,
+1/4 teaspoon vanilla essence,1A Pinch of a salt,
+1/4 cup warm milk,For frosting 1 chocolate cake",,https://drive.google.com/file/d/1OK52W9pmPOO5yQJ9qNksSNb9Do-vrueS/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChocolateTruffle.png
+Chocolate Truffle Half Kg,ProductUnit,17,"Inventory,Food,Bakery,Cakes,Vegeterian,Chocolate Truffle,",280,"1.5 Cup all purpose flour,1 cup sugar,
+3 tbsp unsweetened cocoa powder,1 teaspoon coffee powder,
+1/3 cup butter,1/2 tsp baking powder,1/4 teaspoon baking soda,
+1/4 teaspoon vanilla essence,1A Pinch of a salt,
+1/4 cup warm milk,For frosting 1 chocolate cake",,https://drive.google.com/file/d/1lewSbmrWnVxvrKPpqtIOyykk5oeRG_SP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/ChocolateTruffleHalfKg.jpg
+Mango,ProductType,18,"Inventory,Food,Bakery,Cakes,Vegeterian,",280,"1½ cup all purpose flour,150 grams sugar,2 pinch salt,
+1 tsp baking powder,1 tsp vanilla essence,
+2 tbsp oil,4 Cup whipped cream",,https://drive.google.com/file/d/19rFCjjqufhkfBycgRfC4BBdfT-ihyzi4/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Mango.jpg
+Mango Half Kg,ProductUnit,19,"Inventory,Food,Bakery,Cakes,Vegeterian,Mango,",280,"1½ cup all purpose flour,150 grams sugar,
+2 pinch salt,1 tsp baking powder,
+1 tsp vanilla essence,2 tbsp oil,
+4 Cup whipped cream",,https://drive.google.com/file/d/1U5dkcUjHYxxwWaoRNRjLEU9Fo6kO-8yN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/MangoHalfKg.jpg
+Strawberry,ProductType,20,"Inventory,Food,Bakery,Cakes,Vegeterian,",250,"396g All purpose flour,6 large egg whites room temperature,
+1/2 cup 2 tbsp Strawberry puree,2 teaspoon Sprig Vanilla essence,
+220g unsalted butter at room temperature,
+11/2 teaspoon baking powder,2 teaspoon vinegar,
+1 teaspoon baking soda,1 ml strawberry essence (optional) - adjust,
+1-2 drops pink food colouring",, ,
+Strawberry Half Kg,ProductUnit,21,"Inventory,Food,Bakery,Cakes,Vegeterian,Strawberry,",250,"396g All purpose flour,6 large egg whites room temperature,
+1/2 cup 2 tbsp Strawberry puree,2 teaspoon Sprig Vanilla essence,
+220g unsalted butter at room temperature,11/2 teaspoon baking powder,2 teaspoon vinegar,1 teaspoon baking soda,
+1 ml strawberry essence (optional) - adjust,
+1-2 drops pink food colouring",,https://drive.google.com/file/d/1POX_UAVM--xlc7MRlbappluq-qe8sT5-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/StrawberryHalfKg.jpg
+Plain Cake,ProductType,22,"Inventory,Food,Bakery,Cakes,Vegeterian,",,,,https://drive.google.com/file/d/1jzQuKw2G6oo20bN1HxGgftucp__8gCAi/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/PlainCake.jpg
+Mango Half Kg,ProductUnit,24,"Inventory,Food,Bakery,Cakes,Vegeterian,Mango,",180,"1.5 cup flour,150 gram sugar,1/4 tsp salt,
+1 tsp baking powder,1/4 tsp cream of tarter,
+1 tsp vanilla essence,1/4 cup oil,1/2 cup milk",,https://drive.google.com/file/d/1U5dkcUjHYxxwWaoRNRjLEU9Fo6kO-8yN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/MangoHalfKg.jpg
+Pineapple Half Kg,ProductUnit,26,"Inventory,Food,Bakery,Cakes,Vegeterian,Pineapple,",180,"Refined Flour 1 bowls,Baking Powder 1 tbsp,
+Baking Soda 1 tbsp,Sugar 1 bowls,Butter 1 bowls,
+Pinepapple Essence 4-5 drop,Milk 1 cups,Pineapple Sliced Tin 1 nos",,https://drive.google.com/file/d/1dRH-LDpoEZht9vApaaQDcS7Eigqe65UV/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/PineappleHalfKg.jpg
+Butterscotch Half Kg,ProductUnit,28,"Inventory,Food,Bakery,Cakes,Vegeterian,Butterscotch,",180,"Thick Curd – 1/2 cup,Baking Soda – 1/2 tsp,
+Vinegar – 1 tbsp,Maida – 1 and 1/2 cups,
+Sugar – 1 cup,Baking Powder – 1 tsp,
+Melted Butter – 1/8 cup,Butterscotch Essense – 1 tsp,
+Butterscotch Chips – 1/2 cup,Water – 1/2 cup",,https://drive.google.com/file/d/1z3nIFjaD0H8Nl60jMES-xAoFGc--3i_C/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/ButterscotchHalfKg.jpg
+Strawberry,ProductType,29,"Inventory,Food,Bakery,Cakes,Vegeterian,",180,"396g All purpose flour,6 large egg whites room temperature,
+1/2 cup 2 tbsp Strawberry puree,2 teaspoon Sprig Vanilla essence,
+220g unsalted butter at room temperature,11/2 teaspoon baking powder,2 teaspoon vinegar,1 teaspoon baking soda,
+1 ml strawberry essence (optional) - adjust,
+1-2 drops pink food colouring",, ,
+Strawberry Half Kg,ProductUnit,30,"Inventory,Food,Bakery,Cakes,Vegeterian,Strawberry,",180,"396g All purpose flour,6 large egg whites room temperature,
+1/2 cup 2 tbsp Strawberry puree,2 teaspoon Sprig Vanilla essence,
+220g unsalted butter at room temperature,11/2 teaspoon baking powder,2 teaspoon vinegar,1 teaspoon baking soda,
+1 ml strawberry essence (optional) - adjust,
+1-2 drops pink food colouring",,https://drive.google.com/file/d/1POX_UAVM--xlc7MRlbappluq-qe8sT5-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/StrawberryHalfKg.jpg
+Chocolate Cake Half Kg,ProductUnit,32,"Inventory,Food,Bakery,Cakes,Vegeterian,Chocolate Cake,",180,"1 cup All Purpose Flour,1 Cup Milk,
+1 tsp Lemon Juice,1 tsp Baking Soda,
+1 cup Condensed Milk,1 tsp Baking Powder,
+1 tsp Vanilla Essence,Glaze: 1 cup Fresh cream,
+1 tsp Coco powder",,https://drive.google.com/file/d/1Bjg7uMelb2hahpyu4UYTFkO3m_FVqIIY/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/ChocolateCakeHalfKg.jpg
+Orange Cake,ProductType,33,"Inventory,Food,Bakery,Cakes,Vegeterian,",180,"Orange 1( juice ),Whole wheat 1 cup,Baking powder 1 tsp,
+Suger 1/3 cup,Oil 1/3 cup",,https://drive.google.com/file/d/17Q0rK82lHkZ4p3Jth5XHCPaPkA761M3J/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/img/OrangeCake.png
+Orange Cake Half Kg,ProductUnit,34,"Inventory,Food,Bakery,Cakes,Vegeterian,Orange Cake,",180,"Orange 1( juice ),Whole wheat 1 cup,Baking powder 1 tsp,
+Suger 1/3 cup,Oil 1/3 cup",,https://drive.google.com/file/d/1Sqn0MCfkNBz9RFjdj9rgus8G10VBqKcU/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/img/OrangeCakeHalfkg.jpg
+Vanila Cake,ProductType,35,"Inventory,Food,Bakery,Cakes,Vegeterian,",180,"All Purpose Flour 2 cup,Sugar, powdered 3/4 cup,
+Butter 3/4 cup,Vanilla extract 1 tsp,Baking powder 1 tsp,
+Whipped cream 1 small bowl,Sugar water syrup 3-4 tablespoons",,https://drive.google.com/file/d/1K9kc_3qiFal6c5ECydgR7bRZV7S41_Yk/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/VanilaCake.jpg
+Vanila Cake Half Kg,ProductUnit,36,"Inventory,Food,Bakery,Cakes,Vegeterian,Vanila Cake,",180,"All Purpose Flour 2 cup,Sugar, powdered 3/4 cup,
+Butter 3/4 cup,Vanilla extract 1 tsp,Baking powder 1 tsp,
+Whipped cream 1 small bowl,Sugar water syrup 3-4 tablespoons",,https://drive.google.com/file/d/1ylsczIxieiXXO5vDp0blkJjLBOvrOmhC/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/VanilaCakeHalfKg.jpg

@@ -1,0 +1,150 @@
+label,nodeType,order,path,price,description,ingredients,link,imageLink,Zomato
+Sandwich,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Sandwich.jpg,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Sandwich,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Sandwich,",,,,,,
+Bread Butter,ProductType,4,"Inventory,Food,Restaurant,Sandwich,Vegeterian,",25,,"Bread -2,Onion -1,Tomato -1,Butter -4 tsp",https://drive.google.com/file/d/14FRb1qE5r6vwLMr-r43KXWtC8mgem1_1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-4/BreadButter.jpg,25
+Plain Cheese Sandwich,ProductType,5,"Inventory,Food,Restaurant,Sandwich,Vegeterian,",50,,"9ounce of grated cheese,1 medium carrot finely grated,
+1tbsp mayonnaise,1tsp grated onion,3tbsp butter,
+1tsp pepper sauce,1tsp mustard,1 pack White floured bread sliced",https://drive.google.com/file/d/1xXInVJvZ5xAn-OhnMMF5dZkYHUqSbwTF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/img/PlainCheeseSandwich.jpg,50
+Plain Cheese Toast Sandwich,ProductType,6,"Inventory,Food,Restaurant,Sandwich,Vegeterian,",60,,"Bread slices 6,Grated cheese 2 tablespoons,
+Grated cucumber 2 tablespoons,Black pepper powder 1/2 teaspoon,Salt 1/2 teaspoon,Butter 1 tablespoon",https://drive.google.com/file/d/1LWpPiGiVk6eQPiE86A84b4c2FaV6Xo1J/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/PlainCheeseToastSandwich.jpg,60
+Chilly Cheese Toast,ProductType,7,"Inventory,Food,Restaurant,Sandwich,Vegeterian,",60,,"Bread Slices 5 nos,Green chilly 2 nos,Jeera / cumin pwd 1/4 tsp,
+Fresh cream 2 tsp,Paprika pwd 1/4 tsp,Chopped tomatoes- 2 tbsp",https://drive.google.com/file/d/1HH9NXfsUS0ucPOb_mzCmaSTG2eua324Q/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/ChillyCheeseToast.jpg,60
+Jam Toast Sandwich,ProductType,8,"Inventory,Food,Restaurant,Sandwich,Vegeterian,",40,,"Bread 5-6,Boiled potatoes 4,Salt 1 teaspoon,Red chilly powder 1/2 teaspoon,Chilly flakes 1 teaspoon,Mix herbs 1/2 teaspoon,
+Mozeralla cheese 10-20 cubes,Onion 1,Bread crumbs 1/2 cup",https://drive.google.com/file/d/1p0NjEYTtVevZ11IbK31hSNeVwNFcLwez/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/JamToastSandwich.jpg,40
+Veggie Toast Sandwich,ProductType,9,"Inventory,Food,Restaurant,Sandwich,Vegeterian,",45,,"6bread slices,1cup leftover veggie,1chopped carrot,
+1 cup hung curd,1 tsp orgeano,1 tsp black pepper,
+1 tsp salt,1 tsp chat masala,1 tbsp mayonnaise,
+1 tbsp tomato sauce",https://drive.google.com/file/d/1FL1HKCL-HruubEHqeFVDdeFz4e-6uVQU/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/VeggieToastSandwich.jpg,45
+Sada Sandwich,ProductType,10,"Inventory,Food,Restaurant,Sandwich,Vegeterian,",40,,"Bread pieces 8,onion 2,Tomato 2,Kali mirchi 1/4 TBS,
+Namak 1/4tbs,Chat masala 1/2 TBS",https://drive.google.com/file/d/13SJKvMi8_X_swQBiyMrEijmPTO0o-R1M/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/SadaSandwich.jpg.crdownload.jpg,40
+Masala Toast Sandwich,ProductType,11,"Inventory,Food,Restaurant,Sandwich,Vegeterian,",65,,"white bread 4 nos,finely chopped carrot 1/4 cups,finely chopped cabbage 1/4 cups,finely chopped bins 1/4 cups,onion finely chopped 1 nos,chilis chopped 2 nos,garlic chopped 3 nos,
+salt 1/4 tsp,pepper powder 1 tsp,olive oil 2 tbsp,red chili powder 1 tsp",https://drive.google.com/file/d/1xYxSayR-GtNg32odNnMwU6dVkcmUlpEj/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/MasalaToastSandwich.jpg,65
+Chocolaty Brites Toast Sandwich,ProductType,12,"Inventory,Food,Restaurant,Sandwich,Vegeterian,",60,,"Bread slices 6,Boiled potatoes 3,Chopped onions 2,
+Chopped capsicum 1,Chopped carrot 1,Black pepper 1tsp,
+Turmeric 1tsp,Milk 1/4th cup,Salt 2tsp,Oil 4tbsp",https://drive.google.com/file/d/1d-aE-PGbP8EvxnqoTb05gEOtogRoWG1d/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/ChocolatyBritesToastSandwich.jpg,60
+Veggie Mayo Toast Sandwich,ProductType,13,"Inventory,Food,Restaurant,Sandwich,Vegeterian,",65,,"6bread slices,1cup leftover veggie,1chopped carrot,
+1 cup hung curd,1 tsp orgeano,1 tsp black pepper,
+1 tsp salt,1 tsp chat masala,1 tbsp mayonnaise,
+1 tbsp tomato sauce,",https://drive.google.com/file/d/1JytmCciAzYEZkR1jJuCfpL3p8M7g7H13/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/VeggieMayoToastSandwich.jpg,65
+Veggie Cheese Toast Sandwich,ProductType,14,"Inventory,Food,Restaurant,Sandwich,Vegeterian,",60,,"6bread slices,1cup leftover veggie,1chopped carrot,
+1 cup hung curd,1 tsp orgeano,1 tsp black pepper,
+1 tsp salt,1 tsp chat masala,1 tbsp mayonnaise",https://drive.google.com/file/d/1lJX-WzwEqFqSFnMUUHYH1d3QVjm0fyWy/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/VeggieCheeseToastSandwich.jpg,60
+Grilled Sandwich,ProductClass,1,"Inventory,Food,Restaurant,",,,"Bread 2,Corn 1/2 cup,Salt 1 teaspoon,
+Red chilly powder 1/2 teaspoon,Black pepper 1/2 teaspoon",https://drive.google.com/file/d/1SlsTlyhf9GK7x2o6o_bFGOjVDKwulYzN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/img/GrilledSandwich.jpg,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Grilled Sandwich,",,,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Grilled Sandwich,",,,,,,
+Veggie Grilled Without Cheese Sandwich,ProductType,4,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",90,,"Bread slices 6-8,Boiled potato slices 1 cup,
+Onion slices 1 cup,Tomato slices 1 cup,Capsicum slices 1 cup,
+Grated cheese 2 tablespoons,Butter 1 tablespoon,Green chutney for serving 1-2 tablespoons",https://drive.google.com/file/d/1Qwb5Evtn3TIwyUBTkjiP2QbASosGmNL0/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/VeggieGrilledWithoutCheeseSandwich.jpg,90
+Veggie Cheesy Grilled Sandwich,ProductType,5,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",110,,"Bread 3-4,Salt 1 teaspoon,Red chilly powder 1/2 teaspoon,
+Mozeralla cheese 1 cup,Chilly flakes 1/2 teaspoon,Potato 3-4",https://drive.google.com/file/d/1LofRMmBrWRxetNgnC_UJfYd5MVMbyKk7/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/VeggieCheesyGrilledSandwich.jpg,110
+Samosa Veg Grilled Sandwich,ProductType,6,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",100,,"Bread Slices 4 nos,Butter 5 tsp,Green Chutney 2 tsp,
+Samosas 2 nos,Sliced Onion 4 nos,Sliced Beetroot 4 nos,
+Sliced Tomato 4 nos,Sandwich masala/Chaat Masala 1 tsp",https://drive.google.com/file/d/1xNrJ1O0pfKHTbtig9NDIU13WJui6EAPo/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/SamosaVegGrilledSandwich.jpg,100
+Samosa Cheesy Grilled Sandwich,ProductType,7,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",120,,,https://drive.google.com/file/d/1RDRw2xhD9Lxq2pL5c3PBhzGS4y2HKTOm/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/SamosaCheesyGrilledSandwich.jpg,120
+Paneer Veg Cheesy Grilled Sandwich,ProductType,8,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",130,,"Bread slice 8 nos,Green chutney 2 tbsp,
+Boil potato ,peel and cut in round shape 2 nos,
+Cucumber ,peel and cut in round shape 1 nos,
+Tomato, cut in round shape 2 nos,
+Onion, peel and cut in round shape 2 nos,
+Butter 1 tbsp,Cheese slice 5-6 nos",https://drive.google.com/file/d/1PxZeAm5G0E61wO01nnc1oIr07i16_tTS/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/PaneerVegCheesyGrilledSandwich.jpg,130
+Paneer Chilly Cheesy Grilled Sandwich,ProductType,9,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",140,,"slices of brown bread 10-12 piece,potato, boiled & mashed 1 nos,
+paneer, mashed 100 gms,fried onions 2 tsp,green chilies, chopped 1-2 gms,coriander leaves, chopped 2-3 tbsp,salt 1/2 tsp,
+turmeric powder 1/2 tsp,tomato, chopped 1 nos,
+coloured bell peppers, chopped 4-5 tbsp",https://drive.google.com/file/d/1cCvaxWW3nUxTOdfGRF1SN1PjvAzDShAg/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/PaneerChillyCheesyGrilledSandwich.jpg,140
+Jungli Cheesy Grilled Sandwich,ProductType,10,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",120,,"Bread 3-4,Salt 1 teaspoon,Red chilly powder 1/2 teaspoon,
+Mozeralla cheese 1 cup,Chilly flakes 1/2 teaspoon,
+Potato 3-4",https://drive.google.com/file/d/1cTvmAUBVDb-wcuUIuTktb7ow2Le2rsqz/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/JungliCheesyGrilledSandwich.jpg,120
+Mexican Cream & Onion Cheesy Grilled Sandwich,ProductType,11,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",120,,"Sandwich Bread 8 nos,Cheese cubes(you can add more cheese for more cheesy one) 4-5 nos,
+Chopped Green Chillies (you can add more if want it more spicy) 1 tsp,medium size onion finely chopped 1 nos,Black Pepper Powder 1/2,Chaat Masala 1/4 tsp,Salt - To taste 1 pinch,Milk 1 tsp
+Butter 1 tsp",https://drive.google.com/file/d/1zZwS8gcpXgyLbX9aJa7M55g-mueYzNHT/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/MexicanCreamOnionCheesyGrilledSandwich.jpg,120
+Chilly Cheese Grilled Sandwich,ProductType,12,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",120,,"Bread Slice 6 nos,Finely chopped Capsicum 4 tbsp,
+Finely Chopped Onion 4 tbsp,Grated Processed Cheese 50 gms,
+Hot n Sweet Chilly Sauce 2 tbsp",https://drive.google.com/file/d/1FpSFDIQhjMBXIoaFP9ObLQwuIOXWJcQS/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/ChillyCheeseGrilledSandwich.jpg,120
+Corn Veg Cheese Grilled Sandwich,ProductType,13,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",120,,"Bread slice 8 nos,Green chutney 2 tbsp,
+Boil potato ,peel and cut in round shape 2 nos,
+Cucumber ,peel and cut in round shape 1 nos,
+Tomato, cut in round shape 2 nos,
+Onion, peel and cut in round shape 2 nos,Butter 1 tbsp,
+Cheese slice 5-6 nos,Roasted cumin powder 1/4 tsp",https://drive.google.com/file/d/1FGlUSkHoaQ_XpIs_f232IEqpgBMrOsEs/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/CornVegCheeseGrilledSandwich.jpg,120
+Corn Palak Cheese Grilled Sandwich,ProductType,14,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",130,,"olive oil 2 tbsp,garlic cloves , minced 2 nos,
+boiled sweet corn cob 1 nos,black pepper, crushed 1/2 tsp,
+red chili flakes 1/2 tsp,salt 1/2 tsp,tomatoes, chopped 1/4 nos,
+grated mozzarella 3 tbsp",https://drive.google.com/file/d/1133WcKPHAt1DiMMa5efZaIW-kM3C2JQO/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/CornPalakCheeseGrilledSandwich.jpg,130
+Paneer Palak Cheese Grilled Sandwich,ProductType,15,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",130,,"slices of brown bread 10-12 piece,potato, boiled & mashed 1 nos,
+paneer, mashed 100 gms,fried onions 2 tsp,green chilies, chopped 1-2 gms,coriander leaves, chopped 2-3 tbsp,salt 1/2 tsp,
+turmeric powder 1/2 tsp,tomato, chopped 1 nos,
+coloured bell peppers, chopped 4-5 tbsp",https://drive.google.com/file/d/1VKxRSTa0vaT2B2deg2AMiHCjd_uS5ULQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/PaneerPalakCheeseGrilledSandwich.jpg,130
+Burger,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Burger.jpg,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Burger,",,,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Burger,",,,,,,
+Veg Burger,ProductType,4,"Inventory,Food,Restaurant,Burger,Vegeterian,",50,,"Burger Bun 1 nos,Butter 1 tbsp,Tomato ketchup 1 tbsp,
+Mayonnaise 2 tbsp,cheese slice 1 nos,ice berg lettuce 2 nos,
+oil or butter 1 tsp,Salt 1/8 tsp,Pepper 1/8 tsp,Chilly flakes 1/8 tsp",https://drive.google.com/file/d/1d4T4ocGTOibUjikI_CZrc4fkIRChDq8d/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Burger.jpg,50
+Veg Cheese Burger,ProductType,5,"Inventory,Food,Restaurant,Burger,Vegeterian,",70,,,https://drive.google.com/file/d/1BRIGvcNMtmyGxtykXr10OQnq4woHNBxu/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegCheeseBurger.jpg,70
+Schezwan Burger,ProductType,6,"Inventory,Food,Restaurant,Burger,Vegeterian,",70,,,https://drive.google.com/file/d/1jM6gSOcmk6buy7fqsOaCQdOrS3WkqvwP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Schezwan-Burger.jpg,70
+Mexican Burger,ProductType,7,"Inventory,Food,Restaurant,Burger,Vegeterian,",70,,,https://drive.google.com/file/d/1WTISml1NFNJUfkSrNdruD_VNiV4RPKpY/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food1/MexicanBurger.jpg,70
+Tandoori Burger,ProductType,8,"Inventory,Food,Restaurant,Burger,Vegeterian,",70,,,https://drive.google.com/file/d/1wcOjSSb4-XNfy01hMC2n5aLc6u3_2_nT/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Tandoori-Burger.jpg,70
+Jain Burger,ProductType,9,"Inventory,Food,Restaurant,Burger,Vegeterian,",70,,,https://drive.google.com/file/d/1hw53MEtVJxi4yngNhR6Q1NaL1-PsmQTS/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/JainBurger.jpg,70
+Pizza,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food1/pizza.jpg,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Pizza,",,,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Pizza,",,,,,,
+Margarita Pizza,ProductType,4,"Inventory,Food,Restaurant,Pizza,Vegeterian,",100,,"Pizza base 2,Mozzarella cheese 1 cap,
+Pizza topping sauce 1/4 cap,Onion 2,Tomato 2,
+Capsicum 2,Paneer 50 gram,Chilli flakes 1 tablespoon,
+Oregano 1 tablespoon",https://drive.google.com/file/d/1erxhkpLo2zE8fvTZ3AV9SNQ5_pWtaRep/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/MargaritaPizza.jpg,100
+Veg Cheese Pizza,ProductType,5,"Inventory,Food,Restaurant,Pizza,Vegeterian,",110,,"1 Capsicum,1 onion,1/2 Califlower,1/2 Tomato,
+1 BabyCorn,4 pieces of mushroom,2 Blackpepper,
+1 tablespoon Olive oil,1 tea spoon Salt,
+1 tablespoon of ketchap,1 tablespoon miyonees,
+1 teaspoon Butter,50 gram of mozilla cheese",https://drive.google.com/file/d/1UFOQLI5i5KUwUIcCqJbFbheY3m10p-o9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Cheese-Pizza.jpg,110
+Corn Veg Cheese Pizza,ProductType,6,"Inventory,Food,Restaurant,Pizza,Vegeterian,",130,,"1 Pizza Base,2 table spoon ketchup,
+4 pieces of Garlic,5 black pepper,1 capsicum,
+1 tomato,1 onion,1 cucumber,1/2 cabbage,
+1 block mozrella cheez,1 tablespoon origano,1 tablespoon chilli flakes",https://drive.google.com/file/d/1yp9HIwX31B6dZPBd5-lpf_hZ36oEuO0z/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/CornVegCheesePizza.jpg,130
+Farm House Pizza,ProductType,7,"Inventory,Food,Restaurant,Pizza,Vegeterian,",130,,"1cup maida,1tbsp yeast,1tsp sugar,1/2tsp salt,
+2tbsp warm water,1/2tomato chop,1/2capsicum chop,
+1onion chop,2tbsp sweetcorn,1cup greated mozzarella cheese,
+2tbsp pizza sauce,1tbsp pizza spread cheese",https://drive.google.com/file/d/1acjz8AuSY179nFWhpojmgMqNBFz_e9cZ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/foodimagelinks/FarmHousePizza.jpg,130
+Exotica Pizza,ProductType,8,"Inventory,Food,Restaurant,Pizza,Vegeterian,",130,,"Pizza base 2,Mozzarella cheese 1 cap,
+Pizza topping sauce 1/4 cap,Onion 2,Tomato 2,
+Capsicum 2,Paneer 50 gram,Chilli flakes 1 tablespoon,
+Oregano 1 tablespoon",https://drive.google.com/file/d/1DS1XCqDHvKMxsZTm1Bg-9KfCDZD_0rMm/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/ExoticaPizza.jpg,130
+Jungliee Pizza,ProductType,9,"Inventory,Food,Restaurant,Pizza,Vegeterian,",130,,"1cup maida,1tbsp yeast,1tsp sugar,1/2tsp salt,
+2tbsp warm water,1/2tomato chop,1/2capsicum chop,
+1onion chop,2tbsp sweetcorn,1cup greated mozzarella cheese,
+2tbsp pizza sauce,1tbsp pizza spread cheese",https://drive.google.com/file/d/1Gq0wNf4JK4rLCR0T6MVpq55dN8gFTfTs/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/JunglieePizza.jpg,130
+Russian Pizza,ProductType,10,"Inventory,Food,Restaurant,Pizza,Vegeterian,",130,,"1 capsicum
+
+1 onion 2carrot chopped 1mozzerala cheese 1/2tbsp salt 1/2tbsp black pepper 2 tbsp hot n sour tomato sauce Pizza bread 1bowl boil corn",https://drive.google.com/file/d/1EEgFXQZVUtVl5BBuFPtql2fMxqf2WCOM/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/RussianPizza.jpg,130
+Snacks,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/img/Smiley.jpg,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Snacks,",,,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Snacks,",,,,,,
+Garlic Bread,ProductType,4,"Inventory,Food,Restaurant,Snacks,Vegeterian,",40,,"Bread slice 3,Chop garlic 1tsp,Butter 2tsp,
+Dry oregano 1/4tsp,Steamed sweetcorn 1/2cup,
+Pepper powder 1/4tsp,Salt 1/4tsp,
+Grated mozerella cheese 1/2 cup,Tomato ketchup 1tsp",https://drive.google.com/file/d/1OXT30UdnaqeMo-dv1NbdWLEnp2mVwRQA/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/GarlicBread.jpg,40
+Garlic Bread 4Pcs,ProductUnit,5,"Inventory,Food,Restaurant,Snacks,Vegeterian,Garlic Bread,",40,,,https://drive.google.com/file/d/1RN1TRm9PFTtdEeo8KWnTIxhB3i_G5MT3/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/GarlicBread.jpg,40
+Cheese Garlic Bread,ProductType,6,"Inventory,Food,Restaurant,Snacks,Vegeterian,",60,,"8 pis Bread,1 cube cheez prossed cheese,
+1 small bowl mozrela cheese,1 TBS oregano,
+1 TBS chili flakes,5 TBS garlic butter",https://drive.google.com/file/d/1yUhtKoZxXnW4RAQZaLxq-d2yz5OeSvht/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/CheeseGarlicBread.jpg,60
+Cheese Garlic Bread 4Pcs,ProductUnit,7,"Inventory,Food,Restaurant,Snacks,Vegeterian,Cheese Garlic Bread,",60,,,https://drive.google.com/file/d/1I5FbY3l-ZSiAHh492PdRoVoRQ6L-TziY/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/CheeseGarlicBread4Pcs.jpg,60
+Poatato Twister,ProductType,8,"Inventory,Food,Restaurant,Snacks,Vegeterian,",40,,,https://drive.google.com/file/d/1okxFQvGSwhXp54xyfWSJ3zG0by6_vLzA/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/PoatatoTwister.jpg,40
+Peri Peri Potato Twister,ProductType,9,"Inventory,Food,Restaurant,Snacks,Vegeterian,",60,,"2 medium size potatoes,1/4 besan,1 tbs cornflour,1 tsp salt,
+1 tbs black pepper powder Peri peri powder Oil for frying Tooth pick",https://drive.google.com/file/d/134LbIdVGwFlBtBbd5S1OTU89-F1W4aaz/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/PeriPeriPotatoTwister.jpg,60
+Cheese Potato Twister,ProductType,10,"Inventory,Food,Restaurant,Snacks,Vegeterian,",80,,"Boiled Potatoes 3 nos,Eastern Black Pepper Powder 2 tsp,
+Oregano 2 tsp,curd 1/2 tsp,Salt to taste 1 pinch,
+Flour 1 cups,indian Mozarella Cheese Cubes 4 nos",https://drive.google.com/file/d/1VrRpxFyO-vcqL0SYAwC_eh_rg6cKHzWE/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/CheesePotatoTwister.jpg,80
+Plain Fries Salted,ProductType,11,"Inventory,Food,Restaurant,Snacks,Vegeterian,",50,,,https://drive.google.com/file/d/1cVOH3oSLJcidjTjbN1XCIiGRdVtLQxyG/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/PlainFriesSalted.jpg,50
+Peri Peri Fries,ProductType,12,"Inventory,Food,Restaurant,Snacks,Vegeterian,",70,,"2 big size potato peeled and even long finger cute,
+1 cup Oil,2 tbsp corn flour,1 cup ice water,
+2 tbsp peri peri powder",https://drive.google.com/file/d/1Xca3b3wbJDb1PAW3FCV9gz2n_PJ_nMGj/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PeriPeriFries.jpg,70
+Cheese Fries,ProductType,13,"Inventory,Food,Restaurant,Snacks,Vegeterian,",70,,"1 Frozen Fries,1 Three Cheese Blend,
+1 can chili beans,1 bunch green onions",https://drive.google.com/file/d/1oF0PSSp2XknuVmAEejnclTBv8qHDhs4R/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Cafe/CheeseFries.jpg,70
+Combos,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://drive.google.com/file/d/1uVMx24hivT__Gw6h3iBmUDBY3xZ7lvZ9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/Combos.jpg,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Combos,",,,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Combos,",,,,,,
+Burger Combo,ProductType,4,"Inventory,Food,Restaurant,Combos,Vegeterian,",99,"Veg Burger,Fries,Cold Drink",,,,99
+Pizza Combo,ProductType,5,"Inventory,Food,Restaurant,Combos,Vegeterian,",99,"4 Inch Bread,Fries,Cold Drink",,,,99
+Sandwich Combo,ProductType,6,"Inventory,Food,Restaurant,Combos,Vegeterian,",99,"Veg Toast,Fries,Cold Drink",,,,99

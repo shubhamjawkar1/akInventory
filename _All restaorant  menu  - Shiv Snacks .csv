@@ -1,0 +1,174 @@
+label,nodeType,order,path,price,description,ingredients,link,imageLink
+South Indian,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://drive.google.com/file/d/1ftRK6XcZLvpcsKlFAPWjEk0y74F3b1A8/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01062022/SouthIndian.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,South Indian,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,South Indian,Vegeterian,",,,,,
+Idli Sambar,ProductType,4,"Inventory,Food,Restaurant,South Indian,Vegeterian,",45,,"For Idli-Idli rice,Urd dal,Poha,salt & For Sambhar-Arhar ki dal,Turmeric powder,Mustard seeds,Onion & Tomato,Sambhar masala,Salt to taste,etc",https://drive.google.com/file/d/15LEAAHkEgCFvQych8dWeexRXmEYoiGzZ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/IdliSambar.jpg
+Vada Sambar,ProductType,5,"Inventory,Food,Restaurant,South Indian,Vegeterian,",45,,,https://drive.google.com/file/d/1qWlTcmEbLkSqU7LCBblzPUto7LP3i08I/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VadaSambar.jpg
+Plain Dosa,ProductType,6,"Inventory,Food,Restaurant,South Indian,Vegeterian,",55,," soaked basmati rice,/ cup grated coconut, salt,Water, sunflower oil, urad dal,",https://drive.google.com/file/d/10plRQE3QzHB9B3sYn-Iln6caUOxUAyN-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PlainDosa.jpg
+Masala Dosa,ProductType,7,"Inventory,Food,Restaurant,South Indian,Vegeterian,",65,," cup parboiled rice,/ cup refined oil,/ cup urad dal,/ teaspoon fenugreek seeds, teaspoon salt & For Filling -/ kilograms boiled potato, / cup sliced onion, medium chopped green chilli,
+ tablespoon mustard seeds, leaves curry leaves,/ teaspoon turmeric,/ cup watersalt as required etc.",https://drive.google.com/file/d/1_-oVk3t6Cho2sazbziKyWFSIPhSBbfKQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MasalaDosa.jpg
+Cut Dosa,ProductType,8,"Inventory,Food,Restaurant,South Indian,Vegeterian,",65,,,https://drive.google.com/file/d/1l8pElnwn_LfSa3XWFCL_UOqoF0kED8Eb/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/CutDosa.jpg
+Special Shiv Dosa,ProductType,9,"Inventory,Food,Restaurant,South Indian,Vegeterian,",85,,,,
+Mini Uttappa,ProductType,10,"Inventory,Food,Restaurant,South Indian,Vegeterian,",45,,"- cups idli / dosa batter, onion, tomato, green chilies,- tbsp. coriander leaves,oil to shallow fry,etc.",https://drive.google.com/file/d/1tNF8BcoegGgtDuqO2hm1znKnX43II2Qp/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20102022/MiniUttappa.jpg
+Onion Uttappa,ProductType,11,"Inventory,Food,Restaurant,South Indian,Vegeterian,",55,," onion,½ cup small onion, tablespoon chopped carrot, tablespoon chopped coriander, Green chilli chopped, teaspoon Oil per uttapam etc.",https://drive.google.com/file/d/1tM2Dw1K8XjlK4_duAdRFt6Un8RcZumFP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/OnionUttappa.jpg
+Maharashtrian Dishes,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://drive.google.com/file/d/1lv9Z9tymKSJPoAy4MY9lQErdE0-sOYzo/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food030822/MaharashtrianDishes.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Maharashtrian Dishes,",,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Maharashtrian Dishes,Vegeterian,",,,,,
+Dryfruits Upma,ProductType,4,"Inventory,Food,Restaurant,Maharashtrian Dishes,Vegeterian,",55,," cup of dry fruits, cup roasted semolina (rava)",https://drive.google.com/file/d/1sCnn37CHsIMwfaFC8aQuBtm8Tj0VQiL8/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20102022/DryfruitsUpma.jpg
+Misal Matki Pav,ProductType,5,"Inventory,Food,Restaurant,Maharashtrian Dishes,Vegeterian,",55,,Ingredients Boiled potato  cup Chopped onion  Chopped shimla mirch  Chopped tomato  Pav bhaji masala  tsp Salt To taste Red chilly powder  tsp Haldi / tsp Oil  tbsp Hara dhnia  tbsp Small soup buns  packet Butter  tbsp Cheese  log Pizza seasoning  tsp,https://drive.google.com/file/d/10cAPVLtjBgJ9h9LQ_LzlSb6Dy1pWmdMs/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20102022/MisalMatkiPav.jpg
+Dahi Poha,ProductType,6,"Inventory,Food,Restaurant,Maharashtrian Dishes,Vegeterian,",45,," gram poha, onions, chillies, lemon,
+/ spoon turmeric powder,/ spoon chilli powder,
+Coriander  gram",https://drive.google.com/file/d/1GuBN1mDSFP26zGOMAxkOLqt6lP7O6B3q/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/DahiPoha.jpg
+Special Mumbai Vada Pav,ProductType,7,"Inventory,Food,Restaurant,Maharashtrian Dishes,Vegeterian,",45,,,https://drive.google.com/file/d/1BtWps1GlyTKCYxvog47Zpdw1R5e2aoD_/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20102022/SpecialMumbaiVadaPav.jpg
+Delhi Chaat,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://drive.google.com/file/d/1StiQUp3WHo1rWt8TNcjF06dHQNVJt-HK/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20102022/DelhiChaat.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Delhi Chaat,",,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Delhi Chaat,Vegeterian,",,,,,
+Ragda Patties,ProductType,4,"Inventory,Food,Restaurant,Delhi Chaat,Vegeterian,",55,,"/ cup boiled ragda  nos aalu ki small size tikki,
+/ cup imli khajur ki chutney,/ cup green chutney,
+ tsp chaat masala, tsp jeera powder, tsp kala namak,
+ tsp red chilli powder, tbsp chopped dhaniya,
+ tbsp chopped onion, tbsp chopped tomato",https://drive.google.com/file/d/1IimssXn7hONCOoxvIb06FkFg8l4_G8xN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20102022/RagdaPatties.jpg
+Special Samosa Ragda,ProductType,5,"Inventory,Food,Restaurant,Delhi Chaat,Vegeterian,",65,,"ragda or white matar  gms,potatoes  nos,bread crumbs  tbsp,
+red chilli pwd  tsp,roasted cumin pwd  tsp,chaat masala  tsp,
+Salt  tsp,Green chutney  tsp,Tamarind chutney  tsp,
+Green coriander chopped / cups",https://drive.google.com/file/d/1bQK69j7EXe7oVju0FTnl-8CqS5wsx1Ht/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20102022/SpecialSamosaRagda.jpg
+Chaat Katori,ProductType,6,"Inventory,Food,Restaurant,Delhi Chaat,Vegeterian,",55,,"For Katori=cup plain flour,/ tsp salt,tbsp oil (hot),
+water / cup (to knead as required),cup oil for frying,
+For katori Chaat=/cup yellow chickpea boiled,
+cup patato boiled and cubed,/chup green chutney,
+/ cup tamarind chutney,/ cup curd,
+tsp red chilli powder",https://drive.google.com/file/d/1doQjbOrA7uEBHwHAozMpIgC-EeGf1hmc/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20102022/ChaatKatori.jpg
+Khasta Bhel,ProductType,7,"Inventory,Food,Restaurant,Delhi Chaat,Vegeterian,",55,,"green chillies  nos,coriander leaves  tbsp,
+tamarind chutney  tsp,curd  tsp,tomato  nos,
+salt / tsp,chaat masala  tsp",https://drive.google.com/file/d/1RGVZx859wBFO5owQqMY__VaCRESxmxid/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/foodlinksgapApril25/KhastaBhel.jpg
+Sev Puri,ProductType,8,"Inventory,Food,Restaurant,Delhi Chaat,Vegeterian,",45,,"/ cup boiled black chana, cup boiled and mashed potato,
+ tbsp onion chopped, tsp chopped green chili,
+ tsp salt, tsp black salt, tsp panipuri masala,
+ tsp garam masala, tbsp chopped tomato,
+ tbsp chopped cucumber",https://drive.google.com/file/d/1LPPPSg6Ya0T8eVKMt0QfE_vwsyPJtLX1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220306/SevPuri.jpg
+Special 6 Flavour Panipuri,ProductType,9,"Inventory,Food,Restaurant,Delhi Chaat,Vegeterian,",30,,,https://drive.google.com/file/d/1aG10C-jKc967TIO-Lyw4R0UBVfdvA6KK/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20102022/Special6FlavourPanipuri.jpg
+Indori Dahi Bhalla,ProductType,10,"Inventory,Food,Restaurant,Delhi Chaat,Vegeterian,",75,,"Urad dal  cups,Moong dal / cups,Kishmish  tsp,
+Cashews  nos,Salt as taste  tsp,Hing  pinch,
+Oil for frying  cups,Dahi  bowls,Tamarind sauce..As taste  tsp",https://drive.google.com/file/d/1yF5IrnYu8G9-5ZHKw1FMHWLoAk2oQ8fY/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20102022/IndoriDahiBhalla.jpg
+Dahi Vada,ProductType,11,"Inventory,Food,Restaurant,Delhi Chaat,Vegeterian,",65,,"Urad daal  cups,Mung daal  cups,Dahi  gms,
+Namak - swaad anusaar  pinch,Imli sounth  tbsp,
+Puddina chatni  tbsp,talne k liye oil  tsp",https://drive.google.com/file/d/1-BwtRPHlb0C4bpqSXJrWa4FUJYm4O70Q/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Dahivada.jpg
+SweetCorn Bhel,ProductType,12,"Inventory,Food,Restaurant,Delhi Chaat,Vegeterian,",55,,"Corn kernels  cups,Finely chopped onion  tbsp,
+Finely chopped tomatoes - tbsp,Finely chopped cucumber  tbsp,
+Finely chopped capsicum  tbsp,Black pepper powder - pinch,
+Salt / tsp,chat masala / tsp",https://drive.google.com/file/d/1oXXQ0bMecrUaJ1lcnC5TmQ5_GM-Gi0iy/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20102022/SweetCornBhel.jpg
+Pav Bhaji,ProductType,13,"Inventory,Food,Restaurant,Delhi Chaat,Vegeterian,",55,," tbsp Oil, tbsp Butter,/ cup Garlic chopped,
+Green Chilly  chopped,Onion  cup chopped,
+to taste Salt or  tsp,Tricolor Bell pepper  cup chopped,
+ cup Cauliflower florets, cup Carrot chopped,
+Peas  cup(I have used frozen), tbsp Turmeric",https://drive.google.com/file/d/1k_uUCECpwnv5CmChzGwV97KAx-OjujZx/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/PavBhaji.jpg
+Dabeli,ProductType,14,"Inventory,Food,Restaurant,Delhi Chaat,Vegeterian,",45,,"boiled potatoes mashed,tsp pomegranate seeds,
+tsp peanuts, small onion chopped,/th cup  no.sev,
+tsp tamarind chutney,/rd cup water,
+tsp pav bhaji masala",https://drive.google.com/file/d/1ez_eS6pQ_O7svbNLhw87e3bCJ7OFHIMG/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Dabeli.jpg
+Veg Chinese,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://drive.google.com/file/d/1jGUX5UP4wRfWdRBwFaYZ_X00p2TnNvCJ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/VegChinese.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Veg Chinese,",,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",,,,,
+Veg Manchurian,ProductType,4,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",65,," cups grated cabbage, grated carrot, tsp maida,
+ tsp Salt, tsp chilli sauce, tsp soya sauce,
+ tsp tomato ketchup, tsp lemon juice, tsp sugar,
+ capsicum, onion, tsp chopped garlic",https://drive.google.com/file/d/1JcRpKUkGtHAU_F6awJQH4SDEVFXNNJY_/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegManchurian.jpg
+Paneer Manchurian,ProductType,5,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",75,,"ingredients for Balls : chopped onion / cups,
+chopped green chillies  tsp,paneer shredded  gms,
+chopped Coriander leaves  tbsp,cornflour  tbsp,
+salt / tsp,white papper / tsp,Ingredients for gravy :oil  tbsp,
+garlic chopped  tsp,ginger chopped  tsp",https://drive.google.com/file/d/1EqHE3hvCkPqEYjP6uu4p5S3htSY97pAP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/PaneerManchurian.jpg
+Mushroom Manchurian,ProductType,6,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",105,,"/ capiscum, small pieces of ginger,
+ white onion gloves, nos small green chilli,
+ green onion, tbsp soya sauce, tsp ketchup,
+ tsp vinegar, tsp chilli sauce, tbsp sugar,
+/ tsp black pepper,/ tsp salt for curry",https://drive.google.com/file/d/1h9mq-N1nat_cG5ELIeoeIHppq06tVhlv/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MushroomManchurian.jpg
+Gravy Manchurian,ProductType,7,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",85,,"Grated cabbage big bowls  bowls,capsicum  bowls,
+onion  bowls,garlic paste  tbsp,Ginger paste  tbsp,
+Tomato ketchup  tbsp,Soya sauce  tbsp,
+Green chilli sauce  tbsp,Red chilli sauce  tbsp,
+Pepper powder / tsp,Salt  tbsp,Corn flour  bowls,
+Oil  tbsp",https://drive.google.com/file/d/1y9ZWMhKoUPY_gbVf9U09YD8FyY0Rvpjg/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/GravyManchurian.jpg
+Paneer Chilli,ProductType,8,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",95,,"Paneer:  cup cubed,Onions:  finely sliced,
+Capsicum:  sliced,Green chillies: ,Garlic:  tbsp finely chopped,
+Corn flour:  / cup,Salt:  tsp,Black pepper powder:  tsp,
+Soya sauce:  tbsp,Tomato sauce:  tbsp,Red chilli sauce:  tbsp",https://drive.google.com/file/d/1Kk0U0y2YhiaEMjyJl-zWAzSE1Y1J7mHd/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/Paneerchilli.jpg
+American Chopsuey,ProductType,9,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",95,," packet Hakka Noodles, Capsicum, cup green onion,
+ cup cabbage, tbsp tomato sauce, tbsp Chili sauce,
+ tbsp cornstarch, cups oil for deep frying,
+ packet noodles taste maker, carrot",https://drive.google.com/file/d/1ET8UtZ5YsWqeLbVbBPZOJWthJrRHiy1L/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/AmericanChopsuey.jpg
+Chinese Bhel,ProductType,10,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",95,,"noodles fried  gms,onion sliced  nos,
+capsicum cut into fine slices  nos,powder sugar  / tbsp,
+tomato sauce  / tbsp,lemon juice  tsp,red chilli powder / tsp,
+pepper powder / tsp,chopped coriander leaves  tbsp,
+salt  tsp,roasted ground nuts  tbsp",https://drive.google.com/file/d/1GPi9hn0ZkUeegyxQKlKo7r_UcsvbSsw4/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/ChineseBhel.jpg
+Chinese Chopsuey,ProductType,11,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",95,," Capsicum, cup green onion, cup cabbage,
+ tbsp tomato sauce, tbsp Chili sauce,
+ tbsp cornstarch, cups oil for deep frying,
+ packet noodles taste maker, carrot",https://drive.google.com/file/d/15Fy26Ag3zxvUh1GPFbgMJs_CKPB1YRVE/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChineseChopsuey.jpg
+Fried Rice,ProductType,12,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",65,," tbsp​ veg oil, medium onion diced,
+ carrot, cup cut zucchini,Fresh green peas from - pods,
+ Green chillies, small tomato, tsp black pepper,
+/ tsp salt, tsp oregano,/ tsp chilli flakes",https://drive.google.com/file/d/1DIwrqLBQA06tZTNutwX-gYSolgANQhBp/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/FriedRice.jpg
+Veg Pulao,ProductType,13,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",65,," cup Cabbage, small onions, cup of capcicum,
+ cup of soya chunks, small carrots, spoon of garam masala, spoon of ginger garlic paste, spoon of jeera seeds, spoons of salt, spoon of ghee, cup of oil,
+ cup of peas",https://drive.google.com/file/d/1Q9y5vfasmuYAjDTQOc6uFluyeWQ-5t2O/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegPulao.jpg
+Schezwan Rice,ProductType,14,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",75,,"basmati rice  cups,Onion,finely chopped  nos,
+Ginger Garlic Paste  tsp,Cabbage / cups,
+Carrot Chopped(optonal)  nos,French beans / cups,
+Soy Sauce  tsp,Schezwan Sauce  tsp,
+Pepper Powder / tsp,Sesame Oil  tsp",https://drive.google.com/file/d/1GKO3YVjZ7d_a-_WJkiE7mWyZFQFK7k-u/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Schezwan-Rice.jpg
+Veg Hakka Noodles,ProductType,15,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",65,,#NAME?,https://drive.google.com/file/d/1Q90LHM1ZJtlXVlbMoWnysu0n9Ip0TJG0/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Hakka-Noodles.jpg
+Schezwan Noodles,ProductType,16,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",75,," gms Plain Noodles,- cloves of Garlic, finely chopped (approx. / tablespoon),/ inch Ginger, finely chopped (approx.  teaspoon),
+ small Onion or - Spring Onion, finely chopped (approx. / cup),
+/ cup shredded Cabbage,/ cup chopped Capsicum,
+/ cup finely chopped Carrot,/ cup finely chopped French Beans (green beans), tablespoons Schezwan Sauce (or to taste) upto  Tablespoons,
+ teaspoon White Vinegar,/ teaspoon Black Pepper Powder",https://drive.google.com/file/d/18mRtY1WH0owVL-322PHRxXJadtxCVAmA/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Schezwan-Noodles.jpg
+Paneer Cheese Noodles,ProductType,17,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",85,,"gm - Paneer,gm - Noodles,
+tsp - Kashmiri Red Chili Powder,tsp - Ginger-Garlic Paste,
+tsp - Tomato Sauce,tbsp - Salt(as per taste),
+tsp - Soya Sauce,-tbsp - Corn Flour,
+cup - oil to fry(as per requirements),/cup - Water(as per requirements)",https://drive.google.com/file/d/18_5FEspXl9PaKRsMoQmARHaEYgrxMCRI/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20102022/PaneerCheeseNoodles.jpg
+Mushroom Noodles,ProductType,18,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",95,,,https://drive.google.com/file/d/1LpIuh6Qae06blbHRIf-nqM0OwPDvM-CP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MushroomNoodles.jpg
+Finger Chips,ProductType,19,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",75,," Big sized potato ( finger chopped),Oil gm for deep fry,
+Salt / tsp,Black pepper / tsp.",https://drive.google.com/file/d/1WqsZvM7FYMNNTf5L-ia1UO8zPhtnxOAt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/FingerChips.jpg
+Italian Dishes,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://drive.google.com/file/d/1H3EBKWqk7_oQz6SyIsUuDfLeIj9_xGag/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20102022/ItalianDishes.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Italian Dishes,",,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Italian Dishes,Vegeterian,",,,,,
+Veg Burger,ProductType,4,"Inventory,Food,Restaurant,Italian Dishes,Vegeterian,",105,," tea spoon of turmeric,/ cup breadcrumbs,
+/ tsp chilli powder, tbsp vegetable oil for frying,
+/ tsp Cumin powder,/ tsp of black pepper,
+/ tsp salt,/ tsp ginger garlic paste,
+ tbsp maida, tbsp corn flour",https://drive.google.com/file/d/1d4T4ocGTOibUjikI_CZrc4fkIRChDq8d/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Burger.jpg
+Paneer Cheese Burger,ProductType,5,"Inventory,Food,Restaurant,Italian Dishes,Vegeterian,",125,,"onion  nos,capsicum  nos,Paneer  gms,
+chat masala / tsp,Cheese Cubes  nos,
+kitchen king masala / tsp,Coriander / bowls,
+Salt / tsp,Oil  cups",https://drive.google.com/file/d/1I1r2qyscrk0VpyG7Zn5GERMskkRC3rFt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-4/PaneerCheeseBurger.jpg
+Veg Pizza,ProductType,6,"Inventory,Food,Restaurant,Italian Dishes,Vegeterian,",165,,Maida  cup baking powder / tsp oil  tbsp salt and water as reqired . Grated vegitables; onion half cup capsicum half cup carrot half cup pepper powder / tsp Grated cheese half cup,https://drive.google.com/file/d/1NJ0EHPEnsfZsLMeplK8nK_1AmjeYgoJJ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegPizza.jpg
+Margherita Pizza,ProductType,7,"Inventory,Food,Restaurant,Italian Dishes,Vegeterian,",215,,"Base dough:maida (all purpose flour)  cups,yeast  / tsp,
+oil  tbsp,nido (milk powder)  tbsp,salt  pinch,
+dried oregano  tsp,Cheese Mixture:cheese cream  cups,
+(grated) parmessan cheese  cups,melted butter  tsp,
+milk powder  tbsp,chaat masala / tsp",https://drive.google.com/file/d/1KXIyjmMNTjfzRPrpG1lV1FB59-ItEwbd/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MargheritaPizza.jpg
+Double Cheese Pizza,ProductType,8,"Inventory,Food,Restaurant,Italian Dishes,Vegeterian,",265,," pizza base, tbsp pizza sauce, tbsp chopped onion,
+ tbsp chopped capsicum, tsp chopped green chili,
+ tbsp boiled sweet corn, cup mozzarella cheese,
+/ cup processed cheese, tsp oregano,
+ tsp chili flakes",https://drive.google.com/file/d/1GDbl-RFiNDshRr7wbWbUnUz7x-N67Utt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/DoubleCheesePizza.jpg
+Grilled Sandwich,ProductType,9,"Inventory,Food,Restaurant,Italian Dishes,Vegeterian,",95,,"Bread ,Corn / cup,Salt  teaspoon,
+Red chilly powder / teaspoon,Black pepper / teaspoon",https://drive.google.com/file/d/1SlsTlyhf9GK7x2o6o_bFGOjVDKwulYzN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/img/GrilledSandwich.jpg
+Veg Paneer Sandwich,ProductType,10,"Inventory,Food,Restaurant,Italian Dishes,Vegeterian,",135,,Paneer  pack / tbsp Chilli powder / tsp Pepper powder / tsp jeers powder / tsp Cinnamon powder  tbsp Honey  tbsp oil for mixing Masala  tbsp Oil for frying tsp salt tsp Chilli flakes  tbsp finely chopped Coriander leaves,https://drive.google.com/file/d/155q1gWQob0zQZCDlRnH-x1E_N35E36tt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Paneer-Sandwich.jpg
+Beverages,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Beverages.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Beverages,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Beverages,Vegeterian,",,,,,
+Mango Mastani,ProductType,4,"Inventory,Food,Restaurant,Beverages,Vegeterian,",95,,"vanilla ice creams scoops  nos,Almonds chopped  tsp,
+Pistachios Chopped  tsp",https://drive.google.com/file/d/1x1W3-4w0CLGLlbwKYCXVTc1dCDP448KA/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MangoMastani.jpg
+Mix Juice,ProductType,5,"Inventory,Food,Restaurant,Beverages,Vegeterian,",85,,,https://drive.google.com/file/d/1L5IHjoQIkIx3300TL2BHvtOKnAh1pbNb/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MixJuice.jpg
+Rabdi Falooda,ProductType,6,"Inventory,Food,Restaurant,Beverages,Vegeterian,",135,,"Milk  litre,Sugar  cups,Chopped Nut / cups,
+Saffron Strands - nos,Cardamom Powder  tsp,
+Nutmeg Powder  pinch",https://drive.google.com/file/d/1vBe2FEwC5FoB-PQVP4RSlnDWKGt5Mjow/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20102022/RabdiFalooda.jpg
+Mineral Water,ProductType,7,"Inventory,Food,Restaurant,Beverages,Vegeterian,",30,,,https://drive.google.com/file/d/1dE6p3x7iaL_Ob1eUU_qTV5Mgo1QFiBzv/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MineralWater.jpg
+Tea,ProductType,8,"Inventory,Food,Restaurant,Beverages,Vegeterian,",25,,"milk  cups,honey  tbsp,
+vanilla extract  tsp",https://drive.google.com/file/d/1fd2gFK13kA_Nc4iEqwyT__x9hmcV5BvG/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Tea.jpg
+Coffee,ProductType,9,"Inventory,Food,Restaurant,Beverages,Vegeterian,",35,,,https://drive.google.com/file/d/1Euh2dH6rEeREBGnpoYhanuCocHz7zE4U/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Coffee.jpg
+Kesar Tea,ProductType,10,"Inventory,Food,Restaurant,Beverages,Vegeterian,",35,,,https://drive.google.com/file/d/1CF6VULgNADEL-12u59Fp_uH-jVta0zEA/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20102022/KesarTea.jpg

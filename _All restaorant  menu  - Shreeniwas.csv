@@ -1,0 +1,100 @@
+label,nodeType,order,path,price,description,ingredients,link,imageLink,Swiggy ,Zomato
+Rice,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Rice.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Rice,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Rice,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg,,
+Jeera Rice,ProductType,4,"Inventory,Food,Restaurant,Rice,Vegeterian,",100,," bay leaf,cloves,green cardamom, big cardamom,green chili,
+ and   salt,  chopped coriander leaves,  rice,  ghee,
+ cinamom stick, and  water",https://drive.google.com/file/d/1-GF04qtXF6mVP48_0ek2Qj07ZNbdnEES/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/JeeraRice.jpg,,100
+Steam Rice,ProductType,5,"Inventory,Food,Restaurant,Rice,Vegeterian,",90,,,https://drive.google.com/file/d/1JwfmCVcMa9KTZbWP9pCn79TsIEWL0c1s/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/SteamRice.jpg,,90
+Veg Pulav,ProductType,6,"Inventory,Food,Restaurant,Rice,Vegeterian,",130,,"cauliflower  ,potato  ,onion  ,carrot  ,Cumin seeds  ,
+Salt  ,Bay leaves  ,Cinnamon stick  ,Black pepper ",https://drive.google.com/file/d/1JVN_maOr1Clvt-SlU51QylwBcZng4liR/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegPulav.jpg,,130
+Dal Khichdi,ProductType,7,"Inventory,Food,Restaurant,Rice,Vegeterian,",120,,"  chana dal,  dhuli moong dal,  arhar dal,
+  rice,  chopped ginger,  jeera,  hing,salt,
+  mirch powder,  haldi,  water",https://drive.google.com/file/d/1eYgIjQw-U3ZGT8GEPhcg9KZJWnc7BvLu/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/DalKhichdi.jpg,,120
+Namdev Rice,ProductType,8,"Inventory,Food,Restaurant,Rice,Vegeterian,",120,,,https://drive.google.com/file/d/1egVyzEE337E6PALyhgpLuHqJ0uV5nMyK/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/NamdevRice.jpg,,120
+Veg Fried Rice,ProductType,9,"Inventory,Food,Restaurant,Rice,Vegeterian,",120,,"Vegetable Oil ( I Preferred Rice bran oil)   Onion   carrots (Finley chopped)   additional veggies broccoli, cabbage, bell pepper, andor fresh or frozen peas( ) Minced Ginger (cloves) Minced Garlic   (to Taste) Salt   Boiled Rice  green onions Chopped Soy Sauce",https://drive.google.com/file/d/1bz2y7h_zxW5FIwkPU1ouPFuPXrxVdyrI/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Fried-Rice.jpg,,120
+Triple Fried Rice,ProductType,10,"Inventory,Food,Restaurant,Rice,Vegeterian,",150,,"Oil  ,ginger  ,garlic  ,green chilli  piece,onion  ,
+capsicum  ,beans  ,carrot  ,Tomato sauce  ,
+Green chilli sauce  ,Soya sauce  ",https://drive.google.com/file/d/16LBzwSWv9vLUaOqv6cMcQNGieedSH0VM/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/TripleFriedRice.jpg,,150
+Noodles,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/Noodles.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Noodles,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Noodles,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg,,
+Noodles Fried Rice,ProductType,4,"Inventory,Food,Restaurant,Noodles,Vegeterian,",115,,,https://drive.google.com/file/d/1LiEdzE04fQqjKCEQqrFW9GZVt-QLwxhD/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/NoodlesFriedRice.jpg,,115
+Veg Hakka Noodles,ProductType,5,"Inventory,Food,Restaurant,Noodles,Vegeterian,",100,," oil,  size onion chopped,  crushed garlic and green chillies,
+ carrot,  beans,  size capsicum,  chilli sauce,
+  soya sauce,  Schezwan sauce,  mixed herbs",https://drive.google.com/file/d/1Q90LHM1ZJtlXVlbMoWnysu0n9Ip0TJG0/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Hakka-Noodles.jpg,,100
+Manchurian Noodles,ProductType,6,"Inventory,Food,Restaurant,Noodles,Vegeterian,",120,,,https://drive.google.com/file/d/19N-JQkUrPKu0oRyP7RY2aOh0gUT7yL3K/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ManchurianNoodles.jpg,,120
+Roti and Naan,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Roti.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Roti and Naan,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Roti and Naan,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg,,
+Tandoori Roti Plain,ProductType,4,"Inventory,Food,Restaurant,Roti and Naan,Vegeterian,",15,,,https://drive.google.com/file/d/17zTnELdW6UqH_CiuidgCV5dEwXTzYEOF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Tandoori-Roti-Plain.jpeg,,15
+Tandoori Roti Butter,ProductType,5,"Inventory,Food,Restaurant,Roti and Naan,Vegeterian,",20,,,https://drive.google.com/file/d/1_djMamVGdxsSTj1bLZSJWx76mc-TrEiN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/TandooriRotiButter.jpg,,20
+Naan Plain,ProductType,6,"Inventory,Food,Restaurant,Roti and Naan,Vegeterian,",25,,"maida  ,aata  ,dry yeast  ,salt  ,sugar  ,milk  ,
+baking powder  ,baking soda  ,olive oil  ,curd  ",https://drive.google.com/file/d/1tq8bJzFHGmxzPNrxIew-hTss_MpmFM45/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/NaanPlain.jpg,,25
+Naan Butter,ProductType,7,"Inventory,Food,Restaurant,Roti and Naan,Vegeterian,",35,,"  maida all purpose flour,  sour curd,salt,
+oil, pack of butter at room temp",https://drive.google.com/file/d/1K7XMEnSy52n54CDBk7QFzeq_x-4ckJFz/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/NaanButter.jpg,,35
+Garlic Naan,ProductType,8,"Inventory,Food,Restaurant,Roti and Naan,Vegeterian,",40,,  melted butter   yoghurt (curd)   baking powder   sieved all purpose flour   garlic paste  pes salt water as required For Garnishing  handful chopped coriander leaves   butter,https://drive.google.com/file/d/1ZrjzImNdtXyFGwa8e1Mzd7oH4glw7hFg/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/GarlicNaan.jpg,,40
+Kulcha Plain,ProductType,9,"Inventory,Food,Restaurant,Roti and Naan,Vegeterian,",25,,,https://drive.google.com/file/d/1SO6GRfsH7bHZUEY-SBmcsAfxk-AH_hX5/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/KulchaPlain.jpg,,25
+Kulcha Butter,ProductType,10,"Inventory,Food,Restaurant,Roti and Naan,Vegeterian,",35,,,https://drive.google.com/file/d/1QwpfPsc_FOfz3w3cftSmGgFKqSXcdKee/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/KulchaButter.jpg,,35
+Tawa Roti Plain,ProductType,11,"Inventory,Food,Restaurant,Roti and Naan,Vegeterian,",10,,,https://drive.google.com/file/d/1kpX1QS6l9EwxNjyIdpuew-Fnor16Mhgk/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/TawaRotiPlain.jpg,,10
+Entree,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant7/Entree.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Entree,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Entree,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg,,
+Dal Kolhapuri,ProductType,4,"Inventory,Food,Restaurant,Entree,Vegeterian,",115,,,https://drive.google.com/file/d/1xrOq7mnzkFDeljYtoKkbDC4HMKFbZsJH/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/DalKolhapuri.jpg,,115
+Dal Palak,ProductType,5,"Inventory,Food,Restaurant,Entree,Vegeterian,",110,,"One and   of pre cooked yellow lentil or arhar dal , bunch of palak ,turmeric powder, hing , Dry red chillies, pods of garlic , tea spoon of cummin seeds , curry leaves",https://drive.google.com/file/d/1g_Mioux3e6z1OOkqVDYIDisygH6as6td/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/dalpalak.jpg,,110
+Dal Fry,ProductType,6,"Inventory,Food,Restaurant,Entree,Vegeterian,",95,,"  moong dal,  masoor dal, dry red chilies,
+ garlic cloves finely minced, garlic cloves peeled and lightly smashed,
+ bay leaf, onion sliced vertically,  mustard seeds,  cumin seeds,
+  hing, finely chopped coriander leaves,  red chili powder,
+  garam masala powder",https://drive.google.com/file/d/1K8tvnEHHFvnC05dq2Qx-p-dJ1RZDhOaK/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/DalFry.jpg,,95
+Dal Tadka,ProductType,7,"Inventory,Food,Restaurant,Entree,Vegeterian,",105,,"masoor Dal  ,arhar Dal  ,yellow moong Dal  ,
+For tadka : cloves garlic ,tomatoes chopped (without skin) or grated  ,
+Green chilies ,Dry Red chilies ,haldi  ,jeera  ,
+red chili powder  ,garam masala powder  ,Hing ,
+kitchen king powder ",https://drive.google.com/file/d/14RUwq8nVglapT24psGzGu5oLTx-UOZB7/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/DalTadka.jpg,,105
+Veg Tawa,ProductType,8,"Inventory,Food,Restaurant,Entree,Vegeterian,",170,,,https://drive.google.com/file/d/1oNNPcxIp1izNlVDKH31Ua_RIqFPzBhJj/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegTawa.jpg,,170
+Babycorn Masala,ProductType,9,"Inventory,Food,Restaurant,Entree,Vegeterian,",,," packs of babycorn cut in lenght wise, onions dicedchopped,
+conflour,pepper powder,salt,
+  oil, big capsicum chopped,soya sauce,red chilly sauce,
+tomato sauce,veniger optional,red chilly powder",https://drive.google.com/file/d/1CzB_nF5TX2K7_NfV6CbkEEVq5yvZ3c5J/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/BabyCornMasala.jpg,,
+Bhendi Masala,ProductType,10,"Inventory,Food,Restaurant,Entree,Vegeterian,",,," bhendi,  besan,  turmeric powder,  chilli powder,
+  dry Mango powder,  Salt,  jeera powder,  coriander powder,
+  oil,  onion,  dry coconut grated,  curry leaves",https://drive.google.com/file/d/19fqIuFOUUhUgkG8ydZ2ZF_cSaIi2c7DT/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/BhendiMasala.jpg,,
+Bhendi Dry,ProductType,11,"Inventory,Food,Restaurant,Entree,Vegeterian,",,," bhendi,  besan,  turmeric powder,  chilli powder,
+  dry Mango powder,  Salt,  jeera powder,  coriander powder,
+  oil,  onion,  dry coconut grated",https://drive.google.com/file/d/15RYEoJ26wMpo8XHWpw4JtRv4YAlgNigK/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/BhendiDry.jpg,,
+Aloo Masala,ProductType,12,"Inventory,Food,Restaurant,Entree,Vegeterian,",,,"  potatoes cut in to cm slice,  Onion finely chopped,
+  tomato puree,  thick curd lightly beaten,  cumin seed,
+  asafoetide,  ginger paste,  garlic paste,
+ balck cardamoms ,crushed,Salt to",https://drive.google.com/file/d/1OayDolO7_G7HBt7yyQDu_xyf9NVeXVQd/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/AlooMasala.jpg,,
+Chana Masala,ProductType,13,"Inventory,Food,Restaurant,Entree,Vegeterian,",100,,"Cholewhite chickpea soaked overnight  ,oil  ,bay leaf  ,
+cinnamon stick  ,cumin seeds  ,asafoetidia hing  ,
+kashmiri chilli powder  ,turmeric powder  ,coriander powder  ,
+red chilli powder  ,aamchur powderdry-mango powder  ",https://drive.google.com/file/d/1nZdItXvChE8U5tIvcRPEw-xj1k3IGUsu/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/ChanaMasala.jpg,,100
+Sev Bhaji,ProductType,14,"Inventory,Food,Restaurant,Entree,Vegeterian,",100,,"  thick masala sev, onion roasted, tomato chopped,  Coriander,
+  ginger garlic paste,  garam masala,  haldi,  mirch,
+  rai",https://drive.google.com/file/d/11FdfisCizLwICaPK_JTJ6NTS0iXA8WSw/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/SevBhaji.jpg,,100
+Soya Masala,ProductType,15,"Inventory,Food,Restaurant,Entree,Vegeterian,",,,"Soya chunks  ,Finely chopped onions  ,Tomato puree  ,
+Ginger garlic paste (optional)  ,Cream or malai  ,
+Kasoori methi one  ,Salt   ,Red chilly powder  ,
+turmeric powder  ,Corriander powder  ,Garam masala powder  ,
+Cumin seeds  ,Oil  ,Corriander leaves  ",https://drive.google.com/file/d/1bz7oYypx6EmThf5Vj9IlTB8ZmhpcQUSg/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/SoyaMasala.jpg,,
+Baigan Masala,ProductType,16,"Inventory,Food,Restaurant,Entree,Vegeterian,",,,"baigan  ,onion  ,tomato  ,garlic  ,ginger  ,
+coriander powder  ,red chilli powder  ,Garam masala  ,
+haldi  ,amchur powder  ,coconut powder  ",https://drive.google.com/file/d/1r4aTUAlIRkkqBI_OnVLcGAK3JW2VF6rk/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/baiganmasala.jpg,,
+Veg Angara,ProductType,17,"Inventory,Food,Restaurant,Entree,Vegeterian,",150,,,https://drive.google.com/file/d/1kZGwVBST5cqFqfDfT1eEOj9hBHA3RUZC/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegAngara.jpg,,150
+Veg Kolhapuri,ProductType,18,"Inventory,Food,Restaurant,Entree,Vegeterian,",140,,"dry grated Coconut  ,onion  ,Tomatoes finely chopped  ,
+ginger garlic paste  ,Coriander seeds  ,Whole garammasala: Cardamom  ,
+cloves cinnamon  hahi jeera  anise  black peppers 
+javetri,  tej pata  ",https://drive.google.com/file/d/1m1uzUXSxt9B7c1QZzLM8f5Xkfl5SnP3e/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegKolhapuri.jpg,,140
+Veg Hara Bara,ProductType,19,"Inventory,Food,Restaurant,Entree,Vegeterian,",,,  fresh coriander  green chili   fresh mint cinnamon stick  bay leaves  clove  green cardamoms   ghee or oil   cumin seeds   garam masala   freshly ground dry coriander seeds   Cashews and   Raisins for Garnish   extra ghee to roast cashews and raisins Salt to,https://drive.google.com/file/d/1dbSIFY5WMte31P666R06Xx9wrT9u9ytW/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/VegHaraBara.jpg,,
+Cheese Angara,ProductType,20,"Inventory,Food,Restaurant,Entree,Vegeterian,",190,,,https://drive.google.com/file/d/1557mDNpgHrneMD49pqybwxuemOHlw7h8/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/CheeseAngara.jpg,,190
+Cheese Masala,ProductType,21,"Inventory,Food,Restaurant,Entree,Vegeterian,",,,"roasted khichiya  ,chopped onion  ,chopped tomato  ,
+chopped cabbage  bowls,boiled potato shraded  ,garlic chatny  ,
+cheese cube  ,chat masala  ,chopped coriander  ,
+green chilli chopped ( optional )  ",https://drive.google.com/file/d/134NmWx0mULDwGv58SYegfPe3NqsPdieG/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/CheeseMasala.jpg,,
+Cheese Handi,ProductType,22,"Inventory,Food,Restaurant,Entree,Vegeterian,",160,,,,,,
+Cheese Paneer,ProductType,23,"Inventory,Food,Restaurant,Entree,Vegeterian,",,,"  grated paneer,  chopped paneer,  onion paste,
+  tomato puree,  chopped cheese cube,  oil,
+  cumin seeds, luang, tej patta,  ginger garlic paste,
+  garam Masala",https://drive.google.com/file/d/1gQSHiqlHXMX_-jnVqvenkbY7W0Vymu5B/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/CheesePaneer.jpg,,

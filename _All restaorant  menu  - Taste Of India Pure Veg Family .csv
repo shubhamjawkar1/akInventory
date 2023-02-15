@@ -1,0 +1,220 @@
+label,nodeType,order,path,price,description,link,imageLink,Swiggy,Zomato
+Noodles,ProductClass,1,"Inventory,Food,Restaurant,",,,,,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Noodles,",,,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Noodles,",,,,,,
+Veg Noodles,ProductType,4,"Inventory,Food,Restaurant,Noodles,Vegeterian,",160,,,,200,200
+Veg Hakka Noodles,ProductType,5,"Inventory,Food,Restaurant,Noodles,Vegeterian,",200,,,,240,250
+Schezwan Noodles,ProductType,6,"Inventory,Food,Restaurant,Noodles,Vegeterian,",220,,,,260,270
+Veg Manchurian Noodles,ProductType,7,"Inventory,Food,Restaurant,Noodles,Vegeterian,",240,,,,280,300
+Paneer Mushroom Noodles,ProductType,8,"Inventory,Food,Restaurant,Noodles,Vegeterian,",280,,https://drive.google.com/file/d/1lYxKq_2rsHtzzyV8VTx4Cn9JsdQ9gG11/view?usp=sharing,,320,350
+Combination Noodles,ProductType,9,"Inventory,Food,Restaurant,Noodles,Vegeterian,",280,,,,320,350
+Singapore Noodles,ProductType,10,"Inventory,Food,Restaurant,Noodles,Vegeterian,",300,,,,340,350
+Hong Kong Noodles,ProductType,11,"Inventory,Food,Restaurant,Noodles,Vegeterian,",300,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/HongKongNoodles.jpg,340,350
+Bowls,ProductClass,1,"Inventory,Food,Restaurant,",,,https://drive.google.com/file/d/1cH3TAJ4S3PPcfGfwB17r36hbzYmU_5Xx/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/Bowlsjpg.crdownload.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Bowls,",,,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Bowls,",,,,,,
+Sambhar Rice Bowl,ProductType,4,"Inventory,Food,Restaurant,Bowls,Vegeterian,",140,,https://drive.google.com/file/d/1alBSFcCDVWSqo5BNyBCABnCe3evBxcCl/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/SambharRiceBowl.jpg,180,180
+Dal Makhani Rice Bowl,ProductType,5,"Inventory,Food,Restaurant,Bowls,Vegeterian,",200,,https://drive.google.com/file/d/1Glwp1kvdFuR73HAZ7q_gGNlBfiofzC6z/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/DalMakhaniRiceBowl.JPG,250,250
+Chole Rice Bowl,ProductType,6,"Inventory,Food,Restaurant,Bowls,Vegeterian,",180,,https://drive.google.com/file/d/167Lkouz2oNY__ZENpV9PgHYjcfsxLZ7H/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/CholeRiceBowl.jpg,250,240
+Rajma Rice Bowl,ProductType,7,"Inventory,Food,Restaurant,Bowls,Vegeterian,",180,,https://drive.google.com/file/d/1v4946ks2-2EGFEHQ1T6wAInzMN0addU8/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/RajmaRiceBowl.jpg,240,240
+Beverages,ProductClass,1,"Inventory,Food,Restaurant,",,,,,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Beverages,",,,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Beverages,",,,,,,
+Kulfi,ProductType,4,"Inventory,Food,Restaurant,Beverages,Vegeterian,",120,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant7/Kulfi.jpg,,
+Taj Mahal Ice Cream,ProductType,5,"Inventory,Food,Restaurant,Beverages,Vegeterian,",120,,https://drive.google.com/file/d/1ymrG_-tkkdVSiYvHsnMOizkoLSOBxdXi/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/TajMahalIceCream.jpg,,
+Mava Badam Ice Cream,ProductType,6,"Inventory,Food,Restaurant,Beverages,Vegeterian,",120,,https://drive.google.com/file/d/1_48S0RzZ7eOuc6_fvqzfz0LLJUR6-9-D/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/MavaBadamIceCream.jpg,,
+Raj Bhog Ice Cream,ProductType,7,"Inventory,Food,Restaurant,Beverages,Vegeterian,",100,,https://drive.google.com/file/d/1ISdAhuRhO1iSfo3fZt3HrBqfx_LYsJIY/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/imgs-2/RajbhogIceCream.jpg,,
+Kesar Pista Ice Cream,ProductType,8,"Inventory,Food,Restaurant,Beverages,Vegeterian,",100,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/KesarPistaIceCream.png,,
+Paan Ice Cream,ProductType,9,"Inventory,Food,Restaurant,Beverages,Vegeterian,",100,,https://drive.google.com/file/d/1mrR_kk1LcJPSawA5Wgrf8GNZNm51VHZ3/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/PaanIceCream.jpg,,
+Black Current Ice Cream,ProductType,10,"Inventory,Food,Restaurant,Beverages,Vegeterian,",100,,https://drive.google.com/file/d/1yA0yfMah-U3RUeFM5StTSDeeBXftAZnh/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/BlackCurrentIceCream.jpg,,
+Kaju Anjir Ice Cream,ProductType,11,"Inventory,Food,Restaurant,Beverages,Vegeterian,",100,,https://drive.google.com/file/d/15Gxn0Ec4H5ydib1LE9hHk97dOG53Ru8t/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/KajuAnjirIceCream.jpg,,
+Choco Chips Ice Cream,ProductType,12,"Inventory,Food,Restaurant,Beverages,Vegeterian,",120,,https://drive.google.com/file/d/1b0swBT7MzzVrQMKcacHRbD_Im4gwrQQl/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/ChocoChipsIceCream.jpg,,
+Butter Scotch Ice Cream,ProductType,13,"Inventory,Food,Restaurant,Beverages,Vegeterian,",100,,,,,
+Vanila Ice Cream,ProductType,14,"Inventory,Food,Restaurant,Beverages,Vegeterian,",50,,,,,
+Strawberry Ice Cream,ProductType,15,"Inventory,Food,Restaurant,Beverages,Vegeterian,",50,,,,,
+American Nuts Ice Cream,ProductType,16,"Inventory,Food,Restaurant,Beverages,Vegeterian,",10,,https://drive.google.com/file/d/1MC2DbbPZKOsvk0KL6AHl_Hu_-QVRhKwV/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/AmericanNutsIceCream.jpg,,
+Cookie Cream Ice Cream,ProductType,17,"Inventory,Food,Restaurant,Beverages,Vegeterian,",100,,https://drive.google.com/file/d/15BfWcZ_9gmvarXvARltWD37RXHzmzS4N/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/CookieCreamIceCream.jpg,,
+Kesar Malti Ice Cream,ProductType,18,"Inventory,Food,Restaurant,Beverages,Vegeterian,",120,,,,,
+Chaas,ProductType,19,"Inventory,Food,Restaurant,Beverages,Vegeterian,",60,,,,,
+Masala Chaas,ProductType,20,"Inventory,Food,Restaurant,Beverages,Vegeterian,",90,,https://drive.google.com/file/d/1qV8yBQMCD9o7hXtHE8E9bOcGyxDNCeGz/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/MasalaChaas.jpg,,
+Sweet Lassi,ProductType,21,"Inventory,Food,Restaurant,Beverages,Vegeterian,",120,,,,,
+Punjabi Shahi Lassi,ProductType,22,"Inventory,Food,Restaurant,Beverages,Vegeterian,",150,,https://drive.google.com/file/d/1TO2kHOSWHmR3cQfecLfnhC_uMtahLFxZ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/PunjabiShahiLassi.jpg,,
+Rice,ProductClass,1,"Inventory,Food,Restaurant,",,,,,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Rice,",,,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Rice,",,,,,,
+Veg Pulao,ProductType,4,"Inventory,Food,Restaurant,Rice,Vegeterian,",200,,,,240,
+Tawa Pulao,ProductType,5,"Inventory,Food,Restaurant,Rice,Vegeterian,",200,,https://drive.google.com/file/d/1vbJmXtZ7Dw53K3hhJDyUiTNZw2PIlKNI/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/TawaPulao.jpg,250,250
+Paneer Pulao,ProductType,6,"Inventory,Food,Restaurant,Rice,Vegeterian,",250,,,,300,300
+Veg Hyderabadi Biryani,ProductType,7,"Inventory,Food,Restaurant,Rice,Vegeterian,",250,,,,300,300
+Veg Handi Biryani,ProductType,8,"Inventory,Food,Restaurant,Rice,Vegeterian,",250,,,,300,300
+Kashmiri Biryani,ProductType,9,"Inventory,Food,Restaurant,Rice,Vegeterian,",280,,,,340,320
+Paneer Biryani,ProductType,10,"Inventory,Food,Restaurant,Rice,Vegeterian,",280,,,,340,320
+Mushroom Biryani,ProductType,11,"Inventory,Food,Restaurant,Rice,Vegeterian,",280,,https://drive.google.com/file/d/1mb5Zqy6joLGJk3l0Tyi0xm20WBsc7NGa/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/MushroomBiryani.jpg,340,320
+Paneer Tikka Biryani,ProductType,12,"Inventory,Food,Restaurant,Rice,Vegeterian,",320,,,,380,380
+Paneer Masala Biryani,ProductType,13,"Inventory,Food,Restaurant,Rice,Vegeterian,",300,,https://drive.google.com/file/d/1vcot9NW8-c_iKr6q9tHDX0qcIVF3apN-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/PaneerMasalaBiryani.jpg,,350
+Veg Fried Rice,ProductType,14,"Inventory,Food,Restaurant,Rice,Vegeterian,",240,,,,250,250
+Paneer Fried Rice,ProductType,15,"Inventory,Food,Restaurant,Rice,Vegeterian,",240,,,,290,
+Veg Manchurian Fried Rice,ProductType,16,"Inventory,Food,Restaurant,Rice,Vegeterian,",240,,,,,
+Veg Schezwan Rice,ProductType,17,"Inventory,Food,Restaurant,Rice,Vegeterian,",220,,,,250,
+Mushroom Fried Rice,ProductType,18,"Inventory,Food,Restaurant,Rice,Vegeterian,",240,,,,290,
+Singapore Fried Rice,ProductType,19,"Inventory,Food,Restaurant,Rice,Vegeterian,",260,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/SingaporeFriedRice.jpg,300,300
+Triple Fried Rice,ProductType,20,"Inventory,Food,Restaurant,Rice,Vegeterian,",260,,,,300,300
+Combination Rice,ProductType,21,"Inventory,Food,Restaurant,Rice,Vegeterian,",280,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food22240622/CombinationRice.jpg,320,
+Dal Khichdi,ProductType,22,"Inventory,Food,Restaurant,Rice,Vegeterian,",160,,,,200,200
+Palak Khichdi,ProductType,23,"Inventory,Food,Restaurant,Rice,Vegeterian,",180,,,,220,240
+Rajma Chawal,ProductType,24,"Inventory,Food,Restaurant,Rice,Vegeterian,",180,,,,,
+Masala Dal Khichdi,ProductType,25,"Inventory,Food,Restaurant,Rice,Vegeterian,",200,,https://drive.google.com/file/d/13f4ThfQVnWgjHpqgXmhgXSCUF__T9dm7/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/MasalaDalKhichdi.jpeg,250,250
+Dal Rice,ProductType,26,"Inventory,Food,Restaurant,Rice,Vegeterian,",120,,,,150,
+Steam Rice,ProductType,27,"Inventory,Food,Restaurant,Rice,Vegeterian,",100,,,,140,
+Curd Rice,ProductType,28,"Inventory,Food,Restaurant,Rice,Vegeterian,",120,,,,150,150
+Peas Pulao,ProductType,29,"Inventory,Food,Restaurant,Rice,Vegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/PeasPulao.jpg,220,240
+Thali,ProductClass,1,"Inventory,Food,Restaurant,",,,,,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Thali,",,,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Thali,",,,,,,
+Veg Thali,ProductType,4,"Inventory,Food,Restaurant,Thali,Vegeterian,",150,,,,,200
+Punjabi Thali,ProductType,5,"Inventory,Food,Restaurant,Thali,Vegeterian,",200,,,,250,250
+Jain Thali,ProductType,6,"Inventory,Food,Restaurant,Thali,Vegeterian,",150,,https://drive.google.com/file/d/1bcfg4KuzYp7T8Xqy0e1CEq8AuZJi3zmx/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/JainThali.jpg,200,200
+Makki Ki Roti Sarso Ka Saag,ProductType,7,"Inventory,Food,Restaurant,Thali,Vegeterian,",200,,https://drive.google.com/file/d/1OOC6ITqY6pnnQPetcQxIi19Q4HoHzUPw/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/MakkiKiRotiSarsoKaSaag.jpg,280,250
+Entree,ProductClass,1,"Inventory,Food,Restaurant,",,,,,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Entree,",,,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Entree,",,,,,,
+Dal Tadka,ProductType,4,"Inventory,Food,Restaurant,Entree,Vegeterian,",150,,,,190,190
+Dal Fry,ProductType,5,"Inventory,Food,Restaurant,Entree,Vegeterian,",130,,,,160,180
+Lasooni Dal Tadka,ProductType,6,"Inventory,Food,Restaurant,Entree,Vegeterian,",180,,https://drive.google.com/file/d/1ovtNNUgp3AV4XzL_jYZofuOfIcC8Xud8/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/LasooniDalTadka.jpg,220,240
+Dal palak,ProductType,7,"Inventory,Food,Restaurant,Entree,Vegeterian,",160,,,,200,200
+Dal Makhani,ProductType,8,"Inventory,Food,Restaurant,Entree,Vegeterian,",200,,,,250,250
+Dal Kolhapuri,ProductType,9,"Inventory,Food,Restaurant,Entree,Vegeterian,",180,,,,230,
+Malai Kofta,ProductType,10,"Inventory,Food,Restaurant,Entree,Vegeterian,",200,,,,240,
+Dum Aloo,ProductType,11,"Inventory,Food,Restaurant,Entree,Vegeterian,",180,,,,220,230
+Dum Aloo Kashmiri,ProductType,12,"Inventory,Food,Restaurant,Entree,Vegeterian,",200,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/DumAlooKashmiri.jpg,250,250
+Raseela Aloo Mutter,ProductType,13,"Inventory,Food,Restaurant,Entree,Vegeterian,",180,,https://drive.google.com/file/d/1AUaf-C73qMZTHmSNPN6vrBqXjA-3jJBZ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/RaseelaAlooMutter.jpg,220,230
+Navratan Korma,ProductType,14,"Inventory,Food,Restaurant,Entree,Vegeterian,",240,,,,280,
+Chana Masala,ProductType,15,"Inventory,Food,Restaurant,Entree,Vegeterian,",180,,,,230,230
+Veg Kolhapuri,ProductType,16,"Inventory,Food,Restaurant,Entree,Vegeterian,",180,,,,230,
+Mix Veg,ProductType,17,"Inventory,Food,Restaurant,Entree,Vegeterian,",200,,,,250,250
+Veg Handi,ProductType,18,"Inventory,Food,Restaurant,Entree,Vegeterian,",240,,,,300,300
+Veg Hyderabadi,ProductType,19,"Inventory,Food,Restaurant,Entree,Vegeterian,",240,,,,,
+Mushroom Tikka Masala,ProductType,20,"Inventory,Food,Restaurant,Entree,Vegeterian,",220,,,,260,280
+Aloo Shimla Mirch,ProductType,21,"Inventory,Food,Restaurant,Entree,Vegeterian,",180,,https://drive.google.com/file/d/1Edyk_mT-tuLis1MCqyyS1xWwswK1uLiq/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/AlooShimlaMirch.jpg,220,240
+Aloo Mutter,ProductType,22,"Inventory,Food,Restaurant,Entree,Vegeterian,",160,,,,200,
+Bhindi Fry,ProductType,23,"Inventory,Food,Restaurant,Entree,Vegeterian,",160,,,,200,220
+Veg maharaja,ProductType,24,"Inventory,Food,Restaurant,Entree,Vegeterian,",220,,,,260,280
+kaju Masala,ProductType,25,"Inventory,Food,Restaurant,Entree,Vegeterian,",240,,,,300,300
+Kaju Curry,ProductType,26,"Inventory,Food,Restaurant,Entree,Vegeterian,",240,,,,300,300
+Shahi Paneer,ProductType,27,"Inventory,Food,Restaurant,Entree,Vegeterian,",250,,,,300,300
+Paneer Makhani,ProductType,28,"Inventory,Food,Restaurant,Entree,Vegeterian,",250,,,,290,300
+Paneer Do Pyaza,ProductType,29,"Inventory,Food,Restaurant,Entree,Vegeterian,",270,,,,340,350
+Paneer Handi,ProductType,30,"Inventory,Food,Restaurant,Entree,Vegeterian,",300,,,,400,400
+Paneer Bhurji,ProductType,31,"Inventory,Food,Restaurant,Entree,Vegeterian,",220,,,,260,280
+Paneer Kali Mirch,ProductType,32,"Inventory,Food,Restaurant,Entree,Vegeterian,",250,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food281221/PaneerKalimirch.jpg,,300
+Malai Paneer,ProductType,33,"Inventory,Food,Restaurant,Entree,Vegeterian,",270,,https://drive.google.com/file/d/19gFEcXJLNm5gigQT9vkIuK1K0oEyTZmf/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/MalaiPaneer.jpg,340,340
+Palak Paneer,ProductType,34,"Inventory,Food,Restaurant,Entree,Vegeterian,",200,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PalakPaneer.jpg,260,250
+Snacks,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/img/Smiley.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Snacks,",,,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Snacks,",,,,,,
+Idli Sambhar,ProductType,4,"Inventory,Food,Restaurant,Snacks,Vegeterian,",60,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/IdliSambhar.jpg,80,
+Mendu Vada Sambhar,ProductType,5,"Inventory,Food,Restaurant,Snacks,Vegeterian,",70,,https://drive.google.com/file/d/19OZ05IHrXAWjF81n0FIy5MK7GgK_Aio1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/MenduVadaSambhar.jpg,,
+Idli Mendu Vada Sambhar,ProductType,6,"Inventory,Food,Restaurant,Snacks,Vegeterian,",70,,https://drive.google.com/file/d/1fr1_qSaHRoCAxv-ro3v8wYOvPj4TvTT3/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/IdliMenduVadaSambhar.jpg,,
+Sada Dosa,ProductType,7,"Inventory,Food,Restaurant,Snacks,Vegeterian,",60,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/SadaDosa.jpg,80,80
+Masala Dosa,ProductType,8,"Inventory,Food,Restaurant,Snacks,Vegeterian,",90,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MasalaDosa.jpg,120,120
+Rava Sada Dosa,ProductType,9,"Inventory,Food,Restaurant,Snacks,Vegeterian,",80,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/10222/ravasadadosa.jpg,,110
+Rava Masala Dosa,ProductType,10,"Inventory,Food,Restaurant,Snacks,Vegeterian,",110,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Cafe/RavaMasalaDosa.jpg,,140
+Mysore Plain Dosa,ProductType,11,"Inventory,Food,Restaurant,Snacks,Vegeterian,",90,,https://drive.google.com/file/d/1dKRT6S6OyMi99G0r7bf-1QIjWLit3T5z/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/MysorePlainDosa.jpg,,120
+Mysore Masala Dosa,ProductType,12,"Inventory,Food,Restaurant,Snacks,Vegeterian,",120,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Mysoremasaladosa.jpg,150,150
+Plain Uttapam,ProductType,13,"Inventory,Food,Restaurant,Snacks,Vegeterian,",70,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/PlainUttapam.jpg,100,100
+Onion Uttapam,ProductType,14,"Inventory,Food,Restaurant,Snacks,Vegeterian,",90,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/OnionUttapam.jpg,,120
+Paneer Uttapam,ProductType,15,"Inventory,Food,Restaurant,Snacks,Vegeterian,",120,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/PaneerUttapam.jpg,,150
+Chole Bhature,ProductType,16,"Inventory,Food,Restaurant,Snacks,Vegeterian,",120,,,,150,150
+Pav Bhaji,ProductType,17,"Inventory,Food,Restaurant,Snacks,Vegeterian,",120,,,,150,150
+Butter Pav Bhaji,ProductType,18,"Inventory,Food,Restaurant,Snacks,Vegeterian,",140,,,,170,180
+Paneer Pav Bhaji,ProductType,19,"Inventory,Food,Restaurant,Snacks,Vegeterian,",160,,,,180,200
+Dahi Bhalle,ProductType,20,"Inventory,Food,Restaurant,Snacks,Vegeterian,",100,,https://drive.google.com/file/d/1kvmVuRQIEyU2oqqXXPtHVOIoo72VZlfX/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/DahiBhalle.jpg,130,130
+Bhale Papdi,ProductType,21,"Inventory,Food,Restaurant,Snacks,Vegeterian,",100,,https://drive.google.com/file/d/1ucKcutJBa2w2KPPUYmjd6c08gvcvlhNx/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/BhalePapdi.jpg,,
+Starters,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Starters.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Starters,",,,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Starters,",,,,,,
+Paneer Tikka,ProductType,4,"Inventory,Food,Restaurant,Starters,Vegeterian,",200,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/PaneerTikka.jpg,240,250
+Paneer Malai Tikka,ProductType,5,"Inventory,Food,Restaurant,Starters,Vegeterian,",250,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerMalaiTikka.jpg,280,300
+Malai Chaap,ProductType,6,"Inventory,Food,Restaurant,Starters,Vegeterian,",250,,https://drive.google.com/file/d/1j-_4QIjqLd1iZ_0jjOC7KfWQhEFgKQ4c/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/MalaiChaap.jpg,290,300
+Tandoori Chaap,ProductType,7,"Inventory,Food,Restaurant,Starters,Vegeterian,",250,,https://drive.google.com/file/d/1BBRYfNYnzpbWJS7B4szZKZY-yw-1PLBZ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/TandooriChaap.jpg,290,300
+Achari Chaap,ProductType,8,"Inventory,Food,Restaurant,Starters,Vegeterian,",250,,https://drive.google.com/file/d/1cgWKSMQ_vnqBSlUYghExJM7a5I6qab5G/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/AchariChaap.jpg,290,300
+Koliwada Chaap,ProductType,9,"Inventory,Food,Restaurant,Starters,Vegeterian,",300,,,,350,360
+Paneer Crispy Dry,ProductType,10,"Inventory,Food,Restaurant,Starters,Vegeterian,",220,,https://drive.google.com/file/d/18_DG7xwoFYu1SWqVNIwN4og15iqXIm4a/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/PaneerCrispyDry.jpg,250,280
+Paneer Chilly Dry,ProductType,11,"Inventory,Food,Restaurant,Starters,Vegeterian,",230,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerChillyDry.jpg,260,280
+Mushroom Manchurian Dry,ProductType,12,"Inventory,Food,Restaurant,Starters,Vegeterian,",220,,https://drive.google.com/file/d/1Rjww90FsHSt6VWx66_LTp3caJKbg-h9N/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/MushroomManchurianDry.jpg,260,270
+Paneer Manchurian Dry,ProductType,13,"Inventory,Food,Restaurant,Starters,Vegeterian,",240,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerManchurianDry.jpg,280,300
+Paneer Schezwan Dry,ProductType,14,"Inventory,Food,Restaurant,Starters,Vegeterian,",250,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/PaneerSchezwanDry.jpg,290,300
+Mushroom Chilly Dry,ProductType,15,"Inventory,Food,Restaurant,Starters,Vegeterian,",220,,,,260,270
+Paneer 65,ProductType,16,"Inventory,Food,Restaurant,Starters,Vegeterian,",250,,,,290,300
+Hara Bhara Kabab,ProductType,17,"Inventory,Food,Restaurant,Starters,Vegeterian,",200,,,,,250
+Veg Seekh Kabab,ProductType,18,"Inventory,Food,Restaurant,Starters,Vegeterian,",200,,,,,250
+Veg Platter,ProductType,19,"Inventory,Food,Restaurant,Starters,Vegeterian,",360,,,,410,410
+Veg Crispy,ProductType,20,"Inventory,Food,Restaurant,Starters,Vegeterian,",220,,,,300,270
+Paneer Pakoda,ProductType,21,"Inventory,Food,Restaurant,Starters,Vegeterian,",240,,,,270,300
+Chinese,ProductClass,1,"Inventory,Food,Restaurant,",,,,,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Chinese,",,,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Chinese,",,,,,,
+Veg Manchurian Gravy,ProductType,4,"Inventory,Food,Restaurant,Chinese,Vegeterian,",200,,,,,
+Mushroom Manchurian Gravy,ProductType,5,"Inventory,Food,Restaurant,Chinese,Vegeterian,",240,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/MushroomManchurianGravy.jpg,,
+Paneer Schezwan Gravy,ProductType,6,"Inventory,Food,Restaurant,Chinese,Vegeterian,",260,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/PaneerSchezwanGravy.jpg,,
+Veg Schezwan Gravy,ProductType,7,"Inventory,Food,Restaurant,Chinese,Vegeterian,",200,,,,,
+Gobi manchurian Gravy,ProductType,8,"Inventory,Food,Restaurant,Chinese,Vegeterian,",240,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/GobimanchurianGravy.jpg,,
+Veg Crispy Gravy,ProductType,9,"Inventory,Food,Restaurant,Chinese,Vegeterian,",240,,https://drive.google.com/file/d/1CJg-gojTaA6tNdN1XnfSYVbegyMs8bVJ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/VegCrispyGravy.jpg,,300
+Veg Garlic Gravy,ProductType,10,"Inventory,Food,Restaurant,Chinese,Vegeterian,",250,,,,,300
+Paneer Chilly Gravy,ProductType,11,"Inventory,Food,Restaurant,Chinese,Vegeterian,",280,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerChillyGravy.jpg,,340
+Mushroom Chilly Gravy,ProductType,12,"Inventory,Food,Restaurant,Chinese,Vegeterian,",280,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MushroomChillyGravy.jpg,,340
+Paneer Manchurian Chilly Gravy,ProductType,13,"Inventory,Food,Restaurant,Chinese,Vegeterian,",300,,https://drive.google.com/file/d/1jNFzavxpL16Qa6PymLXDPMtWQkhqhEMv/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/PaneerManchurianChillyGravy.jpg,,360
+Paneer Manchurian Gravy,ProductType,14,"Inventory,Food,Restaurant,Chinese,Vegeterian,",280,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerManchurianGravy.jpg,,
+Veg Ginger Gravy,ProductType,15,"Inventory,Food,Restaurant,Chinese,Vegeterian,",240,,,,,300
+Combos,ProductClass,1,"Inventory,Food,Restaurant,",,,https://drive.google.com/file/d/1uVMx24hivT__Gw6h3iBmUDBY3xZ7lvZ9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/Combos.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Combos,",,,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Combos,",,,,,,
+Dal Khichdi+Chaas,ProductType,4,"Inventory,Food,Restaurant,Combos,Vegeterian,",250,,,,,
+Veg Pulao+Lassi,ProductType,5,"Inventory,Food,Restaurant,Combos,Vegeterian,",250,,,,,
+Pav Bhaji+lLassi,ProductType,6,"Inventory,Food,Restaurant,Combos,Vegeterian,",200,,,,,
+Veg Thali+Chaas,ProductType,7,"Inventory,Food,Restaurant,Combos,Vegeterian,",200,,,,,
+Punjabi Thali+Lassi,ProductType,8,"Inventory,Food,Restaurant,Combos,Vegeterian,",280,,,,,
+Veg Platter+Cold Drink,ProductType,9,"Inventory,Food,Restaurant,Combos,Vegeterian,",400,,,,,
+Fried Rice+Cold Drink,ProductType,10,"Inventory,Food,Restaurant,Combos,Vegeterian,",270,,,,,
+Rajma Chawal+Lassi,ProductType,11,"Inventory,Food,Restaurant,Combos,Vegeterian,",250,,,,,
+Salad,ProductClass,1,"Inventory,Food,Restaurant,",,,,,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Salad,",,,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Salad,",,,,,,
+Green Salad,ProductType,4,"Inventory,Food,Restaurant,Salad,Vegeterian,",120,,,,150,150
+Onion Salad,ProductType,5,"Inventory,Food,Restaurant,Salad,Vegeterian,",100,,,,130,130
+Roasted,ProductClass,1,"Inventory,Food,Restaurant,",,,,,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Roasted,",,,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Roasted,",,,,,,
+Roasted Papad,ProductType,4,"Inventory,Food,Restaurant,Roasted,Vegeterian,",40,,,,,
+Fried Papad,ProductType,5,"Inventory,Food,Restaurant,Roasted,Vegeterian,",40,,,,60,50
+Masala Papad,ProductType,6,"Inventory,Food,Restaurant,Roasted,Vegeterian,",80,,,,100,100
+Raita,ProductClass,1,"Inventory,Food,Restaurant,",,,,,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Raita,",,,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Raita,",,,,,,
+Boondi Raita,ProductType,4,"Inventory,Food,Restaurant,Raita,Vegeterian,",100,,,,130,130
+Veg Raita,ProductType,5,"Inventory,Food,Restaurant,Raita,Vegeterian,",120,,,,150,150
+Pineapple Raita,ProductType,6,"Inventory,Food,Restaurant,Raita,Vegeterian,",150,,,,190,200
+Roti and Naan,ProductClass,1,"Inventory,Food,Restaurant,",,,,,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Roti and Naan,",,,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Roti and Naan,",,,,,,
+Tandoori Roti,ProductType,4,"Inventory,Food,Restaurant,Roti and Naan,Vegeterian,",30,,,,40,40
+Butter Tandoori Roti,ProductType,5,"Inventory,Food,Restaurant,Roti and Naan,Vegeterian,",40,,,,50,
+Chapati,ProductType,6,"Inventory,Food,Restaurant,Roti and Naan,Vegeterian,",20,,,,30,30
+Butter Chapati,ProductType,7,"Inventory,Food,Restaurant,Roti and Naan,Vegeterian,",30,,,,40,40
+Plain Naan,ProductType,8,"Inventory,Food,Restaurant,Roti and Naan,Vegeterian,",60,,,,80,75
+Butter Naan,ProductType,9,"Inventory,Food,Restaurant,Roti and Naan,Vegeterian,",80,,,,100,100
+Garlic Naan,ProductType,10,"Inventory,Food,Restaurant,Roti and Naan,Vegeterian,",100,,,,125,120
+Lachha Paratha,ProductType,11,"Inventory,Food,Restaurant,Roti and Naan,Vegeterian,",100,,,,,
+Paneer Paratha,ProductType,12,"Inventory,Food,Restaurant,Roti and Naan,Vegeterian,",140,,,,170,180
+Aloo Pyaz Paratha,ProductType,13,"Inventory,Food,Restaurant,Roti and Naan,Vegeterian,",120,,https://drive.google.com/file/d/1MkfEtR1hyA_P-xkKVsH6rNFmj9BbqsO3/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/AlooPyazParatha.jpg,,
+Gobi Paratha,ProductType,14,"Inventory,Food,Restaurant,Roti and Naan,Vegeterian,",120,,,,,150
+Soups,ProductClass,1,"Inventory,Food,Restaurant,",,,,,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Soups,",,,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Soups,",,,,,,
+Tomato Soup,ProductType,4,"Inventory,Food,Restaurant,Soups,Vegeterian,",150,,,,170,
+Sweet Corn Soup,ProductType,5,"Inventory,Food,Restaurant,Soups,Vegeterian,",180,,,,220,240
+Veg Soup,ProductType,6,"Inventory,Food,Restaurant,Soups,Vegeterian,",150,,,,,180
+Clear Soup,ProductType,7,"Inventory,Food,Restaurant,Soups,Vegeterian,",150,,,,190,180
+Hot & Sour Soup,ProductType,8,"Inventory,Food,Restaurant,Soups,Vegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/HotSourSoup.jpg,140,
+Veg Manchow Soup,ProductType,9,"Inventory,Food,Restaurant,Soups,Vegeterian,",180,,,,220,
+Palak Soup,ProductType,10,"Inventory,Food,Restaurant,Soups,Vegeterian,",200,,,,250,250

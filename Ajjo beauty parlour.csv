@@ -1,0 +1,684 @@
+﻿label,nodeType,order,path,price,description,link,imageLink
+Beauty Parlour,ProductFamily ,1,"Inventory,Others,",,,https://drive.google.com/file/d/1_bIntsQpmwE8qX_8R241RRxweDE0s7lj/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food290622/BeautyParlour.jpg
+Clean Ups,ProductClass,2,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1J4W0_Jz_X7JYUreaTj1X8yonszn9H2b7/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/CleanUps.jpg
+Vegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Clean Ups,",,,,
+NonVegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Clean Ups,",,,,
+Frout Clean Up Non Member,ProductType,3,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",700,,https://drive.google.com/file/d/1L_OFwnMibNZXfF8H31zKNg7zOLC20OiD/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FroutCleanUpNonMember.jpg
+Frout Clean Up Slivers Card,ProductType,4,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",560,,https://drive.google.com/file/d/1ZZ2tZw4yxRoFaq1yGc2vz51IwFLFjPfJ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FroutCleanUpSliversCard.jpg
+Frout Clean Up Gold Cards,ProductType,5,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",490,,https://drive.google.com/file/d/1erYe4fZATM5ulCemmmgO0x8LxBNzFC0J/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FroutCleanUpGoldCards.jpg
+Sara Organic Clean Up Non Member,ProductType,6,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",1200,,https://drive.google.com/file/d/12R8IQSMMpEUArz25NIZtsjAOkiB_NyDN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/SaraOrganicCleanUpNonMember.jpg
+Sara Organic Clean Up Slivers Card,ProductType,7,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",960,,https://drive.google.com/file/d/1Ukv9eN86Hzt4p8lYlAO4qk6EO5w-GesJ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/SaraOrganicCleanUpSliversCard.jpeg
+Sara Organic Clean Up Gold Cards,ProductType,8,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",840,,https://drive.google.com/file/d/1GO1Ah-_HN9J_wHkc3sc4xzlChNWZYGYQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/SaraOrganicCleanUpGoldCards.jpeg
+Whitening Clean Up Non Member,ProductType,9,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",1000,,https://drive.google.com/file/d/1ARntiwyJ-Xx3XDWApcpaT1FR9iPsrYeA/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WhiteningCleanUpNonMember.jpg
+Whitening Clean Up Slivers Card,ProductType,10,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",800,,https://drive.google.com/file/d/13wfLQs-S1tazQUK_P1YSaWrNgfK5knsu/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WhiteningCleanUpSliversCard.jpg
+Whitening Clean Up Gold Cards,ProductType,11,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",700,,https://drive.google.com/file/d/1UX9p-XBo74GE9p4xJTxaPdKLL5b_B58W/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WhiteningCleanUpGoldCards.jpg
+O3+ Skin Lightening Clean Up Non Member,ProductType,12,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",1500,,https://drive.google.com/file/d/1tBOHjHbOyyHpjb1lCiKLYKsxSwvJfv2f/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+SkinLighteningCleanUpNonMember.jpg
+O3+ Skin Lightening Clean Up Slivers Card,ProductType,13,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",800,,https://drive.google.com/file/d/10I-lAIlulO6BBQfEN7v7l3sEsW84HHIo/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+SkinLighteningCleanUpSliversCard.jpg
+O3+ Skin Lightening Clean Up,ProductType,14,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",700,,https://drive.google.com/file/d/1QtytufOWnF3nOtaQ1b0wiE8M7n6AGWQx/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+SkinLighteningCleanUp.jpg
+Blueberry Detox Non Member,ProductType,15,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",900,,,
+Blueberry Detox Slivers Card,ProductType,16,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",720,,,
+Blueberry Detox Gold Cards,ProductType,17,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",630,,,
+Anti Oxidant Non Member,ProductType,18,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",900,,https://drive.google.com/file/d/1zH3gy-Je2cf59sVoTwFOSv7sioZHeY37/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/AntiOxidantNonMember.jpg
+Anti Oxidant Slivers Card,ProductType,19,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",720,,https://drive.google.com/file/d/1RApQsMXPX7DD9HbmoLbLS6cTMo7_jYV6/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/AntiOxidantSliversCard.jpg
+Anti Oxidant Gold Cards,ProductType,20,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",630,,https://drive.google.com/file/d/1jBBURNLN-rZihQcyBdOfFEQDUMbs7w00/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/AntiOxidantGoldCards.jpg
+Sara Calm & Soot He Non Member,ProductType,21,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",1000,,,
+Sara Calm & Soot He Slivers Card,ProductType,22,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",800,,,
+Sara Calm & Soot He Gold Cards,ProductType,23,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",700,,,
+O3+ Vitamin C Dry Skin Non Member,ProductType,24,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",1100,,https://drive.google.com/file/d/1FotfkD_mWg4m4OxjYPCqdSgCgJyqSiVQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+VitaminCDrySkinNonMember.jpg
+O3+ Vitamin C Dry Skin Slivers Card,ProductType,25,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",880,,https://drive.google.com/file/d/1OZgVBK54yRoq3S2Jc0khsV4voWgKuEpY/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+VitaminCDrySkinSliversCard.jpg
+O3+ Vitamin C Dry Skin Gold Cards,ProductType,26,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",770,,https://drive.google.com/file/d/1GHEtaDJuPBG2-IndiIt4OZYpqgsCjL0y/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+VitaminCDrySkinGoldCards.jpg
+O3+ Acra Care Non Member,ProductType,27,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",1500,,,
+O3+ Acra Care Slivers Card,ProductType,28,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",1200,,,
+O3+ Acra Care Gold Cards,ProductType,29,"Inventory,Others,Beauty Parlour,Clean Ups,Vegeterian,",1050,,,
+Facials Essential,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1S_esrVaLhQrGbaFGcMFz4DRx_Mq29cHF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FacialsEssential.jpg
+Vegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Facials Essential,",,,,
+NonVegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Facials Essential,",,,,
+Frout Facial Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Facials Essential,Vegeterian,",1200,,,
+Frout Facial Slivers Card,ProductType,3,"Inventory,Others,Beauty Parlour,Facials Essential,Vegeterian,",960,,,
+Frout Facial Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Facials Essential,Vegeterian,",840,,,
+Sara Organic Facial Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Facials Essential,Vegeterian,",1600,,,
+Sara Organic Facial Slivers Card,ProductType,6,"Inventory,Others,Beauty Parlour,Facials Essential,Vegeterian,",1280,,,
+Sara Organic Facial Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Facials Essential,Vegeterian,",1120,,,
+Sara Whitening Facial Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Facials Essential,Vegeterian,",1300,,https://drive.google.com/file/d/1cwO5QpzdgQ7_67w91DBUbOgvmJiQ8sPe/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/SaraWhiteningFacialNonMember.jpg
+Sara Whitening Facial Slivers Card,ProductType,9,"Inventory,Others,Beauty Parlour,Facials Essential,Vegeterian,",1040,,https://drive.google.com/file/d/1XFyVdyAEq8k4nFgJq6iU_2dW4cf9FAhG/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/SaraWhiteningFacialSliversCard.jpg
+Sara Whitening Facial Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Facials Essential,Vegeterian,",900,,https://drive.google.com/file/d/1oAzZUPDhRNQUCozCmWaR-hE8u7cyFnrs/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/SaraWhiteningFacialGoldCards.jpg
+O3+ Whitening Peel Facial Non Member,ProductType,11,"Inventory,Others,Beauty Parlour,Facials Essential,Vegeterian,",2500,,https://drive.google.com/file/d/1Zog3Pa7Kol_Rc39Gyfta-HlPJGz1BIpA/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+WhiteningPeelFacialNonMember.jpg
+O3+ Whitening Peel Facial Slivers Card,ProductType,12,"Inventory,Others,Beauty Parlour,Facials Essential,Vegeterian,",2000,,https://drive.google.com/file/d/1z85lcjRo2mfi8S42F90_-s8wn9iRtq64/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+WhiteningPeelFacialSliversCard.jpg
+O3+ Whitening Peel Facial Gold Cards,ProductType,13,"Inventory,Others,Beauty Parlour,Facials Essential,Vegeterian,",1750,,https://drive.google.com/file/d/1qX8YOr7vVMnkTUM5LWCwZ60uY1mqoBF5/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+WhiteningPeelFacialGoldCards.jpg
+Hydra Dew  Non Member,ProductType,14,"Inventory,Others,Beauty Parlour,Facials Essential,Vegeterian,",1200,,https://drive.google.com/file/d/1oi-4Mt4q3JYoKLF4A_Nw4TpfOB2nCe41/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HydraDewNonMember.jpg
+Hydra Dew  Slivers Card,ProductType,15,"Inventory,Others,Beauty Parlour,Facials Essential,Vegeterian,",960,,https://drive.google.com/file/d/1viOSZ07r22FVHlAQgoQNN4burOSuQCSv/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HydraDewSliversCard.jpg
+Hydra Dew  Gold Cards,ProductType,16,"Inventory,Others,Beauty Parlour,Facials Essential,Vegeterian,",840,,https://drive.google.com/file/d/14r2r97H9kcumB5snLxbnNXNfo9uv4f0_/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HydraDewGoldCards.jpg
+O3+ Facial Acne Care Non Member,ProductType,17,"Inventory,Others,Beauty Parlour,Facials Essential,Vegeterian,",2000,,,
+O3+ Facial Acne Care Slivers Card,ProductType,18,"Inventory,Others,Beauty Parlour,Facials Essential,Vegeterian,",1600,,,
+O3+ Facial Acne Care Gold Cards,ProductType,19,"Inventory,Others,Beauty Parlour,Facials Essential,Vegeterian,",1400,,,
+Waxing Services ,ProductClass,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1V3zFyhXCd0x_52gzcfj8e-pjC0kIQywq/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WaxingServices.jpg
+Vegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Waxing Services ,",,,,
+NonVegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Waxing Services ,",,,,
+Upper Lip Regular  Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",75,,https://drive.google.com/file/d/1SC8zzxOS5mvU6O_48aPkRrIVWeow0af8/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/UpperLipRegularNonMember.jpg
+Upper Lip Regular Slivers Card,ProductType,3,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",60,,https://drive.google.com/file/d/1sqOR9PYcOvrMWMCKGPD7S3DFddyOZ5M7/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/UpperLipRegularSliversCard.jpg
+Upper Lip Regular Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",50,,https://drive.google.com/file/d/1On0yV3i5QLkE9q-jL4MPRDh5HM8zfT0-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/UpperLipRegularGoldCards.jpg
+Upper Lip Chocolate Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",100,,,
+Upper Lip Chocolate Slivers Card,ProductType,6,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",80,,,
+Upper Lip Chocolate Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",70,,,
+Chin Regular Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",75,,https://drive.google.com/file/d/139NgXrW2T6Of7xbpD6L2F3azL9bBYCJO/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ChinRegularNonMember.jpg
+Chin Regular Slivers Card,ProductType,9,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",60,,https://drive.google.com/file/d/1judVAI97hh_6P_No0fYBCDPZxaDSwrz0/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ChinRegularSliversCard.jpg
+Chin Regular Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",50,,https://drive.google.com/file/d/1nkl9neiLpYBrmyETjz0kNjIWOl2Jo0Xa/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ChinRegularGoldCards.jpg
+Chin Chocolate Non Member,ProductType,11,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",100,,,
+Chin Chocolate Slivers Card,ProductType,12,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",80,,,
+Chin Chocolate Gold Cards,ProductType,13,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",70,,,
+Jaw Line Regular Non Member,ProductType,14,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",75,,,
+Jaw Line Regular Slivers Card,ProductType,15,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",60,,,
+Jaw Line Regular Gold Cards,ProductType,16,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",50,,,
+Jaw Line Chocolate Non Member,ProductType,17,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",125,,,
+Jaw Line Chocolate Slivers Card,ProductType,18,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",100,,,
+Jaw Line Chocolate Gold Cards,ProductType,19,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",90,,,
+Side Lock Regular Non Member,ProductType,20,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",100,,https://drive.google.com/file/d/1bkhq0MtbXMRrZ6UjgBqGcFD7n7x2j1we/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/SideLockRegularNonMember.jpg
+Side Lock Regular Slivers Card,ProductType,21,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",80,,https://drive.google.com/file/d/1jCftIVcOnC-fgy_FF8ga5g2ssuBFcD13/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/SideLockRegularSliversCard.jpg
+Side Lock Regular Gold Cards,ProductType,22,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",70,,https://drive.google.com/file/d/1PxHYf7RFuDZxd4a87X2dNyILUcQ8KOdy/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/SideLockRegularGoldCards.jpg
+Side Lock Chocolate Non Member,ProductType,23,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",150,,,
+Side Lock Chocolate Slivers Card,ProductType,24,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",120,,,
+Side Lock Chocolate Gold Cards,ProductType,25,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",100,,,
+Full Face Regular Non Member,ProductType,26,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",200,,https://drive.google.com/file/d/1r1IqSDi82VTHvYqVLYJypERQlhpGpSDh/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullFaceRegularNonMember.jpg
+Full Face Regular Slivers Card,ProductType,27,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",160,,https://drive.google.com/file/d/1BNctAhHhq9d9nRgDVF1q7qgUdIdjuZ3r/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullFaceRegularSliversCard.jpg
+Full Face Regular Gold Cards,ProductType,28,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",140,,https://drive.google.com/file/d/1W60AhOv1mqmCeiPjfoi0pOKD9aFArbWW/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullFaceRegularGoldCards.jpg
+Full Face Chocolate Non Member,ProductType,29,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",300,,https://drive.google.com/file/d/1-Oyt8AG-MGmM5wo9E6dTo47rXeFVids8/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullFaceChocolateNonMember.jpg
+Full Face Chocolate Slivers Card,ProductType,30,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",240,,https://drive.google.com/file/d/1hlX-LoAoLOUZ8mMjCMIP8-27gEfAmYWQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullFaceChocolateSliversCard.jpg
+Full Face Chocolate Gold Cards,ProductType,31,"Inventory,Others,Beauty Parlour,Waxing Services,Vegeterian,",210,,https://drive.google.com/file/d/1WCUyTqspXzb88S_nkqRUrxdusDLHkZAc/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullFaceChocolateGoldCards.jpg
+Regular Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Full Face,",140,,,
+Chocolate Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Full Face,",300,,,
+Chocolate Slivers Card,ProductType,6,"Inventory,Others,Beauty Parlour,Full Face,",240,,,
+Chocolate Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Full Face,",210,,,
+Styling Service,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1vAs3QZ_hZtcfjQUKJz3gGdrhC28AlASo/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/StylingService.jpg
+Vegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Styling Service,",,,,
+NonVegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Styling Service,",,,,
+Kids Hair Cut Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",350,,https://drive.google.com/file/d/17uV1ADjvZhp-_c5Wavn5faZ3Dc6f8pS2/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/KidsHairCutNonMember.jpg
+Kids Hair Cut Slivers Card,ProductType,3,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",300,,https://drive.google.com/file/d/1-RgkOr-EpZYdW0bRoyRt5bK59TiwjRci/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/KidsHairCutSliversCard.jpg
+Kids Hair Cut Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",250,,https://drive.google.com/file/d/1jpMD1TeFaPho5RokDyDgLsKvsLu-bmch/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/KidsHairCutGoldCards.jpg
+Short Hair Cut Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",600,,,
+Short Hair Cut Slivers Card,ProductType,6,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",480,,,
+Short Hair Cut Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",420,,,
+Hair Cut Senior Style Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",800,,https://drive.google.com/file/d/144OhdUcnZ48hb_Vnyf5qnuYANBOLIXCY/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HairCutSeniorStyleNonMember.jpg
+Hair Cut Senior Style Slivers Card,ProductType,9,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",640,,https://drive.google.com/file/d/1g4EuoBa940LgkfZD_k-lHNmdBXmXi12E/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HairCutSeniorStyleSliversCard.jpg
+Hair Cut Senior Style Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",560,,https://drive.google.com/file/d/1cZ_sgYJhR-Gpz7dSuhjBbXMlp7uZ0ajS/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HairCutSeniorStyleGoldCards.jpg
+Creative Hair Cut Non Member,ProductType,11,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",800,,,
+Creative Hair Cut Slivers Card,ProductType,12,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",640,,,
+Creative Hair Cut Gold Cards,ProductType,13,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",560,,,
+Fringe Hair Cut Non Member,ProductType,14,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",300,,https://drive.google.com/file/d/1i2YMqOupb26SVKfyu2IyDDU16QM1Crgm/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FringeHairCutNonMember.jpg
+Fringe Hair Cut Slivers Card,ProductType,15,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",240,,https://drive.google.com/file/d/1R2y2MfHLe5kfIDm_kUorCFkKb4_XPXI8/view?usp=sharing,
+Fringe Hair Cut Gold Cards,ProductType,16,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",200,,https://drive.google.com/file/d/10dM-FA5pMG3CMRIDBTp7nOQGFds2kbMg/view?usp=sharing,
+Blunt Cut Non Member,ProductType,17,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",500,,https://drive.google.com/file/d/11FslMq_N3Ju41bLx52QeP9aV9Sp9O0Y9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BluntCutNonMember.jpg
+Blunt Cut Slivers Card,ProductType,18,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",400,,https://drive.google.com/file/d/1oX0jHb-CpCqwhwXaplfX2OWI9SR_L1R0/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BluntCutSliversCard.jpg
+Blunt Cut Gold Cards,ProductType,19,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",350,,https://drive.google.com/file/d/1_OClmwo5C6J9gto33QRkDIM9OnArRoEF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BluntCutGoldCards.jpg
+Layered Hair Cut Non Member,ProductType,20,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",500,,https://drive.google.com/file/d/1Yue3xRlq-rQ9Jn36-M5Tz1rYRginSwfN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/LayeredHairCutNonMember.jpg
+Layered Hair Cut Slivers Card,ProductType,21,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",400,,https://drive.google.com/file/d/1ETb0elV5IUs9eppqF9ZwWMn1WsOLFDQk/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/LayeredHairCutSliversCard.jpg
+Layered Hair Cut Gold Cards,ProductType,22,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",350,,https://drive.google.com/file/d/1yHdkb2AHqmGpTQYRDCbFwhmfGi655is9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/LayeredHairCutGoldCards.jpg
+Bob With Layers Hair Cut Non Member,ProductType,23,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",800,,https://drive.google.com/file/d/1octp9yKuSX8pIuSLGxRBEJBxrGoIwgwd/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BobWithLayersHairCutNonMember.jpg
+Bob With Layers Hair Cut Slivers Card,ProductType,24,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",640,,https://drive.google.com/file/d/1YOpcm3FkXNa6Fz078FelmFrC-eDLLFJ-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BobWithLayersHairCutSliversCard.jpg
+Bob With Layers Hair Cut Gold Cards,ProductType,25,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",560,,https://drive.google.com/file/d/1uFrFImGqrKgaMX-yDYkXkLvsq-8q3193/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BobWithLayersHairCutGoldCards.jpg
+Splky Hair Cut Non Member,ProductType,26,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",300,,,
+Splky Hair Cut Slivers Card,ProductType,27,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",240,,,
+Splky Hair Cut Gold Cards,ProductType,28,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",200,,,
+Punk Look Emo Haircut Non Member,ProductType,29,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",500,,,
+Punk Look Emo Haircut Slivers Card,ProductType,30,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",400,,,
+Punk Look Emo Haircut Gold Cards,ProductType,31,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",350,,,
+Step Hair Cut Non Member,ProductType,32,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",500,,https://drive.google.com/file/d/1tfpRlI8Zv2HMO_BNgbhbVqaDngVxG3EG/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/StepHairCutNonMember.jpg
+Step Hair Cut Slivers Card,ProductType,33,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",400,,https://drive.google.com/file/d/1rDzXG9Cage_MtfrWsHrHz83Kb5LTfjT5/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/StepHairCutSliversCard.jpg
+Step Hair Cut Gold Cards,ProductType,34,"Inventory,Others,Beauty Parlour,Styling Service,Vegeterian,",350,,https://drive.google.com/file/d/1S9A8GUBOvNG_KZ7oKupKKP83sRmlfUew/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/StepHairCutGoldCards.jpg
+Kerateen Treatment,ProductClass,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/13BFWgDmmj4WM8IxIBSYnVGFGjaCE-k9e/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/KerateenTreatment.jpg
+Vegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Kerateen Treatment,",,,,
+NonVegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Kerateen Treatment,",,,,
+Shoulder Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Kerateen Treatment,Vegeterian,",4000,,,
+Shoulder Slivers Card,ProductType,3,"Inventory,Others,Beauty Parlour,Kerateen Treatment,Vegeterian,",3200,,,
+Shoulder Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Kerateen Treatment,Vegeterian,",2800,,,
+Mid Length Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Kerateen Treatment,Vegeterian,",4500,,https://drive.google.com/file/d/1ho5XRZ7IekPYP3LVenXR7MnyVWiHYH2-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/MidLengthNonMember.jpg
+Mid Length Slivers Card,ProductType,6,"Inventory,Others,Beauty Parlour,Kerateen Treatment,Vegeterian,",3600,,https://drive.google.com/file/d/1RNV_zs9UI-5OLRC9l068Gi855kUeq3oB/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/MidLengthSliversCard.jpg
+Mid Length Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Kerateen Treatment,Vegeterian,",3200,,https://drive.google.com/file/d/1gMtIi3XsDqKudsvfGPM48BXfEp4WTkmQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/MidLengthGoldCards.jpg
+Below Mid Length Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Kerateen Treatment,Vegeterian,",6000,,https://drive.google.com/file/d/1f-SworghV8-90p4_GcmgD0b9ZduewjE9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/MidLengthGoldCards.jpg
+Below Mid Length Slivers Card,ProductType,9,"Inventory,Others,Beauty Parlour,Kerateen Treatment,Vegeterian,",4800,,https://drive.google.com/file/d/1q1V27tkgPFJaD5-_qtnxVKH1T5aejiWT/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMidLengthSliversCard.jpg
+Below Mid Length Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Kerateen Treatment,Vegeterian,",4200,,https://drive.google.com/file/d/1ACKqul_m2xTWdUiQSbrQRrX-zKyrcJ0n/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMidLengthGoldCards.jpg
+Walst Length Non Member,ProductType,11,"Inventory,Others,Beauty Parlour,Kerateen Treatment,Vegeterian,",8000,,https://drive.google.com/file/d/1urbUPCAWjMkh4JyXWk8qtQTdlc5v4Z9q/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthNonMember3.jpg
+Walst Length Slivers Card,ProductType,12,"Inventory,Others,Beauty Parlour,Kerateen Treatment,Vegeterian,",6400,,https://drive.google.com/file/d/17Om5Ty5xULGjT2ZPmE5uftsA1TFXkLsr/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthSliversCard.jpg
+Walst Length Gold Cards,ProductType,13,"Inventory,Others,Beauty Parlour,Kerateen Treatment,Vegeterian,",5600,,https://drive.google.com/file/d/1wsQwGRv3nSkytEYp12saRtJUg346hnrC/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthGoldCards2.jpg
+Global Colour,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1tzrvqKM0A1hCKv6LIsrrAPF9XpDdRasY/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food290622/GlobalColour.jpg
+Vegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Global Colour,",,,,
+NonVegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Global Colour,",,,,
+Shoulder Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",2500,,,
+Shoulder Slivers Card,ProductType,3,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",2000,,,
+Shoulder Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",1800,,,
+Mld Length Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",3000,,,
+Mld Length Slivers Card,ProductType,6,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",2400,,,
+Mld Length Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",2100,,,
+Below Mld Length Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",4000,,https://drive.google.com/file/d/1gXVF80W1ngm91NpjDEy69A3hzwVMIQSI/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLength.jpg
+Below Mld Length Slivers Card,ProductType,9,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",3200,,https://drive.google.com/file/d/1HraViKkXH8Kd2eIVDrZOK6o2QADJGkDa/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLengthSliversCard2.jpg
+Below Mld Length Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",2800,,https://drive.google.com/file/d/1eYtdQ9xrxMYMtlNpqM9wlIaxbVCKN348/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLengthGoldCards1.jpg
+Walst Length Non Member,ProductType,11,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",5000,,https://drive.google.com/file/d/1urbUPCAWjMkh4JyXWk8qtQTdlc5v4Z9q/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthNonMember3.jpg
+Walst Length Slivers Card,ProductType,12,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",4000,,https://drive.google.com/file/d/17Om5Ty5xULGjT2ZPmE5uftsA1TFXkLsr/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthSliversCard.jpg
+Walst Length Gold Cards,ProductType,13,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",3500,,https://drive.google.com/file/d/1wsQwGRv3nSkytEYp12saRtJUg346hnrC/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthGoldCards2.jpg
+Threading Service,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1s5KSsDdlhRfZY1HtWEAN52W9tNu2GyQ7/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ThreadingService.jpeg
+Vegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Threading Service,",,,,
+NonVegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Threading Service,",,,,
+Eyebrow Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",50,,https://drive.google.com/file/d/1v-2KqZIrAvl3HyElaw9Vz0-_3yyhWY2t/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/EyebrowNonMember.jpg
+Eyebrow Slivers Card,ProductType,3,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",50,,https://drive.google.com/file/d/1eF9F32B1J2vR2H_s8eru0AAQ2bfq9Kvo/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/EyebrowSliversCard.jpg
+Eyebrow Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",50,,https://drive.google.com/file/d/1brRjIEglVexsbz1HA6uPb7Kt2xFbsw9O/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/EyebrowGoldCards.jpg
+Upper Lip Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",30,,https://drive.google.com/file/d/1_IKvZ77IvzIGZ2kgtrP-3kVwKF6QAJ6z/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/UpperLipNonMember1.jpg
+Upper Lip Slivers Card,ProductType,6,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",30,,https://drive.google.com/file/d/1H6XvqNRivWvmulFJKqrs7sBnzN95_kG-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/UpperLipSliversCard1.jpg
+Upper Lip Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",30,,https://drive.google.com/file/d/1GifWfSH9EqkyWqDnnD-mkAdyY3zLh8Tj/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/UpperLipGoldCards1.jpg
+Forehead Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",30,,https://drive.google.com/file/d/1OOuLUOXeaNyWac2tw_wQsTcTpHI1I0CB/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ForeheadNonMember.jpg
+Forehead Slivers Card,ProductType,9,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",30,,https://drive.google.com/file/d/1iHUusk8MUnaBLcWyF5GFS0MdRRqe-zuh/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ForeheadSliversCard.jpg
+Forehead Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",30,,https://drive.google.com/file/d/1P8yYVANcv-HXOYytVVEBkGJ10gO8JaZa/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ForeheadGoldCards.jpg
+Bunny Lines Non Member,ProductType,11,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",30,,,
+Bunny Lines Slivers Card,ProductType,12,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",30,,,
+Bunny Lines Gold Cards,ProductType,13,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",30,,,
+Dimpled Chin Non Member,ProductType,14,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",30,,https://drive.google.com/file/d/1UzkbuYfcoFYToQ4VfyNeRSjXtPXrlbkd/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/DimpledChinNonMember.jpg
+Dimpled Chin Slivers Card,ProductType,15,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",30,,https://drive.google.com/file/d/1zXxy8ahK3kzlZHsLxg2gsg1A-HZLZnPP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/DimpledChinSliversCard.jpg
+Dimpled Chin Gold Cards,ProductType,16,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",30,,https://drive.google.com/file/d/1v3DPXwJS0rBK5_pLjFiA8_LRMWKJTAnP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/DimpledChinGoldCards.jpg
+Plastysmal Bands Non Member,ProductType,17,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",90,,,
+Plastysmal Bands Slivers Card,ProductType,18,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",80,,,
+Plastysmal Bands Gold Cards,ProductType,19,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",70,,,
+Gummy Lines Non Member,ProductType,20,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",30,,,
+Gummy Lines Slivers Card,ProductType,21,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",30,,,
+Gummy Lines Gold Cards,ProductType,22,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",30,,,
+Sides & Jaw Line Non Member,ProductType,23,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",100,,,
+Sides & Jaw Line Slivers Card,ProductType,24,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",80,,,
+Sides & Jaw Line Gold Cards,ProductType,25,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",70,,,
+Face Non Member,ProductType,26,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",250,,,
+Face Slivers Card,ProductType,27,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",200,,,
+Face Gold Cards,ProductType,28,"Inventory,Others,Beauty Parlour,Threading Service,Vegeterian,",180,,,
+Detan,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1icf-9M0YIw5TowaS2b3GjqTYeRlWp0fD/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/Detan.jpg
+Vegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Detan,",,,,
+NonVegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Detan,",,,,
+Half Hand Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",700,,https://drive.google.com/file/d/10eYc0TbYx1HPekMflFVfrurpsmuwGDDA/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HalfHandNonMember1.jpg
+Half Hand Slivers Card,ProductType,3,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",550,,https://drive.google.com/file/d/1IFcjsM3haAXtIyvZwyeH7TN6HZhvfxt1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HalfHandSliversCard1.jpg
+Half Hand Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",500,,https://drive.google.com/file/d/12aBAvT9uppMYHKhZnfw0BXInO2LrhUt2/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HalfHandGoldCards1.jpg
+Full Hand Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",1000,,https://drive.google.com/file/d/1s_QSrbUmz0iZMIJzgGeVMXM3w4ygwfLc/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullHandNonMember.jpg
+Full Hand Slivers Card,ProductType,6,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",800,,https://drive.google.com/file/d/1Yqr6hysnocVaN4PeEEvUdIJpjmVAcTdN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullHandSliversCard.jpg
+Full Hand Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",700,,https://drive.google.com/file/d/1XGu0b6Qe8VU_pwzZqVkpb-NhB_lPcdkK/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullHandGoldCards.jpg
+Half Legs Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",1000,,https://drive.google.com/file/d/1aIfnAAXH757nUsv3kQ701IigLB_97Vxb/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HalfLegsNonMember.jpg
+Half Legs Slivers Card,ProductType,9,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",800,,https://drive.google.com/file/d/1ST3J5oQd2GHuVQEeEYVtOyDJJCbhOQOF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HalfLegsSliversCard1.jpg
+Half Legs Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",700,,https://drive.google.com/file/d/1-jr_YKDar_kf0ZPdX_ydquiHW3a0XdX7/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HalfLegsGoldCards.jpg
+Full Legs Non Member,ProductType,11,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",1500,,https://drive.google.com/file/d/1e6AIH9ixmutU8tpHSDVBHMqKqxA2kbQ1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullLegsNonMember1.jpg
+Full Legs Slivers Card,ProductType,12,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",1200,,https://drive.google.com/file/d/1mXIUxVSWQCcmHFfiKyqw_M41Qgvc27q1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullLegsSliversCard.jpg
+Full Legs Gold Cards,ProductType,13,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",1050,,https://drive.google.com/file/d/1ZYr4uFZ4sErMwF8YWoRUgyBgYmm6pJwo/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullLegsGoldCards1.jpg
+Face Non Member,ProductType,14,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",450,,,
+Face Slivers Card,ProductType,15,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",350,,,
+Face Gold Cards,ProductType,16,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",320,,,
+Face & Neck Non Member,ProductType,17,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",550,,,
+Face & Neck Slivers Card,ProductType,18,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",440,,,
+Face & Neck Gold Cards,ProductType,19,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",380,,,
+Half Front Non Member,ProductType,20,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",500,,,
+Half Front Slivers Card,ProductType,21,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",400,,,
+Half Front Gold Cards,ProductType,22,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",350,,,
+Half Back Non Member,ProductType,23,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",500,,https://drive.google.com/file/d/1z9s5DKbhvH7FT7-G1bETFt4LiWQ4PC_g/view?usp=sharing,
+Half Back Slivers Card,ProductType,24,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",400,,,
+Half Back Gold Cards,ProductType,25,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",350,,,
+Full Back Non Member,ProductType,26,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",700,,https://drive.google.com/file/d/1Od2ZJcPbsNEKQz9EFLbh_ub0bD5C2U2-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullBackNonMember.jpg
+Full Back Slivers Card,ProductType,27,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",550,,https://drive.google.com/file/d/1aIkHt9IWSgj6fXuGb5KEXlI2eB7Iu6Jw/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullBackSliversCard.jpg
+Full Back Gold Cards,ProductType,28,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",500,,https://drive.google.com/file/d/1-uL7SUiAbsmBpPnGXGPSYun8YIU9nLh1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullBackGoldCards.jpg
+Full Body Non Member,ProductType,29,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",3000,,https://drive.google.com/file/d/11z5yEHmtp7U-8HwFq1ljzHGhAY-75hqG/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullBodyNonMember.jpg
+Full Body Slivers Card,ProductType,30,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",2400,,https://drive.google.com/file/d/1zRLON87d0ycQM-xahalQ-0cmynjZHyiI/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullBodySliversCard.jpg
+Full Body Gold Cards,ProductType,31,"Inventory,Others,Beauty Parlour,Detan,Vegeterian,",2100,,https://drive.google.com/file/d/1E7WktOl_F1L_yuPDogNy0aVdp26W57Ud/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullBodyGoldCards.jpg
+Bleach,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1jGRr-3aK-H5ztu1a8FmKPvqSgfP8k_-e/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food290622/Bleach.jpg
+Vegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Bleach,",,,,
+NonVegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Bleach,",,,,
+Upper Lip Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",70,,https://drive.google.com/file/d/1_IKvZ77IvzIGZ2kgtrP-3kVwKF6QAJ6z/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/UpperLipNonMember1.jpg
+Upper Lip Slivers Card,ProductType,3,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",60,,https://drive.google.com/file/d/1H6XvqNRivWvmulFJKqrs7sBnzN95_kG-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/UpperLipSliversCard1.jpg
+Upper Lip Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",50,,https://drive.google.com/file/d/1GifWfSH9EqkyWqDnnD-mkAdyY3zLh8Tj/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/UpperLipGoldCards1.jpg
+Face Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",250,,,
+Face Slivers Card,ProductType,6,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",200,,,
+Face Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",180,,,
+Face & Neck Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",350,,,
+Face & Neck Slivers Card,ProductType,9,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",280,,,
+Face & Neck Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",250,,,
+Underarms Non Member,ProductType,11,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",100,,https://drive.google.com/file/d/1bU6_Gvk9yQHjqdWTdwYy7wPz5C_mCBjE/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/UnderarmsNonMember.jpg
+Underarms Slivers Card,ProductType,12,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",80,,https://drive.google.com/file/d/1ZvtjLH-bsGrVVgDcvhL3uBKw9zFYR174/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/UnderarmsSliversCard.jpg
+Underarms Gold Cards,ProductType,13,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",70,,https://drive.google.com/file/d/1eWQfYUGIWYdNfMCPxg0_CSlQlHcdFxpe/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/UnderarmsGoldCards.jpg
+Half Hand Non Member,ProductType,14,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",400,,https://drive.google.com/file/d/10eYc0TbYx1HPekMflFVfrurpsmuwGDDA/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HalfHandNonMember1.jpg
+Half Hand Slivers Card,ProductType,15,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",320,,https://drive.google.com/file/d/1IFcjsM3haAXtIyvZwyeH7TN6HZhvfxt1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HalfHandSliversCard1.jpg
+Half Hand Gold Cards,ProductType,16,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",280,,https://drive.google.com/file/d/12aBAvT9uppMYHKhZnfw0BXInO2LrhUt2/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HalfHandGoldCards1.jpg
+Full Hand Non Member,ProductType,17,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",600,,https://drive.google.com/file/d/1s_QSrbUmz0iZMIJzgGeVMXM3w4ygwfLc/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullHandNonMember.jpg
+Full Hand Slivers Card,ProductType,18,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",480,,https://drive.google.com/file/d/1Yqr6hysnocVaN4PeEEvUdIJpjmVAcTdN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullHandSliversCard.jpg
+Full Hand Gold Cards,ProductType,19,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",420,,https://drive.google.com/file/d/1XGu0b6Qe8VU_pwzZqVkpb-NhB_lPcdkK/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullHandGoldCards.jpg
+Half Legs Non Member,ProductType,20,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",600,,https://drive.google.com/file/d/1aIfnAAXH757nUsv3kQ701IigLB_97Vxb/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HalfLegsNonMember.jpg
+Half Legs Slivers Card,ProductType,21,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",480,,https://drive.google.com/file/d/1ST3J5oQd2GHuVQEeEYVtOyDJJCbhOQOF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HalfLegsSliversCard1.jpg
+Half Legs Gold Cards,ProductType,22,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",420,,https://drive.google.com/file/d/1-jr_YKDar_kf0ZPdX_ydquiHW3a0XdX7/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HalfLegsGoldCards.jpg
+Full Legs Non Member,ProductType,23,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",800,,https://drive.google.com/file/d/1e6AIH9ixmutU8tpHSDVBHMqKqxA2kbQ1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullLegsNonMember1.jpg
+Full Legs Slivers Card,ProductType,24,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",650,,https://drive.google.com/file/d/1mXIUxVSWQCcmHFfiKyqw_M41Qgvc27q1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullLegsSliversCard.jpg
+Full Legs Gold Cards,ProductType,25,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",550,,https://drive.google.com/file/d/1ZYr4uFZ4sErMwF8YWoRUgyBgYmm6pJwo/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullLegsGoldCards1.jpg
+Half Front Non Member,ProductType,26,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",300,,,
+Half Front Slivers Card,ProductType,27,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",250,,,
+Half Front Gold Cards,ProductType,28,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",200,,,
+Half Back Non Member,ProductType,29,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",300,,https://drive.google.com/file/d/1z9s5DKbhvH7FT7-G1bETFt4LiWQ4PC_g/view?usp=sharing,
+Half Back Slivers Card,ProductType,30,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",250,,,
+Half Back Gold Cards,ProductType,31,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",200,,,
+Full Front Non Member,ProductType,32,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",500,,,
+Full Front Slivers Card,ProductType,33,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",400,,,
+Full Front Gold Cards,ProductType,34,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",350,,,
+Full Back Body Non Member,ProductType,35,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",2500,,,
+Full Back Body Slivers Card,ProductType,36,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",2000,,,
+Full Back Body Gold Cards,ProductType,37,"Inventory,Others,Beauty Parlour,Bleach,Vegeterian,",1800,,,
+Straightening/Smoothening,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/15eoIHy5sYcOvxcye-CKb_I1zzwfp3Nr2/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/StraighteningSmoothening.jpg
+Vegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Straightening/Smoothening,",,,,
+NonVegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Straightening/Smoothening,",,,,
+Shoulder Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Straightening/Smoothening,Vegeterian,",5000,,,
+Shoulder Slivers Card,ProductType,3,"Inventory,Others,Beauty Parlour,Straightening/Smoothening,Vegeterian,",4000,,,
+Shoulder Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Straightening/Smoothening,Vegeterian,",3500,,,
+Mld Length Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Straightening/Smoothening,Vegeterian,",6500,,,
+Mld Length Slivers Card,ProductType,6,"Inventory,Others,Beauty Parlour,Straightening/Smoothening,Vegeterian,",5200,,,
+Mld Length Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Straightening/Smoothening,Vegeterian,",4500,,,
+Below Mld Length Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Straightening/Smoothening,Vegeterian,",8000,,https://drive.google.com/file/d/1gXVF80W1ngm91NpjDEy69A3hzwVMIQSI/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLength.jpg
+Below Mld Length Slivers Card,ProductType,9,"Inventory,Others,Beauty Parlour,Straightening/Smoothening,Vegeterian,",6400,,https://drive.google.com/file/d/1HraViKkXH8Kd2eIVDrZOK6o2QADJGkDa/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLengthSliversCard2.jpg
+Below Mld Length Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Straightening/Smoothening,Vegeterian,",5600,,https://drive.google.com/file/d/1eYtdQ9xrxMYMtlNpqM9wlIaxbVCKN348/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLengthGoldCards1.jpg
+Walst Length Non Member,ProductType,11,"Inventory,Others,Beauty Parlour,Straightening/Smoothening,Vegeterian,",10000,,https://drive.google.com/file/d/1urbUPCAWjMkh4JyXWk8qtQTdlc5v4Z9q/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthNonMember3.jpg
+Walst Length Slivers Card,ProductType,12,"Inventory,Others,Beauty Parlour,Straightening/Smoothening,Vegeterian,",8000,,https://drive.google.com/file/d/17Om5Ty5xULGjT2ZPmE5uftsA1TFXkLsr/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthSliversCard.jpg
+Walst Length Gold Cards,ProductType,13,"Inventory,Others,Beauty Parlour,Straightening/Smoothening,Vegeterian,",7000,,https://drive.google.com/file/d/1wsQwGRv3nSkytEYp12saRtJUg346hnrC/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthGoldCards2.jpg
+Rebounding,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1gEI40TEQNx-NmW39XoRjogYi9yR_Z7mQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/Rebounding.jpg
+Vegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Rebounding,",,,,
+NonVegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Rebounding,",,,,
+Shoulder Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Rebounding,Vegeterian,",4000,,,
+Shoulder Slivers Card,ProductType,3,"Inventory,Others,Beauty Parlour,Rebounding,Vegeterian,",3200,,,
+Shoulder Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Rebounding,Vegeterian,",2800,,,
+Mld Length Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Rebounding,Vegeterian,",5000,,,
+Mld Length Slivers Card,ProductType,6,"Inventory,Others,Beauty Parlour,Rebounding,Vegeterian,",4000,,,
+Mld Length Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Rebounding,Vegeterian,",3500,,,
+Below Mld Length Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Rebounding,Vegeterian,",6500,,https://drive.google.com/file/d/1gXVF80W1ngm91NpjDEy69A3hzwVMIQSI/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLength.jpg
+Below Mld Length Slivers Card,ProductType,9,"Inventory,Others,Beauty Parlour,Rebounding,Vegeterian,",5200,,https://drive.google.com/file/d/1HraViKkXH8Kd2eIVDrZOK6o2QADJGkDa/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLengthSliversCard2.jpg
+Below Mld Length Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Rebounding,Vegeterian,",4500,,https://drive.google.com/file/d/1eYtdQ9xrxMYMtlNpqM9wlIaxbVCKN348/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLengthGoldCards1.jpg
+Walst Length Non Member,ProductType,11,"Inventory,Others,Beauty Parlour,Rebounding,Vegeterian,",8000,,https://drive.google.com/file/d/1urbUPCAWjMkh4JyXWk8qtQTdlc5v4Z9q/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthNonMember3.jpg
+Walst Length Slivers Card,ProductType,12,"Inventory,Others,Beauty Parlour,Rebounding,Vegeterian,",6400,,https://drive.google.com/file/d/17Om5Ty5xULGjT2ZPmE5uftsA1TFXkLsr/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthSliversCard.jpg
+Walst Length Gold Cards,ProductType,13,"Inventory,Others,Beauty Parlour,Rebounding,Vegeterian,",5600,,https://drive.google.com/file/d/1wsQwGRv3nSkytEYp12saRtJUg346hnrC/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthGoldCards2.jpg
+Perming Spiral,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1tizebU0Xg9RmsGu2SrlEH0xccLPGNawS/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/PermingSpiral.jpg
+Vegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Perming Spiral,",,,,
+NonVegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Perming Spiral,",,,,
+Mld Length Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Perming Spiral,Vegeterian,",6000,,,
+Mld Length Slivers Card,ProductType,3,"Inventory,Others,Beauty Parlour,Perming Spiral,Vegeterian,",4800,,,
+Mld Length Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Perming Spiral,Vegeterian,",4200,,,
+Below Mld Length Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Perming Spiral,Vegeterian,",8000,,https://drive.google.com/file/d/1gXVF80W1ngm91NpjDEy69A3hzwVMIQSI/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLength.jpg
+Below Mld Length Slivers Card,ProductType,6,"Inventory,Others,Beauty Parlour,Perming Spiral,Vegeterian,",6400,,https://drive.google.com/file/d/1HraViKkXH8Kd2eIVDrZOK6o2QADJGkDa/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLengthSliversCard2.jpg
+Below Mld Length Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Perming Spiral,Vegeterian,",5600,,https://drive.google.com/file/d/1eYtdQ9xrxMYMtlNpqM9wlIaxbVCKN348/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLengthGoldCards1.jpg
+Walst Length Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Perming Spiral,Vegeterian,",10000,,https://drive.google.com/file/d/1urbUPCAWjMkh4JyXWk8qtQTdlc5v4Z9q/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthNonMember3.jpg
+Walst Length Slivers Card,ProductType,9,"Inventory,Others,Beauty Parlour,Perming Spiral,Vegeterian,",8000,,https://drive.google.com/file/d/17Om5Ty5xULGjT2ZPmE5uftsA1TFXkLsr/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthSliversCard.jpg
+Walst Length Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Perming Spiral,Vegeterian,",7000,,https://drive.google.com/file/d/1wsQwGRv3nSkytEYp12saRtJUg346hnrC/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthGoldCards2.jpg
+Kera Smooth Tharapy Treatment,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1_kkdbiO7Q8iuEv7DdDC0U2Ie30pE0geV/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/KeraSmoothTharapyTreatment.jpg
+Vegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Kera Smooth Tharapy Treatment,",,,,
+NonVegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Kera Smooth Tharapy Treatment,",,,,
+Shoulder Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Kera Smooth Tharapy Treatment,Vegeterian,",4500,,,
+Shoulder Slivers Card,ProductType,3,"Inventory,Others,Beauty Parlour,Kera Smooth Tharapy Treatment,Vegeterian,",3600,,,
+Shoulder Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Kera Smooth Tharapy Treatment,Vegeterian,",3100,,,
+Mld Length Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Kera Smooth Tharapy Treatment,Vegeterian,",5000,,,
+Mld Length Slivers Card,ProductType,6,"Inventory,Others,Beauty Parlour,Kera Smooth Tharapy Treatment,Vegeterian,",4000,,,
+Mld Length Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Kera Smooth Tharapy Treatment,Vegeterian,",3500,,,
+Below Mld Length Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Kera Smooth Tharapy Treatment,Vegeterian,",6000,,https://drive.google.com/file/d/1gXVF80W1ngm91NpjDEy69A3hzwVMIQSI/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLength.jpg
+Below Mld Length Slivers Card,ProductType,9,"Inventory,Others,Beauty Parlour,Kera Smooth Tharapy Treatment,Vegeterian,",4800,,https://drive.google.com/file/d/1HraViKkXH8Kd2eIVDrZOK6o2QADJGkDa/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLengthSliversCard2.jpg
+Below Mld Length Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Kera Smooth Tharapy Treatment,Vegeterian,",4200,,https://drive.google.com/file/d/1eYtdQ9xrxMYMtlNpqM9wlIaxbVCKN348/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLengthGoldCards1.jpg
+Walst Length Non Member,ProductType,11,"Inventory,Others,Beauty Parlour,Kera Smooth Tharapy Treatment,Vegeterian,",8500,,https://drive.google.com/file/d/1urbUPCAWjMkh4JyXWk8qtQTdlc5v4Z9q/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthNonMember3.jpg
+Walst Length Slivers Card,ProductType,12,"Inventory,Others,Beauty Parlour,Kera Smooth Tharapy Treatment,Vegeterian,",6800,,https://drive.google.com/file/d/17Om5Ty5xULGjT2ZPmE5uftsA1TFXkLsr/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthSliversCard.jpg
+Walst Length Gold Cards,ProductType,13,"Inventory,Others,Beauty Parlour,Kera Smooth Tharapy Treatment,Vegeterian,",6000,,https://drive.google.com/file/d/1wsQwGRv3nSkytEYp12saRtJUg346hnrC/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthGoldCards2.jpg
+Sine Bond Silk Treatment,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/14gplcQId9KVhkIHDkyMAlHh-XJVGxGVB/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/SineBondSilkTreatment.jpg
+Vegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Sine Bond Silk Treatment,",,,,
+NonVegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Sine Bond Silk Treatment,",,,,
+Shoulder Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Sine Bond Silk Treatment,Vegeterian,",5000,,,
+Shoulder Slivers Card,ProductType,3,"Inventory,Others,Beauty Parlour,Sine Bond Silk Treatment,Vegeterian,",4000,,,
+Shoulder Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Sine Bond Silk Treatment,Vegeterian,",3500,,,
+Mld Length Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Sine Bond Silk Treatment,Vegeterian,",5500,,,
+Mld Length Slivers Card,ProductType,6,"Inventory,Others,Beauty Parlour,Sine Bond Silk Treatment,Vegeterian,",4400,,,
+Mld Length Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Sine Bond Silk Treatment,Vegeterian,",3800,,,
+Below Mld Length Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Sine Bond Silk Treatment,Vegeterian,",6500,,https://drive.google.com/file/d/1gXVF80W1ngm91NpjDEy69A3hzwVMIQSI/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLength.jpg
+Below Mld Length Slivers Card,ProductType,9,"Inventory,Others,Beauty Parlour,Sine Bond Silk Treatment,Vegeterian,",5200,,https://drive.google.com/file/d/1HraViKkXH8Kd2eIVDrZOK6o2QADJGkDa/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLengthSliversCard2.jpg
+Below Mld Length Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Sine Bond Silk Treatment,Vegeterian,",4500,,https://drive.google.com/file/d/1eYtdQ9xrxMYMtlNpqM9wlIaxbVCKN348/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLengthGoldCards1.jpg
+Walst Length Non Member,ProductType,11,"Inventory,Others,Beauty Parlour,Sine Bond Silk Treatment,Vegeterian,",9000,,https://drive.google.com/file/d/1urbUPCAWjMkh4JyXWk8qtQTdlc5v4Z9q/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthNonMember3.jpg
+Walst Length Slivers Card,ProductType,12,"Inventory,Others,Beauty Parlour,Sine Bond Silk Treatment,Vegeterian,",7200,,https://drive.google.com/file/d/17Om5Ty5xULGjT2ZPmE5uftsA1TFXkLsr/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthSliversCard.jpg
+Walst Length Gold Cards,ProductType,13,"Inventory,Others,Beauty Parlour,Sine Bond Silk Treatment,Vegeterian,",6300,,https://drive.google.com/file/d/1wsQwGRv3nSkytEYp12saRtJUg346hnrC/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthGoldCards2.jpg
+Relaxing Treatment,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1dVwhzhoiwqvlhy7cEotvu1dgvpae82O2/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/RelaxingTreatment.jpg
+Vegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",,,,
+NonVegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",,,,
+Proteen Brazillian Treatment Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",2500,,https://drive.google.com/file/d/179MU3QCsxSFYuluWydOwI-xoHJg0k2HH/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ProteenBrazillianTreatmentNonMember.jpg
+Proteen Brazillian Treatment Slivers Card,ProductType,3,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",2000,,https://drive.google.com/file/d/1aSN995AnaFkosWSlJY0vXmjhPAsbkE0y/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ProteenBrazillianTreatmentSliverCards.jpg
+Proteen Brazillian Treatment Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",1800,,https://drive.google.com/file/d/1dpqG7TWdFn2PAMHziYVzVVc6GczslfHU/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ProteenBrazillianTreatmentGoldCards.jpg
+Mid Langht Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",2800,,,
+Mid Langht Slivers Card,ProductType,6,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",2240,,,
+Mid Langht Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",1960,,,
+Repairing Hair Spa Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",1800,,,
+Repairing Hair Spa Slivers Card,ProductType,9,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",1450,,,
+Repairing Hair Spa Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",1250,,,
+Mid Langht Non Member,ProductType,11,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",2200,,,
+Mid Langht Slivers Card,ProductType,12,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",1760,,,
+Mid Langht Gold Cards,ProductType,13,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",1540,,,
+Smoothing Hair Spa Non Member,ProductType,14,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",1000,,,
+Smoothing Hair Spa Slivers Card,ProductType,15,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",800,,,
+Smoothing Hair Spa Gold Cards,ProductType,16,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",700,,,
+Mid Langht Non Member,ProductType,17,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",1200,,,
+Mid Langht Slivers Card,ProductType,18,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",960,,,
+Mid Langht Gold Cards,ProductType,19,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",840,,,
+Below Mid Langht Non Member,ProductType,20,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",1400,,,
+Below Mid Langht Slivers Card,ProductType,21,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",1200,,,
+Below Mid Langht Gold Cards,ProductType,22,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",980,,,
+West Langht Langht Non Member,ProductType,23,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",1000,,,
+West Langht Langht Slivers Card,ProductType,24,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",1280,,,
+West Langht Langht Gold Cards,ProductType,25,"Inventory,Others,Beauty Parlour,Relaxing Treatment,Vegeterian,",1120,,,
+Highlight Colour Sitting,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1LCRenDnr2NLP7ZY5J1vialqNdNzXB714/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HighlightColourSitting.jpg
+Vegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Highlight Colour Sitting,",,,,
+NonVegeterian,ProductLine ,3,"Inventory,Others,Beauty Parlour,Highlight Colour Sitting,",,,,
+Shoulder Non Member,ProductType,3,"Inventory,Others,Beauty Parlour,Highlight Colour Sitting,Vegeterian,",4000,,,
+Shoulder Slivers Card,ProductType,4,"Inventory,Others,Beauty Parlour,Highlight Colour Sitting,Vegeterian,",3200,,,
+Shoulder Gold Cards,ProductType,5,"Inventory,Others,Beauty Parlour,Highlight Colour Sitting,Vegeterian,",2800,,,
+Mld Length Non Member,ProductType,6,"Inventory,Others,Beauty Parlour,Highlight Colour Sitting,Vegeterian,",4500,,,
+Mld Length Slivers Card,ProductType,7,"Inventory,Others,Beauty Parlour,Highlight Colour Sitting,Vegeterian,",3600,,,
+Mld Length Gold Cards,ProductType,8,"Inventory,Others,Beauty Parlour,Highlight Colour Sitting,Vegeterian,",3200,,,
+Below Mld Length Non Member,ProductType,9,"Inventory,Others,Beauty Parlour,Highlight Colour Sitting,Vegeterian,",6000,,https://drive.google.com/file/d/1gXVF80W1ngm91NpjDEy69A3hzwVMIQSI/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLength.jpg
+Below Mld Length Slivers Card,ProductType,10,"Inventory,Others,Beauty Parlour,Highlight Colour Sitting,Vegeterian,",4800,,https://drive.google.com/file/d/1HraViKkXH8Kd2eIVDrZOK6o2QADJGkDa/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLengthSliversCard2.jpg
+Below Mld Length Gold Cards,ProductType,11,"Inventory,Others,Beauty Parlour,Highlight Colour Sitting,Vegeterian,",4200,,https://drive.google.com/file/d/1eYtdQ9xrxMYMtlNpqM9wlIaxbVCKN348/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLengthGoldCards1.jpg
+Walst Length Non Member,ProductType,12,"Inventory,Others,Beauty Parlour,Highlight Colour Sitting,Vegeterian,",8000,,https://drive.google.com/file/d/1urbUPCAWjMkh4JyXWk8qtQTdlc5v4Z9q/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthNonMember3.jpg
+Walst Length Slivers Card,ProductType,13,"Inventory,Others,Beauty Parlour,Highlight Colour Sitting,Vegeterian,",6400,,https://drive.google.com/file/d/17Om5Ty5xULGjT2ZPmE5uftsA1TFXkLsr/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthSliversCard.jpg
+Walst Length Gold Cards,ProductType,14,"Inventory,Others,Beauty Parlour,Highlight Colour Sitting,Vegeterian,",5600,,https://drive.google.com/file/d/1wsQwGRv3nSkytEYp12saRtJUg346hnrC/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthGoldCards2.jpg
+Global Colour,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1tzrvqKM0A1hCKv6LIsrrAPF9XpDdRasY/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food290622/GlobalColour.jpg
+Vegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Global Colour,",,,,
+NonVegeterian,ProductLine ,3,"Inventory,Others,Beauty Parlour,Global Colour,",,,,
+Shoulder Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",2500,,,
+Shoulder Slivers Card,ProductType,3,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",2000,,,
+Shoulder Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",1800,,,
+Mld Length Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",3000,,,
+Mld Length Slivers Card,ProductType,6,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",2400,,,
+Mld Length Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",2100,,,
+Below Mld Length Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",4000,,https://drive.google.com/file/d/1gXVF80W1ngm91NpjDEy69A3hzwVMIQSI/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLength.jpg
+Below Mld Length Slivers Card,ProductType,9,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",3200,,https://drive.google.com/file/d/1HraViKkXH8Kd2eIVDrZOK6o2QADJGkDa/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLengthSliversCard2.jpg
+Below Mld Length Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",2800,,https://drive.google.com/file/d/1eYtdQ9xrxMYMtlNpqM9wlIaxbVCKN348/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLengthGoldCards1.jpg
+Walst Length Non Member,ProductType,11,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",5000,,https://drive.google.com/file/d/1urbUPCAWjMkh4JyXWk8qtQTdlc5v4Z9q/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthNonMember3.jpg
+Walst Length Slivers Card,ProductType,12,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",4000,,https://drive.google.com/file/d/17Om5Ty5xULGjT2ZPmE5uftsA1TFXkLsr/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthSliversCard.jpg
+Walst Length Gold Cards,ProductType,13,"Inventory,Others,Beauty Parlour,Global Colour,Vegeterian,",3500,,https://drive.google.com/file/d/1wsQwGRv3nSkytEYp12saRtJUg346hnrC/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WalstLengthGoldCards2.jpg
+Half Legs,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1go_neItSgNZtVcWqpdeH47nxziRt6TRY/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HalfLegs.jpg
+Vegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Half Legs,",,,,
+NonVegeterian,ProductLine ,3,"Inventory,Others,Beauty Parlour,Half Legs,",,,,
+Regular Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Half Legs,Vegeterian,",350,,,
+Regular Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Half Legs,Vegeterian,",280,,,
+Regular Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Half Legs,Vegeterian,",250,,,
+Chocolate Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Half Legs,Vegeterian,",450,,,
+Chocolate Sliver Cards,ProductType,6,"Inventory,Others,Beauty Parlour,Half Legs,Vegeterian,",360,,,
+Chocolate Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Half Legs,Vegeterian,",315,,,
+Full Legs,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1yIgWRbgWpNG7l4rSZSz12oJr8BG77iVt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullLegs.jpg
+Vegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Full Legs,",,,,
+NonVegeterian,ProductLine ,2,"Inventory,Others,Beauty Parlour,Full Legs,",,,,
+Regular Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Full Legs,Vegeterian,",500,,,
+Regular Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Full Legs,Vegeterian,",400,,,
+Regular Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Full Legs,Vegeterian,",350,,,
+Chocolate Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Full Legs,Vegeterian,",750,,,
+Chocolate Sliver Cards,ProductType,6,"Inventory,Others,Beauty Parlour,Full Legs,Vegeterian,",600,,,
+Chocolate Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Full Legs,Vegeterian,",525,,,
+Bikni Line,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1iUWV1CkZArTwIHwIPczIlSdgPCA47qqn/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BikniLine.jpeg
+Regular Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Bikni Line,",2000,,,
+Regular Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Bikni Line,",1600,,,
+Regular Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Bikni Line,",1400,,,
+Chocolate Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Bikni Line,",3000,,,
+Chocolate Sliver Cards,ProductType,6,"Inventory,Others,Beauty Parlour,Bikni Line,",2400,,,
+Chocolate Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Bikni Line,",2100,,,
+Half Body,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1Soh1_X11cyKnbCKnRH5y3edTVmjjW5wS/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HalfBody.jpg
+Regular Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Half Body,",1500,,,
+Regular Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Half Body,",1200,,,
+Regular Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Half Body,",1050,,,
+Chocolate Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Half Body,",1800,,,
+Chocolate Sliver Cards,ProductType,6,"Inventory,Others,Beauty Parlour,Half Body,",1500,,,
+Chocolate Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Half Body,",1300,,,
+Full Body,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1rFIwOf_7T3VWQk97mOHWDbi4gONO7WRS/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullBody.jpg
+Regular Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Full Body,",2000,,,
+Regular Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Full Body,",1600,,,
+Regular Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Full Body,",1400,,,
+Chocolate Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Full Body,",2500,,,
+Chocolate Sliver Cards,ProductType,6,"Inventory,Others,Beauty Parlour,Full Body,",2000,,,
+Chocolate Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Full Body,",1800,,,
+Relaxing Treatment,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1dVwhzhoiwqvlhy7cEotvu1dgvpae82O2/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/RelaxingTreatment.jpg
+Proteen Brazillian Treatment Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",2500,,https://drive.google.com/file/d/179MU3QCsxSFYuluWydOwI-xoHJg0k2HH/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ProteenBrazillianTreatmentNonMember.jpg
+Proteen Brazillian Treatment Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",2000,,https://drive.google.com/file/d/1aSN995AnaFkosWSlJY0vXmjhPAsbkE0y/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ProteenBrazillianTreatmentSliverCards.jpg
+Proteen Brazillian Treatment Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",1800,,https://drive.google.com/file/d/1dpqG7TWdFn2PAMHziYVzVVc6GczslfHU/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ProteenBrazillianTreatmentGoldCards.jpg
+Mid Langht Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",2800,,,
+Mid Langht Sliver Cards,ProductType,6,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",2240,,,
+Mid Langht Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",1960,,,
+Repairing Hair Spa Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",1800,,,
+Repairing Hair Spa Sliver Cards,ProductType,9,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",1450,,https://drive.google.com/file/d/18n3rCrbw9yDVHawhIEH33QrfDv2-NWPQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/RepairingHairSpaSliverCards.jpg
+Repairing Hair Spa Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",1250,,,
+Mid Langht Non Member,ProductType,11,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",2200,,,
+Mid Langht Sliver Cards,ProductType,12,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",1760,,,
+Mid Langht Gold Cards,ProductType,13,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",1540,,,
+Smoothing Hair Spa Non Member,ProductType,14,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",1000,,,
+Smoothing Hair Spa Sliver Cards,ProductType,15,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",800,,https://drive.google.com/file/d/1m2pqLDcfbhM92ePA9M4HMwQvGX7GQnOP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/SmoothingHairSpaSliverCards.jpg
+Smoothing Hair Spa Gold Cards,ProductType,16,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",700,,,
+Mid Langht Non Member,ProductType,17,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",1200,,,
+Mid Langht Sliver Cards,ProductType,18,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",960,,,
+Mid Langht Gold Cards,ProductType,19,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",840,,,
+Below Mid Langht Non Member,ProductType,20,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",1400,,,
+Below Mid Langht Sliver Cards,ProductType,21,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",1200,,,
+Below Mid Langht Gold Cards,ProductType,22,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",980,,,
+West Langht Langht Non Member,ProductType,23,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",1000,,,
+West Langht Langht Sliver Cards,ProductType,24,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",1280,,,
+West Langht Langht Gold Cards,ProductType,25,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",1120,,,
+Half Legs,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1go_neItSgNZtVcWqpdeH47nxziRt6TRY/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HalfLegs.jpg
+Regular Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Half Legs,",350,,,
+Regular Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Half Legs,",280,,,
+Regular Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Half Legs,",250,,,
+Chocolate Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Half Legs,",450,,,
+Chocolate Sliver Cards,ProductType,6,"Inventory,Others,Beauty Parlour,Half Legs,",360,,,
+Chocolate Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Half Legs,",315,,,
+Full Legs,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1yIgWRbgWpNG7l4rSZSz12oJr8BG77iVt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullLegs.jpg
+Regular Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Full Legs,",500,,,
+Regular Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Full Legs,",400,,,
+Regular Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Full Legs,",350,,,
+Chocolate Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Full Legs,",750,,,
+Chocolate Sliver Cards,ProductType,6,"Inventory,Others,Beauty Parlour,Full Legs,",600,,,
+Chocolate Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Full Legs,",525,,,
+Bikni Line,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1iUWV1CkZArTwIHwIPczIlSdgPCA47qqn/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BikniLine.jpeg
+Regular Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Bikni Line,",2000,,,
+Regular Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Bikni Line,",1600,,,
+Regular Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Bikni Line,",1400,,,
+Chocolate Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Bikni Line,",3000,,,
+Chocolate Sliver Cards,ProductType,6,"Inventory,Others,Beauty Parlour,Bikni Line,",2400,,,
+Chocolate Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Bikni Line,",2100,,,
+Half Body,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1Soh1_X11cyKnbCKnRH5y3edTVmjjW5wS/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HalfBody.jpg
+Regular Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Half Body,",1500,,,
+Regular Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Half Body,",1200,,,
+Regular Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Half Body,",1050,,,
+Chocolate Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Half Body,",1800,,,
+Chocolate Sliver Cards,ProductType,6,"Inventory,Others,Beauty Parlour,Half Body,",1500,,,
+Chocolate Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Half Body,",1300,,,
+Full Body,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1rFIwOf_7T3VWQk97mOHWDbi4gONO7WRS/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullBody.jpg
+Regular Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Full Body,",2000,,,
+Regular Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Full Body,",1600,,,
+Regular Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Full Body,",1400,,,
+Chocolate Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Full Body,",2500,,,
+Chocolate Sliver Cards,ProductType,6,"Inventory,Others,Beauty Parlour,Full Body,",2000,,,
+Chocolate Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Full Body,",1800,,,
+Facials Essential,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1S_esrVaLhQrGbaFGcMFz4DRx_Mq29cHF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FacialsEssential.jpg
+O3+ Skin Bright Facial Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Facials Essential,",1700,,https://drive.google.com/file/d/1M9vNZ4I7CwfmMVNifLYQYz5xkCI5julT/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+SkinBrightFacialNonMember.jpg
+O3+ Skin Bright Facial Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Facials Essential,",1360,,https://drive.google.com/file/d/1pzrvC6Rz0Bw9PDDX0dcojlX5mnvfQHJg/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+SkinBrightFacialSliverCards.jpg
+O3+ Skin Bright Facial Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Facials Essential,",1190,,https://drive.google.com/file/d/1Q7P8joN7UB2YVD-oq3rBWIXPy2MHnImo/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+SkinBrightFacialGoldCards.jpg
+Ramilo Skin Lightening Facial Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Facials Essential,",1900,,https://drive.google.com/file/d/1M2InyVB2kuIC5JxyfK1Iyy-v7g5bNjDZ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/RamiloSkinLighteningFacialNonMember.jpg
+Ramilo Skin Lightening Facial Sliver Cards,ProductType,6,"Inventory,Others,Beauty Parlour,Facials Essential,",1520,,https://drive.google.com/file/d/1ahEJQWlVsMr8oLpSniMUjj-PgZCweiDc/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/RamiloSkinLighteningFacialSliverCards.jpg
+Ramilo Skin Lightening Facial Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Facials Essential,",1330,,https://drive.google.com/file/d/1gN3xP4NRWKyKrgy9W6Ouix2qo0QUThw-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/RamiloSkinLighteningFacialGoldCards.jpg
+Ramilo Crystal Gold Facial Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Facials Essential,",1900,,,
+Ramilo Crystal Gold Facial Sliver Cards,ProductType,9,"Inventory,Others,Beauty Parlour,Facials Essential,",1520,,,
+Ramilo Crystal Gold Facial Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Facials Essential,",1330,,,
+O3+ Age Lock Facial Non Member,ProductType,11,"Inventory,Others,Beauty Parlour,Facials Essential,",2000,,https://drive.google.com/file/d/1xgwDBhSpxdzyIVMA2Qjkcbr2c24oGkXc/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+AgeLockFacialNonMember.jpg
+O3+ Age Lock Facial Sliver Cards,ProductType,12,"Inventory,Others,Beauty Parlour,Facials Essential,",1600,,https://drive.google.com/file/d/1RWVdFq8ZNTfVqghMfCKMaslKxga5WGMd/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+AgeLockFacialSliverCards.jpg
+O3+ Age Lock Facial Gold Cards,ProductType,13,"Inventory,Others,Beauty Parlour,Facials Essential,",1400,,https://drive.google.com/file/d/1OFKX-iUEVpPZBFr5ish6cXOIhO1Idngz/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+AgeLockFacialGoldCards.jpg
+Facials Premium,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1vvAEtB3RI8d_nnCKWm__wptsXbxYUax-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FacialPremium.jpg
+O3+ Age Lock Facial Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Facials Premium,",2500,,https://drive.google.com/file/d/1xgwDBhSpxdzyIVMA2Qjkcbr2c24oGkXc/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+AgeLockFacialNonMember.jpg
+O3+ Age Lock Facial Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Facials Premium,",2000,,https://drive.google.com/file/d/1RWVdFq8ZNTfVqghMfCKMaslKxga5WGMd/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+AgeLockFacialSliverCards.jpg
+O3+ Age Lock Facial Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Facials Premium,",1700,,https://drive.google.com/file/d/1OFKX-iUEVpPZBFr5ish6cXOIhO1Idngz/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+AgeLockFacialGoldCards.jpg
+O3+ Clarifying Acne Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Facials Premium,",2000,,https://drive.google.com/file/d/1yNdX52mCQEMd9X_ZTgWLuZLtagLuSsJN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+ClarifyingAcneNonMember.jpg
+O3+ Clarifying Acne Sliver Cards,ProductType,6,"Inventory,Others,Beauty Parlour,Facials Premium,",1600,,https://drive.google.com/file/d/1Es5QhTDwAEu9ireeDijSw4gf_clEDDuN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+ClarifyingAcneSliverCards.jpg
+O3+ Clarifying Acne Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Facials Premium,",1400,,https://drive.google.com/file/d/1kztgDeS9MLxY3Q6oaaw7IcN7Fl1T5amB/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+ClarifyingAcneGoldCards.jpg
+Ramilo Whitening Facial Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Facials Premium,",2200,,,
+Ramilo Whitening Facial Sliver Cards,ProductType,9,"Inventory,Others,Beauty Parlour,Facials Premium,",1760,,,
+Ramilo Whitening Facial Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Facials Premium,",1540,,,
+Ramilo Hydra Fresh Facial Non Member,ProductType,11,"Inventory,Others,Beauty Parlour,Facials Premium,",2200,,https://drive.google.com/file/d/1964p77L6wZbj7tQRqzMi1wIA2mKkGtDj/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/RamiloHydraFreshFacialNonMember.jpg
+Ramilo Hydra Fresh Facial Sliver Cards,ProductType,12,"Inventory,Others,Beauty Parlour,Facials Premium,",1600,,https://drive.google.com/file/d/1wJiXZTNtSNJJ-omipX3OcocpQzdCqExB/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/RamiloHydraFreshFacialSliverCards.jpg
+Ramilo Hydra Fresh Facial Gold Cards,ProductType,13,"Inventory,Others,Beauty Parlour,Facials Premium,",1540,,https://drive.google.com/file/d/1WzsMni_oXxK8JPlaqJdiS970Jkhq6oTx/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/RamiloHydraFreshFacialGoldCards.jpg
+O3+ Herbal Diamond Facial Non Member,ProductType,14,"Inventory,Others,Beauty Parlour,Facials Premium,",2200,,https://drive.google.com/file/d/1_-zt3GQQmXIptnq9YCCVhlHS_EWvBiyO/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+HerbalDiamondFacialNonMember.jpg
+O3+ Herbal Diamond Facial Sliver Cards,ProductType,15,"Inventory,Others,Beauty Parlour,Facials Premium,",1700,,https://drive.google.com/file/d/1kEPf8Qcm4vl40W8bv9-_r0wito6jDmpB/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+HerbalDiamondFacialSliverCards.jpg
+O3+ Herbal Diamond Facial Gold Cards,ProductType,16,"Inventory,Others,Beauty Parlour,Facials Premium,",1540,,https://drive.google.com/file/d/1Ir_dYsVLTdumA8VAeDZJl6QB9dIZtDiw/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+HerbalDiamondFacialGoldCards.jpg
+Foot Care,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1Xsh7Rz2mvAXLWFBfc_E1-x5od06A4oZT/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FootCare.jpg
+Regular Menicure Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Foot Care,",600,,https://drive.google.com/file/d/1mX_Ho7SLILQo3KI6ozjJmS3RIAqvQ6ZN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/RegularMenicureNonMember.jpg
+Regular Menicure Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Foot Care,",480,,https://drive.google.com/file/d/1DyrNkg_FTKNRu5LzFyQ_mx549XqojK2y/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/RegularMenicureSliverCards.jpg
+Regular Menicure Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Foot Care,",420,,https://drive.google.com/file/d/1tclpLVPnK8FQmiWQjxV_NUbnVXQs0qnu/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/RegularMenicureGoldCards.jpg
+Regular Pedicure Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Foot Care,",700,,https://drive.google.com/file/d/1njP8bzCvqecRqQEY6N0b81onM0GzMuIU/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/RegularPedicureNonMember.jpg
+Regular Pedicure Sliver Cards,ProductType,6,"Inventory,Others,Beauty Parlour,Foot Care,",560,,https://drive.google.com/file/d/1bZutNvPEjeSY9sTn05yeev9rVVBfuP68/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/RegularPedicureSliverCards.jpg
+Regular Pedicure Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Foot Care,",500,,https://drive.google.com/file/d/1CcN4TTS_K0AaPr-fIwlLj_EQ2jNoWB5C/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/RegularPedicureGoldCards.jpg
+Chocolate Menicure Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Foot Care,",800,,https://drive.google.com/file/d/1DISMl5Jnv6wPp2W8jJxvSLvVr-Wq6cWN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ChocolateMenicureNonMember.jpg
+Chocolate Menicure Sliver Cards,ProductType,9,"Inventory,Others,Beauty Parlour,Foot Care,",640,,https://drive.google.com/file/d/1iG6GLbvO-kU3vjYxt-ohzVUuoqB1Jgnh/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ChocolateMenicureSliverCards.jpg
+Chocolate Menicure Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Foot Care,",560,,https://drive.google.com/file/d/1YPgfr0vv1Fsmp9fmwLCuVscj0fNcCrMI/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ChocolateMenicureGoldCards.jpg
+Chocolate Pedicure Non Member,ProductType,11,"Inventory,Others,Beauty Parlour,Foot Care,",1000,,https://drive.google.com/file/d/1VTMf-tYMMCl_HadQ9vmbNxqgbCn40Dhd/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ChocolatePedicureNonMember.jpg
+Chocolate Pedicure Sliver Cards,ProductType,12,"Inventory,Others,Beauty Parlour,Foot Care,",800,,https://drive.google.com/file/d/1Szszd5CYf8epLKgE89ODmIJNM27eX_WF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ChocolatePedicureSliverCards.jpg
+Chocolate Pedicure Gold Cards,ProductType,13,"Inventory,Others,Beauty Parlour,Foot Care,",700,,https://drive.google.com/file/d/12SoMeBHf7_E9UIDEd6HUmkDRGQ1OxQy8/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ChocolatePedicureGoldCards.jpg
+Crystal Menicure Non Member,ProductType,14,"Inventory,Others,Beauty Parlour,Foot Care,",1200,,https://drive.google.com/file/d/1-HgEDvmS_kmT2DaGM-Odp3PXI8TbutQB/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/CrystalMenicureNonMember.jpg
+Crystal Menicure Sliver Cards,ProductType,15,"Inventory,Others,Beauty Parlour,Foot Care,",900,,https://drive.google.com/file/d/1d6rI3hhpL2q3ia0bHnQDGxDKMXiNwIG_/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/CrystalMenicureSliverCards.jpg
+Crystal Menicure Gold Cards,ProductType,16,"Inventory,Others,Beauty Parlour,Foot Care,",840,,https://drive.google.com/file/d/1M5BTv8CDGuVB-wp4cCzFWSRe0z2al5-J/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/CrystalMenicureGoldCards.jpg
+Crystal Pedicure Non Member,ProductType,17,"Inventory,Others,Beauty Parlour,Foot Care,",1500,,https://drive.google.com/file/d/12PW8c39AaKNZepnB7k5G1nhNASYQ9XVq/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/CrystalPedicureNonMember.jpg
+Crystal Pedicure Sliver Cards,ProductType,18,"Inventory,Others,Beauty Parlour,Foot Care,",1200,,https://drive.google.com/file/d/1tufPlZT9zMIYsZPsRyxKEFdoae_NJbPw/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/CrystalPedicureSliverCards.jpg
+Crystal Pedicure Gold Cards,ProductType,19,"Inventory,Others,Beauty Parlour,Foot Care,",1050,,https://drive.google.com/file/d/1r04PQmlgDsZMMxuod8-7hP4ICw0ntHXH/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/CrystalPedicureGoldCards.jpg
+Aroma Menicure Non Member,ProductType,20,"Inventory,Others,Beauty Parlour,Foot Care,",700,,https://drive.google.com/file/d/1-SeqzbXSNSdlFmYGGUurFkTzEvd4o-7X/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/AromaMenicureNonMember.jpg
+Aroma Menicure Sliver Cards,ProductType,21,"Inventory,Others,Beauty Parlour,Foot Care,",560,,https://drive.google.com/file/d/1yQhOftZ-OkkUzfhLJjIdZZKilkwCfdd7/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/AromaMenicureSliverCards.jpg
+Aroma Menicure Gold Cards,ProductType,22,"Inventory,Others,Beauty Parlour,Foot Care,",400,,https://drive.google.com/file/d/13AtaOHKMKqXgcjEczZSMn6FGOoeC1b3i/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/AromaMenicureGoldCards.jpg
+Aroma Pedicure Non Member,ProductType,23,"Inventory,Others,Beauty Parlour,Foot Care,",900,,https://drive.google.com/file/d/14fnpNlquXmxAKvVUxHVepfsMpZ9ApLdz/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/AromaPedicureNonMember.jpg
+Aroma Pedicure Sliver Cards,ProductType,24,"Inventory,Others,Beauty Parlour,Foot Care,",720,,https://drive.google.com/file/d/1baKfkcwQr1MJhLc09qRCv5pGsuUkE69q/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/AromaPedicureSliverCards.jpg
+Aroma Pedicure Gold Cards,ProductType,25,"Inventory,Others,Beauty Parlour,Foot Care,",630,,https://drive.google.com/file/d/1Sgd7k55ePL9vzv6sv1xVrPgzyzdRWXb0/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/AromaPedicureGoldCards.jpg
+Classic Pedicure Non Member,ProductType,26,"Inventory,Others,Beauty Parlour,Foot Care,",600,,https://drive.google.com/file/d/1RSiUTO67OZX4IErTALSF-Nqyt7tvwEYF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ClassicPedicureNonMember.jpg
+Classic Pedicure Sliver Cards,ProductType,27,"Inventory,Others,Beauty Parlour,Foot Care,",480,,https://drive.google.com/file/d/1UzuYcz-dSnFtYHwSVEaKWAMFPCLnR5CN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ClassicPedicureSliverCards.jpg
+Classic Pedicure Gold Cards,ProductType,28,"Inventory,Others,Beauty Parlour,Foot Care,",420,,https://drive.google.com/file/d/1UEWq1uAXr3fRVwekgg0p0tDBp9VCtUUM/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ClassicPedicureGoldCards.jpg
+French Pedicure Non Member,ProductType,29,"Inventory,Others,Beauty Parlour,Foot Care,",800,,https://drive.google.com/file/d/1-QsnB3PJoagY-qFN2M7uDZ18nb4zJHA7/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FrenchPedicureNonMember.jpg
+French Pedicure Sliver Cards,ProductType,30,"Inventory,Others,Beauty Parlour,Foot Care,",640,,https://drive.google.com/file/d/1KiqxcELSXcZopFT6VDnwzDfZriDQ3iQE/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FrenchPedicureSliverCards.jpg
+French Pedicure Gold Cards,ProductType,31,"Inventory,Others,Beauty Parlour,Foot Care,",560,,https://drive.google.com/file/d/1qHzYcOHWDep55fsIiqAPJg7b2P-DwFZq/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FrenchPedicureGoldCards.jpg
+French Manicure Non Member,ProductType,32,"Inventory,Others,Beauty Parlour,Foot Care,",800,,https://drive.google.com/file/d/1CFDCV767SIfVP-5yb2Wp1-wNxagPl6nK/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FrenchManicureNonMember.jpg
+French Manicure Sliver Cards,ProductType,33,"Inventory,Others,Beauty Parlour,Foot Care,",640,,https://drive.google.com/file/d/1te4eBNaBtj18eYeQsfQ5Mp4xrdanPzVL/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FrenchManicureSliverCards.jpg
+French Manicure Gold Cards,ProductType,34,"Inventory,Others,Beauty Parlour,Foot Care,",560,,https://drive.google.com/file/d/1sjfzfy7RBq4csHCCeIlVh2d0P9DqNPzF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FrenchManicureGoldCards.jpg
+Crystal Moisturizing Pedicure Non Member,ProductType,35,"Inventory,Others,Beauty Parlour,Foot Care,",2000,,https://drive.google.com/file/d/1BJWEvqRgso62Rna6QOzCfDlLw4WWzOGM/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/CrystalMoisturizingManicureNonMember.jpg
+Crystal Moisturizing Pedicure Sliver Cards,ProductType,36,"Inventory,Others,Beauty Parlour,Foot Care,",1600,,https://drive.google.com/file/d/1rLw37ag_TtIk1a6bZU0E8W2v1v1gOSAk/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/CrystalMoisturizingManicureSliverCards.jpeg
+Crystal Moisturizing Pedicure Gold Cards,ProductType,37,"Inventory,Others,Beauty Parlour,Foot Care,",1400,,https://drive.google.com/file/d/1gZJ1wK2UwsRX9or1-Bp5Uc83FscBWbh2/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/CrystalMoisturizingManicureGoldCards.jpeg
+Crystal Moisturizing Manicure Non Member,ProductType,38,"Inventory,Others,Beauty Parlour,Foot Care,",1500,,https://drive.google.com/file/d/1-HgEDvmS_kmT2DaGM-Odp3PXI8TbutQB/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/CrystalMenicureNonMember.jpg
+Crystal Moisturizing Manicure Sliver Cards,ProductType,39,"Inventory,Others,Beauty Parlour,Foot Care,",1200,,https://drive.google.com/file/d/1d6rI3hhpL2q3ia0bHnQDGxDKMXiNwIG_/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/CrystalMenicureSliverCards.jpg
+Crystal Moisturizing Manicure Gold Cards,ProductType,40,"Inventory,Others,Beauty Parlour,Foot Care,",1050,,https://drive.google.com/file/d/1M5BTv8CDGuVB-wp4cCzFWSRe0z2al5-J/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/CrystalMenicureGoldCards.jpg
+Aroma Brightening & De Tan Pedicure Non Member,ProductType,41,"Inventory,Others,Beauty Parlour,Foot Care,",2500,,https://drive.google.com/file/d/1AzA0fRGITQoc-5ti6jLApXSfkie0BFDa/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/AromaBrighteningDeTanPedicureNonMember.jpg
+Aroma Brightening & De Tan Pedicure Sliver Cards,ProductType,42,"Inventory,Others,Beauty Parlour,Foot Care,",2000,,https://drive.google.com/file/d/1sGTZvWFtkB3opwIHx8mdR0a32tOuNC3S/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/AromaBrighteningDeTanPedicureSliverCards.jpg
+Aroma Brightening & De Tan Pedicure Gold Cards,ProductType,43,"Inventory,Others,Beauty Parlour,Foot Care,",1800,,https://drive.google.com/file/d/1SxfY-k_6LCdSLVHe6pM8-BbA2LRybWzU/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/AromaBrighteningDeTanPedicureGoldCards.jpg
+Aroma Brightening & De Tan Manicure Non Member,ProductType,44,"Inventory,Others,Beauty Parlour,Foot Care,",1500,,https://drive.google.com/file/d/1I61HJbsUJdjYXHOeowmbId4McgMkY9Vz/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/AromaBrighteningDeTanManicureNonMember.jpg
+Aroma Brightening & De Tan Manicure Sliver Cards,ProductType,45,"Inventory,Others,Beauty Parlour,Foot Care,",1200,,https://drive.google.com/file/d/1oA2uto4quWqzd8XdwG8KkCwsCYrYTI2c/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/AromaBrighteningDeTanManicureSliverCards.jpg
+Aroma Brightening & De Tan Manicure Gold Cards,ProductType,46,"Inventory,Others,Beauty Parlour,Foot Care,",1050,,https://drive.google.com/file/d/1wN7nXhmbJJEAx_NvylCeP7sHVEF2xp4G/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/AromaBrighteningDeTanManicureGoldCards.jpg
+Wash & Below Dry,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1h1LZ3PdzB0IMhqe4MDIBGquPh7uTrTqs/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WashBelowDry.jpg
+Only Hair Wash Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Wash & Below Dry,",300,,https://drive.google.com/file/d/16weMS1KiVEGfHfOCDDQj3gahDNpKGQL4/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/OnlyHairWashNonMember.jpg
+Only Hair Wash Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Wash & Below Dry,",250,,https://drive.google.com/file/d/19B2vLamk2ZaDq75bHMZDCr2bW0UVSU5n/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/OnlyHairWashSliverCards.jpg
+Only Hair Wash Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Wash & Below Dry,",200,,https://drive.google.com/file/d/11EU5BGY_Ev2cX2KQjQLBRaz4FraO5ZTm/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/OnlyHairWashGoldCards.jpg
+Below Dry & Hair Setting Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Wash & Below Dry,",600,,https://drive.google.com/file/d/1LQ3YXkC1829LomEBOff70X3tr2PDWt0P/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowDryHairSettingNonMember.jpg
+Below Dry & Hair Setting Sliver Cards,ProductType,6,"Inventory,Others,Beauty Parlour,Wash & Below Dry,",480,,https://drive.google.com/file/d/1pXeJVI5nEi20eE1GOaas3m7rXOqWryxt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowDryHairSettingSliverCards.jpg
+Below Dry & Hair Setting Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Wash & Below Dry,",420,,https://drive.google.com/file/d/1HsUKqTdQOTnwHKsgYDQUSe1uszcbjIvQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowDryHairSettingGoldCards.jpg
+Wash & Blast Dry Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Wash & Below Dry,",400,,https://drive.google.com/file/d/1IRVtemQYrxpl7sUXv3O4zdkmr8YhJhw4/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WashBlastDryNonMember.jpg
+Wash & Blast Dry Sliver Cards,ProductType,9,"Inventory,Others,Beauty Parlour,Wash & Below Dry,",320,,https://drive.google.com/file/d/1c3IY4K1BpJsVSi875nC5FNOgajAW_5ZE/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WashBlastDrySliverCards.jpg
+Wash & Blast Dry Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Wash & Below Dry,",280,,https://drive.google.com/file/d/1x-eGJw_znkbhFgh-YMHaU-ESTz8U4zv5/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WashBlastDryGoldCards.jpg
+Fantasy Styling,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1Sis_M6X6tYF9PHGA_b4fUkJ6621jiIfF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FantasyStyling.jpg
+Crimping Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Fantasy Styling,",600,,https://drive.google.com/file/d/1UcKUSRHn29jM8qBZ4TtkbfY3vUwVJ4NO/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/CrimpingNonMember.jpg
+Crimping Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Fantasy Styling,",480,,https://drive.google.com/file/d/1U9XEYvXj5-oZ9e6Za6N-Ug1PN-rA2Jn5/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/CrimpingSliverCards.jpg
+Crimping Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Fantasy Styling,",420,,https://drive.google.com/file/d/1CyCUfyqhoe6L50nkclygZP4x_CRmRqtv/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/CrimpingGoldCards.jpg
+Ironing Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Fantasy Styling,",600,,https://drive.google.com/file/d/1epNrzzzCmvIaqI9VfZN5e5yWOw-U8gbP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/IroningNonMember.jpg
+Ironing Sliver Cards,ProductType,6,"Inventory,Others,Beauty Parlour,Fantasy Styling,",480,,https://drive.google.com/file/d/19I4PqSURyDO01ti00NP-e7C9FNu5hx2a/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/IroningSliverCards.jpg
+Ironing Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Fantasy Styling,",420,,https://drive.google.com/file/d/1y1TCStYjXn4CdhPRp--U3g8JCL3vRuuh/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/IroningGoldCards.jpg
+Tongs Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Fantasy Styling,",700,,https://drive.google.com/file/d/1VBP5DPNszoh3fITV9HlPoNs0jcipM1G4/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/TongsNonMember.jpg
+Tongs Sliver Cards,ProductType,9,"Inventory,Others,Beauty Parlour,Fantasy Styling,",560,,https://drive.google.com/file/d/1ULjwOvYR_NRHDew3U4vCCFbC_Ek650-9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/TongsSliverCards.jpg
+Tongs Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Fantasy Styling,",500,,https://drive.google.com/file/d/13Qxk1h-1q_y4G4zH2V8noMpLMhGTWZ3M/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/TongsGoldCards.jpg
+Blow Dry Non Member,ProductType,11,"Inventory,Others,Beauty Parlour,Fantasy Styling,",500,,https://drive.google.com/file/d/1HYswpnG1yA9NLbN19WHrypW_KwJqE6KE/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BlowDryNonMember.jpg
+Blow Dry Sliver Cards,ProductType,12,"Inventory,Others,Beauty Parlour,Fantasy Styling,",400,,https://drive.google.com/file/d/1UjJ2cQD4w7o1wN8DupMT4yLdnJHF3Pqv/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BlowDrySliverCards.jpg
+Blow Dry Gold Cards,ProductType,13,"Inventory,Others,Beauty Parlour,Fantasy Styling,",350,,https://drive.google.com/file/d/1zStO1KgZl-RvaMSDm49AckGXbw4G9UTp/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BlowDryGoldCards.jpg
+Blow Dry & Out Curls Non Member,ProductType,14,"Inventory,Others,Beauty Parlour,Fantasy Styling,",600,,https://drive.google.com/file/d/1P2nt-QHZXp6mdAT3OTU1LWxq8Sbi_kvF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BlowDryOutCurlsNonMember.jpg
+Blow Dry & Out Curls Sliver Cards,ProductType,15,"Inventory,Others,Beauty Parlour,Fantasy Styling,",480,,https://drive.google.com/file/d/12Foidcm_YKgyH_CvrzNMzAFJ9yFR8pFZ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BlowDryOutCurlssliverCards.jpg
+Blow Dry & Out Curls Gold Cards,ProductType,16,"Inventory,Others,Beauty Parlour,Fantasy Styling,",420,,https://drive.google.com/file/d/1q26CShlDFljTCEZeu_vX0hCoQsKGHwaN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BlowDryOutCurlsGoldCards.jpg
+Ironing Cards Non Member,ProductType,17,"Inventory,Others,Beauty Parlour,Fantasy Styling,",700,,,
+Ironing Cards Sliver Cards,ProductType,18,"Inventory,Others,Beauty Parlour,Fantasy Styling,",560,,,
+Ironing Cards Gold Cards,ProductType,19,"Inventory,Others,Beauty Parlour,Fantasy Styling,",500,,,
+Half Front,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1em157m0QDAx4S0GFWmIws3PKRod4Y55C/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HalfFront.jpg
+Regular Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Half Front,",350,,,
+Regular Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Half Front,",280,,,
+Regular Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Half Front,",250,,,
+Full Front,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1tZaLzXS6_LzF4tippUr_vbuippZJY0_V/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullFront.jpg
+Regular Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Full Front,",600,,,
+Regular Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Full Front,",480,,,
+Regular Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Full Front,",420,,,
+Half Back,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1xcf2vNlnHxYvY5DKJT7qiHYlrHmYfc_8/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/HalfBack.jpg
+Chocolate Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Half Back,",450,,,
+Chocolate Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Half Back,",360,,,
+Chocolate Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Half Back,",320,,,
+Full Back,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1GQshJnyPyOvC3nWpg6kioo7JcG1HWoI9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FullBack.jpg
+Chocolate Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Full Back,",800,,,
+Chocolate Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Full Back,",650,,,
+Chocolate Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Full Back,",550,,,
+Stomach,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,,
+Regular Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Stomach,",300,,,
+Regular Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Stomach,",250,,,
+Regular Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Stomach,",200,,,
+Stomach,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,,
+Chocolate Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Stomach,",450,,,
+Chocolate Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Stomach,",350,,,
+Chocolate Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Stomach,",300,,,
+Facials Signature,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1jTv1k7t3tQz7uwOgWPw0oF5UcNOAeTCK/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/FacialsSignature.jpg
+Ultra Bright & White Facial Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Facials Signature,",4000,,,
+Ultra Bright & White Facial Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Facials Signature,",3200,,,
+Ultra Bright & White Facial Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Facials Signature,",2800,,,
+O3+ Advance ,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1ex8l6tF4Om8-ogP5528PrEBkn-FbB_WP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/O3+Advance.jpg
+Lauxury Diamond Facial Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,O3+ Advance,",3500,,https://drive.google.com/file/d/1EPp7z9DCLuSQahz_EZu30YU7bb9fyaQP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/LauxuryDiamondFacialNonMember.jpg
+Lauxury Diamond Facial Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,O3+ Advance,",2800,,https://drive.google.com/file/d/17Ni3E62T_vVl9qUhNSWXUoJ4dIkovMmX/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/LauxuryDiamondFacialSliverCards.jpg
+Lauxury Diamond Facial Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,O3+ Advance,",2450,,https://drive.google.com/file/d/1Gh2TRImtA-wAh1a8TH64G9EZTGI5KkoB/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/LauxuryDiamondFacialGoldenCards.jpg
+Natures Touch To Get A Fresh Look,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1s8hIWwx0UYkU7NHT9_OeYMxksN3al7U3/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/NaturesTouchToGetAFreshLook.jpg
+Rejuvenating Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Natures Touch To Get A Fresh Look,",1800,,,
+Rejuvenating Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Natures Touch To Get A Fresh Look,",1440,,,
+Rejuvenating Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Natures Touch To Get A Fresh Look,",1200,,,
+Herbal Gold Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Natures Touch To Get A Fresh Look,",2500,,,
+Herbal Gold Sliver Cards,ProductType,6,"Inventory,Others,Beauty Parlour,Natures Touch To Get A Fresh Look,",2000,,,
+Herbal Gold Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Natures Touch To Get A Fresh Look,",1700,,,
+Deep Pore Cleansing Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Natures Touch To Get A Fresh Look,",2500,,https://drive.google.com/file/d/1wm880NiUHBVJCpHW2qozWRGpUsZacxMA/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/DeepPoreCleansingNonMember.jpg
+Deep Pore Cleansing Sliver Cards,ProductType,9,"Inventory,Others,Beauty Parlour,Natures Touch To Get A Fresh Look,",2000,,https://drive.google.com/file/d/1T1g7DbT9e9N6ZqNGFLQNyEYLihBZ6cym/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/DeepPoreCleansingSliverCards.jpg
+Deep Pore Cleansing Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Natures Touch To Get A Fresh Look,",1700,,https://drive.google.com/file/d/14BF9tLbka7Ar_c5rhAf8Nil2LsPRx1Ih/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/DeepPoreCleansingGoldenCards.jpg
+Nail Care,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1ZjHhJ_hA7k7AW_6i5EhdLlYGRFUA6i2o/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/NailCare.jpg
+"Cut ,File, Polish Non Member",ProductType,2,"Inventory,Others,Beauty Parlour,Nail Care,",200,,https://drive.google.com/file/d/1BWbU468paTJ4TGFr8insVI3Ux3pwVzn0/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/CutFilePolishNonMember.jpg
+"Cut ,File, Polish Sliver Cards",ProductType,3,"Inventory,Others,Beauty Parlour,Nail Care,",160,,https://drive.google.com/file/d/1rtRoP0GOATa-X4I8xegpcbOWQkGyhl_x/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/CutFilePolishSliverCards.jpg
+"Cut ,File, Polish Gold Cards",ProductType,4,"Inventory,Others,Beauty Parlour,Nail Care,",140,,https://drive.google.com/file/d/1TYm39valGwnE9HBnTY8LkM54SoVYTY7C/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/CutFilePolishGoldenCards.jpg
+Change Of Polish Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Nail Care,",140,,https://drive.google.com/file/d/1NygS-WKclO6Ngx82D6cMULqa4N7wMIzX/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ChangeOfPolishNonMember.jpg
+Change Of Polish Sliver Cards,ProductType,6,"Inventory,Others,Beauty Parlour,Nail Care,",110,,https://drive.google.com/file/d/1z4tUA0mFVez6J0YJsGvKzoPtkhiGLgEN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ChangeOfPolishSliverCards.jpg
+Change Of Polish Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Nail Care,",100,,https://drive.google.com/file/d/1mrL6ZPVxIygBnEdUOIvm2QqPa8TYClEo/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ChangeOfPolishGoldenCards.jpg
+Colour Highlights,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1VDLegHcoj93lxBYA2a726jN6Hlrg0raY/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ColourHighlights.jpg
+Shoulder Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Systeen Treatment,",2500,,,
+Shoulder Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Systeen Treatment,",2000,,https://drive.google.com/file/d/1s3X9cEJrQIHWzaLuePk8dhA17OM_YjKz/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ShoulderSliverCards.jpg
+Shoulder Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Systeen Treatment,",1800,,,
+Mld Length Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Systeen Treatment,",3000,,,
+Mld Length Sliver Cards,ProductType,6,"Inventory,Others,Beauty Parlour,Systeen Treatment,",2400,,https://drive.google.com/file/d/1pnWFhY0R7tsIzitHKimdC6UdgHatQpzm/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/MldLengthSliverCards.jpg
+Mld Length Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Systeen Treatment,",2100,,,
+Below Mid Length Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Systeen Treatment,",4000,,https://drive.google.com/file/d/1f-SworghV8-90p4_GcmgD0b9ZduewjE9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/MidLengthGoldCards.jpg
+Below Mid Length Sliver Cards,ProductType,9,"Inventory,Others,Beauty Parlour,Systeen Treatment,",3200,,,
+Below Mid Length Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Systeen Treatment,",2800,,https://drive.google.com/file/d/1ACKqul_m2xTWdUiQSbrQRrX-zKyrcJ0n/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMidLengthGoldCards.jpg
+Waist Length Non Member,ProductType,11,"Inventory,Others,Beauty Parlour,Systeen Treatment,",5000,,https://drive.google.com/file/d/1yrUqMZ4OIih_D7w1dKFhdV-RnjrVrbrm/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WaistLengthNonMember.jpg
+Waist Length Sliver Cards,ProductType,12,"Inventory,Others,Beauty Parlour,Systeen Treatment,",4000,,https://drive.google.com/file/d/1AWjVicstySk9WLKolJcb-iM9suZ9-IV0/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WaistLengthSliverCards.jpg
+Waist Length Gold Cards,ProductType,13,"Inventory,Others,Beauty Parlour,Systeen Treatment,",3500,,https://drive.google.com/file/d/1DOE3A_q6rXQddc_FqahTx7h9u0F9UfVx/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WaistLengthGoldCards.jpg
+Relaxing Treatment,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1dVwhzhoiwqvlhy7cEotvu1dgvpae82O2/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/RelaxingTreatment.jpg
+Power Dose Treatment Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",1000,,https://drive.google.com/file/d/1xPhCjuQ8LGgjDwrBXwrJhddEfVnJRvtg/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/PowerDoseTreatmentNonMember.jpg
+Power Dose Treatment Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",800,,https://drive.google.com/file/d/1WQzXbUuuypuCCRSMGZ-2C3XKWhF5Gz1W/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/PowerDoseTreatmentSliverCards.jpg
+Power Dose Treatment Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",700,,https://drive.google.com/file/d/1oZaFMfLAygUdYAJdJk6DQGOwgHNBmRfk/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/PowerDoseTreatmentGoldCards.jpg
+Dendruf Hair Spa Treatment Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",1000,,https://drive.google.com/file/d/1ppZyJfLyOIK6hwSITg2XHk3jNEcsBBOM/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/DendrufHairSpaTreatmentNonMember.jpg
+Dendruf Hair Spa Treatment Sliver Cards,ProductType,6,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",800,,https://drive.google.com/file/d/1DWmOjomCk8lUgDKI_8i5CS-pveVAH9By/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/DendrufHairSpaTreatmentSliverCards.jpg
+Dendruf Hair Spa Treatment Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",750,,https://drive.google.com/file/d/1M7uzjqMENWweT2GisduvrmmsPcuHtWIG/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/DendrufHairSpaTreatmentGoldCards.jpg
+Proteen Treatment Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",2000,,https://drive.google.com/file/d/10rLQweo_mMYQxBaTfPIFU54iHEC8Z1bt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ProteenTreatmentNonMember.jpg
+Proteen Treatment Sliver Cards,ProductType,9,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",1600,,https://drive.google.com/file/d/1DW_0vgjGAgcb_Sh6uQf61bHi2rDEM93d/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ProteenTreatmentSliverCards.jpg
+Proteen Treatment Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",1400,,https://drive.google.com/file/d/1xQ_em-V-1Mdh-iUAbHXrR-JoMsf7VlWw/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ProteenTreatmentGoldCards.jpg
+Proteen Silk Treatment Non Member,ProductType,11,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",2500,,,
+Proteen Silk Treatment Sliver Cards,ProductType,12,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",2000,,,
+Proteen Silk Treatment Gold Cards,ProductType,13,"Inventory,Others,Beauty Parlour,Relaxing Treatment,",1800,,,
+Global Colour,ProductClass ,1,"Inventory,Others,Beauty Parlour,",,,https://drive.google.com/file/d/1tzrvqKM0A1hCKv6LIsrrAPF9XpDdRasY/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food290622/GlobalColour.jpg
+Shoulder Non Member,ProductType,2,"Inventory,Others,Beauty Parlour,Global Colour,",3000,,,
+Shoulder Sliver Cards,ProductType,3,"Inventory,Others,Beauty Parlour,Global Colour,",2400,,https://drive.google.com/file/d/1s3X9cEJrQIHWzaLuePk8dhA17OM_YjKz/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/ShoulderSliverCards.jpg
+Shoulder Gold Cards,ProductType,4,"Inventory,Others,Beauty Parlour,Global Colour,",2100,,,
+Mld Length Non Member,ProductType,5,"Inventory,Others,Beauty Parlour,Global Colour,",4000,,,
+Mld Length Sliver Cards,ProductType,6,"Inventory,Others,Beauty Parlour,Global Colour,",3200,,https://drive.google.com/file/d/1pnWFhY0R7tsIzitHKimdC6UdgHatQpzm/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/MldLengthSliverCards.jpg
+Mld Length Gold Cards,ProductType,7,"Inventory,Others,Beauty Parlour,Global Colour,",2800,,,
+Below Mld Length Non Member,ProductType,8,"Inventory,Others,Beauty Parlour,Global Colour,",5000,,https://drive.google.com/file/d/1gXVF80W1ngm91NpjDEy69A3hzwVMIQSI/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLength.jpg
+Below Mld Length Sliver Cards,ProductType,9,"Inventory,Others,Beauty Parlour,Global Colour,",4000,,,
+Below Mld Length Gold Cards,ProductType,10,"Inventory,Others,Beauty Parlour,Global Colour,",3500,,https://drive.google.com/file/d/1eYtdQ9xrxMYMtlNpqM9wlIaxbVCKN348/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/BelowMldLengthGoldCards1.jpg
+Waist Length Non Member,ProductType,11,"Inventory,Others,Beauty Parlour,Global Colour,",6000,,https://drive.google.com/file/d/1yrUqMZ4OIih_D7w1dKFhdV-RnjrVrbrm/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WaistLengthNonMember.jpg
+Waist Length Sliver Cards,ProductType,12,"Inventory,Others,Beauty Parlour,Global Colour,",4800,,https://drive.google.com/file/d/1AWjVicstySk9WLKolJcb-iM9suZ9-IV0/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WaistLengthSliverCards.jpg
+Waist Length Gold Cards,ProductType,13,"Inventory,Others,Beauty Parlour,Global Colour,",4200,,https://drive.google.com/file/d/1DOE3A_q6rXQddc_FqahTx7h9u0F9UfVx/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/WaistLengthGoldCards.jpg
+Root Touch Up Loreal Majireal Non Member,ProductType,14,"Inventory,Others,Beauty Parlour,Global Colour,",1000,,https://drive.google.com/file/d/1soYpjIw_fluYSTH2mrAgUzpeGtHspBz_/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/RootTouchUpLorealMajirealNonMember.jpg
+Root Touch Up Loreal Majireal Sliver Cards,ProductType,15,"Inventory,Others,Beauty Parlour,Global Colour,",800,,https://drive.google.com/file/d/1T5lBhtLhl7IEKazaNXXJJCTKpJ4UbmW5/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/RootTouchUpLorealMajirealSliverCards.jpg
+Root Touch Up Loreal Majireal Gold Cards,ProductType,16,"Inventory,Others,Beauty Parlour,Global Colour,",700,,https://drive.google.com/file/d/1U9lyYpBQoG9XHxS7MEZP5CDQ-d65P7Tv/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/RootTouchUpLorealMajirealGoldCards.jpg
+Loreal/Inao Non Member,ProductType,17,"Inventory,Others,Beauty Parlour,Global Colour,",1200,,https://drive.google.com/file/d/17kT6FGIzbkrGe9_2utJ2t4jH9Ye2-IAR/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/LorealInaoNonMember.jpg
+Loreal/Inao Sliver Cards,ProductType,18,"Inventory,Others,Beauty Parlour,Global Colour,",950,,https://drive.google.com/file/d/1t8GMNkU5BZClZEmtqtTN__R3WRBKMofX/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/LorealInaoSliverCards.jpg
+Loreal/Inao Gold Cards,ProductType,19,"Inventory,Others,Beauty Parlour,Global Colour,",850,,https://drive.google.com/file/d/1Kf4dlFWsbcbm_anJYY7hR1lywUfLuMMw/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/inventory010722/LorealInaoGoldCards.jpg

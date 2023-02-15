@@ -1,0 +1,9 @@
+label,nodeType,order,path,price,description,link,imageLink
+Paan,ProductClass,1,"Inventory,Food,",,,https://drive.google.com/file/d/1NMV4uXqyDTM1lXsCA_WgxCe4d9TkBvuF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/grocery122021/Paan.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Paan,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Paan,",,,,
+Chocolate Paan,ProductType,4,"Inventory,Food,Paan,Vegeterian,",20,,https://drive.google.com/file/d/1rrltJ3TfvenHZVumUv0PlXnmRrHCY3yM/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Paan/ChocolatePaan.jpg
+Kolkata Masala Paan,ProductType,5,"Inventory,Food,Paan,Vegeterian,",30,,https://drive.google.com/file/d/1cvIwqA1xrltpkvRHqeBu_3FOXnTPJ5ie/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Paan/KolkataMasalaPaan.jpg
+Kolkata Chutney Paan,ProductType,6,"Inventory,Food,Paan,Vegeterian,",20,,https://drive.google.com/file/d/1NeWas6F4WZXNzs_VmIbgC9sz8EnxFvDh/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Paan/KolkataChutneyPaan.jpg
+Sada Masala Paan,ProductType,7,"Inventory,Food,Paan,Vegeterian,",15,,https://drive.google.com/file/d/1f15G6eqmTdAzFW5rT8jFdJV6UMk_20e3/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Paan/SadaMasalaPaan.png
+Sada Chutney Paan,ProductType,8,"Inventory,Food,Paan,Vegeterian,",10,,https://drive.google.com/file/d/1GLFvC4E2Cgr0zgfeH2u3M9y_4FAch2TP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Paan/SadaChutneyPaan.jpg

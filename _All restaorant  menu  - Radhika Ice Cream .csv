@@ -1,0 +1,29 @@
+label,nodeType,order,path,price,description,link,imageLink
+Ice Cream,ProductClass,1,"Inventory,Food,IceCream,",,,https://drive.google.com/file/d/1qkYDEbRphUMbXzGECK6SMPvufS5OKmNi/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/IceCream.jpg
+Vegeterian,ProductLine ,2,"Inventory,Food,IceCream,IceCream,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine ,2,"Inventory,Food,IceCream,IceCream,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+Kesar Pista,ProductType,3,"Inventory,Food,IceCream,IceCream,Vegeterian,",20,,https://drive.google.com/file/d/1GWkTA8bI1oUQSHPvleNk6zeh168BC3Wv/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/KesarPista.jpg
+Rajbhog,ProductType,4,"Inventory,Food,IceCream,IceCream,Vegeterian,",20,,https://drive.google.com/file/d/1AUh4Sb8oElCuJ7NwTOjMH1Cx6Naaruj4/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Rajbhog.jpg
+Kaju Draksha,ProductType,5,"Inventory,Food,IceCream,IceCream,Vegeterian,",20,,https://drive.google.com/file/d/1HhslIzPNY9f3Y6w35QyzGuehRfLGT15S/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/KajuDraksha.jpg
+Chocolate,ProductType,6,"Inventory,Food,IceCream,IceCream,Vegeterian,",20,,https://drive.google.com/file/d/1vbhRpgGOEXu0lFsV4zyilBdw7b0WEMlg/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Chocolate.jpg
+Ameriacan Dryfruit,ProductType,7,"Inventory,Food,IceCream,IceCream,Vegeterian,",20,,https://drive.google.com/file/d/1LhKaNfy7M1vTb0VuqsuiU4yYcRlL07MS/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/AmeriacanDryfruit.jpg
+Gulkand,ProductType,8,"Inventory,Food,IceCream,IceCream,Vegeterian,",20,,https://drive.google.com/file/d/1xMXgCtVZsqKF8eC7OWhd2BSUpESRGZ3e/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Gulkand.jpg
+Radhika Special,ProductType,9,"Inventory,Food,IceCream,IceCream,Vegeterian,",30,,,
+Kulfi,ProductClass,1,"Inventory,Food,IceCream,",,,https://drive.google.com/file/d/1wa-un0errK6ReuFk53nKgMheTpXnWR1P/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant7/Kulfi.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,IceCream,Kulfi,",,,,
+NonVegeterian,ProductLine,2,"Inventory,Food,IceCream,Kulfi,",,,,
+Mava Malai Kulfi,ProductType,3,"Inventory,Food,IceCream,Kulfi,Vegeterian,",15,,https://drive.google.com/file/d/13Yke29vHGxYrWZh-s5hqlu_Mux6zzONo/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MavaMalaiKulfi.jpg
+Pista Kulfi,ProductType,4,"Inventory,Food,IceCream,Kulfi,Vegeterian,",20,,https://drive.google.com/file/d/1jXPZJ8WoXKeHc13KfXcojQZ6KQSp4bUK/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Pista-Kulfi.jpg
+Kesar Pista Kulfi,ProductType,5,"Inventory,Food,IceCream,Kulfi,Vegeterian,",25,,https://drive.google.com/file/d/11_iVm4DTByYhLVUclh8zXfGPznSCmoEX/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/KesarPistaKulfi.jpg
+Shakes,ProductClass,1,"Inventory,Food,IceCream,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Shakes.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,IceCream,Shakes,",,,,
+NonVegeterian,ProductLine,2,"Inventory,Food,IceCream,Shakes,",,,,
+Badam Shake,ProductType,3,"Inventory,Food,IceCream,Shakes,Vegeterian,",40,,https://drive.google.com/file/d/1yuiFYnfX8zdFzNxbludbOv29szU4cvAh/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/BadamShake.jpg
+Anjir Shake,ProductType,4,"Inventory,Food,IceCream,Shakes,Vegeterian,",40,,https://drive.google.com/file/d/1KKFABkWSlVgdmWSzSaFpBOQ-WeOq7bgD/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/AnjirShake.jpg
+Kaju Shake,ProductType,5,"Inventory,Food,IceCream,Shakes,Vegeterian,",40,,https://drive.google.com/file/d/1wzzwlp5ElYMmfmZnoBLJfOZl9wl-1090/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/KajuShake.jpg
+Fruit Slide,ProductType,6,"Inventory,Food,IceCream,Shakes,Vegeterian,",40,,,
+Lassi,ProductType,7,"Inventory,Food,IceCream,Shakes,Vegeterian,",40,,https://drive.google.com/file/d/1z2BJrtvZR9kkdK-COuqLNCQlIbTJNxnX/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Lassi.jpg
+Faluda Rose,ProductType,8,"Inventory,Food,IceCream,Shakes,Vegeterian,",60,,https://drive.google.com/file/d/1O7FpVZ1YjUcmaYYSjJ2r9AL-YbATosVs/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/FaludaRose.jpg
+Faluda Chocolate,ProductType,9,"Inventory,Food,IceCream,Shakes,Vegeterian,",60,,https://drive.google.com/file/d/1f7suOfDejSgPyt9V3v1orrqUxNu6hQmV/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/FaludaChocolate.jpg
+Mastani,ProductType,10,"Inventory,Food,IceCream,Shakes,Vegeterian,",60,,https://drive.google.com/file/d/1eq3bCCXKRxUzQh-Z-1HSdykhPW8SDxQL/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant7/mastani.jpg
+Ice Cream with Badam Shake,ProductType,11,"Inventory,Food,IceCream,Shakes,Vegeterian,",40,,,

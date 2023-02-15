@@ -1,0 +1,167 @@
+label,nodeType,order,path,price,description,link,imageLink,Swiggy ,Zomato 
+Breakfast,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Breakfast.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Breakfast,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Breakfast,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg,,
+Upma,ProductType,4,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",63,,https://drive.google.com/file/d/13GQTe4OiqscBJk7ZffGulypnLQLHUbGI/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Upma.jpg,72,72
+Lemon Sevai,ProductType,5,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",63,,https://drive.google.com/file/d/1pQjGOkrg1wqBUTySAXT1-rSxIJfl2gva/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/LemonSevai.jpg,,
+Sheera,ProductType,6,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",66,,https://drive.google.com/file/d/1t3rhL9TIVK5bGfVTlUXlxsqMfVJ5oiwU/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Sheera.jpg,75,75
+Sheera Upma,ProductType,7,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",66,,https://drive.google.com/file/d/1dZRkAHmB7gVVEpchA8oJ69dLWEcuL65O/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/SheeraUpma.jpg,75,75
+Misal Pav,ProductType,8,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",81,,https://drive.google.com/file/d/10zM6xFtQkYtAL4YWGywPsxiCdULwwfcN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MisalPav.jpg,93,93
+Puri Bhaji,ProductType,9,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",84,,https://drive.google.com/file/d/1c_oQ60JkRMIn0-mQiPpe_55Q96Zhvx3E/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PuriBhaji.png,99,99
+Finger Chips,ProductType,10,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",84,,https://drive.google.com/file/d/1WqsZvM7FYMNNTf5L-ia1UO8zPhtnxOAt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/FingerChips.jpg,92,92
+Sabudana Vada,ProductType,11,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",84,,https://drive.google.com/file/d/1O6ziuAElEJ630iq-ZT8Wo5XdrYKapzLW/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/SabudanaVada.jpg,92,92
+Kela Bhajiya,ProductType,12,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",75,,https://drive.google.com/file/d/1Bvl2zVXp0UMS6s8aC2XJXtHM3HUyD4Sf/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/KelaBhajiya.jpg,,
+Pav Bhaji,ProductType,13,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",154,,https://drive.google.com/file/d/1k_uUCECpwnv5CmChzGwV97KAx-OjujZx/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/PavBhaji.jpg,162,162
+Cheese Pav Bhaji,ProductType,14,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",183,,https://drive.google.com/file/d/1gjL6a4ltx1oCxoC4q-OU3DlxU2GebEvl/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/CheesePavBhaji.jpg,189,189
+Pav Butter,ProductType,15,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",19,,https://drive.google.com/file/d/1_r1WXRoD_I5oyD1EADZYUgA_jpY9IFko/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/PavButter.jpg,,
+Pav,ProductType,16,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",7,,https://drive.google.com/file/d/1c8R40rdT2aLvi6tw2ybKbt8FpFfSLyzf/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food240522/Pav.jpg,7,
+Extra Butter,ProductType,17,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",30,,https://drive.google.com/file/d/1iMOJcj0bpEwy1BWOT_Cvq8_coXkJcxt4/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ExtraButter.jpg,,
+Extra Cheese,ProductType,18,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",30,,https://drive.google.com/file/d/10YVSQDdgja9L1Tbrn0rPPPuAZJbTUmcF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ExtraCheese.jpg,,
+Mulgapadi,ProductType,19,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",27,,,,,
+Snacks,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/img/Smiley.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Snacks,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Snacks,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg,,
+Mini Idli,ProductType,4,"Inventory,Food,Restaurant,Snacks,Vegeterian,",84,,https://drive.google.com/file/d/1S10EtiezgG-c3YcHSWlU4b9Es7cqmohQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/MiniIdli.jpg,92,92
+Mini Idli Butter Podi,ProductType,5,"Inventory,Food,Restaurant,Snacks,Vegeterian,",108,,https://drive.google.com/file/d/1_mMQ6jfukfHU_1kEQJqZhigbm-4N64X9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/MiniIdliButterPodi.jpg,118,118
+Idli Sambhar,ProductType,6,"Inventory,Food,Restaurant,Snacks,Vegeterian,",72,,https://drive.google.com/file/d/1x_0cTWlWQvJ87Lc-ut0NOo1ZzQT3Fk-d/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/IdliSambhar.jpg,81,81
+Butter Idli Podi,ProductType,7,"Inventory,Food,Restaurant,Snacks,Vegeterian,",108,,,,118,118
+Tatte Idli,ProductType,8,"Inventory,Food,Restaurant,Snacks,Vegeterian,",57,,https://drive.google.com/file/d/1dZeBgAwbDiTHBW4kyH2_BT4h0KDSTGmo/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/TatteIdli.jpg,,
+Tatte Idli Butter Podi,ProductType,9,"Inventory,Food,Restaurant,Snacks,Vegeterian,",81,,https://drive.google.com/file/d/1_jut-JgQ0tCT5ttoRtlvpI-J5Z1uB9vQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/TatteIdliButterPodi.jpg,,
+Medu Wada,ProductType,10,"Inventory,Food,Restaurant,Snacks,Vegeterian,",81,,https://drive.google.com/file/d/11YwNNABtd_9BxnNvjpc9p6xdV0kTksEX/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/MeduWada.jpg,90,90
+Idli Wada Mix,ProductType,11,"Inventory,Food,Restaurant,Snacks,Vegeterian,",81,,https://drive.google.com/file/d/1t4s3U6IcDqk9fmrmYxrvDQpOerLKPIAd/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-4/IdliWadaMix.jpg,90,90
+Dahi Wada,ProductType,12,"Inventory,Food,Restaurant,Snacks,Vegeterian,",92,,https://drive.google.com/file/d/1XSgQiyz7qgi77zcbrPshoQKVHbKIPO8z/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/DahiWada.jpg,,
+Rasam Wada,ProductType,13,"Inventory,Food,Restaurant,Snacks,Vegeterian,",81,,https://drive.google.com/file/d/1_LC4mNWR4cshduDj6IJxMrZJ-KlFkT6J/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/RasamWada.jpg,90,90
+Masala Medu Voda,ProductType,14,"Inventory,Food,Restaurant,Snacks,Vegeterian,",90,,https://drive.google.com/file/d/1hMOVQfFyPv98XuMo15jMlo-u89xbUgFo/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/MasalaMeduVoda.jpg,99,99
+Dal Wada,ProductType,15,"Inventory,Food,Restaurant,Snacks,Vegeterian,",72,,https://drive.google.com/file/d/1peAtmJIZH2AwD_YOO-VW9JZ6GjeRElzX/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/DalWada.jpg,75,75
+Uttappam,ProductType,16,"Inventory,Food,Restaurant,Snacks,Vegeterian,",90,,https://drive.google.com/file/d/11ua8ESoe9xvDsSf2pY3VQvlwGcg8mOA8/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/Uttappam.jpg,99,99
+Onion Uttappam,ProductType,17,"Inventory,Food,Restaurant,Snacks,Vegeterian,",99,,https://drive.google.com/file/d/16ciOD2vlIEysrjx8x0gHz-6yQzt8goYF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/OnionUttappam.jpg,118,118
+Tomato Uttappam,ProductType,18,"Inventory,Food,Restaurant,Snacks,Vegeterian,",99,,https://drive.google.com/file/d/1JL7YKOjRP1Bcy-ZGOtot-xpdlLJrlpQf/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/TomatoUttappam.jpg,118,118
+Onion Tomato Uttappam,ProductType,19,"Inventory,Food,Restaurant,Snacks,Vegeterian,",99,,https://drive.google.com/file/d/1V5TVUUec-aqqEkwNJHG0m8YJS2c2YdAT/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/OnionTomatoUttappam.jpg,118,118
+Chilly Tomato Uttappam,ProductType,20,"Inventory,Food,Restaurant,Snacks,Vegeterian,",99,,https://drive.google.com/file/d/1gQWoFlzjlSOQ823YGp8KXT7fRexdwt1C/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/ChillyTomatoUttappam.jpeg,,
+Masala Uttappam,ProductType,21,"Inventory,Food,Restaurant,Snacks,Vegeterian,",117,,https://drive.google.com/file/d/16c12zKMRJTUyD7arL15MmIRxeyNMy1k-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/MasalaUttappam.jpg,127,127
+Butter Podi Uttappam,ProductType,22,"Inventory,Food,Restaurant,Snacks,Vegeterian,",117,,https://drive.google.com/file/d/1wAlR9VhwDzeO1XE9zhQWguVt1TJvnMdy/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/ButterPodiUttappam.jpg,127,127
+Cheese Chilly Uttappam,ProductType,23,"Inventory,Food,Restaurant,Snacks,Vegeterian,",127,,https://drive.google.com/file/d/1O3awmdVK-TIpNP2hb9IS4UL7PCUnFt1g/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/CheeseChillyUttappam.jpg,145,145
+Sada Dosa,ProductType,24,"Inventory,Food,Restaurant,Snacks,Vegeterian,",84,,https://drive.google.com/file/d/1BfV6qb8VSQOEdjF50P7dvolLiVExsGGj/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/SadaDosa.jpg,93,93
+Masala Dosa,ProductType,25,"Inventory,Food,Restaurant,Snacks,Vegeterian,",93,,https://drive.google.com/file/d/1_-oVk3t6Cho2sazbziKyWFSIPhSBbfKQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MasalaDosa.jpg,104,104
+Mysore Sada Dosa,ProductType,26,"Inventory,Food,Restaurant,Snacks,Vegeterian,",104,,https://drive.google.com/file/d/1kYa6E7Lofr9p2j_XIJN4pUfTUO3jNQrn/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/MysoreSadaDosa.jpg,117,117
+Mysore Masala Dosa,ProductType,27,"Inventory,Food,Restaurant,Snacks,Vegeterian,",113,,https://drive.google.com/file/d/1jXxK1PO3BkkFzE7FRk7GMEaOVeb2wp-y/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Mysoremasaladosa.jpg,126,126
+Andhra Dosa,ProductType,28,"Inventory,Food,Restaurant,Snacks,Vegeterian,",104,,https://drive.google.com/file/d/1aIZcNp0ao5PJTCFm_d1pPrs724rrzX0i/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/AndhraDosa.jpg,117,117
+Andhra Masala Dosa,ProductType,29,"Inventory,Food,Restaurant,Snacks,Vegeterian,",113,,https://drive.google.com/file/d/1lqRwsU9PLYqoXiFYBJiAQnB_XWxgJ6aS/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/AndhraMasalaDosa.jpg,126,126
+Neer Dosa,ProductType,30,"Inventory,Food,Restaurant,Snacks,Vegeterian,",84,,https://drive.google.com/file/d/1UjHkz1sQ5hO_VlxqgX9d8SHUJ1SQLyfZ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/NeerDosaVegOfTheDay.jpg,99,99
+Neer Dosa Podi,ProductType,31,"Inventory,Food,Restaurant,Snacks,Vegeterian,",91,,,,108,108
+Rava Sada Dosa,ProductType,32,"Inventory,Food,Restaurant,Snacks,Vegeterian,",95,,https://drive.google.com/file/d/1knIwlmCdklOTuyr2vS28__UhdpRHtjmn/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/10222/ravasadadosa.jpg,104,104
+Rava Masala Dosa,ProductType,33,"Inventory,Food,Restaurant,Snacks,Vegeterian,",108,,https://drive.google.com/file/d/17Bx26DlKVy4Z5pnsEYFfSDcLS1-wIqZL/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Cafe/RavaMasalaDosa.jpg,117,117
+Rava Onion Sada Dosa,ProductType,34,"Inventory,Food,Restaurant,Snacks,Vegeterian,",108,,https://drive.google.com/file/d/1NvoOffH2pXP9No5OsstCXhV8ClU014RG/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/RavaOnionSadaDosa.jpg,117,117
+Rava Onion Masala Dosa,ProductType,35,"Inventory,Food,Restaurant,Snacks,Vegeterian,",117,,https://drive.google.com/file/d/1zpnyNlTVlu9OQ2h7zne3VhygcNGJmb-g/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/RavaOnionMasalaDosa.jpg,127,127
+Rava Mysore Sada Dosa,ProductType,36,"Inventory,Food,Restaurant,Snacks,Vegeterian,",117,,https://drive.google.com/file/d/1wQkbx-gglg-3JyrN5iqaucsutE_sCEUR/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/RavaMysoreSadaDosa.jpg,127,127
+Ravo Mysore Masala Dosa,ProductType,37,"Inventory,Food,Restaurant,Snacks,Vegeterian,",126,,,,136,136
+Schezwan Sada Dosa,ProductType,38,"Inventory,Food,Restaurant,Snacks,Vegeterian,",108,,https://drive.google.com/file/d/1Y3KK4S3RRUwCo2YS7S9PYuiIY2vRbinx/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/SchezwanSadaDosa.jpg,118,118
+Schezwan Masala Dosa,ProductType,39,"Inventory,Food,Restaurant,Snacks,Vegeterian,",122,,https://drive.google.com/file/d/10MoB-IDNGiRGbPAePPLWwfrLEGVa_i7L/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Cafe/SchezwanMasalaDosa.jpg,127,127
+Podi Set Dosa,ProductType,40,"Inventory,Food,Restaurant,Snacks,Vegeterian,",171,,https://drive.google.com/file/d/10pOYlFkgFfguLu96pZJRkXW06WjIJMAx/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/PodiSetDosa.cms,137,137
+Paper Sada Dosa,ProductType,41,"Inventory,Food,Restaurant,Snacks,Vegeterian,",126,,https://drive.google.com/file/d/1NRCOfKHek1ZJ4DPr8geNJ5u1q_xhqFt4/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/PaperSadaDosa.jpg,,
+Paper Masala Dosa,ProductType,42,"Inventory,Food,Restaurant,Snacks,Vegeterian,",190,,https://drive.google.com/file/d/1NMkJ2wBDEnFxdDmUUpagj8A2ZA9tlTZE/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Paper-masala-dosa.jpg,,
+Ragi Dosa (Nachni),ProductType,43,"Inventory,Food,Restaurant,Snacks,Vegeterian,",90,,https://drive.google.com/file/d/1-yf-bFxiVemcdo2Hi8ciy6aRH7q81L28/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/RagiDosaNachni.jpg,,
+Butter Sada Dosa,ProductType,44,"Inventory,Food,Restaurant,Snacks,Vegeterian,",104,,https://drive.google.com/file/d/1NFfLyIXntLeIo9Q_HleDeOMjmKW4k-ao/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/10222/ButterSadaDosa.jpg,117,117
+Butter Masala Dosa,ProductType,45,"Inventory,Food,Restaurant,Snacks,Vegeterian,",113,,https://drive.google.com/file/d/1dXCIo4HLeYgbgKSxBacy30C-R4M24bNc/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ButterMasalaDosa.jpg,126,126
+Cheese Sada Dosa,ProductType,46,"Inventory,Food,Restaurant,Snacks,Vegeterian,",127,,https://drive.google.com/file/d/1qd0x6lNzCmqzC8uhbZsD1Zky-nD53Ycf/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/CheeseSadaDosa.png,136,136
+Cheese Masala Dosa,ProductType,47,"Inventory,Food,Restaurant,Snacks,Vegeterian,",136,,https://drive.google.com/file/d/10Rp0XGtq5BWypzm4mDSpOSRxgTjg6Q3K/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Cafe/CheeseMasalaDosa.jpg,145,145
+Combo Meal,ProductClass,1,"Inventory,Food,Restaurant,",,,https://drive.google.com/file/d/1QTNsbzA_FW_RRkRWoY4YXZp83iimyKDp/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/ComboMeal.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Combo Meal,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Combo Meal,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg,,
+Chole+ Puri,ProductType,4,"Inventory,Food,Restaurant,Combo Meal,Vegeterian,",144,,https://drive.google.com/file/d/1E-_-s7l0qIbtRuF2keVc55U3rh_YEjUM/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/CholePuri.jpg,153,
+Jeera Rice+ Chole Masala,ProductType,5,"Inventory,Food,Restaurant,Combo Meal,Vegeterian,",144,,https://drive.google.com/file/d/1KlcNJSJotj42TBVqLHILFtOoLyHovAik/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/JeeraRiceCholeMasala.jpg,,
+Neer Dosa + Veg Of The Day,ProductType,6,"Inventory,Food,Restaurant,Combo Meal,Vegeterian,",144,,https://drive.google.com/file/d/1XolyZRRX6PujRl_X-2uCs8HAysVvuok6/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/NeerDosaVegOfTheDay.jpg,,
+Rice,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Rice.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Rice,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Rice,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg,,
+Dal Khichdi,ProductType,4,"Inventory,Food,Restaurant,Rice,Vegeterian,",153,,https://drive.google.com/file/d/1eYgIjQw-U3ZGT8GEPhcg9KZJWnc7BvLu/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/DalKhichdi.jpg,,
+Palak Khichdi,ProductType,5,"Inventory,Food,Restaurant,Rice,Vegeterian,",153,,https://drive.google.com/file/d/1vZtmV-BC0j41rmRmP_dM_d7IU137_7sc/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/PalakKhichdi.jpg,,
+Curd Rice,ProductType,6,"Inventory,Food,Restaurant,Rice,Vegeterian,",122,,https://drive.google.com/file/d/1vBvzMDzVFIOmHhoFGfSV2bWWfqhHbujJ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/CurdRice.jpg,127,127
+Sambhar Rice,ProductType,7,"Inventory,Food,Restaurant,Rice,Vegeterian,",99,,https://drive.google.com/file/d/1j2QVKgNcTaVtFoyFgGFkte_D74Jloiut/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/SambharRice.jpg,108,108
+Tomato Rice,ProductType,8,"Inventory,Food,Restaurant,Rice,Vegeterian,",99,,https://drive.google.com/file/d/16lfw7mnjaLBzhKVwfNRqFZZJtevVnEnS/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/TomatoRice.jpg,108,108
+Lemon Rice,ProductType,9,"Inventory,Food,Restaurant,Rice,Vegeterian,",99,,https://drive.google.com/file/d/1aD_YXqc1g1Uyv8R8KOqJaimBkn8woDNH/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/LemonRice.jpg,108,108
+Veg Pulao & Curry,ProductType,10,"Inventory,Food,Restaurant,Rice,Vegeterian,",162,,https://drive.google.com/file/d/1ClVE7GVBb9CVVb8p3rY0e1vMQTm8tW2d/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/VegPulaoCurry.jpg,,
+Veg Biryani,ProductType,11,"Inventory,Food,Restaurant,Rice,Vegeterian,",190,,https://drive.google.com/file/d/1jR3STBQoAfkKOHnvdjdNXjOE5ZqtJexz/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Biryani.jpg,,
+Bisse Belle Bhat,ProductType,12,"Inventory,Food,Restaurant,Rice,Vegeterian,",93,,https://drive.google.com/file/d/14h9vAD--oS28eOVmZFQtltHp8BOoVvFJ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/BisseBelleBhat.jpg,,
+Pongal,ProductType,13,"Inventory,Food,Restaurant,Rice,Vegeterian,",63,,https://drive.google.com/file/d/17KnbPjVfmN82Udtf9jLmNRPx9BBhrNSB/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/Pongal.cms,,
+Plain Rice,ProductType,14,"Inventory,Food,Restaurant,Rice,Vegeterian,",57,,https://drive.google.com/file/d/18J_mJa06XUs-QW11tFlny9iB4N4MgBaj/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Plain-Rice.jpg,63,63
+Rasam/ Sambhar,ProductType,15,"Inventory,Food,Restaurant,Rice,Vegeterian,",46,,https://drive.google.com/file/d/1OPJkYZNDmvxfxnscGkJO7xXmz85BO-lW/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/RasamSambhar.jpg,54,54
+Veg Entree,ProductClass,1,"Inventory,Food,Restaurant,",,,https://drive.google.com/file/d/13d5-RS6K5zB_it7T2SUJig2uLnC9EIKd/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220323/VegEntree.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Veg Entree,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Veg Entree,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg,,
+Dal Fry,ProductType,4,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",138,,https://drive.google.com/file/d/1K8tvnEHHFvnC05dq2Qx-p-dJ1RZDhOaK/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/DalFry.jpg,,
+Dal Tadka,ProductType,5,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",153,,https://drive.google.com/file/d/14RUwq8nVglapT24psGzGu5oLTx-UOZB7/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/DalTadka.jpg,,
+Chana Masala,ProductType,6,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",165,,https://drive.google.com/file/d/1nZdItXvChE8U5tIvcRPEw-xj1k3IGUsu/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/ChanaMasala.jpg,,
+Thali,ProductClass,1,"Inventory,Food,Restaurant,",,,https://drive.google.com/file/d/1Rs5v4DRUvAdsRfH-z7nFDoW_hWgSu_fQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Thali.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Thali,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Thali,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg,,
+Veg Thali,ProductType,4,"Inventory,Food,Restaurant,Thali,Vegeterian,",153,,https://drive.google.com/file/d/17SImYGyNetoMiFrtd944cixjmKeGsFoF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-4/VegThali.jpg,,
+Punjabi Thali,ProductType,5,"Inventory,Food,Restaurant,Thali,Vegeterian,",173,,,,,
+Sweets,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/sweet.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Sweets,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Sweets,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg,,
+Gulab Jamun,ProductType,4,"Inventory,Food,Restaurant,Sweets,Vegeterian,",45,,https://drive.google.com/file/d/1TbtnkGTLMpu0NDPKRVb7_KyhTDD652nr/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/GulabJamun.jpg,45,45
+Beverages,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Beverages.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Beverages,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Beverages,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg,,
+Chaas,ProductType,4,"Inventory,Food,Restaurant,Beverages,Vegeterian,",39,,https://drive.google.com/file/d/1nsNX2TH9MFts-M0agE2qAfEe9y5h-Wx2/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Chaas.jpg,45,45
+Lassi,ProductType,5,"Inventory,Food,Restaurant,Beverages,Vegeterian,",66,,https://drive.google.com/file/d/1z2BJrtvZR9kkdK-COuqLNCQlIbTJNxnX/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Lassi.jpg,72,72
+Cold Coffee,ProductType,6,"Inventory,Food,Restaurant,Beverages,Vegeterian,",81,,https://drive.google.com/file/d/12q3woJzjR7FpBQfmLThIsX0ExUZ8wRPo/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ColdCoffee.jpg,90,90
+Chocolate Milkshake,ProductType,7,"Inventory,Food,Restaurant,Beverages,Vegeterian,",81,,https://drive.google.com/file/d/1gNNdOKRjSHqwP3pL85tcu-djoMI3tUvh/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/ChocolateMilkShake.jpg,,
+Fresh Lime Soda,ProductType,8,"Inventory,Food,Restaurant,Beverages,Vegeterian,",45,,https://drive.google.com/file/d/1XWxK7uoHR0YdXYlWzRSpVWnyAKPqSJfd/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/FreshLimeSoda.jpg,,
+Fresh Lime Juice,ProductType,9,"Inventory,Food,Restaurant,Beverages,Vegeterian,",32,,https://drive.google.com/file/d/1laLm5ohxQDBHs4HpBHI5oaibE3vBXSxi/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/FreshLimeJuice.jpg,45,45
+Pckgd Drnkg Water (1 litre),ProductType,10,"Inventory,Food,Restaurant,Beverages,Vegeterian,",20,,https://drive.google.com/file/d/1XD2V7s6vvy560wpb-f20AxlaUNvpeTQc/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/PckgdDrnkgWater12litre.jpg,,
+Pckgd Drnkg Water (1/2 litre),ProductType,11,"Inventory,Food,Restaurant,Beverages,Vegeterian,",10,,https://drive.google.com/file/d/1ppRzqoNpGJ0l4vOZc70SNJhfrIuzFEa9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/PckgdDrnkgWater12litre.jpg,,
+Tea,ProductType,12,"Inventory,Food,Restaurant,Beverages,Vegeterian,",32,,https://drive.google.com/file/d/1fd2gFK13kA_Nc4iEqwyT__x9hmcV5BvG/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Tea.jpg,37,37
+Filter Coffee,ProductType,13,"Inventory,Food,Restaurant,Beverages,Vegeterian,",45,,https://drive.google.com/file/d/1NKrQfWQJBpcKUu6qpZruhLGJA-evVQdU/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/FilterCoffee.jpg,46,46
+Nescafe,ProductType,14,"Inventory,Food,Restaurant,Beverages,Vegeterian,",45,,https://drive.google.com/file/d/1ZceJ6O8orbGXrD2gD8yEJLVO76d6y_8N/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/Nescafe.jpg,55,55
+Tea without sugar,ProductType,15,"Inventory,Food,Restaurant,Beverages,Vegeterian,",36,,https://drive.google.com/file/d/1zW8XtWN7AT8eRXkFh-IDsHBrN57Oe4vh/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/Teawithoutsugar.png,37,37
+Roti and Naan,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Roti.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Roti and Naan,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Roti and Naan,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg,,
+Chapati,ProductType,4,"Inventory,Food,Restaurant,Roti and Naan,Vegeterian,",10,,https://drive.google.com/file/d/1BCZG8M0F-__45K4lUhTp357cF_FXpX8k/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Chapati.jpg,,
+Butter Chapati,ProductType,5,"Inventory,Food,Restaurant,Roti and Naan,Vegeterian,",19,,https://drive.google.com/file/d/1caizJDjMx1SJWxFLCQo3mIbbJRJ5ynbR/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ButterChapati.jpg.crdownload.jpg,,
+Roasted,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/imgs-2/ChillyCheeseroast.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Roasted,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Roasted,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg,,
+Fry Papad,ProductType,4,"Inventory,Food,Restaurant,Roasted,Vegeterian,",11,,https://drive.google.com/file/d/1CXp-AUOHGYhoMisfi_jKPGpu_ezSeqan/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/FryPapad.jpg,12,12
+Masala Papad,ProductType,5,"Inventory,Food,Restaurant,Roasted,Vegeterian,",46,,https://drive.google.com/file/d/1ypAnHqCtC52zDbEKyPOq7b5i9Uwj2c_r/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/MasalaPapad.jpg,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+1,,,,,,,,,

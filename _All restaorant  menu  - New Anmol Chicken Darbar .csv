@@ -1,0 +1,39 @@
+label,nodeType,order,path,price,description,ingredients,link,imageLink
+Entree,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant7/Entree.jpg
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Entree,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg
+Vegetarian ,ProductLine,,"Inventory,Food,Restaurant,Entree,",,,,,
+Chicken Handi,ProductType,3,"Inventory,Food,Restaurant,Entree,Non Vegeterian,",80,,"Chicken 1 kgs,ginger garlic and green chilli paste 1 tbsp,
+chopped garlic 1 tsp,Tomato, chopped 2 nos,
+cumin seeds 1 tsp,coriander seeds 1 tsp,turmeric powder 1 tsp,
+Coriander powder 2 tsp,Chili Powder 1 tsp,Curd 4 tbsp,
+Salt-as required 2 tsp",https://drive.google.com/file/d/1RMADFPBuSEsBClMMjRRF3Ywu4mtb54pt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenHandi.jpg
+Chicken Handi Full,ProductUnit,4,"Inventory,Food,Restaurant,Entree,Non Vegeterian,Chicken Handi,",80,,"Chicken 1 kgs,ginger garlic and green chilli paste 1 tbsp,
+chopped garlic 1 tsp,Tomato, chopped 2 nos,cumin seeds 1 tsp,
+coriander seeds 1 tsp,turmeric powder 1 tsp,Coriander powder 2 tsp,
+Chili Powder 1 tsp,Curd 4 tbsp,Salt-as required 2 tsp",https://drive.google.com/file/d/1LabfJ7U7HGWmo2mIPWym0Wm76D0yr7tH/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenHandiFull.jpg
+Chicken Handi Half,ProductUnit,5,"Inventory,Food,Restaurant,Entree,Non Vegeterian,Chicken Handi,",50,,"Chicken 1 kgs,ginger garlic and green chilli paste 1 tbsp,
+chopped garlic 1 tsp,Tomato, chopped 2 nos,cumin seeds 1 tsp,
+coriander seeds 1 tsp,turmeric powder 1 tsp,
+Coriander powder 2 tsp,Chili Powder 1 tsp,Curd 4 tbsp,
+Salt-as required 2 tsp",https://drive.google.com/file/d/1XLzwK9SmXm48SjgSpen2LYnKWNg5f2Pv/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenHandiHalf.jpg
+Chicken 65,ProductType,6,"Inventory,Food,Restaurant,Entree,Non Vegeterian,",80,,"To Marinate:Boneless Chicken Thighs or Breast 1/2 kgs,
+Minced Garlic 1 tsp,Minced Ginger 1 tsp,turmeric powder 1/4 tsp,
+Coriander Powder 3 tsp,Freshly Grounded Black Pepper 1 tsp,
+Red Chili Powder 1 1/2 tsp,Garam Masala 1 pinch,
+cumin powder 1/4 tsp,Kashmiri Chilli Powder 1/2 tsp,
+Egg-beaten 1 nos,Lemon Juice 3 tbsp",https://drive.google.com/file/d/1KiB00yMYljrQJTd8pi_-yERqqS-9omgS/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Chicken65.jpg
+Chicken Masala,ProductType,7,"Inventory,Food,Restaurant,Entree,Non Vegeterian,",100,,"Medium sized Chicken pieces 1 kgs,Eastern Chicken Masala 5 tbsp,Big Onion sliced 1 cups,Sliced Ginger 1 tbsp,Garlic cloves 3 nos,green chilli 2 nos,Curry leave stalks 2 nos,Refined vegetable Oil 2 tbsp,Mustard As required 1 tsp,
+Salt -To taste 1 pinch",https://drive.google.com/file/d/16eM27vE_lLNM8GKZT5a35PjfaUi0laY9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenMasala.jpg
+Chicken Khurma,ProductType,8,"Inventory,Food,Restaurant,Entree,Non Vegeterian,",80,,,https://drive.google.com/file/d/10nrNRXUi6Uw4oFmUzusjS2VYbxj9yDmq/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenKhurma.jpg
+Chicken Fry,ProductType,9,"Inventory,Food,Restaurant,Entree,Non Vegeterian,",80,,"Chicken 100 gms,Chilly powder 1 tsp,
+turmeric powder 1/2 tsp,salt 1/4 tsp,
+Oil 100 ml,onion 100 gms,ginger 5 gms,
+Chilly 5 gms,Pepper powder 1/2 tsp,
+chicken masala 3/4 tsp",https://drive.google.com/file/d/1mWmrLNgJfrNpnzlbAzFVibM_tkVFr_ge/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenFry.jpg
+Chicken Leg Piece,ProductType,10,"Inventory,Food,Restaurant,Entree,Non Vegeterian,",120,,,https://drive.google.com/file/d/1ODdpZhyNV57PXbgk6pBg5Q8D-M37-6jZ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenLegPiece.jpg
+Chicken Lolipop,ProductType,11,"Inventory,Food,Restaurant,Entree,Non Vegeterian,",150,,,https://drive.google.com/file/d/1DIWmP2-gzJpyfkJAbYYPaH8vFPHOj4J5/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenLolipop.jpg
+Chicken Curry,ProductType,12,"Inventory,Food,Restaurant,Entree,Non Vegeterian,",100,,"Chicken (cut in pcs) 1 nos,Onions (sliced thinnly) 2 nos,Tomatoes (chopped) 5 nos,
+Whole garam masala (few Dalchin, Cloves, Black Peppercorns n Elaichi) 1 tsp,
+Fennel powder 1 tsp,Dhana/ jeera masala (optional) 1/2 tsp,Chilli powder 1 tsp,
+turmeric powder 1/4 tsp,Garam masala 1/2 tsp,Tomato Puree 1 tbsp,Ghee 2 tbsp,
+Potatoes (Halved) 5-6 nos",https://drive.google.com/file/d/1dU5-tSB4k1PcuEGJMCv4sWBNDgUrp2y5/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenCurry.jpg
