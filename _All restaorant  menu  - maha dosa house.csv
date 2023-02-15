@@ -1,0 +1,332 @@
+label,nodeType,order,path,price,description,ingredients,link,imageLink
+Breakfast,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Breakfast.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Breakfast,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Breakfast,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg
+Oil plain dosa,ProductType,4,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",30,,"Uraad Daal (Black Gram Lentils)  
+
+Rice (parboiled)  
+
+Fenugreek Seeds  tsp
+
+Semolina  tbsp
+
+Salt  pinch",https://drive.google.com/file/d/1aM7USAyDQ6pqA0bhhvF0dAiOSFjwJVGW/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Oilplaindosa.jpg
+Butter Plain dosa,ProductType,5,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",50,,"Rice  cup
+
+Urad Dal  cup
+
+Methi seeds  tsp
+
+Salt  tsp
+
+Coconut oil  tbsp",https://drive.google.com/file/d/1JG2ob4Hu1botrQiBacle_a_iPDi5YDx_/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ButterPlaindosa.png
+Oil papper dosa,ProductType,6,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",60,,"Rice chawal  
+
+Urad dal white lentils  
+
+Eno packet  nos
+
+Salt namak to taste  tsp
+
+Oil tel  tbsp",https://drive.google.com/file/d/1CJsDxNJ29U3YErmP_BoYdUE0j_UMd8Il/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Oilpapperdosa.jpg
+Butter papper dosa,ProductType,7,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",80,,"Rice chawal  
+
+Urad dal white lentils  
+
+Eno packet  nos
+
+Salt namak to taste  tsp
+
+Oil tel  tbsp",https://drive.google.com/file/d/16-Kaaw_PsQV28TkBznJtYgVsy_KcgWn6/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Butterpapperdosa.jpg
+Oil rava dosa,ProductType,8,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",60,,"rava  
+
+chawal ka atta  
+
+maida  
+
+curry patte( barik kate)  nos
+
+adrak (ghisa hua)  tsp
+
+hing  pinch
+
+jeera  tsp
+
+Namak or swadanusar  tsp
+
+ghee  tsp",https://drive.google.com/file/d/192_Myy19FyoH-rUoCGzM8JhDIDip5f98/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Oilravadosa.jpg
+Butter rava dosa,ProductType,9,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",80,,"Semolina  
+
+Raw Rice Flour  
+
+All purpose flour  
+
+Finely chopped green chillies and ginger  tsp
+
+Salt  tsp
+
+Crushed Pepper  tsp
+
+Cumin Seeds  tsp
+
+Chopped Curry Leaves  tsp
+
+Roasted Chopped Cashew nuts  tbsp",https://drive.google.com/file/d/1l5Td_FEuY5qIR95-S9SJs6GuH0c3J8y3/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Butterravadosa.jpg
+Oil hyderabadi masala dosa,ProductType,10,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",50,,"FOR DOSA  cup rice (regular not basmati)
+
+ cup fine black gram (split urad daal)
+
+ tsp fenugreek seed
+
+ tsp sugar
+
+Salt to taste or  tsp  cup oil
+
+For Masala...Potato boiled and mashed 
+
+Onion chopped  cup
+
+Beans chopped  cup",https://drive.google.com/file/d/1qz0Q0ipCdDfqJCQ5-nBmdPpQh552sweb/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Oilhyderabadimasaladosa.jpg
+Butter hyderabadi masala dosa,ProductType,11,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",70,," medium size onion
+
+ boiled aloo
+
+ green chilli chopped
+
+ teaspoon Curry pata
+
+ inch Ginger
+
+ teaspoon Mustard seeds
+
+ teaspoon hing
+
+ teaspoon Roasted besan
+
+ teaspoons salt or as per taste
+
+ teaspoon Turmeric powder",https://drive.google.com/file/d/1ojs7HFqk7l6vvCaCOjRBfOZCyudq_XLi/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Butterhyderabadimasaladosa.jpg
+Oil mysore masala dosa,ProductType,12,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",60,,".  Dosa Rice
+
+ cup Urad Dal
+
+ tablespoon Toor Dal
+
+ tablespoon Chana Dal
+
+ teaspoon Fenugreek Seeds
+
+ cup Poha
+
+ tbsp salt or to taste
+
+ teaspoon Sugar
+
+ potatoes boiled and mashed
+
+ teaspoon Oil
+
+ teaspoon Chana Dal
+
+ teaspoon Urad Dal
+
+ teaspoon Mustard Seeds",https://drive.google.com/file/d/1lEndb_JNzF56VJfcdedg17JSa15I7u63/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Oilmysoremasaladosa.jpg
+Butter mysore masala dosa,ProductType,13,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",80,,".  Dosa Rice
+
+ cup Urad Dal
+
+ tablespoon Toor Dal
+
+ tablespoon Chana Dal
+
+ teaspoon Fenugreek Seeds
+
+ cup Poha
+
+ tbsp salt or to taste
+
+ teaspoon Sugar
+
+ potatoes boiled and mashed
+
+ teaspoon Oil
+
+ teaspoon Chana Dal
+
+ teaspoon Urad Dal
+
+ teaspoon Mustard Seeds",https://drive.google.com/file/d/1egYnVEY217_g9_QH0f3aJjF9DFAZqa4j/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Buttermysoremasaladosa.jpg
+Oil masala paneer dosa,ProductType,14,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",90,," Cup Rice (par-boiled)
+
+ Cup Black gram (urad dal)
+
+ Tbsp Toor dal
+
+ Tbsp Semolina
+
+ tsp Methi seeds (fenugreek seeds)
+
+To taste Salt
+
+For the dosa masala:
+
+ Gram Potatoes",https://drive.google.com/file/d/1l1m9MkGVdRcOC08meDwalzi9zaKHLLik/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Oilmasalapaneerdosa.jpg
+Butter masala paneer dosa,ProductType,15,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",110,,,https://drive.google.com/file/d/1NqKi6Bw7TSH371M1ftZkDpxjqReTdhpj/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Buttermasalapaneerdosa.jpg
+Oil masala cheese dosa,ProductType,16,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",100,,"FOR DOSA  cup rice (regular not basmati)
+
+ cup fine black gram (split urad daal)
+
+ tsp fenugreek seed
+
+ tsp sugar
+
+Salt to taste or  tsp  cup oil
+
+For Masala...Potato boiled and mashed 
+
+Onion chopped  cup
+
+Beans chopped  cup
+
+Oil  cup
+
+ tsp mustard seeds
+
+ to  curry leaves",https://drive.google.com/file/d/1zlqTRXYsEf8euxT2pB5VL7yMhXSTvBEm/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Oilmasalacheesedosa.jpg
+Butter masala cheese dosa,ProductType,17,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",120,," cup rawa
+
+ cheese slice
+
+ tsp salt
+
+ tsp mixed herbs
+
+ tsp chopped onion
+
+ - coriander leaves
+
+ tsp oil",https://drive.google.com/file/d/1jRYhDXfYa1kmIHpg157ayS8c10VjJa-e/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Buttermasalacheesedosa.jpg
+Oil masala cheese paneer dosa,ProductType,18,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",120,,,https://drive.google.com/file/d/1_OC2K7Yx_JCWIPkAPiZzkvXUFJDtdZzo/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Oilmasalacheesepaneerdosa.jpg
+Butter masala cheese paneer dosa,ProductType,19,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",140,,,https://drive.google.com/file/d/1SEhSef9pKhTLyD3ZHGyart7QJ2JDywHW/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Buttermasalacheesepaneerdosa.jpg
+Oil onian uttappa,ProductType,20,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",60,,"Idli rice or parmal rice   
+
+Raw normal rice  
+
+Whole Urad daal  
+
+Methi seeds (fenugreek)  tsp
+
+Onions(finely chopped)  nos
+
+Green chilies (finely chopped)  nos
+
+Fresh Coriander leaves(finely chopped)  tbsp
+
+Salt as per taste ( i have added around  tsp)  tsp",https://drive.google.com/file/d/1CyEZUrSJ4DGiz1uGLbAgsHNLvNtQEJ0_/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Oilonianuttappa.jpg
+Butter onian uttappa,ProductType,21,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",80,,"Rice 
+
+Urad dhulli dal cup
+
+Jaggery powder tsp
+
+Salt tsp
+
+Chop green chilli 
+
+Chop onion 
+
+Fresh grinded black pepper  tsp
+
+Oil tsp",https://drive.google.com/file/d/1uT3rsqa5NMYoO4YRqjqp6FJHtRlOkCXE/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Butteronianuttappa.jpg
+Oil masala uttappa,ProductType,22,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",70,,,https://drive.google.com/file/d/1ZlOARBULkJP66qjdUwLKmyz6LXwCAAtc/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Oilmasalauttappa.jpg
+Butter Masala uttappa,ProductType,23,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",90,,,https://drive.google.com/file/d/1rt7LsC_6o1-mJNOGcJIKOkYEb8dN5U9i/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ButterMasalauttappa.jpg
+Idli plain,ProductType,24,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",40,,"For idli :skinned black gram (urad dal)  
+
+rice  
+
+thick poha  tbsp
+
+sea salt as needed  tsp
+
+cold water  ",https://drive.google.com/file/d/1lZlKERFb0eyrv3B6MEHGPkoq3hCVMpmn/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Idliplain.jpg
+Idli Sambhar,ProductType,25,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",50,," cup sambhar ( toor ) Dal
+
+ gram chopped green gourd
+
+ gram chopped pumpkin  tbsp peas
+
+ peeled & chopped small egg plant
+
+ sliced onion
+
+ grinded tomatoes
+
+ tsp ginger garlic paste
+
+ tsp cumin seeds
+
+ tbsp tamarind juice
+
+ tsp salt
+
+ tsp turmeric powder
+
+ tsp red chilli powder",https://drive.google.com/file/d/1x_0cTWlWQvJ87Lc-ut0NOo1ZzQT3Fk-d/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/IdliSambhar.jpg
+Vada,ProductType,26,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",40,,"For the Vadas: Urad  
+
+Green chilly  nos
+
+shallot  nos
+
+Ginger chopped  tsp
+
+Salt  tsp
+
+Oil for frying  
+
+For sauteing:Onion chopped  nos
+
+Ginger and garlic chopped  tbsp
+
+Kashmiri Chilly powder  tsp",https://drive.google.com/file/d/1-D-wB6eFj019Al95RSYs43jTQINHNNed/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vada.jpg
+Vada Sambhar,ProductType,27,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",50,,"Urad daal  
+
+Ginger grated  inch
+
+Salt  tsp
+
+green chilli  piece
+
+Oil  ",https://drive.google.com/file/d/1d1kqi3td-U1gYyPlufdbEAtxYNBWYped/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VadaSambhar.jpg
+Mysore bonda,ProductType,28,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",50,,"Yellow urad dal  cup
+
+Rice flour  tbsp
+
+Crushed black pepper  tsp
+
+Chopped green chili 
+
+Finely chopped ginger  inch stick
+
+Curry leaves 
+
+Asafoetida  tsp",https://drive.google.com/file/d/18ERX5la3OPcn5_xlmiTtfxznv5VUymzC/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Mysorebonda.jpg
+Butter idli,ProductType,29,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",60,," rice, udad dal wash
+
+ tsp. Cooking soda
+
+_ tsp.salt",https://drive.google.com/file/d/1nkbZcFHbsGJFUO5JOzrRrZuTRR2v0Vn-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Butteridli.jpg
+Tava masala idli,ProductType,30,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",70,," idli
+
+ spoon idli podi
+
+ spoon oil
+
+ spoon mustard urid dhal
+
+ spoon curry leaves
+
+ spoon coriander leaves",https://drive.google.com/file/d/1Z0E99hXdvjznpC_DXFYjBbKKX8OgbwPi/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Tavamasalaidli.jpg
+Maha Special dry fruits dosa,ProductType,31,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",190,Regular size,,,
+Maha Special dry fruits dosa Regular Size,ProductUnit,32,"Inventory,Food,Restaurant,Breakfast,Vegeterian,Maha Special dry fruits dosa,",190,Regular size,,,
+Maha Special dry fruits dosa Mini Size,ProductUnit,33,"Inventory,Food,Restaurant,Breakfast,Vegeterian,Maha Special dry fruits dosa,",120,Mini size,,,

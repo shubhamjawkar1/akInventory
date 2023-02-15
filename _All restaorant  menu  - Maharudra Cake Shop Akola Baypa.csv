@@ -1,0 +1,45 @@
+label,nodeType,order,path,price,description,ingredients,link ,imageLink
+Cake,ProductClass,1,"Inventory,Food,Bakery,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/bakery2/BlackForestCake500gm.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Bakery,Cake,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Bakery,Cake,",,,,,
+Black Forest Cake 500gm,ProductType,4,"Inventory,Food,Bakery,Cake,Vegeterian,",250,," cup Maida,/ cup cocoa powder, tsp drinking chocolate powder,tsp baking powder, eggs,/th cup sugar,
+ cup refined oil,Whipped cream for decorating the cake  small bowl,Chocolate shavings/curls for decoration of cake - tablespoon",https://drive.google.com/file/d/1vuRdPyxKyDLB8LYiINXoI_Ni_F1TFc3j/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/bakery2/BlackForestCake500gm.jpg
+Chocolate Cake 500gm,ProductUnit,5,"Inventory,Food,Bakery,Cake,Vegeterian,",250,," cup All Purpose Flour, Cup Milk,
+ tsp Lemon Juice, tsp Baking Soda,
+ cup Condensed Milk, tsp Baking Powder,
+ tsp Vanilla Essence,Glaze:  cup Fresh cream,
+ tsp Coco powder",https://drive.google.com/file/d/1Da9jfr2mqCAsQcVgk8pM33YMjBJ6lAJ5/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/bakery2/ChocolateCake500gm.png
+Mango Cake 500gm,ProductType,6,"Inventory,Food,Bakery,Cake,Vegeterian,",250,,". cup flour, gram sugar,
+ egg whites  egg white, egg yolks,
+/ tsp salt, tsp baking powder,
+/ tsp cream of tarter, tsp vanilla essence,
+/ cup oil,/ cup milk, cup whipped cream,
+ mango, drops of yellow food colour",https://drive.google.com/file/d/1pvjsWqRhNvdeMvTPkwzRGuVj3-vrpdc4/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/bakery2/MangoCake500gm.jpg
+Orenge Cake 500gm,ProductType,7,"Inventory,Food,Bakery,Cake,Vegeterian,",250,,"Orange ( juice ),Whole wheat  cup,
+Baking powder  tsp,egg ,Suger / cup,
+Oil / cup",https://drive.google.com/file/d/1PkxE5px0hn928R0t8cEzxg4FhO05K4r2/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/bakery2/OrangeCake500gm.jpg
+Strawberry Cake 500gm,ProductUnit,8,"Inventory,Food,Bakery,Cake,Vegeterian,",250,,"g All purpose flour, large egg whites room temperature,
+/ cup  tbsp Strawberry puree, teaspoon Sprig Vanilla essence,g unsalted butter at room temperature,
+/ teaspoon baking powder, teaspoon vinegar, teaspoon baking soda, ml strawberry essence (optional) - adjust,
+- drops pink food colouring, ml whole milk,
+/ teaspoon salt",https://drive.google.com/file/d/1P2wGvSOAkp_FwHyYhlvuoVUegul_MIpc/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/bakery2/StrawberryCake500gm.jpg
+Blueberry Cake 500gm,ProductType,9,"Inventory,Food,Bakery,Cake,Vegeterian,",250,,"/ cup butter,/ cup white sugar,
+/ teaspoon salt, teaspoon vanilla extract,
+ / cups all-purpose flour,/ cup milk,
+ egg yolks, teaspoon baking powder,
+ egg whites, / cups fresh blueberries,
+ tablespoon all-purpose flour",https://drive.google.com/file/d/1f2jgWg7dkshARCihzD9GsyRZnxFdpp5G/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/bakery2/BlueberryCake500gm.jpg
+Butterscotch Cake 500gm,ProductType,10,"Inventory,Food,Bakery,Cake,Vegeterian,",250,,"Thick Curd – / cup,Baking Soda – / tsp,
+Vinegar –  tbsp,Maida –  and / cups,
+Sugar –  cup,Baking Powder –  tsp,
+Melted Butter – / cup,Butterscotch Essense –  tsp,
+Butterscotch Chips – / cup,Water – / cup",https://drive.google.com/file/d/1sao6A5t_7ghFB4ECPkSEJNmepl3Y4CHB/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/bakery2/ButterscotchCake500gm.png
+Pineapple Cake 500gm,ProductUnit,11,"Inventory,Food,Bakery,Cake,Vegeterian,",300,,"Refined Flour  bowls,Baking Powder  tbsp,
+Baking Soda  tbsp,Sugar  bowls,Butter  bowls,
+Pinepapple Essence - drop,Milk  cups,
+Pineapple Sliced Tin  nos",https://drive.google.com/file/d/1pCvYu3Is-zxN9UBGKkrtyZhMSxnMHAJt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/bakery2/PineappleCake500gm.jpg
+White Forest Cake 500gm,ProductType,12,"Inventory,Food,Bakery,Cake,Vegeterian,",300,,"Flour  cups,powder Sugar  cups,Butter  cups,
+Eggs  nos,milkmaid / cups,Baking powder  tsp,
+vanilla essence  tsp,milk / cups,
+For icing: White Chocolate Curls  cups,
+Whipped Cream  tbsp",https://drive.google.com/file/d/192Itq6rG92tB4My9_3GEb4b4AUfCx1Jh/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/bakery2/WhiteForestCake500gm.jpg

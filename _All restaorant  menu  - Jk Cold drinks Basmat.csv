@@ -1,0 +1,193 @@
+label,nodeType,order,path,price,description,link,imageLink
+Candies,ProductClass,1,"Inventory,Ice Cream,",,, ,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food122021/Candies.jpg
+Vegeterian ,ProductLine,2,"Inventory,Ice Cream,Candies,",,,,
+NonVegeterian,ProductLine,3,"Inventory,Ice Cream,Candies,",,,,
+Dairy Day Limboos Candie 55ml,ProductUnit,4,"Inventory,Ice Cream,Candies,Vegeterian,",10,,https://drive.google.com/file/d/1djY6n4sviLNwId0Pz18F3gpLxz0ShuVu/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayLimboosCandie55ml.jpg
+Dairy Day Mango Candie 55ml,ProductUnit,5,"Inventory,Ice Cream,Candies,Vegeterian,",10,,https://drive.google.com/file/d/136mQIHR0K4Rc3-vATJ9WXJGJTBjyi8vf/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayMangoCandie55ml.png
+Dairy Day Strawberry Candie 55ml,ProductUnit,6,"Inventory,Ice Cream,Candies,Vegeterian,",10,,https://drive.google.com/file/d/1qejBNpDwQSy50F_0VTZAxixI3yo5N-Fh/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayStrawberryCandie55ml.jpg
+Dairy Day Orange Candie 55ml,ProductUnit,7,"Inventory,Ice Cream,Candies,Vegeterian,",10,,https://drive.google.com/file/d/1uGUhcCOlUMa9KwSWi2BNOnuFTgoXyU9r/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayOrangeCandie55ml.png
+Dairy Day Grape Candie 55ml,ProductUnit,8,"Inventory,Ice Cream,Candies,Vegeterian,",10,,https://drive.google.com/file/d/1Bzc0cz3mqWR-SEVWWAxRWSDELg-kAwJ2/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayGrapeCandie55ml.png
+Dairy Day Pineapple Candie 55ml,ProductUnit,9,"Inventory,Ice Cream,Candies,Vegeterian,",10,,https://drive.google.com/file/d/1ICfGjH5V0P62EYWwinjRD1vIxdVmApsZ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayPineappleCandie55ml.jpg
+Dairy Day Orenge Candy 35ml,ProductUnit,10,"Inventory,Ice Cream,Candies,Vegeterian,",5,,https://drive.google.com/file/d/1zoT1sIaqL5zin5-Pul0MMSMIguYfeNHH/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayOrengeCandy35ml.png
+Sundaes,ProductClass,1,"Inventory,Ice Cream,",,, ,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/DoubleChocolateSundae.jpg
+Vegeterian ,ProductLine,2,"Inventory,Ice Cream,Sundaes,",,,,
+NonVegeterian,ProductLine,3,"Inventory,Ice Cream,Sundaes,",,,,
+Dairy Day Chocolatey Sundae 500ml,ProductUnit,4,"Inventory,Ice Cream,Sundaes,Vegeterian,",120,,https://drive.google.com/file/d/1avWEHTbwdrCOW-36v5aImv4iSJIflh8V/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayChocolateySundae500ml.jpg
+Dairy Day Chocolatey Sundae 100ml,ProductUnit,5,"Inventory,Ice Cream,Sundaes,Vegeterian,",35,,https://drive.google.com/file/d/14WMs7ccNnFQIqB4YpLQ_ArJwL_bP2V6X/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayChocolateySundae100ml.png
+Dairy Day Mango Sundae 500ml,ProductUnit,6,"Inventory,Ice Cream,Sundaes,Vegeterian,",120,, ,
+Dairy Day Mango Sundae 100ml,ProductUnit,7,"Inventory,Ice Cream,Sundaes,Vegeterian,",35,, ,
+Dairy Day Strawberry Sundae 500ml,ProductUnit,8,"Inventory,Ice Cream,Sundaes,Vegeterian,",120,,https://drive.google.com/file/d/1S607WqofxuL6HDzR69RH4QiPmoGLn_Wq/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayStrawberrySundae500ml.jpg
+Dairy Day Strawberry Sundae 100ml,ProductUnit,9,"Inventory,Ice Cream,Sundaes,Vegeterian,",35,,https://drive.google.com/file/d/1eSkSv41GXHqfSnIa9uW7kEH-4deYF2S-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayStrawberrySundae100ml.png
+Dairy Day Blackcurrant Sundae 500ml,ProductUnit,10,"Inventory,Ice Cream,Sundaes,Vegeterian,",120,,https://drive.google.com/file/d/1yw0fSIIqJBdJy1EiOs8Mombteh7B1dku/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayBlackcurrantSundae500ml.png
+Dairy Day Blackcurrant Sundae 100ml,ProductUnit,11,"Inventory,Ice Cream,Sundaes,Vegeterian,",35,,https://drive.google.com/file/d/1jSG1hiBWWcuKV2GlkWA7QDIQyZHDQs76/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayBlackcurrantSundae100ml.png
+Dairy Day Fruit Punch Sundae 500ml,ProductUnit,12,"Inventory,Ice Cream,Sundaes,Vegeterian,",140,,https://drive.google.com/file/d/1TDR33TFAHRsLcnYGjUG4rtCxTCuno2mP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayFruitPunchSundae500ml.png
+Dairy Day Fruit Punch Sundae 100ml,ProductUnit,13,"Inventory,Ice Cream,Sundaes,Vegeterian,",40,,https://drive.google.com/file/d/1LuOgD_SxA4wqtU0uU4XD3CSYGB4Rhmsp/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayFruitPunchSundae100ml.png
+Ice Cream Sandwich,ProductClass,1,"Inventory,Ice Cream,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-4/IceCreamSandwich.jpg
+Vegeterian ,ProductLine,2,"Inventory,Ice Cream,Ice Cream Sandwich,",,,,
+NonVegeterian,ProductLine,3,"Inventory,Ice Cream,Ice Cream Sandwich,",,,,
+Dairy Day Chocolate Ice Cream Sandwich,ProductUnit,4,"Inventory,Ice Cream,Ice Cream Sandwich,Vegeterian,",30,,https://drive.google.com/file/d/14lHbX4PhX1swDquSwFC57SyNdJJCZXMO/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayChocolateIceCreamSandwich.jpg
+Dairy Day Vanila Ice Cream Sandwich,ProductUnit,5,"Inventory,Ice Cream,Ice Cream Sandwich,Vegeterian,",30,,https://drive.google.com/file/d/149lUHdziilIklgVTjOaJme58WRrlleO-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayVanilaIceCreamSandwich.jpg
+Cones,ProductClass,1,"Inventory,Ice Cream,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/grocery122021/Cones.jpg
+Vegeterian ,ProductLine,2,"Inventory,Ice Cream,Cones,",,,,
+NonVegeterian,ProductLine,3,"Inventory,Ice Cream,Cones,",,,,
+Dairy Day Senoir Vanila Cone 120ml,ProductUnit,4,"Inventory,Ice Cream,Cones,Vegeterian,",30,,https://drive.google.com/file/d/1gymxeraIlXpWW2a9n0qk1uEnm5OBYajA/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDaySenoirVanilaCone120ml.png
+Dairy Day Mango Vanila Cone 120ml,ProductUnit,5,"Inventory,Ice Cream,Cones,Vegeterian,",30,,https://drive.google.com/file/d/1HoO4J-KrfPPBEqbbeuocbJ7f2g4KGyH_/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayMangoVanilaCone120ml.jpg
+Dairy Day Strawberry Cone 120ml,ProductUnit,6,"Inventory,Ice Cream,Cones,Vegeterian,",30,,https://drive.google.com/file/d/1MNdIX7FUtISW4WxeJXIr-uusfXar1Dm8/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayStrawberryCone120ml.jpg
+Dairy Day Blackcurrant Cone 120ml,ProductUnit,7,"Inventory,Ice Cream,Cones,Vegeterian,",35,,https://drive.google.com/file/d/13KtBfpiag752Okse4my3AaSkalMBkUc8/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayBlackcurrantCone120ml.png
+Dairy Day Senior Choco Cone 120ml,ProductUnit,8,"Inventory,Ice Cream,Cones,Vegeterian,",35,,https://drive.google.com/file/d/1YAQ60IPSTNB3cS45Fif7EsNka0lp27F0/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDaySeniorChocoCone120ml.png
+Dairy Day Senior Butterscotch Cone 120ml,ProductUnit,9,"Inventory,Ice Cream,Cones,Vegeterian,",35,,https://drive.google.com/file/d/1ZzpA683JY--k9u-AksKziwL24hgcPiVM/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDaySeniorButterscotchCone120ml.png
+Dairy Day Belgian Chocolate Cone 120ml,ProductUnit,10,"Inventory,Ice Cream,Cones,Vegeterian,",40,,https://drive.google.com/file/d/1xvkvPBworIsmXsR7smWd150oKQ_sI60v/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayBelgianChocolateCone120ml.jpg
+Dairy Day Cookie Magic Cone 120ml,ProductUnit,11,"Inventory,Ice Cream,Cones,Vegeterian,",50,,https://drive.google.com/file/d/1PpRGw5_zMlvU8caX9qceONYJkEpboP3s/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayCookieMagicCone120ml.png
+Dairy Day Junior Vanila Cone 65ml,ProductUnit,12,"Inventory,Ice Cream,Cones,Vegeterian,",15,,https://drive.google.com/file/d/1o2PRmy6aMRwPmQr1pGtth2RRC_RmTJgm/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayJuniorVanilaCone65ml.png
+Dairy Day Daily Magic Cone 65ml,ProductUnit,13,"Inventory,Ice Cream,Cones,Vegeterian,",15,,,
+Dairy Day Arabian Fantasy Cone 65ml,ProductUnit,14,"Inventory,Ice Cream,Cones,Vegeterian,",20,,https://drive.google.com/file/d/17ydZcoH6HqcfvhS4xrt6wCma2QPoEvfq/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayArabianFantasyCone65ml.png
+Dairy Day Junior Choco Cone 65ml,ProductUnit,15,"Inventory,Ice Cream,Cones,Vegeterian,",25,,https://drive.google.com/file/d/1tP-pmWLp8tZnzNjYdxfB4yYsxfs2qcsR/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayJuniorChocoCone65ml.jpg
+Dairy Day Pista Choco Cone 65ml,ProductUnit,16,"Inventory,Ice Cream,Cones,Vegeterian,",25,,https://drive.google.com/file/d/1x3z4OKT1YU64RPH8D8H0UJcNYjI84i-9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayPistaChocoCone65ml.png
+Dairy Day Junior Butterscotch Cone 65ml,ProductUnit,17,"Inventory,Ice Cream,Cones,Vegeterian,",25,,https://drive.google.com/file/d/1iFIU12-bL5x0U8iKxxYrUosEWn1amInJ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayJuniorButterscotchCone65ml.png
+Buy1 Get 1 700ml+700ml,ProductClass,1,"Inventory,Ice Cream,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/grocery122021/buy1get1700ml700ml.png
+Vegeterian ,ProductLine,2,"Inventory,Ice Cream,Buy1 Get 1 700ml+700ml,",,,,
+NonVegeterian,ProductLine,3,"Inventory,Ice Cream,Buy1 Get 1 700ml+700ml,",,,,
+Dairy Day Vanila + Vanila Ice Cream,ProductUnit,4,"Inventory,Ice Cream,Buy1 Get 1 700ml+700ml,Vegeterian,",180,,https://drive.google.com/file/d/147C9f1TNvICRWc-Hf9kmiNrZaFBGWvPs/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayVanilaVanilaIceCream.jpg
+Dairy Day Butterscotch + Butterscotch Ice Cream,ProductUnit,5,"Inventory,Ice Cream,Buy1 Get 1 700ml+700ml,Vegeterian,",240,,https://drive.google.com/file/d/1-0p9Wp8X0YuF5isdRkXNdFzl2dSAJTX4/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayButterscotchButterscotchIceCream.jpg
+Dairy Day Chocolatey + Chocolatey Ice Cream,ProductUnit,6,"Inventory,Ice Cream,Buy1 Get 1 700ml+700ml,Vegeterian,",240,,https://drive.google.com/file/d/1r7kVGMmdyoydm1U9DtB6QU-jsTzqokPx/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayChocolateyChocolateyIceCream.jpg
+Dairy Day Kaju Draksh + Kaju Draksh Ice Cream,ProductUnit,7,"Inventory,Ice Cream,Buy1 Get 1 700ml+700ml,Vegeterian,",240,,https://drive.google.com/file/d/1fS8PMvqwXeB0R30c4RSyabBjEaiQ_NmT/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayKajuDrakshKajuDrakshIceCream.png
+Dairy Day Kesar Kissmis + Kesar Kissmis Ice Cream,ProductUnit,8,"Inventory,Ice Cream,Buy1 Get 1 700ml+700ml,Vegeterian,",240,,https://drive.google.com/file/d/1w38-dK0NnvtKcVItZk8pUrGay_4uaFN-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayKesarKissmisKesarKissmisIceCream.jpg
+Dairy Day Plain Pineapple + Plain Pineapple Ice Ceam,ProductUnit,9,"Inventory,Ice Cream,Buy1 Get 1 700ml+700ml,Vegeterian,",240,,https://drive.google.com/file/d/19E6ZwpIg-Vl7xhe9VuHFDRwTIJRw0Z6j/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayPlainPineapplePlainPineappleIceCeam.jpg
+Dairy Day Plain Pista + Plain Pista Ice Cream,ProductUnit,10,"Inventory,Ice Cream,Buy1 Get 1 700ml+700ml,Vegeterian,",240,,https://drive.google.com/file/d/17mRj3uN4PdGz1u4BuDYs4zpMywvAS2xr/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayPlainPistaPlainPistaIceCream.png
+Dairy Day Alphonsa Mango + Alphonsa Mango Ice Cream,ProductUnit,11,"Inventory,Ice Cream,Buy1 Get 1 700ml+700ml,Vegeterian,",240,,https://drive.google.com/file/d/15CLooeo9SIU3g0VzidGHqN5va1HY0FSC/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayAlphonsaMangoAlphonsaMangoIceCream.png
+Choco Sticks,ProductClass,1,"Inventory,Ice Cream,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/grocery122021/ChocoSticks.jpg
+Vegeterian ,ProductLine,2,"Inventory,Ice Cream,Choco Sticks,",,,,
+NonVegeterian,ProductLine,3,"Inventory,Ice Cream,Choco Sticks,",,,,
+Dairy Day Mini Chocobar Orenge 35ml,ProductUnit,4,"Inventory,Ice Cream,Choco Sticks,Vegeterian,",10,,https://drive.google.com/file/d/1lTigIpVyBByAzsGQp1LSQj4Dq4aPAvZl/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayMiniChocobarOrenge35ml.png
+Dairy Day Mini Chocobar 35ml,ProductUnit,5,"Inventory,Ice Cream,Choco Sticks,Vegeterian,",10,,https://drive.google.com/file/d/1y_UCVsz1-t0uAHRxowfeLWZ8p6Bof6Pc/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayMiniChocobar35ml.png
+Dairy Day Chocobar 60ml,ProductUnit,6,"Inventory,Ice Cream,Choco Sticks,Vegeterian,",20,,https://drive.google.com/file/d/1ertfBs66YH0B4nixfZ8qZrnQ4yjWT5PX/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayChocobar60ml.jpg
+Dairy Day Nuttybar 65ml,ProductUnit,7,"Inventory,Ice Cream,Choco Sticks,Vegeterian,",25,,https://drive.google.com/file/d/1AYl6i1Sp_YOXXsehKO4Bl2d5bY1hmeqR/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayNuttybar65ml.png
+Dairy Day Triplebar 70ml,ProductUnit,8,"Inventory,Ice Cream,Choco Sticks,Vegeterian,",30,,https://drive.google.com/file/d/1K3z8lL2e6V8M3PYCcKrTgC6D9XgOh7tO/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayTriplebar70ml.jpg
+Dairy Day Choco Mocha,ProductUnit,9,"Inventory,Ice Cream,Choco Sticks,Vegeterian,",35,,https://drive.google.com/file/d/1Iyl9xs8v2vPTDm02tUPu-xfrwJ3LIYZX/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayChocoMocha.png
+Novelties,ProductClass,1,"Inventory,Ice Cream,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/grocery122021/Novelties.jpg
+Vegeterian ,ProductLine,2,"Inventory,Ice Cream,Novelties,",,,,
+NonVegeterian,ProductLine,3,"Inventory,Ice Cream,Novelties,",,,,
+Dairy Day Spinno Vanilla 80ml,ProductUnit,4,"Inventory,Ice Cream,Novelties,Vegeterian,",20,,https://drive.google.com/file/d/1j1fQEMeSD59iUkYu5Ka0E221CfAwzv3Y/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDaySpinnoVanilla80ml.png
+Dairy Day Spinno Fruitreat 80ml,ProductUnit,5,"Inventory,Ice Cream,Novelties,Vegeterian,",20,,https://drive.google.com/file/d/1GU53J9oFbiCJ1Px346JVstcy7LxeYDfn/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDaySpinnoFruitreat80ml.png
+Dairy Day Paal Ice 50ml,ProductUnit,6,"Inventory,Ice Cream,Novelties,Vegeterian,",20,,https://drive.google.com/file/d/1acVPmPzhs99IIw3pMeTrSfrXKR-RQXeM/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayPaalIce50ml.png
+Dairy Day Alphanso Mango 60ml,ProductUnit,7,"Inventory,Ice Cream,Novelties,Vegeterian,",20,,https://drive.google.com/file/d/132OYmMWQMzGB9Z1Z7SK_YT5nsNRTjer1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayAlphansoMango60ml.jpg
+Dairy Day Paan Twist 100ml,ProductUnit,8,"Inventory,Ice Cream,Novelties,Vegeterian,",50,,https://drive.google.com/file/d/1EkrWOswkNnd_S0363Zqt2rekiusCSR5Z/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayPaanTwist100ml.jpg
+Dairy Day Ice Cream Pastry (Eggless) 100ml,ProductUnit,9,"Inventory,Ice Cream,Novelties,Vegeterian,",50,,https://drive.google.com/file/d/1Key-7tE2LcGobNfoL5bZ9FG6hW9SIkiU/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayBadaCupVanila100ml.png
+Dairy Day Bada Cup Vanila 100ml,ProductUnit,10,"Inventory,Ice Cream,Novelties,Vegeterian,",15,,,
+Dairy Day Ball Vanilla 100ml,ProductUnit,11,"Inventory,Ice Cream,Novelties,Vegeterian,",25,,,
+Dairy Day Ball Strawberry 100ml,ProductUnit,12,"Inventory,Ice Cream,Novelties,Vegeterian,",25,,,
+Dairy Day Ball Mango 100ml,ProductUnit,13,"Inventory,Ice Cream,Novelties,Vegeterian,",25,,https://drive.google.com/file/d/17hIg1OM7SODvcS4opDJth5p6dgBMHeK-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayBallMango100ml.png
+Dairy Day Gud Bud 100ml,ProductUnit,14,"Inventory,Ice Cream,Novelties,Vegeterian,",30,,https://drive.google.com/file/d/10_1K4gqnwmUmRw7fWu2y2Wnw-tYskPSt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayGudBud100ml.png
+Dairy Day Swinger Sundae 125ml,ProductUnit,15,"Inventory,Ice Cream,Novelties,Vegeterian,",35,,https://drive.google.com/file/d/1VNcOEyInkznM-h7mcg7PJYxKeF2-yapc/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDaySwingerSundae125ml.png
+Dairy Day Kwikie Sundae 125ml,ProductUnit,16,"Inventory,Ice Cream,Novelties,Vegeterian,",35,,https://drive.google.com/file/d/1OkeN1N1kgRTdn2P-p9TUCmT4q0uAmvlK/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayKwikieSundae125ml.png
+Dairy Day Matka Kulfi 100ml,ProductUnit,17,"Inventory,Ice Cream,Novelties,Vegeterian,",50,,https://drive.google.com/file/d/1juVME-twCZQrNLtpnish9eNDVB5lwStd/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayMatkaKulfi100ml.jpg
+Dairy Day Premium Casatta ( Eggless Cake ) 120ml,ProductUnit,18,"Inventory,Ice Cream,Novelties,Vegeterian,",50,,https://drive.google.com/file/d/1JuF_ZfGyC5zt4c_Nb9KfgKVc9yW_ZWYE/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayPremiumCasattaEgglessCake120ml.jpg
+Dairy Day Casatta Roll ( Eggless Cake ) 750ml,ProductUnit,19,"Inventory,Ice Cream,Novelties,Vegeterian,",225,,https://drive.google.com/file/d/1X_gJ6WF3ZqBG5z0iGyw3Rfdp_Atu5-ap/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayCasattaRollEgglessCake750ml.jpg
+Tubs,ProductClass,1,"Inventory,Ice Cream,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/grocery122021/tubs.jpg
+Vegeterian ,ProductLine,2,"Inventory,Ice Cream,Tubs,",,,,
+NonVegeterian,ProductLine,3,"Inventory,Ice Cream,Tubs,",,,,
+Dairy Day Alphanso Mango Tube 250ml,ProductUnit,4,"Inventory,Ice Cream,Tubs,Vegeterian,",80,,,
+Dairy Day Gajar Halwa Tube 250ml,ProductUnit,5,"Inventory,Ice Cream,Tubs,Vegeterian,",99,,,
+Dairy Day Gulab Jamun Tube 250ml,ProductUnit,6,"Inventory,Ice Cream,Tubs,Vegeterian,",99,,,
+Dairy Day Rose Kulfi Tube,ProductUnit,7,"Inventory,Ice Cream,Tubs,Vegeterian,",99,,,
+Dairy Day Lush Lychee Tube,ProductUnit,8,"Inventory,Ice Cream,Tubs,Vegeterian,",99,,,
+Dairy Day Vanilla Tube 900ml,ProductUnit,9,"Inventory,Ice Cream,Tubs,Vegeterian,",175,,https://drive.google.com/file/d/1xSW22MRWNF8m7Enx9eoaZ9QNd9k1m2KC/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayVanillaTube900ml.jpg
+Dairy Day Butterscotch Tube 900ml,ProductUnit,10,"Inventory,Ice Cream,Tubs,Vegeterian,",199,,https://drive.google.com/file/d/1HxMQmV-E7w9d3_M7SkD0GKGMIzsD6ilj/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayButterscotchTube900ml.jpg
+Dairy Day Chocolatey Tube 900ml,ProductUnit,11,"Inventory,Ice Cream,Tubs,Vegeterian,",199,,https://drive.google.com/file/d/1-3prMX5CpKjLfeNduoNcwvtWRXcdm48k/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayChocolateyTube900ml.jpg
+Dairy Day Plain Pista Tube 900ml,ProductUnit,12,"Inventory,Ice Cream,Tubs,Vegeterian,",199,,https://drive.google.com/file/d/1L0J5gR5OHgrTa_v84WYMcYO4kmqTGyLw/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayPlainPistaTube900ml.jpg
+Dairy Day Vanila Tube 500ml,ProductUnit,13,"Inventory,Ice Cream,Tubs,Vegeterian,",99,,https://drive.google.com/file/d/1WrsKswUYowf9IforaT1EuIGZ8tEte7P1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayVanilaTube500ml.jpg
+Dairy Day Strawberry Tube 500ml,ProductUnit,14,"Inventory,Ice Cream,Tubs,Vegeterian,",110,,https://drive.google.com/file/d/1tE-5X1OQCBcjhrNDBidvaDsvOJki_A2f/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayStrawberryTube500ml.jpg
+Dairy Day Tutty Fruity Tube 500ml,ProductUnit,15,"Inventory,Ice Cream,Tubs,Vegeterian,",120,,https://drive.google.com/file/d/1kg0T-GU6WmfWnsIpJ3QS2C4u2K6rM3ff/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayTuttyFruityTube500ml.jpg
+Dairy Day Butterscotch Tube 500ml,ProductUnit,16,"Inventory,Ice Cream,Tubs,Vegeterian,",130,,https://drive.google.com/file/d/1PW1BQ9pgdPG58xFTIHLNNQwSTfOsRcXe/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayButterscotchTube500ml.jpg
+Dairy Day Chocolatey Tube 500ml,ProductUnit,17,"Inventory,Ice Cream,Tubs,Vegeterian,",130,,https://drive.google.com/file/d/1V5Dr0bTXVkkbYmpmteKsvlCusy7pcBxi/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayChocolateyTube500ml.jpg
+Dairy Day Blackcurrant Tube 500ml,ProductUnit,18,"Inventory,Ice Cream,Tubs,Vegeterian,",130,,https://drive.google.com/file/d/1ywVamuImjdzaohL5edMyFh_mhSZOYkyB/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayBlackcurrantTube500ml.png
+Dairy Day Pistachio Tube 500ml,ProductUnit,19,"Inventory,Ice Cream,Tubs,Vegeterian,",160,,https://drive.google.com/file/d/1BuexUfFcV5n17yk2mGwc_1zpBtFaNC5y/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayPistachioTube500ml.jpg
+Dairy Day Chikoo Tube 500ml,ProductUnit,20,"Inventory,Ice Cream,Tubs,Vegeterian,",160,,,
+Dairy Day Matka Kulfi Tube 500ml,ProductUnit,21,"Inventory,Ice Cream,Tubs,Vegeterian,",175,,https://drive.google.com/file/d/1zj_on4I28f_z6dJpFBdPks6lGHZpAkk1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayMatkaKulfiTube500ml.jpg
+Dairy Day Vanila Mega Tube 1.5ltr,ProductUnit,22,"Inventory,Ice Cream,Tubs,Vegeterian,",240,,,
+Dairy Day Strwberry Mega Tube 1.5ltr,ProductUnit,23,"Inventory,Ice Cream,Tubs,Vegeterian,",240,,https://drive.google.com/file/d/1aQ8InTQ9jR0b0ThycsXMQWl4Owx8Xv1Q/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayStrwberryMegaTube1.5ltr.jpg
+Dairy Day Butterscotch Mega Tube 1.5ltr,ProductUnit,24,"Inventory,Ice Cream,Tubs,Vegeterian,",299,,,
+Dairy Day Mango Mega Tube 1.5ltr,ProductUnit,25,"Inventory,Ice Cream,Tubs,Vegeterian,",299,,https://drive.google.com/file/d/1xCxPs11DXs-uLs7lLLTzlQ4eZRyiIEa4/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayMangoMegaTube1.5ltr.jpg
+Dairy Day Vanila Choco Chips 1.5ltr,ProductUnit,26,"Inventory,Ice Cream,Tubs,Vegeterian,",320,,https://drive.google.com/file/d/14EXCzeYdwJW_hseY2n42du7HUg29AjhR/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayVanilaChocoChips1.5ltr.jpg
+Dairy Day Chikoo Mega Tube 1.5ltr,ProductUnit,27,"Inventory,Ice Cream,Tubs,Vegeterian,",320,,https://drive.google.com/file/d/1SXydv4N1DQBSg3vYthnNODQ32mgjttYU/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayChikooMegaTube1.5ltr.png
+Dairy Day Fig n Honey Mega Tube 1.5ltr,ProductUnit,28,"Inventory,Ice Cream,Tubs,Vegeterian,",320,,,
+Dairy Day Lychica Mega Tube,ProductUnit,29,"Inventory,Ice Cream,Tubs,Vegeterian,",320,, ,
+Ice Cream Cakes,ProductClass,1,"Inventory,Ice Cream,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/grocery122021/IceCreamCakes.jpg
+Vegeterian ,ProductLine,2,"Inventory,Ice Cream,Ice Cream Cakes,",,,,
+NonVegeterian,ProductLine,3,"Inventory,Ice Cream,Ice Cream Cakes,",,,,
+Dairy Day Goldmine Eggless Cake 1ltr,ProductUnit,4,"Inventory,Ice Cream,Ice Cream Cakes,Vegeterian,",499,,https://drive.google.com/file/d/1npqqJv--9w0SnFn0AlOUHoLQbjLQMO4F/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayGoldmineEgglessCake1ltr.jpg
+Dairy Day Blackforest Eggless Cake 1ltr,ProductUnit,5,"Inventory,Ice Cream,Ice Cream Cakes,Vegeterian,",499,, ,
+Home Packs,ProductClass,1,"Inventory,Ice Cream,",,, ,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/grocery122021/HomePacks.jpg
+Vegeterian ,ProductLine,2,"Inventory,Ice Cream,Home Packs,",,,,
+NonVegeterian,ProductLine,3,"Inventory,Ice Cream,Home Packs,",,,,
+Dairy Day Vanila Home Pack 500ml,ProductUnit,4,"Inventory,Ice Cream,Home Packs,Vegeterian,",80,,https://drive.google.com/file/d/1qD7LrxdMT0Hjz3H_BX5gFe77A8O5ub1b/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayVanilaHomePack500ml.jpg
+Dairy Day Vanila Home Pack 900ml,ProductUnit,5,"Inventory,Ice Cream,Home Packs,Vegeterian,",110,,https://drive.google.com/file/d/17eOFdEJ_YHqAVPU92QdkIzmTQeiR3dQY/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayVanilaHomePack900ml.png
+Dairy Day Vanila Home Pack 1800ml,ProductUnit,6,"Inventory,Ice Cream,Home Packs,Vegeterian,",205,,https://drive.google.com/file/d/16vB-GZML7y-Tz_XSFssLk1uivMiWVmvS/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayVanilaHomePack1800ml.png
+Dairy Day Strawberry Home Pack 500ml,ProductUnit,7,"Inventory,Ice Cream,Home Packs,Vegeterian,",80,,https://drive.google.com/file/d/1QRHi49QUMU0NGLgFtEfd-gdnaaaZS7WH/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayStrawberryHomePack500ml.jpg
+Dairy Day Strawberry Home Pack 900ml,ProductUnit,8,"Inventory,Ice Cream,Home Packs,Vegeterian,",110,,https://drive.google.com/file/d/1lCNvadrGI8Fy9H455k3zFKPkzhZqsYFR/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayStrawberryHomePack900ml.png
+Dairy Day Strawberry Home Pack 1800ml,ProductUnit,9,"Inventory,Ice Cream,Home Packs,Vegeterian,",205,,https://drive.google.com/file/d/1EcYNzeLAv2QLyH2kw6ZF_7JoJUVZql3q/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayStrawberryHomePack1800ml.png
+Dairy Day Butterscotch Home Pack 500ml,ProductUnit,10,"Inventory,Ice Cream,Home Packs,Vegeterian,",90,,https://drive.google.com/file/d/1BkgSDmXjyouhjy-YTvDxYe9INfex_mxq/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayButterscotchHomePack500ml.png
+Dairy Day Butterscotch Home Pack 900ml,ProductUnit,11,"Inventory,Ice Cream,Home Packs,Vegeterian,",150,,https://drive.google.com/file/d/1zwQ7ohL_NF1QIrVBQSBJLxZtB_6ccx8T/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayButterscotchHomePack900ml.png
+Dairy Day Butterscotch Home Pack 1800ml,ProductUnit,12,"Inventory,Ice Cream,Home Packs,Vegeterian,",240,,https://drive.google.com/file/d/1uP5FNnYdX8ahc2YZjMm9Ju2vMhh3t5nV/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayButterscotchHomePack1800ml.png
+Dairy Day Chocolatey Home Pack 500ml,ProductUnit,13,"Inventory,Ice Cream,Home Packs,Vegeterian,",90,,https://drive.google.com/file/d/1bR5bjpZHXXTZqOqJRBKJndCMRN6f_I_V/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayChocolateyHomePack500ml.png
+Dairy Day Chocolatey Home Pack 900ml,ProductUnit,14,"Inventory,Ice Cream,Home Packs,Vegeterian,",150,,https://drive.google.com/file/d/1-QDnGuinOkw505B8xJhyj275NUjULY4y/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayChocolateyHomePack900ml.png
+Dairy Day Chocolatey Home Pack 1800ml,ProductUnit,15,"Inventory,Ice Cream,Home Packs,Vegeterian,",240,,https://drive.google.com/file/d/17lhWDWk69-B-qhiJGKxLMK2J0LnPulZy/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayChocolateyHomePack1800ml.png
+Classic Ice Cream,ProductClass,1,"Inventory,Ice Cream,",,, ,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/grocery122021/ClassicIceCream.jpg
+Vegeterian ,ProductLine,2,"Inventory,Ice Cream,Classic Ice Cream,",,,,
+NonVegeterian,ProductLine,3,"Inventory,Ice Cream,Classic Ice Cream,",,,,
+Dairy Day Alphanso Mango Ice Cream,ProductUnit,4,"Inventory,Ice Cream,Classic Ice Cream,Vegeterian,",120,,https://drive.google.com/file/d/1NcVOxc8dkFew6ZLtNwWh1cBpthKYwMmd/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayAlphansoMangoIceCream.jpg
+Dairy Day Tutty Futty Ice Cream,ProductUnit,5,"Inventory,Ice Cream,Classic Ice Cream,Vegeterian,",120,, ,
+Dairy Day Creamy Vanilla Ice Cream,ProductUnit,6,"Inventory,Ice Cream,Classic Ice Cream,Vegeterian,",120,,https://drive.google.com/file/d/17xszYlVTCHtw6K422AYBra96IJXGTqz2/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayCreamyVanillaIceCream.jpg
+Dairy Day Strawberry Ice Cream,ProductUnit,7,"Inventory,Ice Cream,Classic Ice Cream,Vegeterian,",120,,https://drive.google.com/file/d/1zu_9Kk8zI_dH21LkVC_ejaDRcWZoQnZV/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayStrawberryIceCream.jpg
+Dairy Day Plain Pineapple Ice Cream,ProductUnit,8,"Inventory,Ice Cream,Classic Ice Cream,Vegeterian,",120,, ,
+Dairy Day Plain Pista Ice Cream,ProductUnit,9,"Inventory,Ice Cream,Classic Ice Cream,Vegeterian,",120,,https://drive.google.com/file/d/1JfPUO-Ay8C49z7Tzsbvp1OMdHkjdqJqB/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayPlainPistaIceCream.png
+Dairy Day Blackcurrent Ice Cream,ProductUnit,10,"Inventory,Ice Cream,Classic Ice Cream,Vegeterian,",140,,https://drive.google.com/file/d/1Jois3_Cu2EFUMgLBdYy1aHoWaM9UfNbu/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayBlackcurrentIceCream.jpg
+Dairy Day Chocolatey Ice Cream,ProductUnit,11,"Inventory,Ice Cream,Classic Ice Cream,Vegeterian,",140,, ,
+Dairy Day Butterscotch Ice Cream,ProductUnit,12,"Inventory,Ice Cream,Classic Ice Cream,Vegeterian,",140,,https://drive.google.com/file/d/1fIQU7Uir0fCdCyFdpio1iXfTGpsqo7WO/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayButterscotchIceCream.jpg
+Dairy Day Vanila Choco Chips Ice Cream,ProductUnit,13,"Inventory,Ice Cream,Classic Ice Cream,Vegeterian,",100,, ,
+Dairy Day American Nuts Ice Cream,ProductUnit,14,"Inventory,Ice Cream,Classic Ice Cream,Vegeterian,",100,,https://drive.google.com/file/d/1wQMJV1rxsY56RVnu1TkgqQ_Luhm4CAcf/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayAmericanNutsIceCream.jpg
+Dairy Day Kaju Draksh Ice Cream,ProductUnit,15,"Inventory,Ice Cream,Classic Ice Cream,Vegeterian,",100,, ,
+Kulfi,ProductClass,1,"Inventory,Ice Cream,",,, ,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant7/Kulfi.jpg
+Vegeterian ,ProductLine,2,"Inventory,Ice Cream,Kulfi,",,,,
+NonVegeterian,ProductLine,3,"Inventory,Ice Cream,Kulfi,",,,,
+Dairy Day Kesar Kulfi,ProductUnit,4,"Inventory,Ice Cream,Kulfi,Vegeterian,",25,,https://drive.google.com/file/d/1SOnV5sWXgIG1F3BTVKDli8x2xOdCPBc_/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayKesarKulfi.jpg
+Dairy Day Malai Kulfi,ProductUnit,5,"Inventory,Ice Cream,Kulfi,Vegeterian,",25,,https://drive.google.com/file/d/1t0G61knpz4WBdNRRMDBO5b0pTrh0GZ8k/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayMalaiKulfi.png
+Dairy Day Pista Kulfi,ProductUnit,6,"Inventory,Ice Cream,Kulfi,Vegeterian,",25,,https://drive.google.com/file/d/1tcEgOAFL-Rik9UA6S-HEKt6544fOBvWu/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/DairyDayPistaKulfi.png
+No Sugar Added,ProductClass,1,"Inventory,Ice Cream,",,, ,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/grocery241221/NoSugarAdded.jpg
+Vegeterian ,ProductLine,2,"Inventory,Ice Cream,No Sugar Added,",,,,
+NonVegeterian,ProductLine,3,"Inventory,Ice Cream,No Sugar Added,",,,,
+Dairy Day Vanila Ice Cream 250ml,ProductUnit,4,"Inventory,Ice Cream,No Sugar Added,Vegeterian,",60,, ,
+Dairy Day Strwaberry Ice Cream 250ml,ProductUnit,5,"Inventory,Ice Cream,No Sugar Added,Vegeterian,",60,, ,
+Juices,ProductClass,1,"Inventory,Ice Cream,",,, ,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/OrengeJuice.jpg
+Vegeterian ,ProductLine,2,"Inventory,Ice Cream,Juices,",,,,
+NonVegeterian,ProductLine,3,"Inventory,Ice Cream,Juices,",,,,
+Orenge Juice,ProductUnit,4,"Inventory,Ice Cream,Juices,Vegeterian,",30,,https://drive.google.com/file/d/1kmLEV020uSLGwcXzhCmk9UYm9Pr3Q079/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/OrengeJuice.jpg
+Mix Juice,ProductUnit,5,"Inventory,Ice Cream,Juices,Vegeterian,",40,,https://drive.google.com/file/d/1z05Pum-CF6ah-OLxXeUOm-zbRDU0cu9j/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MixJuice.jpg
+Mosambi Juice,ProductUnit,6,"Inventory,Ice Cream,Juices,Vegeterian,",45,,https://drive.google.com/file/d/1-BzuAx2WaW-W92EMRj11qhMRKVhsLAXP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MosambiJuice.jpg
+Chikoo Juice,ProductUnit,7,"Inventory,Ice Cream,Juices,Vegeterian,",40,,https://drive.google.com/file/d/1v4flN05eFpLh4aEkTDhqp1EnU-UaQHAg/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/ChikooJuice.jpg
+Mango Mastani Juice,ProductUnit,8,"Inventory,Ice Cream,Juices,Vegeterian,",80,, ,
+Mastani Juice,ProductUnit,9,"Inventory,Ice Cream,Juices,Vegeterian,",80,, ,
+Mango Juice,ProductUnit,10,"Inventory,Ice Cream,Juices,Vegeterian,",60,,https://drive.google.com/file/d/1OzucmTFHUKFpp2VhafqOICOKaRuxkcTc/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Mangojuice.png
+Pineapple Juice,ProductUnit,11,"Inventory,Ice Cream,Juices,Vegeterian,",35,,https://drive.google.com/file/d/1khoRyGta5GQRZYuB5Y7vYlxX9XcQv4an/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Pineapple-juice.jpg
+Apple Juice,ProductUnit,12,"Inventory,Ice Cream,Juices,Vegeterian,",80,,https://drive.google.com/file/d/1syYaCDFH5L-SuWC3jdMv3I5sJ_YBDSD4/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/AppleJuice.jpg
+Angoor Juice,ProductUnit,13,"Inventory,Ice Cream,Juices,Vegeterian,",35,,https://drive.google.com/file/d/1Q_ffM_Q_V57eyjJV8iVpzSrL0E7b1I4K/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/AngoorJuice.jpg
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+nhhjh,,,,,,,

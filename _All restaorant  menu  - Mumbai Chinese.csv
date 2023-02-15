@@ -1,0 +1,348 @@
+label,nodeType,order,path,price,description,ingredients,link,imageLink
+Veg Soup,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://drive.google.com/file/d/1yLlYEIedcl0jUYKgFBGLxxLSHqElVT62/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Soup.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Veg Soup,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Veg Soup,",,,,,
+Veg Manchow Soup,ProductType,4,"Inventory,Food,Restaurant,Veg Soup,Vegeterian,",100,,"  Oil,  Garlic,  Ginger,,  Green Chilies,½ Cups Mixed Vegetable, Cups Vegetable Stock/water,  green Chili Sauce,  Soy sauce,  Vinegar,Salt to taste,½  black Pepper Powder,  Corn Flour, (Mix with   water),Fried noodles.",https://drive.google.com/file/d/1ZHfj80mG4nonkD938YcNcqpsbo76_3Bh/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/vegManchowSoup.jpg
+Veg Hot & Sour Soup,ProductType,5,"Inventory,Food,Restaurant,Veg Soup,Vegeterian,",110,," teaspoons Oil,/ cup finely chopped Onion, teaspoon finely chopped Ginger, teaspoon finely chopped Garlic,/ cup finely chopped Cabbage,- tablespoons finely chopped Green French Beans,- tablespoons finely chopped Carrot,- tablespoons finely chopped Carrot,- tablespoons finely chopped Capsicum , cups + / cup Vegetable Stock or Water, teaspoons Cornflour , tablespoon Soy Sauce,/ tablespoon Chilli Sauce,/ teaspoon Black Pepper Powder,Salt to taste.",https://drive.google.com/file/d/1qflrDTDVAq-39jgZpWoH-2bsNNsmbSOQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/VegHotSourSoup.jpg
+Veg Hongkong Soup,ProductType,6,"Inventory,Food,Restaurant,Veg Soup,Vegeterian,",110,,,https://drive.google.com/file/d/1dPWPdLaVVQdr0YEL_9rLbHETVElMd7C4/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food22240622/VegHongKongSoup.jpg
+Veg Clear Soup,ProductType,7,"Inventory,Food,Restaurant,Veg Soup,Vegeterian,",110,,,https://drive.google.com/file/d/1dmYwUOQ7V67thr9VxwcKFsrCkxZqX81H/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Clear-Soup.jpg
+Veg Rice,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://drive.google.com/file/d/1B5on8ZsFVss28BiQJJFjEM2_O_oDD_kF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food2/VegRice.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Veg Rice,",,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Veg Rice,",,,,,
+Veg Fried Rice,ProductType,4,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",150,," rice,  soy sauce, capsicum, chopped, cabbage, chopped spring onion, chopped,  ginger-garlic paste,  salt,  oil,etc",https://drive.google.com/file/d/1bz2y7h_zxW5FIwkPU1ouPFuPXrxVdyrI/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Fried-Rice.jpg
+Veg Fried Rice Full,ProductUnit,5,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,Veg Fried Rice,",150,," cup rice,  soy sauce, capsicum, chopped,/ cup cabbage, chopped,/ cup spring onion, chopped,  ginger-garlic paste,  salt,  oil,etc",https://drive.google.com/file/d/1KY5u59qqYcO2b5YzHONrSAcfOYgrb-9m/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegFriedRiceFull.jpg
+Veg Fried Rice Half,ProductUnit,6,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,Veg Fried Rice,",100,," cup rice,  soy sauce, capsicum, chopped,/ cup cabbage, chopped,/ cup spring onion, chopped,  ginger-garlic paste,  salt,  oil,etc",https://drive.google.com/file/d/1B4egQaFhBCqXzznAr7Ltk_AwXO-2Qsee/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Fried-Rice-Half.jpg
+Veg Schezwan Rice,ProductType,7,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",150,," cups cooked Plain Rice,¾ cups Mixed Vegetables (french beans, carrot, capsicum, cabbage, celery),- cloves of Garlic, finely chopped (approx. / tablespoon),- tablespoon Schezwan Sauce,Salt to taste,etc",https://drive.google.com/file/d/1-I-WSFeFbKd9hlnc9-xzXQYn5XKPgbKD/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegSchezwanRice.jpg
+Veg Schezwan Rice Full,ProductUnit,8,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,Veg Schezwan Rice,",150,," cups cooked Plain Rice,¾ cups Mixed Vegetables (french beans, carrot, capsicum, cabbage, celery),- cloves of Garlic, finely chopped (approx. / tablespoon),- tablespoon Schezwan Sauce,Salt to taste,etc",https://drive.google.com/file/d/1B0wNiPGpAwHsTLif9knLsmKKFE2LErEu/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Schezwan-Rice-Full.jpg
+Veg Schezwan Rice Half,ProductUnit,9,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,Veg Schezwan Rice,",100,," cups cooked Plain Rice,¾ cups Mixed Vegetables (french beans, carrot, capsicum, cabbage, celery),- cloves of Garlic, finely chopped (approx. / tablespoon),- tablespoon Schezwan Sauce,Salt to taste,etc",https://drive.google.com/file/d/1D_RXfGGX9-IXd_hUYg2ZunYwiB-Wbob1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Schezwan-Rice-Half.jpg
+Veg Triple Rice,ProductType,10,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",210,,"Cooked Basmati rice- cup,Boiled Noodles- ½ cup,Carrots chopped- ¼ cup,Shredded cabbage- ¼ cup,Spring onion chopped- ,Garlic chopped- ,Salt-to taste,etc.",https://drive.google.com/file/d/1S84EA_U3l0u3TB0aIWPlx5c7vcMEU8LT/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/imgs-2/VegTripleRice.jpg
+Veg Triple Rice Full,ProductUnit,11,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,Veg Triple Rice,",210,,"Cooked Basmati rice- cup,Boiled Noodles- ½ cup,Carrots chopped- ¼ cup,Shredded cabbage- ¼ cup,Spring onion chopped- ,Garlic chopped- ,Salt-to taste,etc.",https://drive.google.com/file/d/1I0hrfsILZ0yVWTrPTaVo5KDM3m862EeE/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/VegTripleRiceFull.jpg
+Veg Triple Rice Half,ProductUnit,12,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,Veg Triple Rice,",150,,"Cooked Basmati rice- cup,Boiled Noodles- ½ cup,Carrots chopped- ¼ cup,Shredded cabbage- ¼ cup,Spring onion chopped- ,Garlic chopped- ,Salt-to taste,etc.",https://drive.google.com/file/d/1LgQiObK_crf6Y5wTe-9cHTXHK6OD_Lhn/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/VegTripleRiceHalf.jpg
+Veg Manchurian Rice,ProductType,13,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",200,,,https://drive.google.com/file/d/1jNrUl4zWkDBHdSQ9fMRkuIqsymylvahc/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegManchurianRice.jpg
+Veg Manchurian Rice Full,ProductUnit,14,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,Veg Manchurian Rice,",200,,,https://drive.google.com/file/d/1uAEzBp6f5qgxpSVDWVaHJdea3MgzARsv/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food2022022/VegManchurianRiceFull.jpg
+Veg Manchurian Rice Half,ProductUnit,15,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,Veg Manchurian Rice,",140,,,https://drive.google.com/file/d/1CYiQBJXgTw_ca6lwVmid8V9gdHTqmmWm/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food2022022/VegManchurianRiceHalf.jpg
+Veg Combination Rice,ProductType,16,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",150,," cup rice ,cooked,/ cup noodles,boiled,/ cup bell peppers,sliced,/ cup cabbage ,shredded,/ cup carrots,chopped,Few green beans,chopped,Few green beans,chopped, scallions,chopped, red onion,chopped, green chilli,chopped,salt to taste,/ teaspoon chilli powder,  soy sauce, teaspoon vinegar, tablespoon olive oil.",https://drive.google.com/file/d/1QlMViC3sf86mP5B1a0GXMqxyMe24BrRO/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegCombinationRice.jpg
+Veg Combination Rice Full,ProductUnit,17,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,Veg Combination Rice,",150,," cup rice ,cooked,/ cup noodles,boiled,/ cup bell peppers,sliced,/ cup cabbage ,shredded,/ cup carrots,chopped,Few green beans,chopped,Few green beans,chopped, scallions,chopped, red onion,chopped, green chilli,chopped,salt to taste,/ teaspoon chilli powder, teaspoon soy sauce, teaspoon vinegar,  olive oil.",https://drive.google.com/file/d/1v8Qb40BPi8r0Q4WkBZRGhaIY7MDl2ZAT/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/VegCombinationRiceFull.jpg
+Veg Cocktail Rice,ProductType,18,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",190,,"rice    ,water  ml,salt as required,red chili powder   / ,coriander powder   / ,cumin powder    / ,garam masala powder   / ,red kidney beans boiled    ,peas    ,potato cut in small pieces    ,onion cut in slices   medium,tomato chopped  ,carrot cut in small cubes   ,chicken mince    ,lemon juice   ,ginger garlic paste    ,vegetable oil/butter     .",https://drive.google.com/file/d/1UF3e_eBGUEwzk6HlPrcku0ieVEqZoiP5/view?usp=sharing,
+Veg Cocktail Rice Full,ProductUnit,19,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,Veg Cocktail Rice,",190,,"rice    ,water  ml,salt as required,red chili powder   / ,coriander powder   / ,cumin powder    / ,garam masala powder   / ,red kidney beans boiled    ,peas    ,potato cut in small pieces    ,onion cut in slices   medium,tomato chopped  ,carrot cut in small cubes   ,chicken mince    ,lemon juice   ,ginger garlic paste    ,vegetable oil butter     .",https://drive.google.com/file/d/1sT39Jrh99toTEeKDK8qwMym8B_0g43Vn/view?usp=sharing,
+Veg Packing Rice,ProductType,20,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",460,,,,
+Veg Packing Rice Full,ProductUnit,21,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,Veg Packing Rice,",460,,,,
+Veg Packing Rice Half,ProductUnit,22,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,Veg Packing Rice,",270,,,,
+Veg Mumbai Special Rice,ProductType,23,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",540,,,https://drive.google.com/file/d/1auI6-Fgo4KRN2uuX63zMs5GW0CVh1VMO/view?usp=sharing,
+Veg Mumbai Special Rice Full,ProductUnit,24,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,Veg Mumbai Special Rice,",540,,,https://drive.google.com/file/d/1ExAmzQpfMgFm8cEo7jRRJtEiRBu48SKN/view?usp=sharing,
+Veg Mumbai Special Rice Half,ProductUnit,25,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,Veg Mumbai Special Rice,",300,,1,https://drive.google.com/file/d/1jQK_XFdx7IgxkJyoz4zk9wbmxB_oFXye/view?usp=sharing,
+Veg Noodles,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://drive.google.com/file/d/11YHpTPQ5aPStb76GwxFCCKa5Btc_rhbO/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Noodles.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Veg Noodles,",,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Veg Noodles,",,,,,
+Veg Hakka Noodles,ProductType,4,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,",150,,"""-  oil, medium size onion chopped,  crushed garlic and green chillies, carrot, beans, medium size capsicum,  chilli sauce,  soya sauce,  Schezwan sauce,  mixed herbs""",https://drive.google.com/file/d/1Q90LHM1ZJtlXVlbMoWnysu0n9Ip0TJG0/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Hakka-Noodles.jpg
+Veg Hakka Noodles Full,ProductUnit,5,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,Veg Hakka Noodles,",150,,"""-  oil, medium size onion chopped,  crushed garlic and green chillies, carrot, s beans, medium size capsicum,  chilli sauce,  soya sauce,  Schezwan sauce,  mixed herbs""",https://drive.google.com/file/d/1VGLv81uFyL_qJYQtLCVv08xj9JaEWhtB/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Hakka-Noodles-Full.jpg
+Veg Hakka Noodles Half,ProductUnit,6,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,Veg Hakka Noodles,",100,,"""-  oil, medium size onion chopped,  crushed garlic and green chillies, carrot, s beans, medium size capsicum,  chilli sauce,  soya sauce,  Schezwan sauce,  mixed herbs""",https://drive.google.com/file/d/1au6QpOglLe1-uHbaz7FugaLn3af5iKH-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Hakka-Noodles-Half.jpg
+Veg Schezwan Noodles,ProductType,7,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,",150,," grams noodles,  olive oil, clove garlic (finely chopped),  spring onion (chopped),½ carrot (chopped),  cabbage (shredded),½ capsicum (chopped),  schezwan sauce,▢½  salt,etc",https://drive.google.com/file/d/110qPjMnVJgCASzjlU24PKREL29s_4OW1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegSchezwanNoodles.jpg
+Veg Schezwan Noodles Full,ProductUnit,8,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,Veg Schezwan Noodles,",150,," grams noodles,  olive oil, clove garlic (finely chopped),  spring onion (chopped),½ carrot (chopped),  cabbage (shredded),½ capsicum (chopped),  schezwan sauce,▢½  salt,etc",https://drive.google.com/file/d/1CDwNEO2mYyxWdLNxZsfLDLQ55qwhS8dq/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Schezwan-NoodlesFull.jpg
+Veg Schezwan Noodles Half,ProductUnit,9,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,Veg Schezwan Noodles,",100,," grams noodles,  olive oil, clove garlic (finely chopped),  spring onion (chopped),½ carrot (chopped),  cabbage (shredded),½ capsicum (chopped),  schezwan sauce,▢½  salt,etc",https://drive.google.com/file/d/1D6a2dmdQWfIzQJ2DGq965ffEH0aQEJ7c/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Schezwan-Noodles-Half.jpg
+Veg Singapuri Noodles,ProductType,10,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,",160,," cup Noodle,  - garlic chopped,/ cup - leek or spring onions,/ cup - bell peppers (red, green and yellow),  - peri peri sauce,  - chilli garlic sauce,  - light soya sauce,etc",https://drive.google.com/file/d/1dXiPWFtx4V8HdI5vKLIWqKSIzm2tmsmR/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegSingapuriNoodles.jpg
+Veg Singapuri Noodles Full,ProductUnit,11,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,Veg Singapuri Noodles,",160,," cup Noodle,  - garlic chopped,/ cup - leek or spring onions,/ cup - bell peppers (red, green and yellow),  - peri peri sauce,  - chilli garlic sauce,  - light soya sauce,etc",https://drive.google.com/file/d/1GZgllA6A75gGNKFXcoqWeDIEoXNfrH4J/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food2/VegSingapuriNoodlesFull.jpg
+Veg Singapuri Noodles Half,ProductUnit,12,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,Veg Singapuri Noodles,",100,," cup Noodle,  - garlic chopped,/ cup - leek or spring onions,/ cup - bell peppers (red, green and yellow),  - peri peri sauce,  - chilli garlic sauce,  - light soya sauce,etc",https://drive.google.com/file/d/1mHLnTOCD8Z4db-IdGgwaIcuRbkTHvKj9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food2/VegSingapuriNoodlesHalf.jpg
+Veg Hongkong Noodles,ProductType,13,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,",160,," cups cooked Noodles,/ cup french beans chopped,/ cup carrot chopped,/ cup capsicum chopped, onion chopped, tablespoon soy sauce, tablespoon red chilli sauce,/ teaspoon peppercorn crushed, tablespoon cooking oil,salt to taste,etc",https://drive.google.com/file/d/178Eehi56D9hj6T2f1F3pUCLdoUq99Gyx/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegHongkongNoodles.jpg
+Veg Hongkong Noodles Full,ProductUnit,14,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,Veg Hongkong Noodles,",160,," cups cooked Noodles,/ cup french beans chopped,/ cup carrot chopped,/ cup capsicum chopped, onion chopped, tablespoon soy sauce, tablespoon red chilli sauce,/ teaspoon peppercorn crushed, tablespoon cooking oil,salt to taste,etc",https://drive.google.com/file/d/1obQ4aISNza_niAIQdTbzMIvB1RDpfgE6/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Hongkong-Noodles-Full.jpg
+Veg Hongkong Noodles Half,ProductUnit,15,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,Veg Hongkong Noodles,",100,," cups cooked Noodles,/ cup french beans chopped,/ cup carrot chopped,/ cup capsicum chopped, onion chopped, tablespoon soy sauce, tablespoon red chilli sauce,/ teaspoon peppercorn crushed, tablespoon cooking oil,salt to taste,etc",https://drive.google.com/file/d/1UZ0553dBdb2KZn0Lut8Qksg0-BfNFyhN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Hongkong-Noodles-Half.jpg
+Veg Triple Noodles,ProductType,16,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,",210,,"Cooked Basmati Noodles- cup,Boiled Noodles- ½ cup,Carrots chopped- ¼ cup,Shredded cabbage- ¼ cup,Spring onion chopped- ,Garlic chopped- ,Salt-to taste,etc.",https://drive.google.com/file/d/1tFeCsXI9gj-8SNeHbqeid_mDeguSnNyk/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegTripleNoodles.jpg
+Veg Triple Noodles Full,ProductUnit,17,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,Veg Triple Noodles,",210,,"Cooked Basmati Noodles- cup,Boiled Noodles- ½ cup,Carrots chopped- ¼ cup,Shredded cabbage- ¼ cup,Spring onion chopped- ,Garlic chopped- ,Salt-to taste,etc.",https://drive.google.com/file/d/1BMYyVZs379VfRplG4UMc8NUc_wxov02d/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/VegTripleNoodlesFull.jpg
+Veg Triple Noodles Half,ProductUnit,18,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,Veg Triple Noodles,",150,,"Cooked Basmati Noodles- cup,Boiled Noodles- ½ cup,Carrots chopped- ¼ cup,Shredded cabbage- ¼ cup,Spring onion chopped- ,Garlic chopped- ,Salt-to taste,etc.",https://drive.google.com/file/d/1Nwj2zwnv96n_koe_8CfQWNF4qQ1H0xyj/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/VegTripleNoodlesHalf.jpg
+Veg Manchurian Noodles,ProductType,19,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,",200,,,https://drive.google.com/file/d/18nb4TV0DNqOCfS3RhzF1UoGG4z7bhQri/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegManchurianNoodles.jpg
+Veg Manchurian Noodles Full,ProductUnit,20,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,Veg Manchurian Noodles,",200,,,https://drive.google.com/file/d/1lIbsw1v6WRpsC25SYh87A6AnhSpnQG-K/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220217/VegManchurianNoodlesFull.jpg
+Veg Manchurian Noodles Half,ProductUnit,21,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,Veg Manchurian Noodles,",140,,,https://drive.google.com/file/d/1D1AgBc-a_9h4R1XgbP3Ovw2RfGkedqn7/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220217/VegManchurianNoodlesHalf.jpg
+Veg Packing Noodles,ProductType,22,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,",460,,,https://drive.google.com/file/d/17L-VzcjB9qaeOpJM6eYysRvFQZ2BBYkP/view?usp=sharing,
+Veg Packing Noodles Full,ProductUnit,23,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,Veg Packing Noodles,",460,,,https://drive.google.com/file/d/1PwABTWZX0XpSIl8qzgDfBDPV5oHZDGZs/view?usp=sharing,
+Veg Packing Noodles Half,ProductUnit,24,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,Veg Packing Noodles,",270,,,https://drive.google.com/file/d/1BPIC9alESGwPdmDDWpmdHQqoEYtJ1Ulw/view?usp=sharing,
+Veg Mumbai Special Noodles,ProductType,25,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,",540,,,https://drive.google.com/file/d/1a-y2Rem4s52mYXCCW6XYxt1RnKGJfqsh/view?usp=sharing,
+Veg Mumbai Special Noodles Full,ProductUnit,26,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,Veg Mumbai Special Noodles,",540,,,https://drive.google.com/file/d/1t-oFcoOpNLp0VIkxFOft6jBgZ2i8I9Df/view?usp=sharing,
+Veg Mumbai Special Noodles Half,ProductUnit,27,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,Veg Mumbai Special Noodles,",300,,,https://drive.google.com/file/d/1lSpiUDfTWLkgATLbQEgCFhSm8vKFJOTY/view?usp=sharing,
+Veg Garlic Noodles,ProductType,28,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,",160,,,https://drive.google.com/file/d/1hF5HkxzoCtmC6nfAKFw67BEkQe-9eEXL/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food281221/VegGarlicNoodles.jpg
+Veg Garlic Noodles Full,ProductUnit,29,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,Veg Garlic Noodles,",160,,,https://drive.google.com/file/d/1C8kvT2jjyyLxkx8F7-hIIpzumErhNliF/view?usp=sharing,
+Veg Garlic Noodles Half,ProductUnit,30,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,Veg Garlic Noodles,",100,,,https://drive.google.com/file/d/1IL4zVdGBRb7C5I4dc_yWzy6YyDm30K4U/view?usp=sharing,
+Veg Chinese Bhel,ProductType,31,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,",160,,"noodles fried  s,onion sliced  nos,
+capsicum cut into fine slices  nos,powder sugar  / ,
+tomato sauce  / ,lemon juice  ,red chilli powder / ,
+pepper powder / ,chopped coriander leaves  ,
+salt  ,roasted ground nuts  ",https://drive.google.com/file/d/1H40eCv0dyvzdoNhuCGZmGbhP3HRPcvhb/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/VegChineseBhel.jpg
+Veg Chinese Bhel Full,ProductUnit,32,"Inventory,Food,Restaurant,Veg Noodles,Vegeterian,Veg Chinese Bhel,",160,,"noodles fried  s,onion sliced  nos,
+capsicum cut into fine slices  nos,powder sugar  / ,
+tomato sauce  / ,lemon juice  ,red chilli powder / ,
+pepper powder / ,chopped coriander leaves  ,
+salt  ,roasted ground nuts  ",https://drive.google.com/file/d/1Sncoo3FnZS8W7B8tnVfN1e1ECIo6OwqV/view?usp=sharing,
+Veg Starters,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://drive.google.com/file/d/1rPHaBukwlz0XWULqOVgaU6r0p5LxJaQI/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/VegStarters.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Veg Starters,",,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Veg Starters,",,,,,
+Paneer Manchurian,ProductType,4,"Inventory,Food,Restaurant,Veg Starters,Vegeterian,",170,,"""ingredients for Balls : chopped onion / cups,chopped green chillies  ,paneer shredded  s,chopped Coriander leaves  ,cornflour  ,salt / ,white papper / ,Ingredients for gravy :oil  ,garlic chopped  ,ginger chopped  """,https://drive.google.com/file/d/1EqHE3hvCkPqEYjP6uu4p5S3htSY97pAP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/PaneerManchurian.jpg
+Paneer 65,ProductType,5,"Inventory,Food,Restaurant,Veg Starters,Vegeterian,",170,," grams Paneer , tablespoon Rice Flour, tablespoon gram flour (besan), tablespoon cornstarch, teaspoon green chili paste, teaspoon garlic paste, teaspoon ginger paste,½ teaspoon red chili powder,¼ to ½ teaspoon Garam Masala,¼ teaspoon lemon juice , tablespoons oil –,salt as required, tablespoons finely chopped onions, to  green chilies ,½ teaspoon finely chopped ginger,½ teaspoon finely chopped garlic, to  dry red chilies , to  pinches salt.",https://drive.google.com/file/d/18eQOtotfInWqsh70Rc6NLKcegEIaW-3Y/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Paneer65.jpg
+Paneer Schezwan,ProductType,6,"Inventory,Food,Restaurant,Veg Starters,Vegeterian,",170,," Gram Paneer,- Dried red chilli,  Chopped ginger,  Chopped garlic,/  Chopped spring onion, large Diced onion, medium Capsicum diced,- Schezwan peppercorns,  Cornflour,  Black Pepper,Salt as required,Soy sauce as required,Vinegar as required.",https://drive.google.com/file/d/19rUFjqvrPjc0B7V8CwPm3-rmuHQy9zo_/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerSchezwan.jpg
+Veg Manchurian,ProductType,7,"Inventory,Food,Restaurant,Veg Starters,Vegeterian,",140,,""" cups grated cabbage, grated carrot,  maida,  Salt,  chilli sauce,  soya sauce,  tomato ketchup,  lemon juice,  sugar,capsicum, onion,  chopped gar",https://drive.google.com/file/d/1JcRpKUkGtHAU_F6awJQH4SDEVFXNNJY_/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegManchurian.jpg
+Veg 65,ProductType,8,"Inventory,Food,Restaurant,Veg Starters,Vegeterian,",140,,,https://drive.google.com/file/d/1vNWQi-EBkMH-6PuGayKQApq8nSpw6IHV/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg65.jpg
+Veg Chilli,ProductType,9,"Inventory,Food,Restaurant,Veg Starters,Vegeterian,",140,,,https://drive.google.com/file/d/1D9p-R2wrUPDWZJkAY5X_wRs1dBdt3dKR/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegChilli.jpg
+Starters,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Starters.jpg
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Starters,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg
+Vegeterian,ProductLine,3,"Inventory,Food,Restaurant,Starters,",,,,,
+Chicken Kantaki,ProductType,4,"Inventory,Food,Restaurant,Starters,NonVegeterian,",170,,,https://drive.google.com/file/d/16TVqnnObmBwYE1iaDi7FC1Wn8G293TW8/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenKantaki.jpg
+Chicken Kantaki Full,ProductUnit,5,"Inventory,Food,Restaurant,Starters,NonVegeterian,Chicken Kantaki,",170,,,,
+Chicken Kantaki Half,ProductUnit,6,"Inventory,Food,Restaurant,Starters,NonVegeterian,Chicken Kantaki,",100,,,,
+Chicken Lollipop,ProductType,7,"Inventory,Food,Restaurant,Starters,NonVegeterian,",180,," chicken  , teaspoon salt,½ teaspoon chili powder, teaspoon chopped garli, teaspoon finely chopped green chile peppers, tablespoons cornstarch,etc",https://drive.google.com/file/d/1RkkCr_yex_M9CTZzbKIEWbdCEr0AKLJ6/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenLollipop.jpg
+Chicken Lollipop Full,ProductUnit,8,"Inventory,Food,Restaurant,Starters,NonVegeterian,Chicken Lollipop,",180,," chicken  , teaspoon salt,½ teaspoon chili powder, teaspoon chopped garli, teaspoon finely chopped green chile peppers, tablespoons cornstarch,etc",https://drive.google.com/file/d/1oMMbW_Ez68cXsGZotKNeJyFnqvtxXqfX/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenLollipopFull.jpg
+Chicken Lollipop Half,ProductUnit,9,"Inventory,Food,Restaurant,Starters,NonVegeterian,Chicken Lollipop,",110,," chicken  , teaspoon salt,½ teaspoon chili powder, teaspoon chopped garli, teaspoon finely chopped green chile peppers, tablespoons cornstarch,etc",https://drive.google.com/file/d/1BStTAJz17sqzC1IHbYIBPxU6TpvB0xeV/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenLollipopHalf.jpg
+Chicken Lapeta,ProductType,10,"Inventory,Food,Restaurant,Starters,NonVegeterian,",240,,,https://drive.google.com/file/d/1IAN_u53Nx3sgkcuN1RbmJb88rxcHmTzs/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenLapeta.jpg
+Chicken Drum Stick,ProductType,11,"Inventory,Food,Restaurant,Starters,NonVegeterian,",180,,,https://drive.google.com/file/d/103RM5_CFKzuHTTvFfIOPPUF2PhqIzSv3/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-4/ChickenDrumstick.jpg
+Chicken Drum Stick Full,ProductUnit,12,"Inventory,Food,Restaurant,Starters,NonVegeterian,Chicken Drum Stick,",180,,,https://drive.google.com/file/d/1rfNSfjLNDBcAJ6fn3uo3FYNmRWpWBeKa/view?usp=sharing,
+Chicken Drum Stick Half,ProductUnit,13,"Inventory,Food,Restaurant,Starters,NonVegeterian,Chicken Drum Stick,",100,,,https://drive.google.com/file/d/1TvWOB7VM2P8Sm1agKsx-m_fjKbMJOyz3/view?usp=sharing,
+Soups,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Soup.jpg
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Soups,",,,,,
+Vegeterian,ProductLine,3,"Inventory,Food,Restaurant,Soups,",,,,,
+Chicken Manchow Soup,ProductType,4,"Inventory,Food,Restaurant,Soups,NonVegeterian,",100,,,https://drive.google.com/file/d/1v5C-QmonfLhh4R3NaUtzqEiQkPKBbVcq/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenManchowSoup.jpg
+Chicken Hot & Sour Soup,ProductType,5,"Inventory,Food,Restaurant,Soups,NonVegeterian,",110,,,https://drive.google.com/file/d/1CpxPCtVQdTgZidjhxWS-oatAe6cfdDp9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenHotSourSoup.jpg
+Chicken Hongkong Soup,ProductType,6,"Inventory,Food,Restaurant,Soups,NonVegeterian,",110,,,https://drive.google.com/file/d/1gfs6qz29CWARGVjxdOukyt6iGgDP5aTD/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenHongKongSoup.jpg
+Chicken Clear Soup,ProductType,7,"Inventory,Food,Restaurant,Soups,NonVegeterian,",115,,,https://drive.google.com/file/d/1LX7BNBtiMlQn6XbchCtLnaod19NW4mut/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenClearSoup.jpg
+Rice,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Rice.jpg
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Rice,",,,,,
+Vegeterian,ProductLine,3,"Inventory,Food,Restaurant,Rice,",,,,,
+Chicken Fried Rice,ProductType,4,"Inventory,Food,Restaurant,Rice,NonVegeterian,",160,," chopped chicken meat, egg, cups cooked white rice,/  Black pepper, tablespoons soy sauce, teaspoon ground black pepper, tablespoon vegetable oil,etc",https://drive.google.com/file/d/1aSDZOExwwXDvxk_RoejlAzSDdSpOMH_a/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenFriedRice.jpg
+Chicken Fried Rice Full,ProductUnit,5,"Inventory,Food,Restaurant,Rice,NonVegeterian,Chicken Fried Rice,",160,," chopped chicken meat, egg, cups cooked white rice,/  Black pepper, tablespoons soy sauce, teaspoon ground black pepper, tablespoon vegetable oil,etc",https://drive.google.com/file/d/134wk3vS_3SaVNNuaQr_DgD-35uYkXUS3/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenFriedRiceFull.jpg
+Chicken Fried Rice Half,ProductUnit,6,"Inventory,Food,Restaurant,Rice,NonVegeterian,Chicken Fried Rice,",100,," chopped chicken meat, egg, cups cooked white rice,/  Black pepper, tablespoons soy sauce, teaspoon ground black pepper, tablespoon vegetable oil,etc",https://drive.google.com/file/d/101XEZpaP8uVwjLBGRgpoz7KtDVciHGNr/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenFriedRiceHalf.jpg
+Chicken Schezwan Rice,ProductType,7,"Inventory,Food,Restaurant,Rice,NonVegeterian,",140,," chopped chicken meat, egg, cups cooked white rice,Schezwan Chutney,/  Black pepper, tablespoons soy sauce, teaspoon ground black pepper, tablespoon vegetable oil,",https://drive.google.com/file/d/1qhlBeL0qw1qVJHTfNNlpSjtDE2cMntTk/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenSchezwanRice.jpg
+Chicken Schezwan Rice Full,ProductUnit,8,"Inventory,Food,Restaurant,Rice,NonVegeterian,Chicken Schezwan Rice,",140,," chopped chicken meat, egg, cups cooked white rice,Schezwan Chutney,/  Black pepper, tablespoons soy sauce, teaspoon ground black pepper, tablespoon vegetable oil,",https://drive.google.com/file/d/18hYnh0v5bknsWQAES4M4jqWwoHZjWrZ8/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenSchezwanRiceFull.jpg
+Chicken Schezwan Rice Half,ProductUnit,9,"Inventory,Food,Restaurant,Rice,NonVegeterian,Chicken Schezwan Rice,",90,," chopped chicken meat, egg, cups cooked white rice,Schezwan Chutney,/  Black pepper, tablespoons soy sauce, teaspoon ground black pepper, tablespoon vegetable oil,",https://drive.google.com/file/d/1oY_GmqQen2qZqQu-Pwb5kyWXv1KLN-GH/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenSchezwanRiceHalf.jpg
+Chicken Singapore Rice,ProductType,10,"Inventory,Food,Restaurant,Rice,NonVegeterian,",150,," ( pound) whole chicken, cloves garlic, green onions, cloves garlic, minced, cucumber, thinly sliced, cups long grain rice, rinsed and drained,etc",https://drive.google.com/file/d/1Qq0F2zPoVJcnQug8gvkmFwc0t1uQS0ls/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenSingaporeRice.jpg
+Chicken Singapore Rice Full,ProductUnit,11,"Inventory,Food,Restaurant,Rice,NonVegeterian,Chicken Singapore Rice,",150,," ( pound) whole chicken, cloves garlic, green onions, cloves garlic, minced, cucumber, thinly sliced, cups long grain rice, rinsed and drained,etc",https://drive.google.com/file/d/1jrLLJA_4qCzgvv8J46pkjIkvxh5M1ha8/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food240522/ChickenSingaporeRiceFull.jpg
+Chicken Singapore Rice Half,ProductUnit,12,"Inventory,Food,Restaurant,Rice,NonVegeterian,Chicken Singapore Rice,",100,," ( pound) whole chicken, cloves garlic, green onions, cloves garlic, minced, cucumber, thinly sliced, cups long grain rice, rinsed and drained,etc",https://drive.google.com/file/d/1jz6N8xi61CCe1fTB16Te5AGyOiOR3iFZ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food240522/ChickenSingaporeRicehalf.jpg
+Chicken Hongkong Rice,ProductType,13,"Inventory,Food,Restaurant,Rice,NonVegeterian,",150,,"cups cooked rice,/ cup french beans,/ cup carrot,/ cup capsicum, onion,/ teaspoon peppercorn, cup cooked, chopped chicken meat,etc",https://drive.google.com/file/d/1gWE1ipJ9Jcl4Jz1Pb7pYATW6C0I6CwY4/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenHongKongRice.jpeg
+Chicken Hongkong Rice Full,ProductUnit,14,"Inventory,Food,Restaurant,Rice,NonVegeterian,Chicken Hongkong Rice,",150,,"cups cooked rice,/ cup french beans,/ cup carrot,/ cup capsicum, onion,/ teaspoon peppercorn, cup cooked, chopped chicken meat,etc",https://drive.google.com/file/d/1XWt5SLOZW6scFAgPFXcOa3Jks44b3qJp/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenHongkongRiceFull.jpg
+Chicken Hongkong Rice Half,ProductUnit,15,"Inventory,Food,Restaurant,Rice,NonVegeterian,Chicken Hongkong Rice,",100,,"cups cooked rice,/ cup french beans,/ cup carrot,/ cup capsicum, onion,/ teaspoon peppercorn, cup cooked, chopped chicken meat,etc",https://drive.google.com/file/d/1m4zBAJeM-tv4ov9ITnUQJ5fn8aTql0I6/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenHongkongRiceHalf.jpg
+Chicken Triple Rice,ProductType,16,"Inventory,Food,Restaurant,Rice,NonVegeterian,",220,,"Boneless chicken cut into small cubes  grams,Cooked rice  cups,Boneless chicken chopped  grams,Noodles boiled  cup,Fried noodles ½ cup + For topping,Salt to taste,Oil  tablespoons + for deep-frying,Ginger chopped  tablespoons,Garlic chopped  tablespoons,Driedredchillies ,Capsicums cut into cubes  cup,Tomato ketchup ½ cup,Soy sauce  teaspoons,salt
+",https://drive.google.com/file/d/1chTDX-Yzivg5JrvXAsOSZcquuxr2EmOO/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/ChickenTripleRice.png
+Chicken Triple Rice Full,ProductUnit,17,"Inventory,Food,Restaurant,Rice,NonVegeterian,Chicken Triple Rice,",220,,"Boneless chicken cut into small cubes  grams,Cooked rice  cups,Boneless chicken chopped  grams,Noodles boiled  cup,Fried noodles ½ cup + For topping,Salt to taste,Oil  tablespoons + for deep-frying,Ginger chopped  tablespoons,Garlic chopped  tablespoons,Driedredchillies ,Capsicums cut into cubes  cup,Tomato ketchup ½ cup,Soy sauce  teaspoons,salt
+",https://drive.google.com/file/d/1UtjSzJvPpdMETKFPCilwygv42sq_uAGh/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenTripleRiceFull.jpg.crdownload.jpg
+Chicken Triple Rice Half,ProductUnit,18,"Inventory,Food,Restaurant,Rice,NonVegeterian,Chicken Triple Rice,",150,,"Boneless chicken cut into small cubes  grams,Cooked rice  cups,Boneless chicken chopped  grams,Noodles boiled  cup,Fried noodles ½ cup + For topping,Salt to taste,Oil  tablespoons + for deep-frying,Ginger chopped  tablespoons,Garlic chopped  tablespoons,Driedredchillies ,Capsicums cut into cubes  cup,Tomato ketchup ½ cup,Soy sauce  teaspoons,salt
+",https://drive.google.com/file/d/1KIcYROZDKMS47HwNACTV_HekvKTf0_Fd/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenTripleRiceHalf.jpg.crdownload.jpg
+Chicken Manchurian Rice,ProductType,19,"Inventory,Food,Restaurant,Rice,NonVegeterian,",220,,Chicken boneless - medium sized bowl,https://drive.google.com/file/d/1JHAYfeYF5F1zfKMCNAd-m4YTIqU-YRBd/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/ChickenManchurianRice.jpg
+Chicken Manchurian Rice Full,ProductUnit,20,"Inventory,Food,Restaurant,Rice,NonVegeterian,Chicken Manchurian Rice,",220,,Chicken boneless - medium sized bowl,https://drive.google.com/file/d/1pObRJF2iMgPsBaivfhGvTTxBVubOBA6c/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/ChickenManchurianRiceFull.jpg
+Chicken Manchurian Rice Half,ProductUnit,21,"Inventory,Food,Restaurant,Rice,NonVegeterian,Chicken Manchurian Rice,",150,,Chicken boneless - medium sized bowl,https://drive.google.com/file/d/1MNGqeDJ6OtgeVXffDzlMfkjG4tkwmf1W/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/ChickenManchurianRiceHalf.jpg
+Chicken Packing Rice,ProductType,22,"Inventory,Food,Restaurant,Rice,NonVegeterian,",480,,,https://drive.google.com/file/d/1lF3r9mETlSG4DQEHD9BfRKDTWRmagkz9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food22240622/ChickenPackingRice.jpg
+Chicken Packing Rice Full,ProductUnit,23,"Inventory,Food,Restaurant,Rice,NonVegeterian,Chicken Packing Rice,",480,,,https://drive.google.com/file/d/1E6Mo1QJDpvaUbVNPZebBBco7oTEVX9f_/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food22240622/ChickenPackingRiceFull.jpg
+Chicken Packing Rice Half,ProductUnit,24,"Inventory,Food,Restaurant,Rice,NonVegeterian,Chicken Packing Rice,",280,,,https://drive.google.com/file/d/1oBdzWFGeGUPSjp0SfLxfz9SZw-KaKjjh/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food22240622/ChickenPackingRiceHalf.jpg
+Chicken China Town Rice,ProductType,25,"Inventory,Food,Restaurant,Rice,NonVegeterian,",590,,,,
+Chicken China Town Rice Full,ProductUnit,26,"Inventory,Food,Restaurant,Rice,NonVegeterian,Chicken China Town Rice,",590,,,,
+Chicken China Town Rice Half,ProductUnit,27,"Inventory,Food,Restaurant,Rice,NonVegeterian,Chicken China Town Rice,",280,,,,
+Chicken Mumbai Special Rice,ProductType,28,"Inventory,Food,Restaurant,Rice,NonVegeterian,",600,,,https://drive.google.com/file/d/1ge1b-6SKQHfbWCFuoOznYMt4QnCLXIpm/view?usp=sharing,
+Chicken Mumbai Special Rice Full,ProductUnit,29,"Inventory,Food,Restaurant,Rice,NonVegeterian,Chicken Mumbai Special Rice,",600,,,https://drive.google.com/file/d/119DbvSWEdk7jGo-otL1zm20z7LZErpIe/view?usp=sharing,
+Chicken Mumbai Special Rice Half,ProductUnit,30,"Inventory,Food,Restaurant,Rice,NonVegeterian,Chicken Mumbai Special Rice,",340,,,https://drive.google.com/file/d/1ofGgAwAe_vVtnf-SfKWj7t3jBgDJgkPg/view?usp=sharing,
+Chicken Garlic Rice,ProductType,31,"Inventory,Food,Restaurant,Rice,NonVegeterian,",150,," Cups Steamed Rice, cloves Garlic,  Olive Oil,/  Black Pepper, cloves Garlic,  Olive Oil,/  Black Pepper, Green Chillies,  Soya Sauce,  Vinegar,For the Burnt Garlic,- Sliced Garlic,  Olive Oil,",https://drive.google.com/file/d/1BFtUx9MpcDrx2WcJjDpn6TkMyrZYIhCp/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/ChickenGarlicRice.jpg
+Chicken Garlic Rice Full,ProductUnit,32,"Inventory,Food,Restaurant,Rice,NonVegeterian,Chicken Garlic Rice,",150,," Cups Steamed Rice, cloves Garlic,  Olive Oil,/  Black Pepper, cloves Garlic,  Olive Oil,/  Black Pepper, Green Chillies,  Soya Sauce,  Vinegar,For the Burnt Garlic,- Sliced Garlic,  Olive Oil,",https://drive.google.com/file/d/1wBpelzcd2de_AHU8_iI5vMzVyQhZ_3dn/view?usp=sharing,
+Chicken Garlic Rice Half,ProductUnit,33,"Inventory,Food,Restaurant,Rice,NonVegeterian,Chicken Garlic Rice,",100,," Cups Steamed Rice, cloves Garlic,  Olive Oil,/  Black Pepper, cloves Garlic,  Olive Oil,/  Black Pepper, Green Chillies,  Soya Sauce,  Vinegar,For the Burnt Garlic,- Sliced Garlic,  Olive Oil,",https://drive.google.com/file/d/17gyPgV6tE0kLfOR1kX8ipffzVA0A3j46/view?usp=sharing,
+Chicken Combination Rice,ProductType,34,"Inventory,Food,Restaurant,Rice,NonVegeterian,",160,,,https://drive.google.com/file/d/1uTGIrX0dJ3YfvbE2vQTqVwyHj7AaZk8I/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenCombinationRice.png
+Noodles,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/Noodles.jpg
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Noodles,",,,,,
+Vegeterian,ProductLine,3,"Inventory,Food,Restaurant,Noodles,",,,,,
+Chicken Hakka Noodles,ProductType,4,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",150,," grams Millet Noodles,/ Chicken breasts, Onion, Green Bell Pepper (Capsicum), Carrot, cloves Garlic, Tablespoon Red Chilli sauce,Salt , to taste,Black pepper powder,etc",https://drive.google.com/file/d/1RwZJOzUVrWP7EdvqdSkdx9XcWqhO77Xr/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenHakkaNoodles.jpg
+Chicken Hakka Noodles Full,ProductUnit,5,"Inventory,Food,Restaurant,Noodles,NonVegeterian,Chicken Hakka Noodles,",150,," grams Millet Noodles,/ Chicken breasts, Onion, Green Bell Pepper (Capsicum), Carrot, cloves Garlic, Tablespoon Red Chilli sauce,Salt , to taste,Black pepper powder,etc",https://drive.google.com/file/d/1RwZJOzUVrWP7EdvqdSkdx9XcWqhO77Xr/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenHakkaNoodles.jpg
+Chicken Hakka Noodles Half,ProductUnit,6,"Inventory,Food,Restaurant,Noodles,NonVegeterian,Chicken Hakka Noodles,",100,," grams Millet Noodles,/ Chicken breasts, Onion, Green Bell Pepper (Capsicum), Carrot, cloves Garlic, Tablespoon Red Chilli sauce,Salt , to taste,Black pepper powder,etc",https://drive.google.com/file/d/1n8-bnetaOzBplJB6jNe-MWOQM8_HlBJq/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenHakkaNoodlesHalf.jpg
+Chicken Schezwan Noodles,ProductType,7,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",140,," grams Hakka noodles, grams boneless chicken breast, medium sized carrot,/ medium sized green and red capsicums,  schezwan sauce,/  soy sauce,/  pepper powder,salt as needed,etc",https://drive.google.com/file/d/1usXndyIWtN7LDw77MfqQXnUk4yVEPBdv/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenSchezwanNoodles.jpg
+Chicken Schezwan Noodles Full,ProductUnit,8,"Inventory,Food,Restaurant,Noodles,NonVegeterian,Chicken Schezwan Noodles,",140,," grams Hakka noodles, grams boneless chicken breast, medium sized carrot,/ medium sized green and red capsicums,  schezwan sauce,/  soy sauce,/  pepper powder,salt as needed,etc",https://drive.google.com/file/d/1vSTsfhvVFoONulYDOLtyawCkczRSUpTc/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenSchezwanNoodlesFull.jpg
+Chicken Schezwan Noodles Half,ProductUnit,9,"Inventory,Food,Restaurant,Noodles,NonVegeterian,Chicken Schezwan Noodles,",90,," grams Hakka noodles, grams boneless chicken breast, medium sized carrot,/ medium sized green and red capsicums,  schezwan sauce,/  soy sauce,/  pepper powder,salt as needed,etc",https://drive.google.com/file/d/1wYPRo8m3M1kDuUrGpXsCiSv62Dj7ZmBK/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenSchezwanNoodlesHalf.jpg
+Chicken Singapore Noodles,ProductType,10,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",150,," ( pound) whole chicken, cloves garlic, green onions, cloves garlic, minced, cucumber, thinly sliced, cups long Noodles, rinsed and drained,etc",https://drive.google.com/file/d/1jEKT8mx8vwSHL_dXX9sMFL5t-Gl7ntrO/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenSingaporeNoodles.jpg
+Chicken Singapore Noodles Full,ProductUnit,11,"Inventory,Food,Restaurant,Noodles,NonVegeterian,Chicken Singapore Noodles,",150,," ( pound) whole chicken, cloves garlic, green onions, cloves garlic, minced, cucumber, thinly sliced, cups long Noodles, rinsed and drained,etc",https://drive.google.com/file/d/1Wl3Cc9PK3-3kB8pW5gj6pC1GDnbXcR_Q/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/ChickenSingaporeNoodlesFull.jpg
+Chicken Singapore Noodles Half,ProductUnit,12,"Inventory,Food,Restaurant,Noodles,NonVegeterian,Chicken Singapore Noodles,",100,," ( pound) whole chicken, cloves garlic, green onions, cloves garlic, minced, cucumber, thinly sliced, cups long Noodles, rinsed and drained,etc",https://drive.google.com/file/d/10seG1hmXA5r1AP3mSvCoORxOOOBODbjZ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/ChickenSingaporeNoodlesHalf.jpg
+Chicken HongKong Noodles,ProductType,13,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",150,," cups cooked Noodles,/ cup french beans,/ cup carrot,/ cup capsicum, onion,/ teaspoon peppercorn, cup cooked, chopped chicken meat,etc",,
+Chicken HongKong Noodles Full,ProductUnit,14,"Inventory,Food,Restaurant,Noodles,NonVegeterian,Chicken HongKong Noodles,",150,," cups cooked Noodles,/ cup french beans,/ cup carrot,/ cup capsicum, onion,/ teaspoon peppercorn, cup cooked, chopped chicken meat,etc",https://drive.google.com/file/d/1E8RnbNiuPURsTV_nnNgPJ_CSNe17L-9h/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenHongkongNoodlesFull.jpg
+Chicken HongKong Noodles Half,ProductUnit,15,"Inventory,Food,Restaurant,Noodles,NonVegeterian,Chicken HongKong Noodles,",100,," cups cooked Noodles,/ cup french beans,/ cup carrot,/ cup capsicum, onion,/ teaspoon peppercorn, cup cooked, chopped chicken meat,etc",https://drive.google.com/file/d/1zHsl7iyO4EQMg52wQo_Rg2A5fjYZ_-Y1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenHongkongNoodlesHalf.jpg
+Chicken Triple Noodles,ProductType,16,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",220,,"Boneless chicken cut into small cubes  grams,Cooked noodles,  cups,Boneless chicken chopped  grams,Noodles boiled  cup,Fried noodles ½ cup + For topping,Salt to taste,Oil  tablespoons + for deep-frying,Ginger chopped  tablespoons,Garlic chopped  tablespoons,Driedredchillies ,Capsicums cut into cubes  cup,Tomato ketchup ½ cup,Soy sauce  teaspoons,salt
+",https://drive.google.com/file/d/1pegKMFlm1Z7lFGb97fGBRj-MnROWUHEg/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenTripleNoodles.jpg
+Chicken Triple Noodles Full,ProductUnit,17,"Inventory,Food,Restaurant,Noodles,NonVegeterian,Chicken Triple Noodles,",220,,"Boneless chicken cut into small cubes  grams,Cooked noodles,  cups,Boneless chicken chopped  grams,Noodles boiled  cup,Fried noodles ½ cup + For topping,Salt to taste,Oil  tablespoons + for deep-frying,Ginger chopped  tablespoons,Garlic chopped  tablespoons,Driedredchillies ,Capsicums cut into cubes  cup,Tomato ketchup ½ cup,Soy sauce  teaspoons,salt
+",https://drive.google.com/file/d/15ihFnynx7fGMU44OvEhpQG2yWYAHXHhf/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/ChickenTripleNoodlesFull.jpg
+Chicken Triple Noodles Half,ProductUnit,18,"Inventory,Food,Restaurant,Noodles,NonVegeterian,Chicken Triple Noodles,",150,,"Boneless chicken cut into small cubes  grams,Cooked noodles,  cups,Boneless chicken chopped  grams,Noodles boiled  cup,Fried noodles ½ cup + For topping,Salt to taste,Oil  tablespoons + for deep-frying,Ginger chopped  tablespoons,Garlic chopped  tablespoons,Driedredchillies ,Capsicums cut into cubes  cup,Tomato ketchup ½ cup,Soy sauce  teaspoons,salt
+",https://drive.google.com/file/d/160yCqspjO8AG8dnpM9qDbujOVLX1tDFb/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ChickenTripleNoodlesHalf.jpg
+Chicken Manchurian Noodles,ProductType,19,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",220,,,https://drive.google.com/file/d/14JAXK6fE76Dcm_I8f7yVTtycGUa6EPkH/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenManchurianNoodles.jpg
+Chicken Manchurian Noodles Full,ProductUnit,20,"Inventory,Food,Restaurant,Noodles,NonVegeterian,Chicken Manchurian Noodles,",220,,,https://drive.google.com/file/d/1NK7sO7KlPo6AG77Qs3--8134saW7m3OU/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/ChickenManchurianNoodlesFull2.jpg
+Chicken Manchurian Noodles Half,ProductUnit,21,"Inventory,Food,Restaurant,Noodles,NonVegeterian,Chicken Manchurian Noodles,",150,,,https://drive.google.com/file/d/1K4-84WT83hvaLEpgIysAXwdkohPvHiLH/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/ChickenManchurianNoodlesHalf.jpg
+Chicken Packing Noodles,ProductType,22,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",480,,,,
+Chicken Packing Noodles Full,ProductUnit,23,"Inventory,Food,Restaurant,Noodles,NonVegeterian,Chicken Packing Noodles,",480,,,,
+Chicken Packing Noodles Half,ProductUnit,24,"Inventory,Food,Restaurant,Noodles,NonVegeterian,Chicken Packing Noodles,",280,,,,
+Chicken China Town Noodles,ProductType,25,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",590,,,https://drive.google.com/file/d/1z6F7ZoDF0TyGoNwGjGZZ4Lz18XHe2n4k/view?usp=sharing,
+Chicken China Town Noodles Full,ProductUnit,26,"Inventory,Food,Restaurant,Noodles,NonVegeterian,Chicken China Town Noodles,",590,,,https://drive.google.com/file/d/12o4fBTnfEpvS5L2d1z6XaeFiX1CR7FBd/view?usp=sharing,
+Chicken China Town Noodles Half,ProductUnit,27,"Inventory,Food,Restaurant,Noodles,NonVegeterian,Chicken China Town Noodles,",480,,,https://drive.google.com/file/d/1ZO9ztl2WzLb8nYJ_STEjaQYHWGWKJE6G/view?usp=sharing,
+Chicken Mumbai Special Noodles,ProductType,28,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",600,,,https://drive.google.com/file/d/1o7mVQVQNPk-gDUpNlWWC1B5uvTXbSvpi/view?usp=sharing,
+Chicken Mumbai Special Noodles Full,ProductUnit,29,"Inventory,Food,Restaurant,Noodles,NonVegeterian,Chicken Mumbai Special Noodles,",600,,,https://drive.google.com/file/d/1l2QkHcuuXpYbDshplV0fsWiUpB_D224Y/view?usp=sharing,
+Chicken Mumbai Special Noodles Half,ProductUnit,30,"Inventory,Food,Restaurant,Noodles,NonVegeterian,Chicken Mumbai Special Noodles,",340,,,https://drive.google.com/file/d/1PVieUb5hBqJSP42d3g-lWD653Q11Do10/view?usp=sharing,
+Chicken Garlic Noodles,ProductType,31,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",150,,,https://drive.google.com/file/d/1AzBwkCmaCmNyXpitu1P4s4SCdF5dgpy6/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/ChickenGarlicNoodles.jpg
+Chicken Garlic Noodles Full,ProductUnit,32,"Inventory,Food,Restaurant,Noodles,NonVegeterian,Chicken Garlic Noodles,",150,,,https://drive.google.com/file/d/16nzGjDyf68SP3w3nxUAtQiBBJFaotan3/view?usp=sharing,
+Chicken Garlic Noodles Half,ProductUnit,33,"Inventory,Food,Restaurant,Noodles,NonVegeterian,Chicken Garlic Noodles,",100,,,https://drive.google.com/file/d/1t5BK6U2PFi-_GB6bNLr1LSGrU83xnUir/view?usp=sharing,
+Chicken Combination Noodles,ProductType,34,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",150,,,https://drive.google.com/file/d/1_Vn6qqRkWBheFnjLNJ07zfAxm7rGg1aG/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food161719062022/ChickenCombinationNoodles.jpg
+Chicken Combination Noodles Full,ProductUnit,35,"Inventory,Food,Restaurant,Noodles,NonVegeterian,Chicken Combination Noodles,",150,,,https://drive.google.com/file/d/1g9OM-ZPx3TGCXh-UX0TPmWYZ3AQUT-go/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food22240622/ChickenCombinationNoodlesFull.jpg
+Chicken Combination Noodles Half,ProductUnit,36,"Inventory,Food,Restaurant,Noodles,NonVegeterian,Chicken Combination Noodles,",100,,,https://drive.google.com/file/d/1RlklzWA3tTlJvDwzxaPNMBA8FWXwmi2H/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food22240622/ChickenCombinationNoodlesHalf.jpg
+Chicken Cocktail Noodles,ProductType,37,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",220,,,https://drive.google.com/file/d/1GDd33ghv1MiGv8bQZZN3YzVV6gswmv3T/view?usp=sharing,
+Chinese Bhel,ProductType,38,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",160,,,https://drive.google.com/file/d/1GPi9hn0ZkUeegyxQKlKo7r_UcsvbSsw4/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/ChineseBhel.jpg
+American Chopsy,ProductType,39,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",210,,,https://drive.google.com/file/d/1XuKEeCeA28jnmV6QPEOS794al17liLgE/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/AmericanChopsy.jpg
+Chinese,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Chinese.jpg
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Chinese,",,,,,
+Vegeterian,ProductLine,3,"Inventory,Food,Restaurant,Chinese,",,,,,
+Chicken Chilli,ProductType,4,"Inventory,Food,Restaurant,Chinese,NonVegeterian,",220,," chicken breasts, teaspoon salt,½ teaspoon pepper, egg, beaten,¾ cup flour( g), green pepper, sliced, red pepper, sliced,",https://drive.google.com/file/d/1zccr03DUmOBDqoID5-I1IkcG9nR33fue/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenChilli.jpg
+Chicken Chilli Full,ProductUnit,5,"Inventory,Food,Restaurant,Chinese,NonVegeterian,Chicken Chilli,",220,," chicken breasts, teaspoon salt,½ teaspoon pepper, egg, beaten,¾ cup flour( g), green pepper, sliced, red pepper, sliced,",https://drive.google.com/file/d/1256S3NPD7TuJoAVNTyKmD7W1hXeIp29K/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/imgs-2/ChickenChilliFull.jpg
+Chicken Chilli Half,ProductUnit,6,"Inventory,Food,Restaurant,Chinese,NonVegeterian,Chicken Chilli,",150,," chicken breasts, teaspoon salt,½ teaspoon pepper, egg, beaten,¾ cup flour( g), green pepper, sliced, red pepper, sliced,",https://drive.google.com/file/d/18f1DBgi305R9Uvp972q4kQhwyUJRUXeC/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/imgs-2/ChickenChilliHalf.jpg
+Chicken Manchurian,ProductType,7,"Inventory,Food,Restaurant,Chinese,NonVegeterian,",220,,"gravy :garlic cloves - nos,onion roughly chopped  nos,
+capsicum diced  nos,soya sauce  ,green chilli sauce  ,
+spring onions chopped  cups,cornflour mixed in   water  ,chicken cubes  s,maida - ",https://drive.google.com/file/d/1bda5swwEFGvjQlk_NAqTfTgkbaWFSX_V/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenManchurian.jpg
+Chicken Manchurian Full,ProductUnit,8,"Inventory,Food,Restaurant,Chinese,NonVegeterian,Chicken Manchurian,",220,,"gravy :garlic cloves - nos,onion roughly chopped  nos,
+capsicum diced  nos,soya sauce  ,green chilli sauce  ,
+spring onions chopped  cups,cornflour mixed in   water  ,chicken cubes  s,maida - ",https://drive.google.com/file/d/1c43X8YDgvi-QTvwipTyUBd9VTmu5UsBt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/NonVegeterian/ChickenManchurianFull.jpg
+Chicken Manchurian Half,ProductUnit,9,"Inventory,Food,Restaurant,Chinese,NonVegeterian,Chicken Manchurian,",150,,"gravy :garlic cloves - nos,onion roughly chopped  nos,
+capsicum diced  nos,soya sauce  ,green chilli sauce  ,
+spring onions chopped  cups,cornflour mixed in   water  ,chicken cubes  s,maida - ",https://drive.google.com/file/d/1w7Gi7vKe_wRsVTatAShQpVXKSf2Vu201/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenManchurianHalf.jpg
+Chicken Schezwan,ProductType,10,"Inventory,Food,Restaurant,Chinese,NonVegeterian,",220,,,https://drive.google.com/file/d/1AquNWlxD-pN7Ahkn7qekj75GaMhlxec1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenSchezwan.jpg
+Chicken Schezwan Full,ProductUnit,11,"Inventory,Food,Restaurant,Chinese,NonVegeterian,Chicken Schezwan,",220,,,https://drive.google.com/file/d/1VauU3ZYN9tv4bu2zuPDxTwF8ffnnKxdg/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food240522/ChickenSchezwanFull.jpg
+Chicken Schezwan Half,ProductUnit,12,"Inventory,Food,Restaurant,Chinese,NonVegeterian,Chicken Schezwan,",150,,,https://drive.google.com/file/d/1fF57ANkGMtDxVs1oqq5-Fc5YJ-M1jK3T/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food240522/ChickenSchezwanHalf.jpg
+Chicken Garlic,ProductType,13,"Inventory,Food,Restaurant,Chinese,NonVegeterian,",220,,,https://drive.google.com/file/d/1DA1aGftxttdGBEkGsCZu8TWnLqvA_PnM/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenGarlic.jpg
+Chicken Garlic Full,ProductUnit,14,"Inventory,Food,Restaurant,Chinese,NonVegeterian,Chicken Garlic,",220,,,https://drive.google.com/file/d/1ikxMkhWw2G-8WrpoHQLvXntuemxmK7TA/view?usp=sharing,
+Chicken Garlic Half,ProductUnit,15,"Inventory,Food,Restaurant,Chinese,NonVegeterian,Chicken Garlic,",140,,,https://drive.google.com/file/d/1eyPJeloFglAhM4owHaWi7uvRduuv_S-t/view?usp=sharing,
+Chicken Lollipop Gravy & Dry,ProductType,16,"Inventory,Food,Restaurant,Chinese,NonVegeterian,",260,," chicken  , teaspoon salt,½ teaspoon chili powder, teaspoon chopped garli, teaspoon finely chopped green chile peppers, tablespoons cornstarch,etc",https://drive.google.com/file/d/1Z8ZJSI9cgpYWPwiI7FII-yLWtIP-A1d1/view?usp=sharing,
+Chicken Lollipop Gravy & Dry Full,ProductUnit,17,"Inventory,Food,Restaurant,Chinese,NonVegeterian,Chicken Lollipop Gravy & Dry,",260,," chicken  , teaspoon salt,½ teaspoon chili powder, teaspoon chopped garli, teaspoon finely chopped green chile peppers, tablespoons cornstarch,etc",https://drive.google.com/file/d/1pcNRt328rnI_uWnp-QDU9zqdodOfv3EP/view?usp=sharing,
+Chicken Lollipop Gravy & Dry Half,ProductUnit,18,"Inventory,Food,Restaurant,Chinese,NonVegeterian,Chicken Lollipop Gravy & Dry,",150,," chicken  , teaspoon salt,½ teaspoon chili powder, teaspoon chopped garli, teaspoon finely chopped green chile peppers, tablespoons cornstarch,etc",https://drive.google.com/file/d/1l9bi9ZFPDZ07DsBmxPq0UnLiNeqSSE42/view?usp=sharing,
+Drum Stick Dry & Gravy,ProductType,19,"Inventory,Food,Restaurant,Chinese,NonVegeterian,",160,,,https://drive.google.com/file/d/1hJpZdLUdZSvu5wIyArVgWDhPHtHoPpcO/view?usp=sharing,
+Chicken Kantaki Gravy,ProductType,20,"Inventory,Food,Restaurant,Chinese,NonVegeterian,",240,,,https://drive.google.com/file/d/1TlnqrtqKmMHAxqdjCFMlmqe_FGtphX2Y/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenKantakiGravy.jpg
+Fish,ProductClass,1,"Inventory,Food,Restaurant,",,,,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Fish,",,,,,
+Vegeterian,ProductLine,3,"Inventory,Food,Restaurant,Fish,",,,,,
+Fish Fry,ProductType,4,"Inventory,Food,Restaurant,Fish,NonVegeterian,",170,,"oil  ,onion  nos,chilly powder  ,Water  ,lemon / no,Fish  nos
+
+",https://drive.google.com/file/d/1PpL_a6K_-PvE4WO7M0QLOPLORYanqmK0/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/NonVegeterian/FishFry.jpg
+Fish Fry Full,ProductUnit,5,"Inventory,Food,Restaurant,Fish,NonVegeterian,Fish Fry,",170,,"oil  ,onion  nos,chilly powder  ,Water  ,lemon / no,Fish  nos
+
+",https://drive.google.com/file/d/1O5pklFNwQzmFD-yQUvjxl1Cv0mUKC7vf/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/FishFryFull.jpg
+Fish Fry Half,ProductUnit,6,"Inventory,Food,Restaurant,Fish,NonVegeterian,Fish Fry,",100,,"oil  ,onion  nos,chilly powder  ,Water  ,lemon / no,Fish  nos
+
+",https://drive.google.com/file/d/1BOAT1nD4nmim0tyNhvwuE2QOa7w7zbuD/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/FishFryHalf.jpg
+Fish Tandoori,ProductType,7,"Inventory,Food,Restaurant,Fish,NonVegeterian,",180,,,https://drive.google.com/file/d/1Xh7am7ZcyVnUH6eRlNmUAhdsVZ0cjpL7/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/FishTandoori.jpg
+Fish Tandoori Full,ProductUnit,8,"Inventory,Food,Restaurant,Fish,NonVegeterian,Fish Tandoori,",180,,,https://drive.google.com/file/d/12nsav7xfuEGXpcuQgAuwBFgO-gfbNr2z/view?usp=sharing,
+Fish Tandoori Half,ProductUnit,9,"Inventory,Food,Restaurant,Fish,NonVegeterian,Fish Tandoori,",110,,,https://drive.google.com/file/d/11wEWaL-Oo1FHO91OSnwCh8KPszaPh1nr/view?usp=sharing,
+Chicken Special,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://drive.google.com/file/d/1Q2jEdWRzxeMZAjnZ8HdSTVVYsGnLSsh0/view?usp=sharing,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Chicken Special,",,,,,
+Vegeterian,ProductLine,3,"Inventory,Food,Restaurant,Chicken Special,",,,,,
+Chicken Dum Biryani,ProductType,4,"Inventory,Food,Restaurant,Chicken Special,NonVegeterian,",170,,"  chopped chicken,  boiled basmati rice,  garam masala powder, ml ghee, ml water,  beaten yoghurt ,  ginger paste,  garlic paste,salt as required, tablespoon coriander leaves,  red chilli powder,Etc",https://drive.google.com/file/d/1aMXAW3JKiYXAIaH-Te1Bo7fCng7mvWR4/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenDumBiryani.jpg
+Chicken Dum Biryani Full,ProductUnit,5,"Inventory,Food,Restaurant,Chicken Special,NonVegeterian,Chicken Dum Biryani,",170,,"  chopped chicken,  boiled basmati rice,  garam masala powder, ml ghee, ml water,  beaten yoghurt ,  ginger paste,  garlic paste,salt as required, tablespoon coriander leaves,  red chilli powder,Etc",https://drive.google.com/file/d/1VwvQbpzaGuoiVQT42mAEBmQjsu6xqtaN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenDumBiryaniFull.jpg
+Chicken Dum Biryani Half,ProductUnit,6,"Inventory,Food,Restaurant,Chicken Special,NonVegeterian,Chicken Dum Biryani,",100,,"  chopped chicken,  boiled basmati rice,  garam masala powder, ml ghee, ml water,  beaten yoghurt ,  ginger paste,  garlic paste,salt as required, tablespoon coriander leaves,  red chilli powder,Etc",https://drive.google.com/file/d/1hnNHOC1k5WqbtsS5Uqk9eR6GkhCQQUCD/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenFriedRiceFull.jpg
+Tandoori,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://drive.google.com/file/d/17nhbGr829Y_l_Z-p03j8UFugOOXcCVD7/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/Tandoori.jpg
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Tandoori,",,,,,
+Vegeterian,ProductLine,3,"Inventory,Food,Restaurant,Tandoori,",,,,,
+Red CTR,ProductType,4,"Inventory,Food,Restaurant,Tandoori,NonVegeterian,",420,,,,
+Red CTR Full,ProductUnit,5,"Inventory,Food,Restaurant,Tandoori,NonVegeterian,Red CTR,",420,,,,
+Red CTR Half,ProductUnit,6,"Inventory,Food,Restaurant,Tandoori,NonVegeterian,Red CTR,",220,,,,
+White CTR,ProductType,7,"Inventory,Food,Restaurant,Tandoori,NonVegeterian,",420,,,,
+White CTR Full,ProductUnit,8,"Inventory,Food,Restaurant,Tandoori,NonVegeterian,White CTR,",420,,,,
+White CTR Half,ProductUnit,9,"Inventory,Food,Restaurant,Tandoori,NonVegeterian,White CTR,",220,,,,
+Banjara Kabab,ProductType,10,"Inventory,Food,Restaurant,Tandoori,NonVegeterian,",190,,,https://drive.google.com/file/d/1ofKzGdcMzi2VhjLSFx-RWSnv6hLkagAG/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-4/BanjaraKabab.jpg
+Tangadi Kabab,ProductType,11,"Inventory,Food,Restaurant,Tandoori,NonVegeterian,",190,,,https://drive.google.com/file/d/1VSx_7mgI0e_eSW8oqG0gYl22-1GEVYLV/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/TangadiKabab.jpg
+Red Tikka,ProductType,12,"Inventory,Food,Restaurant,Tandoori,NonVegeterian,",180,,,https://drive.google.com/file/d/1PzWBDjR0o8zUe3OqXbLem4NVhQ-xszfs/view?usp=sharing,
+White Tikka,ProductType,13,"Inventory,Food,Restaurant,Tandoori,NonVegeterian,",200,,,https://drive.google.com/file/d/1e6A6Zo0qkNptRZZVvB6DknKdReHHnG36/view?usp=sharing,
+Shawarma,ProductClass,1,"Inventory,Food,Restaurant,",,,"/ c. extra-virgin olive oil
+Juice of  lemon, cloves garlic, minced, . kosher salt, . ground cumin, . ground coriander,/ . freshly ground black pepper,/ . ground turmeric,/ . ground cinnamon,/ . cayenne pepper, lb. boneless skinless chicken, large onion, thinly sliced,Roti.",https://drive.google.com/file/d/1Y54uPsTWjJovVUmdEGjBCx5cggJtSNE8/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/Shawarma.jpg
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Shawarma,",,,,,
+Vegeterian,ProductLine,3,"Inventory,Food,Restaurant,Shawarma,",,,,,
+Chicken Cheese Shawarma,ProductType,4,"Inventory,Food,Restaurant,Shawarma,NonVegeterian,",100,,,https://drive.google.com/file/d/1qPob409ruRVBcIVB37TRXQUWETi3XqmY/view?usp=sharing,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+.,,,,,,,,

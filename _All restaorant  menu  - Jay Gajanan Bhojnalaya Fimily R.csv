@@ -1,0 +1,806 @@
+label,nodeType,order,path,price,Ingredients,link,imageLink,description
+Breakfast,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Breakfast,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Breakfast.jpg,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Breakfast,",,,,,
+Aloo Paratha,ProductType,3,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",40,"for layer 2 bowl flour
+
+2spoon oil
+
+1/4spoon salt water for stuffing
+
+6/7 boiled poteto 1 chopped onion
+
+1 spoon Green chilly , ginger paste
+
+1/2bowl chopped coriander leaves
+
+1/2spoon salt
+
+1 bowl oil or butter for roast",https://drive.google.com/file/d/1-e7xl7ssjjkFNLd1vWJF_Hp9o9FVEZyS/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/AlooParatha.jpg,
+Paneer Paratha,ProductType,4,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",60,"large onion finely chopped 1 nos
+
+ginger garlic paste 1 tsp
+
+green chilly chopped 2 nos
+
+cumin powder 1 tsp
+
+mustard seeds 1 tsp
+
+garam masala 1 tsp
+
+wholewheat flour 2 cups
+
+gram flour 2 tsp
+
+ajwain 1 tsp
+
+chopped coriander 4 tsp
+
+salt 1 1/2 tsp
+
+oil 2 tsp",https://drive.google.com/file/d/1I-rBvyFffhbWe6DuK4DOPx_Y3S66DnHx/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerParatha.jpg,
+Salad,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Salad,",,,,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Salad,",30,"broccoli 250 gms
+
+potatoes 250 gms
+
+peas 250 gms
+
+a litre of water 1/2 nos
+
+large onion 1 nos
+
+large lemons 3 nos
+
+vinegar 1 tbsp",https://drive.google.com/file/d/13f6xLUaMAgsL5WTIgZ5CBWFIUQK4FgBO/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/GreenSalad.jpg,
+Tomato Salad,ProductType,3,"Inventory,Food,Restaurant,Salad,Vegeterian,",30,"Tomato 1
+
+Onion 1
+
+Green chilli 1
+
+Olive oil 1/2 tbs
+
+Salt 2 tbs
+
+Coriander leaves 2 tbs",https://drive.google.com/file/d/1EKvBO-AElsxN9Ct6Vj-N2-ciuqDW7_ro/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/TomatoSalad.jpg,
+Cucumber Salad,ProductType,4,"Inventory,Food,Restaurant,Salad,Vegeterian,",20,"Chopped pineapple 1/2 cups
+
+Chopped ras mango 1/2 cups
+
+Coriander mint chutney 1/4 cups
+
+Finely crushed mint leaves 4 tbsp",https://drive.google.com/file/d/1urPxggPSR02xdA_cmkKcZJzlG-nO_1c6/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/CucumberSalad.jpg,
+Entree,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant7/Entree.jpg,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Entree,",,,,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Entree,",40,"Arhar daal 1/2 cup
+
+Masoor dal 1/2 cup
+
+Turmeric powder 1 teaspoon
+
+Red chili powder 1 teaspoon
+
+Salt 1 teaspoon
+
+Garlic chopped 2 teaspoon
+
+Cumin seeds 1/2 teaspoon
+
+Dry red chilli 3
+
+Oil 1 tablespoon",https://drive.google.com/file/d/15F47fn1YWYicg-vwTEPQZEPW0sAAbQS8/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PlainDal.jpg,
+Jeera Dal,ProductType,3,"Inventory,Food,Restaurant,Entree,Vegeterian,",50,"Masoor Dal 1/2 cups
+
+Tuwar Dal 1/2 cups
+
+Dry Red Chilli 4 nos
+
+turmeric powder 1 tbsp
+
+Asafoetida 1/2 tbsp
+
+Cumin Seeds 1 tbsp
+
+green chilli 1 nos
+
+Coriander leaves 1 sprig
+
+Garlic chopped 1 tbsp
+
+Ghee 2 tbsp
+
+Salt as per taste 1 tsp",https://drive.google.com/file/d/1EJ7aQXFCzNGyeOGe3YgKlynwaIM20zh1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/JeeraDal.jpg,
+Dal Fry,ProductType,4,"Inventory,Food,Restaurant,Entree,Vegeterian,",60,"3/4 cup moong dal
+
+1/4 cup masoor dal
+
+3 dry red chilies
+
+4 garlic cloves finely minced
+
+3 garlic cloves peeled and lightly smashed
+
+1 bay leaf
+
+1 onion sliced vertically
+
+1 tsp mustard seeds
+
+1 tsp cumin seeds
+
+1/8 tsp hing",https://drive.google.com/file/d/1K8tvnEHHFvnC05dq2Qx-p-dJ1RZDhOaK/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/DalFry.jpg,
+Dal Tadka,ProductType,5,"Inventory,Food,Restaurant,Entree,Vegeterian,",80,"masoor Dal 1/4 cups
+
+arhar Dal 1/2 cups
+
+yellow moong Dal 1/4 cups
+
+For tadka : cloves garlic 4-5 nos
+
+tomatoes chopped (without skin) or grated 2 nos
+
+Green chilies 2-3 nos
+
+Dry Red chilies 3-4 nos
+
+haldi 1 tsp
+
+jeera 1 tsp
+
+red chili powder 1 tsp
+
+garam masala powder 1/2 tsp",https://drive.google.com/file/d/14RUwq8nVglapT24psGzGu5oLTx-UOZB7/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/DalTadka.jpg,
+Dal Tamatar,ProductType,6,"Inventory,Food,Restaurant,Entree,Vegeterian,",70,,https://drive.google.com/file/d/1q-Oke0UIpyjOP0hrz8YhQ_qkq4-bmgI5/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/DalTamatar.jpg,
+Dal Kolhapuri,ProductType,7,"Inventory,Food,Restaurant,Entree,Vegeterian,",70,"cashews 6-7 nos
+
+cloves 2-3 nos
+
+small piece of cinnamon 1 nos
+
+pieces of cardamom 2 nos
+
+jeera( cumin seeds) 1 tsp
+
+cloves of garlic 4 nos
+
+onions 2 nos
+
+tomatoes 2 nos
+
+chopped capsicum 1 bowls",https://drive.google.com/file/d/1xrOq7mnzkFDeljYtoKkbDC4HMKFbZsJH/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/DalKolhapuri.jpg,
+Gobi Tamatar,ProductType,8,"Inventory,Food,Restaurant,Entree,Vegeterian,",80,"1/2 kg cauliflower florets
+
+1 potato chopped
+
+1 tomato chopped
+
+1 tsp mustard seed
+
+1 tsp red chilli powder
+
+1 tsp salt
+
+1/2 tsp turmeric powder
+
+1 tsp ginger grated",https://drive.google.com/file/d/1Em_aF4xavJzWVC2ZyDSKrKWuNbIixEY5/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/GobiTamatar.jpg,
+Gobi Masala,ProductType,9,"Inventory,Food,Restaurant,Entree,Vegeterian,",70,"Gobi 1 kgs
+
+Chopped Onion 2 nos
+
+Ginger Garlic paste 1 tsp
+
+Curd 2-3 tsp
+
+Garam Masala 1/2 tsp
+
+Coriander Powder 1 tsp
+
+Cumin Powder 1 tsp
+
+Bay Leaf 1 nos
+
+Shahi jeera 1/2 nos",https://drive.google.com/file/d/1COWKM46hafRmzQy4uTTfPIXcAvZaZF7a/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/GobiMasala.jpg,
+Gobi Fry,ProductType,10,"Inventory,Food,Restaurant,Entree,Vegeterian,",80,,https://drive.google.com/file/d/1XcR_gsFCjC0N6IvJbkeEYDLtxxfOeHc_/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/GobiFry.jpg,
+Kadi,ProductType,11,"Inventory,Food,Restaurant,Entree,Vegeterian,",60,,https://drive.google.com/file/d/1BkmvNoYybZxEc_uODqj2-ZOVJ2_TpDRB/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Kadi.png,
+Shev Bhaji,ProductType,12,"Inventory,Food,Restaurant,Entree,Vegeterian,",70,"2 cup thick masala sev
+
+1 onion roasted
+
+1 tomato chopped
+
+1 tsp Coriander
+
+1 tsp ginger garlic paste
+
+1 tsp garam masala
+
+1 tsp haldi
+
+2 tsp mirch
+
+1 tsp rai",https://drive.google.com/file/d/1-Iprfeqrb2krX2hW7Gw6pEN_1vSRJ4yX/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Shev-Bhaji.jpg,
+Shev Tamatar,ProductType,13,"Inventory,Food,Restaurant,Entree,Vegeterian,",70,,https://drive.google.com/file/d/1EXbKjYpve4q-m6lmhejlvYd1coE4uQ2z/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Shev-Tamatar.jpg,
+Mushroom Masala,ProductType,14,"Inventory,Food,Restaurant,Entree,Vegeterian,",100,"250 grams button mushrooms (sliced)
+
+1 large onion finely chopped
+
+1 tomato
+
+1 tsp green chilly paste
+
+1 tsp ginger garlic paste
+
+1 tsp garam masala powder
+
+1/2 tsp turmeric powder
+
+1 tsp kashmiri red chilly powder",https://drive.google.com/file/d/1lxiJ7KE2cIt_oraf27eM76_VxZCeFywA/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/MushroomMasala.jpg,
+Mushroom Vharadi,ProductType,15,"Inventory,Food,Restaurant,Entree,Vegeterian,",90,,https://drive.google.com/file/d/1tF_NoKvKqwnnjtjn9p26B5CaZCy8j8a8/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/MushroomVharadi.jpg,
+Kaju Curry,ProductType,16,"Inventory,Food,Restaurant,Entree,Vegeterian,",100,"1 tbsp ghee / clarified butter
+
+2/3 rd cup cashew / kaju, whole
+
+2 tsp oil
+
+1 tsp jeera / cumin
+
+1 inch cinnamon stick
+
+½ onion, finely chopped
+
+½ tsp turmeric / haldi
+
+1 tsp kashmiri red chilli powder / lal mirch powder",https://drive.google.com/file/d/1gC6vM-RK8u99OSMQLKktR7ByUm1Jnk6W/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/KajuCurry.jpg,
+Kaju Vharadi,ProductType,17,"Inventory,Food,Restaurant,Entree,Vegeterian,",90,,https://drive.google.com/file/d/1QxIFB8BgUrSj8qP9mvg9t50x5w46Zmza/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/KajuVharadi.jpg,
+Kaju Masala,ProductType,18,"Inventory,Food,Restaurant,Entree,Vegeterian,",100,"maida 1 cups
+
+rava 2 tbsp
+
+wheat flour 2 tbsp
+
+oil 1/4 cups
+
+Jeera,ajwain and salt 1 tsp
+
+Oil for frying 2 cups
+
+Masala : Chaat masala 1/2 tsp
+
+Amchur pwd 1/2 tsp
+
+Black salt 1/2 tsp",https://drive.google.com/file/d/1jk05_NhTywUDWFYjKrbLV45fLqWAkGm0/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/KajuMasala.jpg,
+Paneer Masala,ProductType,19,"Inventory,Food,Restaurant,Entree,Vegeterian,",110,"Paneer 250 gms
+
+onion 2 nos
+
+green chillies 3 nos
+
+Ginger Garlic Paste 1 tsp
+
+tomato 1 nos
+
+Chilly Powder 1 tsp
+
+Garam Masala Powder 1 tsp
+
+Coriander Powder 1 tsp
+
+Coriander Leaves 2 nos
+
+Curry Leaves 2 nos",https://drive.google.com/file/d/1qYwzOkLWokms8zuBp2TCUDb8DJfV9w2S/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerMasala.jpg,
+Paneer Vharadi,ProductType,20,"Inventory,Food,Restaurant,Entree,Vegeterian,",90,,https://drive.google.com/file/d/1eekM2OPbGyXTADfpoPZ1vkGu638miDT6/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/PaneerVharadi.jpg,
+Paneer Tikka Masala,ProductType,21,"Inventory,Food,Restaurant,Entree,Vegeterian,",120,"200 grams paneer
+
+2 capsicums
+
+4 onions
+
+4 tomatoes
+
+4 tbsp oil
+
+2 tbsp butter
+
+2 tbsp cream
+
+1 tbsp sugar
+
+2 bay leaves
+
+8-10 garlic pods
+
+1 inch ginger piece
+
+1 tsp white sesame seeds
+
+1 tsp khus khus",https://drive.google.com/file/d/1BmyxNFwPwf7zpalxZOSRuGMcKOWv1EoQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerTikkaMasala.jpg,
+Paneer Bhurji,ProductType,22,"Inventory,Food,Restaurant,Entree,Vegeterian,",140,"panner 100 gms
+
+Finely Chopped Onion 3 nos
+
+Poppy Seed 1 tsp
+
+Haldi 1 tsp
+
+mirch powder 2 tsp
+
+dried red chillies 2 nos
+
+sugar 1 pinch",https://drive.google.com/file/d/1LZZA3_svXkXtLnQWAZxfqenp_2-30QI-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/PaneerBhurji.jpg,
+Paneer Bhurji Curry,ProductType,23,"Inventory,Food,Restaurant,Entree,Vegeterian,",120,"Crumbled Paneer - 1 cup
+
+Chopped onion - 1
+
+Chopped green chillies - 2
+
+Chopped tomatoes - 1
+
+Ginger garlic paste - 1 tsp
+
+Turmeric powder - 1/2 tsp
+
+Chilly powder - 1/2 tsp
+
+Jeera powder - 1 tsp
+
+Coriander powder - 1 tsp
+
+Yoghurt - 3 tbsp
+
+Garam masala powder - 1/4 th tsp",https://drive.google.com/file/d/1StioZG2UmH51Sjli5ETMu1HGn-RZqjfM/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerBhurjiCurry.jpg,
+Matar Paneer,ProductType,24,"Inventory,Food,Restaurant,Entree,Vegeterian,",110,"2 onion
+
+3 tomato
+
+Green chili 2
+
+1 inch ginger
+
+Red chili pwdr 2tsp
+
+Coriander pwdr 1tsp
+
+Turmeric pwdr 1tsp
+
+Grm masala 1 tsp
+
+Bey leves 2
+
+Mater 50 gm paneer 250 gm",https://drive.google.com/file/d/1_gYUesBF6YyPzI8vG1nbkF38qzcdeCwQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MatarPaneer.jpg,
+Kaju Paneer Mix,ProductType,25,"Inventory,Food,Restaurant,Entree,Vegeterian,",140,"250gms Paneer
+
+15 Cashews
+
+1 Large Onion
+
+2Medium Tomatoes' Puree
+
+1tbsp Cumin
+
+3 Green Chillies
+
+1 bay leaf
+
+3cloves
+
+3cardamom
+
+1tbsp Red Chilli Powder
+
+1tbsp Coriander Powder
+
+1tbsp Cumin Powder",https://drive.google.com/file/d/1UBbYotHM67xESTCCH169VwrjuKVf1SYp/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/KajuPaneerMix.jpg,
+Paneer Mushroom Mix,ProductType,26,"Inventory,Food,Restaurant,Entree,Vegeterian,",140,"Mushroom 10-15
+
+Paneer 250 gm
+
+Capsicum 1
+
+Onion 1
+
+Salt 1 teaspoon
+
+Red chilly powder 1/2 teaspoon
+
+Tomato 1
+
+Black pepper 1/2 teaspoon
+
+Soya sauce 1 teaspoon",https://drive.google.com/file/d/1OAsjq3f95hBjyv-SVlThYCooqGMWklML/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerMushroomMix.jpg,
+Aloo Gobi,ProductType,27,"Inventory,Food,Restaurant,Entree,Vegeterian,",80,"1/2 kg cauliflower florets
+
+1 potato chopped
+
+1 tomato chopped
+
+1 tsp mustard seed
+
+1 tsp red chilli powder
+
+1 tsp salt
+
+1/2 tsp turmeric powder
+
+1 tsp ginger grated",https://drive.google.com/file/d/1Uuw5SMoYhoRvHYS3NhDOTKkhMNUrcQyW/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/AlooGobi.jpg,
+Mix Veg,ProductType,28,"Inventory,Food,Restaurant,Entree,Vegeterian,",90,"1 Cauliflower
+
+2 Potatoes
+
+4Pointed Grouds
+
+1 Carrot
+
+1 Raddish
+
+1 Campsicum
+
+1 Brinjal
+
+20 French Beans",https://drive.google.com/file/d/1ck00uoIiKEXjtfN1K8Zx7xfA2Dsc5VeU/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/MixVeg.jpg,
+Veg Kolhapuri,ProductType,29,"Inventory,Food,Restaurant,Entree,Vegeterian,",80,"dry grated Coconut 1/2 cups
+
+onion 2 nos
+
+Tomatoes finely chopped 3 nos
+
+ginger garlic paste 1 tbsp
+
+Coriander seeds 1 tsp
+
+Whole garammasala: Cardamom 2 nos
+
+cloves 2-3 nos
+
+cinnamon 1 tsp
+
+shahi jeera 1 tsp
+
+star anise 1 nos
+
+black peppers 4-5 nos",https://drive.google.com/file/d/1m1uzUXSxt9B7c1QZzLM8f5Xkfl5SnP3e/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegKolhapuri.jpg,
+Matki Fry,ProductType,30,"Inventory,Food,Restaurant,Entree,Vegeterian,",60,"rice 1.5 cups
+
+onion sliced 1 nos
+
+tomato chopped 1 nos
+
+chopped coriander 3 tsp
+
+salt 1 tsp
+
+red chilly powder 1 tsp
+
+haldi 1/4 tsp
+
+oil 1 tbsp
+
+sprouted matki 1 cups",https://drive.google.com/file/d/1wRz1Wq71HsdPwf6VK_T6eNbhILB5XxLr/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/MatkiFry.jpg,
+Matki Masala,ProductType,31,"Inventory,Food,Restaurant,Entree,Vegeterian,",70,"150 gram sprouted matki
+
+1 onion finely chopped
+
+1 tomato chopped
+
+1 tsp ginger garlic paste
+
+1 /2 tsp turmeric powder
+
+1 tsp red chilly powder
+
+1 tsp mustard seeds
+
+1 tsp salt
+
+1 tbsp oil",https://drive.google.com/file/d/1Rkde83_ZidHQIBT5A9z34-kzUFm4EJNb/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MatkiMasala.jpg,
+Matki Curry,ProductType,32,"Inventory,Food,Restaurant,Entree,Vegeterian,",70,,https://drive.google.com/file/d/1i5Lw28OhNUHOa1bnpCkGCZicoSE3_Mjk/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MatkiCurry.jpg,
+Matki Vharadi,ProductType,33,"Inventory,Food,Restaurant,Entree,Vegeterian,",70,"150 gram sprouted matki
+
+1 onion finely chopped
+
+1 tomato chopped
+
+1 tsp ginger garlic paste
+
+1 /2 tsp turmeric powder
+
+1 tsp red chilly powder
+
+1 tsp mustard seeds
+
+1 tsp salt",https://drive.google.com/file/d/1HROq56jZoIxoA7akPnLk6O5y9HhlVqjC/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MatkiVharadi.jpg,
+Baigan Masala,ProductType,34,"Inventory,Food,Restaurant,Entree,Vegeterian,",80,"baigan 500 gms
+
+onion 2 nos
+
+tomato 2 nos
+
+garlic 5 nos
+
+ginger 1 tsp
+
+coriander powder 3 tsp
+
+red chilli powder 1/2 tsp
+
+Garam masala 1/2 tsp
+
+haldi 1/2 tsp
+
+amchur powder 1/2 tsp",https://drive.google.com/file/d/1r4aTUAlIRkkqBI_OnVLcGAK3JW2VF6rk/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/baiganmasala.jpg,
+Baigan Vharadi,ProductType,35,"Inventory,Food,Restaurant,Entree,Vegeterian,",70,,https://drive.google.com/file/d/15YYSUBWU8LjloH3gZE03s03-3bY37NEV/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/BaiganVharadi.jpg,
+Baigan Bharta,ProductType,36,"Inventory,Food,Restaurant,Entree,Vegeterian,",90,"1 big size roasted Baigan
+
+1big size chopped tomato
+
+2-3Green Chili fine chopped
+
+1small tablespoon turmeric powder
+
+1small tablespoon red chili powder
+
+1 tablespoon coriander powder
+
+1 small tablespoon amchur powder
+
+11/2teaspoon salt",https://drive.google.com/file/d/1KDfimDOmvKJT-0PplaK058AVtionrKCa/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/BaiganBharta.jpg,
+Tamatar Chutney,ProductType,37,"Inventory,Food,Restaurant,Entree,Vegeterian,",70,"Tomato 4
+
+Green chilli 6
+
+Coriander leaves 1 cup
+
+Cumin seeds 1 tsp
+
+Salt 1/2 tsp
+
+Garlic 2-3",https://drive.google.com/file/d/1PqQgvG6Nb8YrNOFheDMljEWjaYrxTZ7m/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Tamatar-Chutney.jpg,
+Tamatar Vharadi,ProductType,38,"Inventory,Food,Restaurant,Entree,Vegeterian,",60,,,,
+Bhendi Fry,ProductType,39,"Inventory,Food,Restaurant,Entree,Vegeterian,",80,"250gm bhendi
+
+2 tsp besan
+
+1 tsp turmeric powder
+
+1 tsp chilli powder
+
+1 tsp dry Mango powder
+
+1 tsp Salt
+
+1 tsp jeera powder
+
+1 tsp coriander powder
+
+2 tsp oil
+
+1 small onion
+
+3 tsp dry coconut grated",https://drive.google.com/file/d/1JuaS9-HeNYDddzgv255-ILPSG56AoNGt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/BhendiFry.jpg,
+Bhendi Masala,ProductType,40,"Inventory,Food,Restaurant,Entree,Vegeterian,",70,,https://drive.google.com/file/d/19fqIuFOUUhUgkG8ydZ2ZF_cSaIi2c7DT/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/BhendiMasala.jpg,
+Aloo Bharta,ProductType,41,"Inventory,Food,Restaurant,Entree,Vegeterian,",70,,https://drive.google.com/file/d/1u9TqT2P7ElRA0tbM9P3HICgoq4aLQsa_/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/AlooBharta.jpg,
+Aloo Jeera,ProductType,42,"Inventory,Food,Restaurant,Entree,Vegeterian,",60,"2 tsp cumin seeds (jeera)
+
+2 3/4 cups potato cubes
+
+3 tbsp oil
+
+2 tsp green chilli paste
+
+1/4 tsp turmeric powder (haldi) , optional
+
+1 1/2 tsp lemon juice
+
+salt to taste
+
+2 tbsp finely chopped coriander (dhania)",https://drive.google.com/file/d/1THYyiuCKuYuJ9nypldTM9ak7Xm86NTfr/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/AlooJeera.jpg,
+Aloo Vharadi,ProductType,43,"Inventory,Food,Restaurant,Entree,Vegeterian,",60,,https://drive.google.com/file/d/1YD3IEoG8Xp1n3OEzkchD86rZ-EkEmeZi/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/AlooVharadi.jpg,
+Chana Masala,ProductType,44,"Inventory,Food,Restaurant,Entree,Vegeterian,",70,"Chole/white chickpea soaked overnight 1 cups
+
+oil 4 tbsp
+
+bay leaf 3 nos
+
+cinnamon stick 1 inch
+
+cumin seeds 1/2 tsp
+
+asafoetidia /hing 1 pinch
+
+kashmiri chilli powder 1 tbsp
+
+turmeric powder 1/2 tsp
+
+coriander powder 1 tsp
+
+red chilli powder 1/2 tsp
+
+aamchur powder/dry-mango powder 1 tsp",https://drive.google.com/file/d/1nZdItXvChE8U5tIvcRPEw-xj1k3IGUsu/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/ChanaMasala.jpg,
+Soyabean Masala,ProductType,45,"Inventory,Food,Restaurant,Entree,Vegeterian,",70,,https://drive.google.com/file/d/1XJaHLE_WmdYQz2tocg2xXzmrZfS11UJo/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Soyabean-Masala.jpg,
+Soyabean Vharadi,ProductType,46,"Inventory,Food,Restaurant,Entree,Vegeterian,",70,,,,
+Besan,ProductType,47,"Inventory,Food,Restaurant,Entree,Vegeterian,",60,,,,
+Special Thali,ProductType,48,"Inventory,Food,Restaurant,Entree,Vegeterian,",140,,https://drive.google.com/file/d/1ThRXYcXkRFqww4BJjcz-W3Jf9UplZfE/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Super-Deluxe-Thali.jpg,
+Thali,ProductType,49,"Inventory,Food,Restaurant,Entree,Vegeterian,",100,,https://drive.google.com/file/d/1Rs5v4DRUvAdsRfH-z7nFDoW_hWgSu_fQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Thali.jpg,
+Rice Plate,ProductType,50,"Inventory,Food,Restaurant,Entree,Vegeterian,",80,,https://drive.google.com/file/d/1_-wWJdEL94jVuCLPhGvfSFP7BOs22wcQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Rice-Plate.jpg,
+Rice,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Rice.jpg,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Rice,",,,,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Rice,",50,"2 cups long grain rice
+
+3 1/2 cups water
+
+1 1/2 teaspoons butter or oil
+
+1/4 teaspoon salt",https://drive.google.com/file/d/18J_mJa06XUs-QW11tFlny9iB4N4MgBaj/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Plain-Rice.jpg,
+Jeera Rice,ProductType,3,"Inventory,Food,Restaurant,Rice,Vegeterian,",70,"1 bay leaf
+
+2-3 cloves
+
+2-3 green cardamom
+
+1 big cardamom
+
+2-3 green chili
+
+1 and half tbsp salt
+
+2 tbsp chopped coriander leaves
+
+2 cup rice
+
+2 tbsp ghee
+
+1 cinamom stick",https://drive.google.com/file/d/1-GF04qtXF6mVP48_0ek2Qj07ZNbdnEES/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/JeeraRice.jpg,
+Veg Pulao,ProductType,4,"Inventory,Food,Restaurant,Rice,Vegeterian,",80," 5 cup Cabbage
+
+2 small onions
+
+. 5 cup of capcicum
+
+. 5 cup of soya chunks
+
+2 small carrots
+
+. 5 spoon of garam masala
+
+1 spoon of ginger garlic paste
+
+2 spoon of jeera seeds
+
+3 spoons of salt
+
+1 spoon of ghee
+
+. 5 cup of oil
+
+. 5 cup of peas",https://drive.google.com/file/d/1Q9y5vfasmuYAjDTQOc6uFluyeWQ-5t2O/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegPulao.jpg,
+Paneer Pulao,ProductType,5,"Inventory,Food,Restaurant,Rice,Vegeterian,",90,"Rice (India gate tukda basmati)200 grams
+
+Onion 1 finely chopped
+
+Oil 2 tbsp
+
+Bay leaf 1
+
+Paneer cubes of 200 grams paneer
+
+Tomato puree of 1 tomato
+
+Salt 1 tsp or as per taste
+
+Turmeric powder 1/2 tsp
+
+Ghee 1 tbsp
+
+Red chilli powder as preffered or 1 tsp",https://drive.google.com/file/d/1BMu_LvVdCx-vcZYzgrHSj26qNmwKp4oM/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerPulao.jpg,
+Veg Biryani,ProductType,6,"Inventory,Food,Restaurant,Rice,Vegeterian,",60,"Long grain rice (basmati rice)-1cup
+
+Cloves-4nos
+
+Peppercorns-4nos
+
+Cinnamon stick- 1/2inch
+
+Bay leaves -2nos
+
+Red onions-2nos
+
+French Beans -25gms
+
+Carrots-25gms
+
+Capsicum-1no
+
+Potato-1no
+
+Cauliflower-25gms
+
+Green peas -25gms",https://drive.google.com/file/d/1jR3STBQoAfkKOHnvdjdNXjOE5ZqtJexz/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Biryani.jpg,
+Masala Rice,ProductType,7,"Inventory,Food,Restaurant,Rice,Vegeterian,",60,"Boiled rice 1 cup
+
+Salt 1 teaspoon
+
+Red chilly powder 1/2 teaspoon
+
+Onion 1
+
+Beans 10-12
+
+Boiled potatoes 3-4
+
+Carrot 1",https://drive.google.com/file/d/1f42W8I8vF2MKOR1_NEpVKeDqUYYxbwXH/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MasalaRice.jpg,
+Masala Khichdi,ProductType,8,"Inventory,Food,Restaurant,Rice,Vegeterian,",60,"1 cup yellow moong daal
+
+1 cup rice
+
+4 tbsp desi ghee
+
+1 dry red chilli
+
+2 tsp salt
+
+1 tsp cumin seeds,
+
+1 pinch asafoetida
+
+1 pinch red chilli powder",https://drive.google.com/file/d/1V8pug1K0wFXz_Og1db1jVV_PkJjVlQ5i/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MasalaKhichdi.jpg,
+Namdev Rice,ProductType,9,"Inventory,Food,Restaurant,Rice,Vegeterian,",60,,https://drive.google.com/file/d/1egVyzEE337E6PALyhgpLuHqJ0uV5nMyK/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/NamdevRice.jpg,
+Dal Khichdi,ProductType,10,"Inventory,Food,Restaurant,Rice,Vegeterian,",70,"1/2 cup chana dal
+
+1/2 cup dhuli moong dal
+
+1/2 cup arhar dal
+
+1/2 cup rice
+
+1 tsp chopped ginger
+
+1/2 tsp jeera
+
+1 pinch hing
+
+1.5 tsp salt
+
+1 tsp mirch powder
+
+1/2 tsp haldi",https://drive.google.com/file/d/1eYgIjQw-U3ZGT8GEPhcg9KZJWnc7BvLu/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/DalKhichdi.jpg,
+Bread,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Bread.jpg,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Bread,",,,,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Bread,",7,"Wheat Flour 2 cups
+
+Nova Ghee 1 tsp
+
+Salt 1 tsp
+
+Water to knead dough 2 cups",https://drive.google.com/file/d/1BCZG8M0F-__45K4lUhTp357cF_FXpX8k/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Chapati.jpg,
+Butter Chapati,ProductType,3,"Inventory,Food,Restaurant,Bread,Vegeterian,",12,,https://drive.google.com/file/d/1caizJDjMx1SJWxFLCQo3mIbbJRJ5ynbR/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ButterChapati.jpg.crdownload.jpg,
+Tawa Paratha,ProductType,4,"Inventory,Food,Restaurant,Bread,Vegeterian,",20,,https://drive.google.com/file/d/1DQttnw4E0B135CpE7ob4PI36UI9fYDDm/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/TawaParatha.jpg,
+Butter Paratha,ProductType,5,"Inventory,Food,Restaurant,Bread,Vegeterian,",22,,https://drive.google.com/file/d/1ZNQWvoY4RDYiK-1VB7agePGOh6Lb0xHz/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/ButterParatha.jpg,
+Roasted,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/imgs-2/ChillyCheeseroast.jpg,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Roasted,",,,,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Roasted,",10,,https://drive.google.com/file/d/1DRmj-yoGkysLNLLM1wJOzO9piiVI65EZ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/RoastPapad.jpg,
+Roast Papad Masala,ProductType,3,"Inventory,Food,Restaurant,Roasted,Vegeterian,",15,,https://drive.google.com/file/d/1N_Gib5-CNYgYdLBFHminlae2h2QdfzWs/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Roast-Papad-Masala.jpg,
+Papad Fry,ProductType,4,"Inventory,Food,Restaurant,Roasted,Vegeterian,",10,,https://drive.google.com/file/d/1lE07mHQVNB17VrRnb3RKdTBi3gmcji6_/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PapadFry.jpeg,
+Papad Fry Masala,ProductType,5,"Inventory,Food,Restaurant,Roasted,Vegeterian,",20,,https://drive.google.com/file/d/1j8PscqbTNc_iiRFrRE28UbmDdf2X9x-I/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Papad-Fry-Masala.jpg,
+Desserts,ProductLine,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Desserts.jpg,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Desserts,",,,,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Desserts,",20,,https://drive.google.com/file/d/1cDaTlkyLkA1iMlI4hkZciLjKGnzykteF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/Dahi.jpg,
+Gulab Jamun,ProductType,3,"Inventory,Food,Restaurant,Desserts,Vegeterian,",20,"NOVA Super milk powder 1 cups
+
+APF 1/4 cups
+
+Egg 1 nos
+
+Sooji 1 tsp
+
+Baking Powder 1 tsp
+
+Oil to Fry 1 cups
+
+For syrup :sugar 2 cups
+
+Water 2 cups
+
+Cardamom powder 1/4 tsp",https://drive.google.com/file/d/1TbtnkGTLMpu0NDPKRVb7_KyhTDD652nr/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/GulabJamun.jpg,
+Mattha,ProductType,4,"Inventory,Food,Restaurant,Desserts,Vegeterian,",15,,,,

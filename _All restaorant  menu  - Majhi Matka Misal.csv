@@ -1,0 +1,54 @@
+label,nodeType,order,path,price,description,Ingredients,link,imageLink
+Misal,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://drive.google.com/file/d/1RyjwO6FBYXBixcSbWGrcYRZNgpk5s3i8/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Misal.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Misal,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Misal,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg
+Sadhi Misal,ProductType,4,"Inventory,Food,Restaurant,Misal,Vegeterian,",90,,"  mixed sprouts, potato boiled, onion, tomato chopped,
+  mustard,  oil,  haldi,  red chilli powder,
+  garam masala,  mustard",https://drive.google.com/file/d/1GKC7Uoz6EkTrjTGaHEOVinbaIakxXe_l/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220907/SadhiMisal.jpg
+Special Matka Misal,ProductType,5,"Inventory,Food,Restaurant,Misal,Vegeterian,",100,,,https://drive.google.com/file/d/1evPG0evnK26MlTGZaf8wDah2sZWhmpNg/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220907/SpecialMatkaMisal.jpg
+Dahi Misal,ProductType,6,"Inventory,Food,Restaurant,Misal,Vegeterian,",110,,"  mixed sprouts, potato boiled, onion,
+ tomato chopped,  mustard,  oil,
+  haldi",https://drive.google.com/file/d/1EVOvE6Fgp8fCcDYYUT9HDoZ2t_E44iCR/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/DahiMisal.jpg
+Gupchup Misal,ProductType,7,"Inventory,Food,Restaurant,Misal,Vegeterian,",110,,"  mixed sprouts, potato boiled, onion,
+ tomato chopped,  mustard,  oil,  haldi,
+  red chilli powder,  garam masala,  mustard",,
+Vada Misal,ProductType,8,"Inventory,Food,Restaurant,Misal,Vegeterian,",120,,"  mixed sprouts, potato boiled, onion, tomato chopped,
+  mustard,  oil,  haldi,  red chilli powder,
+  garam masala",https://drive.google.com/file/d/1V0TzCJ-_xhyfOoTPH3HVOREQdvvoti3t/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220907/VadaMisal.jpg
+Misal Bhakri,ProductType,9,"Inventory,Food,Restaurant,Misal,Vegeterian,",120,,"  mixed sprouts, potato boiled, onion,
+ tomato chopped,  mustard,  oil,  haldi,
+  red chilli powder,  garam masala,
+  mustard",https://drive.google.com/file/d/1RxbbQNFFu4weXEdiBz33vYlNdLPXKixL/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220907/MisalBhakri.jpg
+Namo Special Misal,ProductType,10,"Inventory,Food,Restaurant,Misal,Vegeterian,",140,,"  mixed sprouts, potato boiled, onion,
+ tomato chopped,  mustard,  oil,
+  haldi,  red chilli powder,  garam masala,  mustard",,
+Misal Dahi Bhakri,ProductType,11,"Inventory,Food,Restaurant,Misal,Vegeterian,",140,,"  mixed sprouts, potato boiled, onion,
+ tomato chopped,  mustard,  oil,  haldi,  red chilli powder,
+  garam masala,  mustard",,
+Misal Vada Bhakri,ProductType,12,"Inventory,Food,Restaurant,Misal,Vegeterian,",140,,"  mixed sprouts, potato boiled, onion,
+ tomato chopped,  mustard,  oil,  haldi,
+  red chilli powder,  garam masala,  mustard",,
+Extra,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://drive.google.com/file/d/11s_IyKvdviDrKYTI7uuv3CRr4noeUzSn/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220224/Extra.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Extra,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Extra,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg
+Pav,ProductType,4,"Inventory,Food,Restaurant,Extra,Vegeterian,",5,,,https://drive.google.com/file/d/1c8R40rdT2aLvi6tw2ybKbt8FpFfSLyzf/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food240522/Pav.jpg
+Dahi Vati,ProductType,5,"Inventory,Food,Restaurant,Extra,Vegeterian,",15,,,https://drive.google.com/file/d/1GVikCWOFOI_L3jOJ5DdAT-uVf3HIgX6s/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/DahiVati.jpg
+Farsan,ProductType,6,"Inventory,Food,Restaurant,Extra,Vegeterian,",15,,, ,
+Papad,ProductType,7,"Inventory,Food,Restaurant,Extra,Vegeterian,",15,,"Raw rice ,Ginger,green chilly,
+ajwan seeds ,  Salt to taste",https://drive.google.com/file/d/16hT2z2acPZOT8kC3lLy6aGyloDfdTzJO/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Papad.jpg
+Jelabi single,ProductType,8,"Inventory,Food,Restaurant,Extra,Vegeterian,",15,,,https://drive.google.com/file/d/1A_YgJn4QR6jOcDTz556VbehcksmdGKZC/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220907/Jelabisingle.jpg
+Bhakri,ProductType,9,"Inventory,Food,Restaurant,Extra,Vegeterian,",30,,,https://drive.google.com/file/d/1O4dKHty1zRDPS-v-HHW8vIZiA1VS1d1Y/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/foodinventoryimages1112062022/Bhakri.jpg
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,;.,
+1,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,                  ,,,,,
+,,, ,,,,,
