@@ -1,0 +1,205 @@
+label,nodeType,order,path,price,description,ingredients,link,imageLink
+Snacks,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/img/Smiley.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Snacks,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Snacks,",,,,,
+Pav Bhaji,ProductType,4,"Inventory,Food,Restaurant,Snacks,Vegeterian,",65,,"  Oil,  Butter,/ cup Garlic chopped,
+Green Chilly  chopped,Onion  cup chopped,
+to taste Salt or  ,Tricolor Bell pepper  cup chopped,
+ cup Cauliflower florets, cup Carrot chopped,
+Peas  cup(I have used frozen),  Turmeric",https://drive.google.com/file/d/1k_uUCECpwnv5CmChzGwV97KAx-OjujZx/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/PavBhaji.jpg
+Butter Pav Bhaji,ProductType,5,"Inventory,Food,Restaurant,Snacks,Vegeterian,",75,,"  Oil,  Butter,/ cup Garlic chopped,
+Green Chilly  chopped,Onion  cup chopped,
+to taste Salt or  ,Tricolor Bell pepper  cup chopped,
+ cup Cauliflower florets, cup Carrot chopped,
+Peas  cup(I have used frozen),  Turmeric,Butter.",https://drive.google.com/file/d/1N-maGiocBLWQslkOppBkMkUIx3Hmp7ON/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/ButterPavBhaji.jpg
+Khadi Pav Bhaji,ProductType,6,"Inventory,Food,Restaurant,Snacks,Vegeterian,",80,,,https://drive.google.com/file/d/1zyPG9lvEB35DdVX33-3wg0a5DxWnR-9y/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/KhadiPavBhaji.jpeg
+Special Bhaji,ProductType,7,"Inventory,Food,Restaurant,Snacks,Vegeterian,",60,,,https://drive.google.com/file/d/1HiHl9NWsNLpy-feJv7PIMBQE_mUkeyB0/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/SpecialBhaji.jpg
+Butter Pav Jodi,ProductType,8,"Inventory,Food,Restaurant,Snacks,Vegeterian,",15,,,https://drive.google.com/file/d/1btBY0JB_VCo2cIjytYEqyHYASh_zAAMV/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ButterPavJodi.jpg
+Lasun Pav Jodi,ProductType,9,"Inventory,Food,Restaurant,Snacks,Vegeterian,",25,,,,
+Masala Pav Jodi,ProductType,10,"Inventory,Food,Restaurant,Snacks,Vegeterian,",25,,"½ cup vegetable oil, teaspoons chopped garlic, teaspoon finely chopped green chile peppers, cup chopped onions, teaspoons grated fresh ginger, cup chopped roma (plum) tomatoes, cups cauliflower, finely chopped, cup chopped cabbage, cup green peas, cup grated carrots, potatoes, boiled and mashed, tablespoons pav bhaji masala,salt to taste, tablespoon lemon juice, tablespoon finely chopped green chile peppers,cube Cheese,etc",https://drive.google.com/file/d/1RfrC9hIqgjs8WxSPpWup3Q4Ux1-iWI71/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/MasalaPavJodi.jpg
+Special Bhel,ProductType,11,"Inventory,Food,Restaurant,Snacks,Vegeterian,",40,,,https://drive.google.com/file/d/1V6u2b1ymDWORoN6moMzYhp09VJBuQJes/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220306/SpecialBhel.jpg
+Pani Puri,ProductType,12,"Inventory,Food,Restaurant,Snacks,Vegeterian,",40,,"Crisp Puffed Puri,Potato,Mint Water, Sweet Water,etc",https://drive.google.com/file/d/11eeXwN7YjS_AfF3yaxjo0P7NccaXXQ8v/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Panipuri.jpg
+Rice,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Rice.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Rice,",,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Rice,",,,,,
+Veg Pulao Rice,ProductType,4,"Inventory,Food,Restaurant,Rice,Vegeterian,",70,," cup Cabbage, small onions, cup of capcicum, cup of soya chunks, small carrots, spoon of garam masala, spoon of ginger garlic paste, spoon of jeeraseeds, spoons of salt, spoon of ghee, cup of oil, cup of peas",https://drive.google.com/file/d/1wkAPJ4IbrOol1TWJRaQPzj2nGW3s_joe/view?usp=sharing,
+Veg Pulao Rice Full,ProductUnit,5,"Inventory,Food,Restaurant,Rice,Vegeterian,Veg Pulao Rice,",70,," cup Cabbage, small onions, cup of capcicum, cup of soya chunks, small carrots, spoon of garam masala, spoon of ginger garlic paste, spoon of jeeraseeds, spoons of salt, spoon of ghee, cup of oil, cup of peas",https://drive.google.com/file/d/1G3HjPm3rJIFFZbuZNGolEBup6vAJmO0B/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/VegPulaoRiceFull.jpg
+Veg Pulao Rice Half,ProductUnit,6,"Inventory,Food,Restaurant,Rice,Vegeterian,Veg Pulao Rice,",50,," cup Cabbage, small onions, cup of capcicum, cup of soya chunks, small carrots, spoon of garam masala, spoon of ginger garlic paste, spoon of jeeraseeds, spoons of salt, spoon of ghee, cup of oil, cup of peas",https://drive.google.com/file/d/13osansov36Z5IJjo1qAZJdn-LF48IGWX/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/VegPulaoRiceHalf.jpg
+Jeera Rice,ProductType,7,"Inventory,Food,Restaurant,Rice,Vegeterian,",70,,"½ cup basmati rice,  oil,½  salt,½  salt,  coriander,water,etc",https://drive.google.com/file/d/1-GF04qtXF6mVP48_0ek2Qj07ZNbdnEES/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/JeeraRice.jpg
+Jeera Rice Full,ProductUnit,8,"Inventory,Food,Restaurant,Rice,Vegeterian,Jeera Rice,",70,,"½ cup basmati rice,  oil,½  salt,½  salt,  coriander,water,etc",https://drive.google.com/file/d/1XWi_RFUxoXm7T2NMDEQrUBKa57-mY2EL/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/JeeraRiceFull.gif
+Jeera Rice Half,ProductUnit,9,"Inventory,Food,Restaurant,Rice,Vegeterian,Jeera Rice,",50,,"½ cup basmati rice,  oil,½  salt,½  salt,  coriander,water,etc",https://drive.google.com/file/d/1gab5eRuLll1Ed8DokZQ1FuTko20Esbwa/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/JeeraRiceHalf.jpg
+Veg Chinese,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://drive.google.com/file/d/1jGUX5UP4wRfWdRBwFaYZ_X00p2TnNvCJ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/VegChinese.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Veg Chinese,",,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Veg Chinese,",,,,,
+Veg Gravy Manchurian,ProductType,4,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",90,," cups grated cabbage, grated carrot,  maida,
+  Salt,  chilli sauce,  soya sauce,
+  tomato ketchup,  lemon juice,  sugar,
+ capsicum, onion,  chopped garlic",https://drive.google.com/file/d/1aoDUvwJ6yLTLJkIMNZw7_jCnExFOQQ8A/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/VegGravyManchurian.jpg
+Veg Gravy Manchurian Full,ProductUnit,5,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,Veg Gravy Manchurian,",90,," cups grated cabbage, grated carrot,  maida,
+  Salt,  chilli sauce,  soya sauce,
+  tomato ketchup,  lemon juice,  sugar,
+ capsicum, onion,  chopped garlic",https://drive.google.com/file/d/1l-4I0_FuA5gPJiueRMrE3Lf8DvKr17lP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/VegGravyManchurianFull.jpg
+Veg Gravy Manchurian Half,ProductUnit,6,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,Veg Gravy Manchurian,",70,," cups grated cabbage, grated carrot,  maida,
+  Salt,  chilli sauce,  soya sauce,
+  tomato ketchup,  lemon juice,  sugar,
+ capsicum, onion,  chopped garlic",https://drive.google.com/file/d/1iu_r96J2-Y6wbF11t9KGtvEQD6FklyWK/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/VegGravyManchurianHalf.jpg
+Dry Manchurian,ProductType,7,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",90,," cups grated cabbage, grated carrot,  maida,
+  Salt,  chilli sauce,  soya sauce,
+  tomato ketchup,  lemon juice,  sugar,
+ capsicum, onion,  chopped garlic",https://drive.google.com/file/d/10SHdAy08fhPiD_LG1Q8k_tXI8yea2Utt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/veg-manchurian-dry.jpg
+Dry Manchurian Full,ProductUnit,8,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,Dry Manchurian,",90,," cups grated cabbage, grated carrot,  maida,
+  Salt,  chilli sauce,  soya sauce,
+  tomato ketchup,  lemon juice,  sugar,
+ capsicum, onion,  chopped garlic",https://drive.google.com/file/d/1SehpDhnhvaZChGy-faCgZ0fmUUVEfdQE/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/DryManchurianFull.jpg
+Dry Manchurian Half,ProductUnit,9,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,Dry Manchurian,",70,," cups grated cabbage, grated carrot,  maida,
+  Salt,  chilli sauce,  soya sauce,
+  tomato ketchup,  lemon juice,  sugar,
+ capsicum, onion,  chopped garlic",https://drive.google.com/file/d/1x43CAthcY7hLZeF8s-rsESk40jfVbN-h/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/DryManchurianHalf.jpg
+Veg Fried Rice,ProductType,10,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",70,," cup rice,  soy sauce, capsicum, chopped,/ cup cabbage, chopped,/ cup spring onion, chopped,  ginger-garlic paste,  salt,  oil,etc",https://drive.google.com/file/d/1bz2y7h_zxW5FIwkPU1ouPFuPXrxVdyrI/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Fried-Rice.jpg
+Veg Schezwan Rice,ProductType,11,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",80,," cups cooked Plain Rice,¾ cups Mixed Vegetables (french beans, carrot, capsicum, cabbage, celery),- cloves of Garlic, finely chopped (approx. / tablespoon),- tablespoon Schezwan Sauce,Salt to taste,etc",https://drive.google.com/file/d/1-I-WSFeFbKd9hlnc9-xzXQYn5XKPgbKD/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegSchezwanRice.jpg
+Veg Manchurian Rice,ProductType,12,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",90,," cups cooked Plain Rice,¾ cups Mixed Vegetables (french beans, carrot, capsicum, cabbage, celery),- cloves of Garlic, finely chopped (approx. / tablespoon),- tablespoon Schezwan Sauce,Salt to taste,etc",https://drive.google.com/file/d/1jNrUl4zWkDBHdSQ9fMRkuIqsymylvahc/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegManchurianRice.jpg
+Veg Hakka Noodles,ProductType,13,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",70,,#NAME?,https://drive.google.com/file/d/1Q90LHM1ZJtlXVlbMoWnysu0n9Ip0TJG0/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Hakka-Noodles.jpg
+Veg Schezwan Noodles,ProductType,14,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",80,," grams noodles,  olive oil, clove garlic (finely chopped),  spring onion (chopped),½ carrot (chopped),  cabbage (shredded),½ capsicum (chopped),  schezwan sauce,▢½  salt,etc",https://drive.google.com/file/d/110qPjMnVJgCASzjlU24PKREL29s_4OW1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegSchezwanNoodles.jpg
+Veg Manchurian Noodles,ProductType,15,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",90,,,https://drive.google.com/file/d/18nb4TV0DNqOCfS3RhzF1UoGG4z7bhQri/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegManchurianNoodles.jpg
+Special Chinese Bhel,ProductType,16,"Inventory,Food,Restaurant,Veg Chinese,Vegeterian,",80,,,https://drive.google.com/file/d/1zh2uWpiY-19qAdtkXYzgrN8JE99nzY6s/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/SpecialChineseBhel.jpg
+Lassi,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://drive.google.com/file/d/1z2BJrtvZR9kkdK-COuqLNCQlIbTJNxnX/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Lassi.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Lassi,",,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Lassi,",,,,,
+Ice Cream Lassi,ProductType,4,"Inventory,Food,Restaurant,Lassi,Vegeterian,",60,,,https://drive.google.com/file/d/1lOLExyPwUwBjI2bjl2c128u3p9l0pE1S/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/IceCreamLassi.jpg
+Ice Cream Lassi Full,ProductUnit,5,"Inventory,Food,Restaurant,Lassi,Vegeterian,Ice Cream Lassi,",60,,,https://drive.google.com/file/d/1tb23bwtOimnc-46rGPWb6IyXblOXmGK1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/IceCreamLassiFull.jpg
+Ice Cream Lassi Half,ProductUnit,6,"Inventory,Food,Restaurant,Lassi,Vegeterian,Ice Cream Lassi,",50,,,https://drive.google.com/file/d/1O1-WGUQSte_8ha1aORcqurAS0SKw-3sy/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/IceCream/IceCreamLassiHalf.png.crdownload.png
+Punjabi Lassi,ProductType,7,"Inventory,Food,Restaurant,Lassi,Vegeterian,",70,,,https://drive.google.com/file/d/1kPbapT_BUUusZJ6vRkOaT4LtGSSEtlwo/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Punjabi-Lassi.jpg
+Mango Lassi,ProductType,8,"Inventory,Food,Restaurant,Lassi,Vegeterian,",70,," cup diced fresh mango, cup plain non-fat yogurt,/ cup milk, tablespoons white sugar,Dash of cinnamon,Dash of cinnamon.",https://drive.google.com/file/d/1RkvHqFFspNgXQ54LhM0OPgafaOn-kCox/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/MangoLassi.jpg
+Chocolate Lassi,ProductType,9,"Inventory,Food,Restaurant,Lassi,Vegeterian,",70,,"  yoghurt (curd),  dark chocolate, almonds, cup Water.",https://drive.google.com/file/d/1AQr0G0PuS7xAuWgnDOoUFKaoE2R_qBKR/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/ChocolateLassi.jpg
+Ice Cream,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://drive.google.com/file/d/1qkYDEbRphUMbXzGECK6SMPvufS5OKmNi/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/IceCream.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Ice Cream,",,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Ice Cream,",,,,,
+Spl Bharkadevi,ProductType,4,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",70,,,,
+Spl Bharkadevi Full,ProductUnit,5,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,Spl Bharkadevi,",70,,,,
+Spl Bharkadevi Half,ProductUnit,6,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,Spl Bharkadevi,",45,,,,
+Mava Malai,ProductType,7,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",70,,,,
+Mava Malai Full,ProductUnit,8,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,Mava Malai,",70,,,,
+Mava Malai Half,ProductUnit,9,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,Mava Malai,",45,,,,
+Paan Masala,ProductType,10,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",70,,,https://drive.google.com/file/d/16O72VxzSYRB9sA7w03W8X7dMcfEMBLc9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/PaanMasala.jpeg
+Paan Masala Full,ProductUnit,11,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,Paan Masala,",70,,,https://drive.google.com/file/d/1YGO3aKdi5a2DltzofEDL5fUM4walxa-B/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/PaanMasalaFull.jpeg
+Paan Masala Half,ProductUnit,12,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,Paan Masala,",45,,,https://drive.google.com/file/d/1CVPCzXXM5tAYYjk9DiFG2yAdQWpbHNXt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/PaanMasalaHalf.jpeg
+American DryFruit,ProductType,13,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",70,,,https://drive.google.com/file/d/1Lx8qun-bh1P5ZWpko-ZtbHvEMVo2TtAt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/AmericanDryFruit.jpg
+American DryFruit Full,ProductUnit,14,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,American DryFruit,",70,,,https://drive.google.com/file/d/17Nzr3BhLnjFQKoLF18I1tbrTz13YihWW/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/AmericanDryFruitFull.jpg
+American DryFruit Half,ProductUnit,15,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,American DryFruit,",45,,,https://drive.google.com/file/d/1OtGD6ZYDCJDeDQB1CqwwezitX2ufMBzy/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/AmericanDryFruitHalf.jpg
+Rajbhog,ProductType,16,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",70,,,https://drive.google.com/file/d/1AUh4Sb8oElCuJ7NwTOjMH1Cx6Naaruj4/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Rajbhog.jpg
+Rajbhog Full,ProductUnit,17,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,Rajbhog,",70,,,https://drive.google.com/file/d/14UTeCEMB8g9fa3Dri0EdpL09x9jlQ9FE/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/RajbhogFull.jpg
+Rajbhog Half,ProductUnit,18,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,Rajbhog,",45,,,https://drive.google.com/file/d/1NJHctxzQONFO_AzCwUAUo3tw09O3z5zi/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/RajbhogHalf.jpg
+Chocolate,ProductType,19,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",70,,,https://drive.google.com/file/d/1vbhRpgGOEXu0lFsV4zyilBdw7b0WEMlg/view?usp=sharing,
+Chocolate Full,ProductUnit,20,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,Chocolate,",70,,,https://drive.google.com/file/d/1WbNttsUkt8sEvHnf8AOCbGtwKSx_UlXf/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/ChocolateFull.jpg
+Chocolate Half,ProductUnit,21,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,Chocolate,",45,,,https://drive.google.com/file/d/1QCtNFIwI69qdC0TefRlQspAntNA0LBEi/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/ChocolateHalf.jpg
+Butterscotch,ProductType,22,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",70,,, ,
+Butterscotch Full,ProductUnit,23,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,Butterscotch,",70,,, ,
+Butterscotch Half,ProductUnit,24,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,Butterscotch,",45,,, ,
+Kaju Gulab,ProductType,25,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",70,,,https://drive.google.com/file/d/1Ee2AsqQqWOZGiISGfUxRCCgFauebd92j/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/KajuGulab.jpeg
+Kaju Gulab Full,ProductUnit,26,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,Kaju Gulab,",70,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/KajuGulabFull.jpeg
+Kaju Gulab Half,ProductUnit,27,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,Kaju Gulab,",45,,,https://drive.google.com/file/d/1uK0DoNsDsFFC5tjAt8SKGoy87MOTmyRh/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/KajuGulabHalf.jpeg
+Shahi Gulab,ProductType,28,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",70,,,https://drive.google.com/file/d/1ZpM06jgGI_jLhLNCoAVfpzoY-TuuF02P/view?usp=sharing,
+Shahi Gulab Full,ProductUnit,29,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,Shahi Gulab,",70,,,https://drive.google.com/file/d/1OVfAw93kpNoLqrhlaV8itQ2gCTFWcCbj/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/ShahiGulabFull.jpg
+Shahi Gulab Half,ProductUnit,30,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,Shahi Gulab,",45,,,https://drive.google.com/file/d/1s4nQxCDJ-j1W3h1_Lzt0IECZqexNyDId/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/ShahiGulabHalf.jpg
+Spl Vanila,ProductType,31,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",60,,,https://drive.google.com/file/d/1vUnSOMWD7jxbbV6l23nKQ_Hj27RnVPeM/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/SplVanila.jpeg
+Spl Vanila Full,ProductUnit,32,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,Spl Vanila,",60,,,https://drive.google.com/file/d/1mlQhUVZ3H1JfyyBZl0pf9LzofTgWz3sS/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/SplVanilaFull.jpeg
+Spl Vanila Half,ProductUnit,33,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,Spl Vanila,",40,,,https://drive.google.com/file/d/1qx0wncfr_Y6yHwrScYpGPkXGPgUfaK27/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/SplVanilaHalf.jpeg
+Shake,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://drive.google.com/file/d/1WVjjMhoFCtzUTpAl1j-_VT2Riy0PJO0k/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food281221/Shake.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Shake,",,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Shake,",,,,,
+Badam Shake,ProductType,4,"Inventory,Food,Restaurant,Shake,Vegeterian,",60,,,https://drive.google.com/file/d/1yuiFYnfX8zdFzNxbludbOv29szU4cvAh/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/BadamShake.jpg
+Badam Shake Full,ProductUnit,5,"Inventory,Food,Restaurant,Shake,Vegeterian,Badam Shake,",60,,,https://drive.google.com/file/d/1q8t5fRsGgh-QDZDa0OjN-4USssWSKYzJ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/BadamshakeFull.jpg
+Badam Shake Half,ProductUnit,6,"Inventory,Food,Restaurant,Shake,Vegeterian,Badam Shake,",40,,,https://drive.google.com/file/d/1-f_rVxAwoAH9QohxaFxhmAo2JOHralWt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/BadamshakeHalf.jpg
+Badam Shake Ice Cream,ProductType,7,"Inventory,Food,Restaurant,Shake,Vegeterian,",60,,,https://drive.google.com/file/d/1lL7wxAEVud28zFa2_Nvz8A6BdlHGDThp/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/BadamShakeIceCream.jpg
+Badam Shake Ice Cream Full,ProductUnit,8,"Inventory,Food,Restaurant,Shake,Vegeterian,Badam Shake Ice Cream,",60,,,https://drive.google.com/file/d/1G8UZvWUmFOMpu7vsMkBBgOhw6xSFg5w6/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/BadamShakeIceCreamFull.jpg
+Badam Shake Ice Cream Half,ProductUnit,9,"Inventory,Food,Restaurant,Shake,Vegeterian,Badam Shake Ice Cream,",50,,,https://drive.google.com/file/d/1dEySXS_o-mY_szvDb-yOukyUYynl-7bR/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/BadamShakeIceCreamHalf.jpg
+Mastani,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://drive.google.com/file/d/1eq3bCCXKRxUzQh-Z-1HSdykhPW8SDxQL/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant7/mastani.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Mastani,",,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Mastani,",,,,,
+Pista Mastani,ProductType,4,"Inventory,Food,Restaurant,Mastani,Vegeterian,",80,,,https://drive.google.com/file/d/1ALwWxYVMMpRyCD7NXuOiLASyT_oQayrZ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Cafe/PistaMastani.jpg
+Butterscotch Mastani,ProductType,5,"Inventory,Food,Restaurant,Mastani,Vegeterian,",80,,,https://drive.google.com/file/d/1rhDey0U8odQ5Ur3FKxlWfJRrRewLk5oh/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/ButterscotchMastani.jpg
+Chocolate Mastani,ProductType,6,"Inventory,Food,Restaurant,Mastani,Vegeterian,",80,,,https://drive.google.com/file/d/1SofbABMDvQhAQN6Jr5mHXizE0C-mgjJb/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/ChocolateMastani.jpg
+Mango Mastani,ProductType,7,"Inventory,Food,Restaurant,Mastani,Vegeterian,",80,,,https://drive.google.com/file/d/1x1W3-4w0CLGLlbwKYCXVTc1dCDP448KA/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MangoMastani.jpg
+Faluda,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://drive.google.com/file/d/18QYH64FKFi7FcRKshly8PL2NzpcZK8wh/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Faluda.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Faluda,",,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Faluda,",,,,,
+Rose Faluda,ProductType,4,"Inventory,Food,Restaurant,Faluda,Vegeterian,",80,,,https://drive.google.com/file/d/1eyEz8gMi1Nmzlgdy8jOJH0YBP27WaHt1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/RoseFaluda.jpg
+Chocolate Faluda,ProductType,5,"Inventory,Food,Restaurant,Faluda,Vegeterian,",80,,,https://drive.google.com/file/d/1bnVF-Sn_ggZR2vXHl2oEAnpT37NvbFVq/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/ChocolateFaluda.jpg
+Butterscotch Faluda,ProductType,6,"Inventory,Food,Restaurant,Faluda,Vegeterian,",80,,,https://drive.google.com/file/d/16o9cELZzgo6X6NP84CPNkfThJIPfSdeL/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/ButterscotchFaluda.jpg
+Mango Faluda,ProductType,7,"Inventory,Food,Restaurant,Faluda,Vegeterian,",80,,,https://drive.google.com/file/d/1ZatpdemvzxLUqFNdTaB2LqsnirpvZ9-p/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/MangoFaluda.jpg
+Ice Cream Faluda,ProductType,8,"Inventory,Food,Restaurant,Faluda,Vegeterian,",80,,,https://drive.google.com/file/d/1UNlsCU-2ZtXw8WE-A989-GyiKrvXF3tk/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220828/IceCreamFaluda.jpg
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,1,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,1,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,1,,,,,

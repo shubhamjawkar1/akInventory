@@ -1,0 +1,19 @@
+label,nodeType,order,path,price,description,link,imageLink
+Paan,ProductClass,1,"Inventory,Food,Paan Shop,",,,https://drive.google.com/file/d/1NMV4uXqyDTM1lXsCA_WgxCe4d9TkBvuF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/grocery122021/Paan.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Paan Shop,Paan,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Paan Shop,Paan,",,,,
+Masala Chocolate Paan,ProductType,4,"Inventory,Food,Paan Shop,Paan,Vegeterian,",20,,https://drive.google.com/file/d/1xrthpOsfsKLYRabm7iixGDJ7JrY3z5qx/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Paan/MasalaChocolatePaan.jpg
+Masala Mango Paan,ProductType,5,"Inventory,Food,Paan Shop,Paan,Vegeterian,",20,,https://drive.google.com/file/d/1lyKtaF3mSGjA5PKKIkScoVs2wIOIfYu6/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Paan/MasalaMangoPaan.jpg
+Masala Pineapple Paan,ProductType,6,"Inventory,Food,Paan Shop,Paan,Vegeterian,",20,,https://drive.google.com/file/d/1MwQtFaHrSYGtiu6ZneGcK9bEmpw_0dcD/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Paan/MasalaPineapplePaan.jpg
+Masala Orange Paan,ProductType,7,"Inventory,Food,Paan Shop,Paan,Vegeterian,",20,,https://drive.google.com/file/d/1Nrcceb8_n0vhm97Wc6J4-kN6IbAMo8vs/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Paan/MasalaOrangePaan.jpg
+Masala Kulfi Paan,ProductType,8,"Inventory,Food,Paan Shop,Paan,Vegeterian,",20,, ,
+Masala Paan,ProductType,9,"Inventory,Food,Paan Shop,Paan,Vegeterian,",15,,https://drive.google.com/file/d/1ifpEw2axoK-oZsiJ2Ls2D1V86cQ6gaOl/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Paan/MasalaPaan.jpg
+Chatni Chocolate Paan,ProductType,10,"Inventory,Food,Paan Shop,Paan,Vegeterian,",20,,https://drive.google.com/file/d/1N-t44i31V5ZATsPV2Tf9HgOXAX2SXddR/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Paan/ChutneyChocolatePaan.jpg
+Chatni Mango Paan,ProductType,11,"Inventory,Food,Paan Shop,Paan,Vegeterian,",20,, ,
+Chatni Pineapple Paan,ProductType,12,"Inventory,Food,Paan Shop,Paan,Vegeterian,",20,, ,
+Chatni Orange Paan,ProductType,13,"Inventory,Food,Paan Shop,Paan,Vegeterian,",20,, ,
+Chatni Kulfi Paan,ProductType,14,"Inventory,Food,Paan Shop,Paan,Vegeterian,",20,, ,
+Minakshi Chatni Paan,ProductType,15,"Inventory,Food,Paan Shop,Paan,Vegeterian,",20,,https://drive.google.com/file/d/1DLBdReFNveuRhiRi7DbCXRopnW1LBpTl/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Paan/MinakshiChutneyPaan.jpg
+Special Masala Paan,ProductType,16,"Inventory,Food,Paan Shop,Paan,Vegeterian,",20,,https://drive.google.com/file/d/1gp8D6dc3KMFc6O6Vie5tRmxvqkmFNpXN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Paan/SpecialMasalaPan.jpg
+Rajarani Paan,ProductType,17,"Inventory,Food,Paan Shop,Paan,Vegeterian,",150,,https://drive.google.com/file/d/1JfDP4OfYbWNFdmS3hh_Q8NcZ0r6aMWji/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Paan/RajaraniPaan.jpg
+Disco Material,ProductType,18,"Inventory,Food,Paan Shop,Paan,Vegeterian,",30,, ,

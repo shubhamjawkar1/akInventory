@@ -1,0 +1,525 @@
+label,nodeType,order,path,price,ingredients,link,imageLink,Swiggy ,Zomato,description
+Burger,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Burger,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Burger.jpg,,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Burger,",,,,,,,
+Veg Burger,ProductType,3,"Inventory,Food,Restaurant,Burger,Vegeterian,",70,"1 boiled and smashed potato
+
+2 tablespoon of green peas boiled
+
+1 tea spoon of turmeric
+
+1/2 cup breadcrumbs
+
+1/2 tsp chilli powder
+
+1 tbsp vegetable oil for frying
+
+1/4 tsp Cumin powder
+
+1/4 tsp of black pepper
+
+1/4 tsp salt
+
+1/4 tsp ginger garlic paste",https://drive.google.com/file/d/1d4T4ocGTOibUjikI_CZrc4fkIRChDq8d/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Burger.jpg,70,70,
+Indian Burger,ProductType,4,"Inventory,Food,Restaurant,Burger,Vegeterian,",80,,https://drive.google.com/file/d/1ejoM9dZarvuvvYEFXNPw1e3L1VCeMUEC/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/IndianBurger.jpg,80,80,
+Veg Cheese Burger,ProductType,5,"Inventory,Food,Restaurant,Burger,Vegeterian,",90,,https://drive.google.com/file/d/1BRIGvcNMtmyGxtykXr10OQnq4woHNBxu/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegCheeseBurger.jpg,90,90,
+Veg Corn Burger,ProductType,6,"Inventory,Food,Restaurant,Burger,Vegeterian,",80,,https://drive.google.com/file/d/1817hCXD6CllN0aZ5oMPURqJKBI0qM7lu/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Corn-Burger.jpg,80,80,
+Schezwan Burger,ProductType,7,"Inventory,Food,Restaurant,Burger,Vegeterian,",70,,https://drive.google.com/file/d/1jM6gSOcmk6buy7fqsOaCQdOrS3WkqvwP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Schezwan-Burger.jpg,70,70,
+American Burger,ProductType,8,"Inventory,Food,Restaurant,Burger,Vegeterian,",110,,https://drive.google.com/file/d/1U41ymEMDAxmIZlxdvvHXY7EAr7cu2zrO/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/AmericanBurger.jpg,110,110,
+Schezwan Cheese Burger,ProductType,9,"Inventory,Food,Restaurant,Burger,Vegeterian,",90,,https://drive.google.com/file/d/1wKDyGBRjkyL1vOmzUlLGhOCi4s2GHbHW/view?usp=sharing,,90,90,
+Grill Cheese Burger,ProductType,10,"Inventory,Food,Restaurant,Burger,Vegeterian,",100,,https://drive.google.com/file/d/1I2FwnjmZY-TMOTr2cLK8pFILIKlXh7zU/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food04182022/GrillCheeseBurger.jpg,100,100,
+Extra Cheese,ProductType,11,"Inventory,Food,Restaurant,Burger,Vegeterian,",20,,https://drive.google.com/file/d/10YVSQDdgja9L1Tbrn0rPPPuAZJbTUmcF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ExtraCheese.jpg,20,,
+Pizza,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food1/pizza.jpg,,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Pizza,",,,,,,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Pizza,",120,"pizza base 1 nos
+
+tomato sauce 3 tbsp
+
+red chilli flakes 1/2 tsp
+
+chat masala 1 tsp
+
+oregano 1 tsp
+
+grated cheese 1/4 cups
+
+tomato cut into rounds 1 nos
+
+slice cheese 1 nos",https://drive.google.com/file/d/19f9YNYnvweGsquttjwNzWqxOdj0ri4EA/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PlainCheesePizza.jpg,120,,
+Plain Cheese Corn Pizza,ProductType,3,"Inventory,Food,Restaurant,Pizza,Vegeterian,",130,"Pizza base 1
+
+Cheese 1 cup
+
+Corns 1 cup
+
+Salt 1 teaspoon
+
+Red chilly powder 1/2 teaspoon
+
+Mix herbs 1/2 teaspoon",https://drive.google.com/file/d/1xI6bW5p56b2iJA7SWISuNOGrH6uqVOqJ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Plain-Cheese-Corn-Pizza.jpg,130,,
+Margerita Pizza,ProductType,4,"Inventory,Food,Restaurant,Pizza,Vegeterian,",130,"Pizza base 2
+
+Mozzarella cheese 1 cap
+
+Pizza topping sauce 1/4 cap
+
+Onion 2
+
+Tomato 2
+
+Capsicum 2
+
+Paneer 50 gram
+
+Chilli flakes 1 tablespoon
+
+Oregano 1 tablespoon",https://drive.google.com/file/d/1GHNwNit2d46jcZjMoA_RO1GQxZisCXSY/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MargeritaPizza.jpg,130,,
+Onion Pizza,ProductType,5,"Inventory,Food,Restaurant,Pizza,Vegeterian,",130,,https://drive.google.com/file/d/1VQWgwQWVIt2jpdf6rzfB_QnAaiuYsYWg/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/OnionPizza.jpg,130,,
+Mix Veg Pizza,ProductType,6,"Inventory,Food,Restaurant,Pizza,Vegeterian,",140,"Pizza base 1
+
+Corn 1 cup
+
+Cheese 1 cup
+
+Capsicum 1
+
+Onion 1
+
+Salt 1 teaspoon
+
+Red chilly powder 1/2 teaspoon
+
+Mix herbs 1/2 teaspoon",https://drive.google.com/file/d/1nwVmppx9G2I-puiGQE8Jaq5OXUqrYcI5/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MixVegPizza.jpg,140,,
+Mix Veg Paneer Pizza,ProductType,7,"Inventory,Food,Restaurant,Pizza,Vegeterian,",160,"Paneer (crumbled) 200 gms
+
+chopped tomatoes 1/2 cups
+
+chopped capsicum 1/4 cups
+
+Chopped Coriander 1 tbsp
+
+Cooking Oil 2 tbsp
+
+Haldi Powder 1/3 tsp
+
+Chilly Powder 1/2 tsp
+
+cumin powder 1/3 tsp
+
+Coriander Powder 1/3 tsp
+
+Garam Masala Powder 1/3 tsp",https://drive.google.com/file/d/16PdrnzQcHgFWa86s3AOr7ib8qr4fkbPw/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MixVegPaneerPizza.jpg,160,,
+MIx Veg Corn Pizza,ProductType,8,"Inventory,Food,Restaurant,Pizza,Vegeterian,",160,2 pizza base 3 teaspoon lemon juice 1 teaspoon garam masala powder 1/2 teaspoon chaat masala powder 1 1/2 teaspoon minced garlic 1 teaspoon virgin olive oil For Garnishing 1 cup grated cheese- goat cheese 3 tablespoon chopped black olives 1 cup pizza sauce For Toppings 1/2 cup chopped onion 1/2 cup chopped carrot 1/2 cup sliced capsicum ( green pepper) 1/4 cup chopped tomato,https://drive.google.com/file/d/1gc5GdhHyjhcBn7B2h271calf84OlNhN2/view?usp=sharing,,160,,
+Tandoor Mix Veg Pizza,ProductType,9,"Inventory,Food,Restaurant,Pizza,Vegeterian,",150,,https://drive.google.com/file/d/1xk_LSn7Z-ts2SIsGeTzmB6O34qqT_Rbi/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Tandoor-Mix-Veg-Pizza.jpg,150,,
+Tandoor Margerita Pizza,ProductType,10,"Inventory,Food,Restaurant,Pizza,Vegeterian,",130,,https://drive.google.com/file/d/1SrTPUkf-m9zEGUls1DQAFODnTIjucsBl/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Tandoor-Margerita-Pizza.jpg,130,,
+Capsicum Pizza,ProductType,11,"Inventory,Food,Restaurant,Pizza,Vegeterian,",130,"2 pizza base
+
+1 cup boiled sweet Corn kernels
+
+2 tbsp oil
+
+2 tsp garlic paste
+
+2 tsp ginger paste
+
+1 cup ruffly chopped onion
+
+2 cup ruffly chopped tomato
+
+2 tsp oregano
+
+2 tsp chili flakes
+
+2 tsp salt
+
+2 tsp sugar
+
+1 cup chopped onion
+
+1 cup chopped cabbage
+
+1/2 cup chopped capsicum",https://drive.google.com/file/d/1yKedPUYh6np_dJcNFpgKDTxZHm7Qz_-K/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/CapsicumPizza.jpg,130,,
+Tandoori Mix Veg Paneer Pizza,ProductType,12,"Inventory,Food,Restaurant,Pizza,Vegeterian,",170,"Pizza base 1
+
+Pizza sauce 1 spoon
+
+Onion 1
+
+Capsicum 1
+
+Salt 1 teaspoon
+
+Red chilly powder 1/2 teaspoon
+
+Mix herbs 1/2 teaspoon
+
+Tomato 1
+
+Mushroom 10-12
+
+Corns 1/2 cup
+
+Cheese 1 cup",https://drive.google.com/file/d/1U-zwu7qWP_2JAMHgVSTZyNbSAD0RzEYj/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Tandoori-Mix-Veg-Paneer-Pizza.jpeg,170,,
+Mix Veg Mushroom Pizza,ProductType,13,"Inventory,Food,Restaurant,Pizza,Vegeterian,",160,"Pizza base 1
+
+Pizza sauce 1 spoon
+
+Onion 1
+
+Capsicum 1
+
+Salt 1 teaspoon
+
+Red chilly powder 1/2 teaspoon
+
+Mix herbs 1/2 teaspoon
+
+Tomato 1
+
+Mushroom 10-12
+
+Corns 1/2 cup
+
+Cheese 1 cup",https://drive.google.com/file/d/10gHDajxnjKXlgvyOdgiV5Pb6re7mrVx9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MixVegMushroomPizza.jpg,160,,
+Tandoor Mix Veg Mushroom Pizza,ProductType,14,"Inventory,Food,Restaurant,Pizza,Vegeterian,",170,,https://drive.google.com/file/d/1QQsRlZNO6OwMxRzEa67c1TRDFr8Oz8jl/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Tandoor-Mix-Veg-Mushroom-Pizza.jpg,170,,
+Extra Cheese,ProductType,15,"Inventory,Food,Restaurant,Pizza,Vegeterian,",30,,https://drive.google.com/file/d/10YVSQDdgja9L1Tbrn0rPPPuAZJbTUmcF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ExtraCheese.jpg,30,,
+Snacks,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/img/Smiley.jpg,,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Snacks,",,,,,,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Snacks,",70,"potatoes 4 nos
+
+oil for frying 2 cups
+
+red chilli flakes 1 tsp
+
+Salt 1 tsp",https://drive.google.com/file/d/1Zr0Y_DYANNNyyPc5GapCZcZkCd7yDZEf/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Plain-French-Fries.jpg,70,70,
+Masala Fries,ProductType,3,"Inventory,Food,Restaurant,Snacks,Vegeterian,",80,,https://drive.google.com/file/d/1sbGFfcbLEpWBEussjAiV6sD4AGax8O8I/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MasalaFries.jpg,80,80,
+Mayo French Fries,ProductType,4,"Inventory,Food,Restaurant,Snacks,Vegeterian,",90,"1 large potato
+
+1 cup Oil for deep fry
+
+2 tsp salt
+
+1 tsp pepper powder",https://drive.google.com/file/d/1BiOYW-Bvx_aIU7QmrkitJFQGrBsiB0_a/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MayoFrenchFries.jpg,90,90,
+Cheese French Fries,ProductType,5,"Inventory,Food,Restaurant,Snacks,Vegeterian,",90,"Potato 5
+
+Salt 1 teaspoon
+
+Red chilly powder 1/2 teaspoon
+
+Oil 1 cup
+
+Besan 1/2 cup
+
+Water 1/2 cup or as required
+
+Jawan 1/2 teaspoon",https://drive.google.com/file/d/1YpFGuau7T7RP7xcfRxzQoGb47S2lYChF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/CheeseFrenchFries.jpg,90,90,
+Perry Perry Fries,ProductType,6,"Inventory,Food,Restaurant,Snacks,Vegeterian,",80,,https://drive.google.com/file/d/1XcEWyi3KlRhG5FYfMOhFunFkccEvVBNX/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Perry-Perry-Fries.jpg,80,80,
+Mayo Perry Perry Fries,ProductType,7,"Inventory,Food,Restaurant,Snacks,Vegeterian,",90,,https://drive.google.com/file/d/1u-WfS7lBbf99LgbTbAn5BRTzC1M_jYEd/view?usp=sharing,,,90,
+Sandwiches,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Sandwich.jpg,,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Sandwiches,",,,,,,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Sandwiches,",70,"2 bread slice
+
+1 boiled potato
+
+1/2tsp red chilli powder
+
+1/2 cup aloo bhujiya sev
+
+1/2tsp salt",https://drive.google.com/file/d/141laSOihGKoGLNeRe1WZgkcIqIe6w6kz/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/GrillVegSandwich.jpg,70,70,
+Grill Veg Cheese Sandwich,ProductType,3,"Inventory,Food,Restaurant,Sandwiches,Vegeterian,",90,"Bread slice 8 nos
+
+Green chutney 2 tbsp
+
+Boil potato ,peel and cut in round shape 2 nos
+
+Cucumber ,peel and cut in round shape 1 nos
+
+Tomato, cut in round shape 2 nos
+
+Onion, peel and cut in round shape 2 nos
+
+Butter 1 tbsp
+
+Cheese slice 5-6 nos
+
+Roasted cumin powder 1/4 tsp
+
+Salt 1/4 tsp
+
+Crushed black pepper 1/4 tsp",https://drive.google.com/file/d/1pH46uCF_qm7n6-l59ctqMwuqZ1PT90UN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/GrillVegCheeseSandwich.jpg,90,90,
+Grill Veg Corn Sandwich,ProductType,4,"Inventory,Food,Restaurant,Sandwiches,Vegeterian,",80,"olive oil 2 tbsp
+
+garlic cloves , minced 2 nos
+
+boiled sweet corn cob 1 nos
+
+black pepper, crushed 1/2 tsp
+
+red chili flakes 1/2 tsp
+
+salt 1/2 tsp
+
+tomatoes, chopped 1/4 nos
+
+grated mozzarella 3 tbsp",https://drive.google.com/file/d/1tdwpjlG5ao9h2tbaR5G8ofEqrz0fPjCU/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/GrillVegCornSandwich.jpg,80,80,
+Grill Veg Cutlet Sandwich,ProductType,5,"Inventory,Food,Restaurant,Sandwiches,Vegeterian,",90,,https://drive.google.com/file/d/1JosZgUn4FnXocBe6WP6YFkLW9a_O46GL/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/GrillVegCutletSandwich.jpg,90,90,
+Grill Veg Paneer Sandwich,ProductType,6,"Inventory,Food,Restaurant,Sandwiches,Vegeterian,",110,"crumbled paneer 1 cups
+
+onion chopped 1 nos
+
+tomato chopped 1 nos
+
+chopped coriander 1 tbsp
+
+green chilly chopped 4 nos
+
+black pepper 1/4 tsp
+
+salt 1/2 tsp
+
+butter to toast sandwich 1 tbsp",https://drive.google.com/file/d/1Oe7Pb7MRIrAf69-jj6OlI7R8K6EXh7lc/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/GrillVegPaneerSandwich.jpg,110,110,
+Grill Chocolate Sandwich,ProductType,7,"Inventory,Food,Restaurant,Sandwiches,Vegeterian,",100,"Bread slice 2
+
+Chocolate spread 2tbsp
+
+Oil 1tsp (if required )",https://drive.google.com/file/d/1BSXUuexSiXxU5C13D2RgQeEa8UEng-cv/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/GrillChocolateSandwich.jpg,100,100,
+Aloo Tikki Sandwich,ProductType,8,"Inventory,Food,Restaurant,Sandwiches,Vegeterian,",90,,https://drive.google.com/file/d/1qq7u-yicwR32ZNVrlMPHtRUMvjsr8d1k/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/AlooTikkiSandwich.jpg,90,90,
+Schezwan Sandwich,ProductType,9,"Inventory,Food,Restaurant,Sandwiches,Vegeterian,",80,"Paneer (cut into cubes) - 1 cup
+
+Spring onions (chopped) - 1/2 cup
+
+Schezwan sauce - 2 tbsp
+
+tomato ketchup 2 tsp
+
+pepper 1-2 tsp
+
+butter 3 tsp
+
+brown bread 4 slices
+
+Grated mozzarella cheese 1/4 cup",https://drive.google.com/file/d/1bOrS0K-WM6HGb3XHo1brjHc3Jy5SbsSp/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Schezwan-Sandwich.jpg,60,80,
+Double Decker Sandwich,ProductType,10,"Inventory,Food,Restaurant,Sandwiches,Vegeterian,",140,"1 box cardboury spready
+
+1cup chopped strawberries
+
+1cup chopped banana
+
+1cup melted butter
+
+3sliced bread",https://drive.google.com/file/d/1YJy8zX51xu3VxYdRe7NZox9QTVdv1y5X/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/DoubleDeckerSandwich.jpg,140,140,
+Chipotte Sandwich,ProductType,11,"Inventory,Food,Restaurant,Sandwiches,Vegeterian,",110,"mayonnaise 2-3 tbsp
+
+chopped onion 1 nos
+
+chopped tomato 1 nos
+
+Salt as per taste 1 pinch
+
+Black pepper powder 1 pinch
+
+ajwain 1 pinch
+
+Brown or Atta bread 2 nos",https://drive.google.com/file/d/1SwJJb5extoCEvfvU1mOZQsVM0YykOGSs/view?usp=sharing,,110,110,
+Extra Cheese,ProductType,12,"Inventory,Food,Restaurant,Sandwiches,Vegeterian,",20,,https://drive.google.com/file/d/10YVSQDdgja9L1Tbrn0rPPPuAZJbTUmcF/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ExtraCheese.jpg,20,,
+Maggie,ProductClass,1,"Inventory,Food,Restaurant,",,,https://drive.google.com/file/d/1tlzElR_-mFvrwPO5I7sxPlf89r-100c9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Maggie.png,,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Maggie,",,,,,,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Maggie,",60,"1 magige pack
+
+1 cup chopped veggies ( carrots, peas, capsicum)
+
+1 tsp salt",https://drive.google.com/file/d/1OZ9ndZ514Ows61sy06bFVjq3sTNZnxpd/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Plain-Maggie.jpg,60,60,
+Veg Maggie,ProductType,3,"Inventory,Food,Restaurant,Maggie,Vegeterian,",70,"1 maggie pack
+
+1 capsicum spiced
+
+1 tsp ginger garlic paste
+
+1 handful sweet corns
+
+1 tsp salt
+
+1 tbsp oil",https://drive.google.com/file/d/1c5LZd4WBPSbV-31C24euqOpdAOM7hErP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Maggie.jpg,70,70,
+Veg Cheese Maggie,ProductType,4,"Inventory,Food,Restaurant,Maggie,Vegeterian,",90,"1 maggie pack
+
+1 handful peas boiled
+
+1 tsp habanero sauce
+
+1 onion chopped",https://drive.google.com/file/d/1uB1Y7nrlCiUYoGEvojnvodh1Ulqr6KBe/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Cheese-Maggie.jpg,90,90,
+Paneer Maggi,ProductType,5,"Inventory,Food,Restaurant,Maggie,Vegeterian,",80,"Maggi noodles - 1strip
+
+Maggi taste maker - 1 packet
+
+Oil - 1 tablespoon
+
+Cumin seeds - 1/4 teaspoon
+
+Onion - 1 medium sized (finely chopped)
+
+Ginger - 1/2inch (grated)
+
+Tomato - 1 small size (finely chopped)
+
+Paneer masala - 1/2 teaspoon
+
+Salt - 1/2 teaspoon
+
+Paneer - 1/4cup (grated)
+
+Water - 1cup
+
+Green peas - 1/4cup (frozen)",https://drive.google.com/file/d/13t9ScrrGCf-QomOIRKvMoLK3dKEEkd3Q/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220228/PaneerMaggi.jpg,80,80,
+Paneer Cheese Maggi,ProductType,6,"Inventory,Food,Restaurant,Maggie,Vegeterian,",100,"Oil - 1teaspoon
+
+Onion - 1 small size (finely chopped)
+
+Tomato - 1 small size (finely chopped)
+
+Frozen green peas - 1/4cup
+
+Cheese slice - 1 slice
+
+Salt - 1/4 teaspoon
+
+Maggi strip - 1
+
+Taste maker - 1
+
+Water - 1cup",https://drive.google.com/file/d/12obxGgjD_lY89NP2ErxQH_4pXptK78Af/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food04182022/PaneerCheeseMaggi.jpg,100,100,
+Shakes,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Shakes.jpg,,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Shakes,",,,,,,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Shakes,",100,,https://drive.google.com/file/d/1DBzY99zX6tfVDkly5n8CRpBTOucqwJLA/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/GreenAppleThickShake.jpg,,,
+Green Apple Mastani,ProductType,3,"Inventory,Food,Restaurant,Shakes,Vegeterian,",120,,https://drive.google.com/file/d/1NdJPPZybwMRyZKxDAIc4dtnxyOamBSqq/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/GreenAppleMastani.jpg,,,
+Strawberry Thick Shake,ProductType,4,"Inventory,Food,Restaurant,Shakes,Vegeterian,",100,"1 cup Strawberry
+
+2 cup milk
+
+2 tbsp sugar",https://drive.google.com/file/d/1ZaK58mx8FrRAvAp3gwR8fWX21Ci3L12d/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Strawberry-Thick-Shake.jpg,,,
+Strawberry Mastani,ProductType,5,"Inventory,Food,Restaurant,Shakes,Vegeterian,",120,,https://drive.google.com/file/d/1-VrZqVxwSpNRlhYrK4cz28hbVT-V4bK-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Strawberry-Mastani.jpg,,,
+Tutty Fruity Thick Shake,ProductType,6,"Inventory,Food,Restaurant,Shakes,Vegeterian,",100,,https://drive.google.com/file/d/1VCz45q1R3PLGm1F-GSUw4MoUqUIu0pG7/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Tutty-Fruity-Thick-Shake.jpg,,,
+Tutty Fruity Mastani,ProductType,7,"Inventory,Food,Restaurant,Shakes,Vegeterian,",120,,https://drive.google.com/file/d/1JfbIUsn2Z9H4Do3Vu9iqi4y8oBQVpfdm/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Tutty-Fruity-Mastani.png,,,
+Litchi Thick Shake,ProductType,8,"Inventory,Food,Restaurant,Shakes,Vegeterian,",100,,https://drive.google.com/file/d/1tlBD1TsQHCvp5FF9c8v5N5baA1OQTyWc/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/LitchiThickShake.png,,,
+Litchi Mastani,ProductType,9,"Inventory,Food,Restaurant,Shakes,Vegeterian,",120,,https://drive.google.com/file/d/1effjxYH_gDDseBQO17jCRVOIa369SB9m/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/LitchiMastani.png,,,
+Black Current Thick Shake,ProductType,10,"Inventory,Food,Restaurant,Shakes,Vegeterian,",100,,https://drive.google.com/file/d/1Fa3ieRTyUz_OP8QZkL4hSfZcQ5pEhs8P/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/BlackCurrentThickShake.jpg,,,
+Black Current Mastani,ProductType,11,"Inventory,Food,Restaurant,Shakes,Vegeterian,",120,,https://drive.google.com/file/d/1lL2f2bVHT5pTB5oHotHGcBJYnh-WKXZp/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/BlackCurrentMastani.jpg,,,
+Butter Scotch Thick Shake,ProductType,12,"Inventory,Food,Restaurant,Shakes,Vegeterian,",100,,https://drive.google.com/file/d/1Q7eq2BL5xMtnMmza3DT2LWjFB5etXKra/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ButterScotchThickShake.jpg,,,
+Butter Scotch Mastani,ProductType,13,"Inventory,Food,Restaurant,Shakes,Vegeterian,",120,,,,,,
+Pineapple Thick Shake,ProductType,14,"Inventory,Food,Restaurant,Shakes,Vegeterian,",100,,https://drive.google.com/file/d/14kOT2RH9tHG-INa-tXu7nZmtVld70nA-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Pineapple-Thick-Shake.png,,,
+Pineapple Mastani,ProductType,15,"Inventory,Food,Restaurant,Shakes,Vegeterian,",120,,,,,,
+Dry Fruits Thick Shake,ProductType,16,"Inventory,Food,Restaurant,Shakes,Vegeterian,",120,,https://drive.google.com/file/d/1qtUrpY45p5uH8twiV9vUGIjF-97P4k-S/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/DryFruitsThickShake.jpg,,,
+Dry Fruits Mastani,ProductType,17,"Inventory,Food,Restaurant,Shakes,Vegeterian,",140,,https://drive.google.com/file/d/1JGn1wpW_p4OQrQbR7o8oLV0RBRCpRgGu/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/DryFruitsMastani.jpg,,,
+Chocolate M(CADM) Thick Shake,ProductType,18,"Inventory,Food,Restaurant,Shakes,Vegeterian,",100,,https://drive.google.com/file/d/1g5UdUG3K0JWHJKAbBhYHZQgfLZWLvnAS/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/ChocolateMCADMThickShake.jpg,,,
+Chocolate M(CADM) Mastani,ProductType,19,"Inventory,Food,Restaurant,Shakes,Vegeterian,",110,,,,,,
+Chocolate B(CADB) Thick Shake,ProductType,20,"Inventory,Food,Restaurant,Shakes,Vegeterian,",110,,,,,,
+Chocolate B(CADB) Mastani,ProductType,21,"Inventory,Food,Restaurant,Shakes,Vegeterian,",130,,,,,,
+Chocolate (Kit Kat) Thick Shake,ProductType,22,"Inventory,Food,Restaurant,Shakes,Vegeterian,",120,,https://drive.google.com/file/d/1ttkPpQVDHStevfVf4jW7eIupP273SEUV/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChocolateKitKatThickShake.cms,,,
+Chocolate (Kit Kat) Mastani,ProductType,23,"Inventory,Food,Restaurant,Shakes,Vegeterian,",140,,,,,,
+Chocolate (Oreo) Thick Shake,ProductType,24,"Inventory,Food,Restaurant,Shakes,Vegeterian,",120,,https://drive.google.com/file/d/1363l5GvLI62ButRjqkODFIjZEHbXCN3M/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChocolateOreoThickShake.jpg,,,
+Chocolate (Oreo) Mastani,ProductType,25,"Inventory,Food,Restaurant,Shakes,Vegeterian,",140,,,,,,
+Chocolate (Bornbon) Thick Shake,ProductType,26,"Inventory,Food,Restaurant,Shakes,Vegeterian,",120,,,,,,
+Chocolate (Bornbon) Mastani,ProductType,27,"Inventory,Food,Restaurant,Shakes,Vegeterian,",140,,,,,,
+Brownie,ProductClass,1,"Inventory,Food,Restaurant,",,,https://drive.google.com/file/d/1EPcAxrmuJ_Bw0UWk8Ihg1YA5Q6H-9wbg/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Brownie.jpg,,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Brownie,",,,,,,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Brownie,",80,"1 cup sugar
+
+1 cup all purpose flour
+
+1/2 cup cocoa powder
+
+1/2 cup milk
+
+1 tbsp oil
+
+1/3 tsp baking powder
+
+1/4 tsp salt",https://drive.google.com/file/d/1EPcAxrmuJ_Bw0UWk8Ihg1YA5Q6H-9wbg/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Brownie.jpg,,,
+Brownie with Thick Shake,ProductType,3,"Inventory,Food,Restaurant,Brownie,Vegeterian,",120,,https://drive.google.com/file/d/1gH7oTg9mhlg2BtOIC81so0R9AgLZ_tLG/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/BrowniewithThickShake.jpg,,,
+Sizzler Brownie with Ice Cream,ProductType,4,"Inventory,Food,Restaurant,Brownie,Vegeterian,",150,"All purpose flour 2 cups
+
+Sugar 2 cups
+
+Cocoa powder 3/4 cups
+
+Salt 1 teaspoon
+
+Water 1 cup
+
+Vegetable oil 1 cup
+
+Vanilla ice cream 1 scoop
+
+Hot chocolate syrup 1/2 cup
+
+Spring Gourmet Vanilla Essence 1 teaspoon",https://drive.google.com/file/d/1_yCpCMCUdZh7SmxifOfxvdhtND7H3tLh/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food04182022/SizzlerBrowniewithIceCream.jpg,,,
+Hot Brownie With Ice Cream,ProductType,5,"Inventory,Food,Restaurant,Brownie,Vegeterian,",120,,https://drive.google.com/file/d/1TSb9by79kJK1z_S7swx0nzNOqdu-OPby/view?usp=sharing,,,,
+Beverages,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Beverages.jpg,,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Beverages,",,,,,,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Beverages,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ColdCoffee.jpg,,,
+Cold Coffee,ProductType,3,"Inventory,Food,Restaurant,Beverages,Vegeterian,",50,"Milk 1 cups
+
+Coffee 2 tsp
+
+Sugar 3 tsp
+
+Coco Powder 1 tsp
+
+Chocolate Syrup 1 tsp
+
+Ice Cubes 1 cups",https://drive.google.com/file/d/12q3woJzjR7FpBQfmLThIsX0ExUZ8wRPo/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ColdCoffee.jpg,50,,
+Dark Coffee,ProductType,4,"Inventory,Food,Restaurant,Beverages,Vegeterian,",60,,https://drive.google.com/file/d/13FMRCrdPtrjrjV67NXId41-mUNldgNxE/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/DarkCoffee.jpg,60,,
+Cold Sparkels,ProductType,5,"Inventory,Food,Restaurant,Beverages,Vegeterian,",60,,,,60,,
+Choco Crush Coffee,ProductType,6,"Inventory,Food,Restaurant,Beverages,Vegeterian,",80,,https://drive.google.com/file/d/1yM45iHuX-cWM3EBe2q10HuHM13S1F9n1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChocoCrushCoffee.jpg,,,
+Glacier Coffee (Ice Cream),ProductType,7,"Inventory,Food,Restaurant,Beverages,Vegeterian,",80,,https://drive.google.com/file/d/1E0OUdYcg2We5VWNRKTHGIokS2CneoPC9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/GlacierCoffeeIceCream.jpg,,,
+Thick Cold Coffee,ProductType,8,"Inventory,Food,Restaurant,Beverages,Vegeterian,",60,,https://drive.google.com/file/d/1xaDaKkjPBWru201DC1LT8ma_7Z0fxwgH/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ThickColdCoffee.jpg,,,
+500 ml Mineral Water,ProductType,9,"Inventory,Food,Restaurant,Beverages,Vegeterian,",10,,https://drive.google.com/file/d/1M5fns1krk_xboaEm4yv0pCUzqfzIUyGs/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/500mlMineralWater.jpg,10,,
+1000 ml Mineral Water,ProductType,10,"Inventory,Food,Restaurant,Beverages,Vegeterian,",20,,https://drive.google.com/file/d/1T8MGhAcj6D1ux_T6daBusKhnrpYLh0E_/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/1000mlMineralWater.jpg,20,,
+Cold Drink 300ml,ProductType,11,"Inventory,Food,Restaurant,Beverages,Vegeterian,",50,,https://drive.google.com/file/d/1YuczvwPdXXXQTPVAvKxGlto7-LTmSmt2/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food04182022/ColdDrink300ml.jpg,50,,
+Red Bull,ProductType,12,"Inventory,Food,Restaurant,Beverages,Vegeterian,",120,,https://drive.google.com/file/d/1lvhGLplsON2584KY98gxxUIT9GPTGyIi/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Red-Bull.jpg,120,,
+Hot Coffee,ProductType,2,"Inventory,Food,Restaurant,Beverages,Vegeterian,",40,,https://drive.google.com/file/d/1cfiDDRvwcGudhk_KsazZCi2zso-l8t3e/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/HotCoffee.jpg,,,
+Hot Chocolate Coffee,ProductType,3,"Inventory,Food,Restaurant,Beverages,Vegeterian,",50,,https://drive.google.com/file/d/1iToYSn8ZIDwXSPpxJokSxprEVcjzhlNf/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food04182022/HotChocolateCoffee.jpg,,,
+Ice Cream,ProductClass,1,"Inventory,Food,Restaurant,",,,https://drive.google.com/file/d/1qkYDEbRphUMbXzGECK6SMPvufS5OKmNi/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/IceCream.jpg,,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Beverages,",,,,,,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Beverages,",50,"Heavy whipping cream - 2 cups
+
+Condensed milk - 1&3/4 cup ( adjust to sweetness)
+
+Vanilla essence - 2 tsp",https://drive.google.com/file/d/1GK7aATh9TYsP7PtkB2LZZz2MFvvTnsBV/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VanillaIceCream.jpg,50,,
+Butterscotch Ice Cream,ProductType,3,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",50,"Powdered sugar 2 tbsp
+
+Milk powder 2 tbsp
+
+Chopped chashew and almond nuts 1 tbsp
+
+Sugar 3 tbsp
+
+Butterscotch essence 1 tsp
+
+Butter 1 tbsp
+
+Cream 1 cups",https://drive.google.com/file/d/1OmVwWWpp-I5NkeTGpbc4MKub0QdimcUL/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ButterscotchIceCream.jpg,50,,
+Mango Ice Cream,ProductType,4,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",50,"Condensed Milk 1 cups
+
+Mango Pulp 2 cups
+
+Fresh Cream 1/2 cups
+
+Milk 2 cups
+
+Chopped Dry Fruits 3 nos",https://drive.google.com/file/d/1uqPSpgSPzXUjCg8HRC_bT9Pu8KSeUOT5/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MangoIceCream.jpg,50,,
+Strawberry Ice Cream,ProductType,5,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",50,"Sweetened Condensed Milk 400 gms
+
+Fresh Strawberries 10 nos
+
+Fresh Cream 3 gms",https://drive.google.com/file/d/1OjhtOcogtVerazjOYpKXg7y_kYaViLP8/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/StrawberryIceCream.jpg,50,,
+Chocolate Ice Cream,ProductType,6,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",70,"banana 2 nos
+
+suger 3 tsp
+
+cream 4 tsp
+
+milk 1 cups
+
+vanila essance 2 drop
+
+chocklate ke tukde 2 tsp",https://drive.google.com/file/d/1qR9msM6wEtvcjWBbzrZExguz6aeMfmaA/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChocolateIceCream.jpg,70,,

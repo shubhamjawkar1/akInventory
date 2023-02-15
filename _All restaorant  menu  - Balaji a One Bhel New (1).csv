@@ -1,0 +1,73 @@
+label,nodeType,order,path,price,description,ingredients,link,imageLink,Swiggy ,Zomato
+Snacks,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/img/Smiley.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Snacks,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Snacks,",,,,,,,
+Panipuri,ProductType,4,"Inventory,Food,Restaurant,Snacks,Vegeterian,",20,,"chilli powder  ,potatoes, boiled and pealed,
+chikpea, soaked and cooked,cumin powder,
+salt,chaat masala ,dry mango powder,
+coriander leaves ,ginger  piece,green chilli,
+tamarind juice  ",https://drive.google.com/file/d/1IrpQZM017KHYCpzPK0sinEjqtxJg8PxB/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Panipuri.jpg,,25
+Sukki Puri,ProductType,5,"Inventory,Food,Restaurant,Snacks,Vegeterian,",20,,,https://drive.google.com/file/d/12VBmWiOUFNbMmcgoV9qc4bWKrEXZMc4X/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/SukkiPuri.jpg,,
+Bhel,ProductType,6,"Inventory,Food,Restaurant,Snacks,Vegeterian,",25,,"Puffed rice,Tomato,Onion,
+Coriander finely,
+Red chilli powder,Salt,
+Lemon juice  ,Small sev,
+Chat masala  ,Garam masala",https://drive.google.com/file/d/1ifsuZmYM-sxTt_rj3Y2DZ5uV3IzFncWt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Bhel.jpg,,25
+Kachori,ProductType,7,"Inventory,Food,Restaurant,Snacks,Vegeterian,",25,,"All Purpose Flour,Oil,Salt  ,
+Lemon juice  ,Filling:Chana Daal ,Gram Daal,Yellow Moong Daal,Yellow Bean Sprouts, salt,turmeric powder,water,Green peas,boiled in daal,Coconut grated,Mustard seeds  ",https://drive.google.com/file/d/1JBgQ5i-9Fkw4ZmnUszDkkS5R4G5fEYbg/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Kachori.jpg,,25
+Sukki Bhel,ProductType,8,"Inventory,Food,Restaurant,Snacks,Vegeterian,",20,,"Murmure bhel,Onion,Tomato ,Capsicum,Salt,Red chilly powder,Peanuts Oil  teaspoon",https://drive.google.com/file/d/1IXzaTF8s6DvEum5XhSroOdldjpgFfKnZ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/SukkiBhel.jpg,,25
+Sukki Kachori,ProductType,9,"Inventory,Food,Restaurant,Snacks,Vegeterian,",20,," maida,  ghee for moyan,  salt,
+  black salt,  urad dal soaked,
+  red chilli pwd,  chaat masala,
+ jeera powder,  heeng,  whisked curd,
+  tamarind chutney,  green chutney",https://drive.google.com/file/d/1_t6PJyuad-8MIO4dGg4iLwsYUE25Qf9v/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/SukkiKachori.jpg,,25
+Shev Puri,ProductType,10,"Inventory,Food,Restaurant,Snacks,Vegeterian,",25,,"flat crisp puris or papdis  ,sev or add,medium to large potatoes, boiled and chopped,medium onion, finely chopped  ,
+medium tomato, finely chopped  ,
+s chopped coriander leaves  ,green chili  chopped  ,spicy mint coriander chutney   s,sweet tamarind dates chutney   s,
+red chili powder  ,roasted cumin powder  ",https://drive.google.com/file/d/1OnNtCPQSGUwT9Kh_E7a9mihV9xkiAX9k/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Shevpuri.jpg,,25
+Spl Panipuri,ProductType,11,"Inventory,Food,Restaurant,Snacks,Vegeterian,",30,,,https://drive.google.com/file/d/1I9BnMD6qoS3hv8Yl_s59FXzi-kchAMT0/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/SplPanipuri.jpg,,
+Kachori Bhel,ProductType,12,"Inventory,Food,Restaurant,Snacks,Vegeterian,",30,," puffed rice, potatoes boiled and cubed,
+ chopped onion, chopped green chillies,
+ chopped greated ginger, boiled kala chana,
+ yellow chole chana, boiled yellow chick peas, green beans moong, curd,
+ green chutny, tamarind chutny",https://drive.google.com/file/d/1RoXxGE8pNpQgcw7zQfUbljsXHTG1105Z/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/KachoriBhel.jpg,,
+Spl Kachori,ProductType,13,"Inventory,Food,Restaurant,Snacks,Vegeterian,",30,,,https://drive.google.com/file/d/1ZNB6tRCM_vA71eO5sxsEPLOx-zlJn7EM/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/SplKachori.jpg,,30
+Ragda Bhel,ProductType,14,"Inventory,Food,Restaurant,Snacks,Vegeterian,",30,,"  Dried Green Peas Dried White Peas, medium Onions, chopped, Garlic cloves, minced,
+ small Potatoes, boiled and chopped into small pieces,
+ medium Tomatoes, finely chopped, teaspoon Garam Masala, teaspoons Red Chili Powder, teaspoon Coriander Powder, teaspoons Lemon Juice,
+ teaspoons Jaggery (gur) or Sugar",https://drive.google.com/file/d/1PjgwqkCkpIjAyzM57L84rQLiPNwdsLvQ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/RagdaBhel.jpg,,
+Ragda Kachori,ProductType,15,"Inventory,Food,Restaurant,Snacks,Vegeterian,",30,,,https://drive.google.com/file/d/1_gGmQBtkGCrVMrYMkvKIf4_iJtHVhzUt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Ragda-Kachori.jpg,,
+Dabeli,ProductType,16,"Inventory,Food,Restaurant,Snacks,Vegeterian,",30,,"boiled potatoes mashed, pomegranate seeds,
+ peanuts, small onion chopped,th   no.sev,
+ tamarind chutney,rd  water,
+ pav bhaji masala, salt, Garlic tomato sauce,
+ red chilli powder,pavs",https://drive.google.com/file/d/1ez_eS6pQ_O7svbNLhw87e3bCJ7OFHIMG/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Dabeli.jpg,,30
+Cheese Dabheli,ProductType,17,"Inventory,Food,Restaurant,Snacks,Vegeterian,",40,,,https://drive.google.com/file/d/1klqCocc3vltUOe871Tf8--REAk4wnBHp/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/CheeseDabheli.jpg,,40
+Butter Dabheli,ProductType,18,"Inventory,Food,Restaurant,Snacks,Vegeterian,",40,,,,,,
+Breakfast,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Breakfast.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Breakfast,",,,,,,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Breakfast,",,,,,,,
+Pav Bhaji,ProductType,4,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",40,,"  Oil,  Butter,  Garlic chopped,
+Green Chilly  chopped,Onion   chopped,
+to taste Salt or  ,Tricolor Bell pepper   chopped,
+  Cauliflower florets,  Carrot chopped,
+Peas  (I have used frozen),  Turmeric,
+  Chilly powder",https://drive.google.com/file/d/1k_uUCECpwnv5CmChzGwV97KAx-OjujZx/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/PavBhaji.jpg,,40
+Butter Pav Bhaji,ProductType,5,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",50,,"Boiled and mashed potatoes ,Chopped Tomato ,
+Fine chopped onions ,Peas ,Chopped carrot ,
+Chopped spring onions  ,Gratted Beetroot  ,
+Cauliflower ,Chopped capsicum ,
+Chopped cabbage  ,Lemon juice  ,
+Chopped corriander leaves  ",https://drive.google.com/file/d/1N-maGiocBLWQslkOppBkMkUIx3Hmp7ON/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/ButterPavBhaji.jpg,,50
+Cheese Pav Bhaji,ProductType,6,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",50,,"onion finely chopped  ,garlic paste  ,
+tomato  puree  ,small potato boiled  ,
+finely chopped carrot  ,finely chopped cabbage  ,finely chopped cauliflower  ,boiled green peas  ,finely chopped capsicum  ,Salt to taste  ,red chilli powder  ,pav bhaji masala  ",https://drive.google.com/file/d/1gjL6a4ltx1oCxoC4q-OU3DlxU2GebEvl/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/CheesePavBhaji.jpg,,60
+Masala Pav,ProductType,7,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",30,," Bread pav,  clarified butter(ghee),
+  ginger garlic and green chilli paste,
+  pav bhaji masala, onion finely chopped,
+ tomato finely chopped, green capsicum finely chopped, lemon,  finely chopped coriander leaves,  red chilli powder,  salt,  black pepper powder",https://drive.google.com/file/d/1hlPAKukVuC00dFC-zteog7nNORmSUdEt/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MasalaPav.jpg,,
+Papadi Chat,ProductType,8,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",30,," papdi, big size potatoes boiled,
+big size tomato fine chopped, Boil black chana,
+small  sauth,small  green chutney,
+ dahi, anardana, sav,
+ chat masala, red chilli powder",https://drive.google.com/file/d/1q178n81Qjee-kWicdBtKQZZJD_mGfG0O/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/PapadiChat.jpg,,

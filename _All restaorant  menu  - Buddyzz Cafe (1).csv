@@ -1,0 +1,194 @@
+label,nodeType,order,path,price,description,link,imageLink
+Beverages,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Beverages.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Beverages,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Beverages,",,,,
+Cold Coffee,ProductType,4,"Inventory,Food,Restaurant,Beverages,Vegeterian,",,,https://drive.google.com/file/d/12q3woJzjR7FpBQfmLThIsX0ExUZ8wRPo/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ColdCoffee.jpg
+Kaffe,ProductType,5,"Inventory,Food,Restaurant,Beverages,Vegeterian,",50,,,
+White Kaffe,ProductType,6,"Inventory,Food,Restaurant,Beverages,Vegeterian,",70,,,
+Kaffe With Ice Cream,ProductType,7,"Inventory,Food,Restaurant,Beverages,Vegeterian,",80,,,
+Moka Kaffe,ProductType,8,"Inventory,Food,Restaurant,Beverages,Vegeterian,",80,,https://drive.google.com/file/d/1avAMcnDASGNHoYPYBiHxYtwjrdxWYM25/view?usp=sharing,
+Irish,ProductType,9,"Inventory,Food,Restaurant,Beverages,Vegeterian,",90,,https://drive.google.com/file/d/1yy4s1Hc0e9tYvY_I0mwFYToqSlldf39N/view?usp=sharing,
+Eclairs,ProductType,10,"Inventory,Food,Restaurant,Beverages,Vegeterian,",100,,,
+Jamacon,ProductType,11,"Inventory,Food,Restaurant,Beverages,Vegeterian,",110,,,
+Caramel,ProductType,12,"Inventory,Food,Restaurant,Beverages,Vegeterian,",120,,https://drive.google.com/file/d/17cq8c2-Ss3x6VbJ_tesUhLuSWiFTbRnd/view?usp=sharing,
+5 Star,ProductType,13,"Inventory,Food,Restaurant,Beverages,Vegeterian,",130,,,
+Black Forest,ProductType,14,"Inventory,Food,Restaurant,Beverages,Vegeterian,",140,,https://drive.google.com/file/d/1tR6fwzAKgv7ca9NID_pvaXhonN4-0-ai/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/BlackForest.jpg
+Coffee,ProductType,15,"Inventory,Food,Restaurant,Beverages,Vegeterian,",50,,https://drive.google.com/file/d/1Euh2dH6rEeREBGnpoYhanuCocHz7zE4U/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Coffee.jpg
+Expreso,ProductType,16,"Inventory,Food,Restaurant,Beverages,Vegeterian,",70,,https://drive.google.com/file/d/11KB3-Jt3EZ_2Sp_kYcSpBYg-IXETUzJz/view?usp=sharing,
+Americano,ProductType,17,"Inventory,Food,Restaurant,Beverages,Vegeterian,",70,,,
+Kaffe Latte,ProductType,18,"Inventory,Food,Restaurant,Beverages,Vegeterian,",80,,https://drive.google.com/file/d/1PNF_G0zWHbIoDj8f0T5tDZt3MZ9D434_/view?usp=sharing,
+Coffee With Bread Butter,ProductType,19,"Inventory,Food,Restaurant,Beverages,Vegeterian,",80,,,
+Espreso Kon Panna,ProductType,20,"Inventory,Food,Restaurant,Beverages,Vegeterian,",90,,,
+Kaffe Mocha,ProductType,21,"Inventory,Food,Restaurant,Beverages,Vegeterian,",100,,https://drive.google.com/file/d/1ly2HxLtu7K7ipVJZzmoopjUYjz4HJ9K3/view?usp=sharing,
+Hazelnut Latte,ProductType,22,"Inventory,Food,Restaurant,Beverages,Vegeterian,",110,,https://drive.google.com/file/d/1unYnTsf4V8TZsF23sAl2XbCE9jJLvflR/view?usp=sharing,
+After Dinner Mint Delight,ProductType,23,"Inventory,Food,Restaurant,Beverages,Vegeterian,",120,,,
+Caramel Latte,ProductType,24,"Inventory,Food,Restaurant,Beverages,Vegeterian,",130,,https://drive.google.com/file/d/1KwuQJDIXkTUyXtiSN4S1nlx_tIRcCvkU/view?usp=sharing,
+Cappuccino Latte,ProductType,25,"Inventory,Food,Restaurant,Beverages,Vegeterian,",140,,,
+Thick Milk Shake,ProductClass,1,"Inventory,Food,Restaurant,",,,https://drive.google.com/file/d/1NFFg82z0hkajuFA8kdBHM8C1ba3Zy2aK/view?usp=sharing,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Thick Milk Shake,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Thick Milk Shake,",,,,
+Mango Thick Milk Shake,ProductType,4,"Inventory,Food,Restaurant,Thick Milk Shake,Vegeterian,",110,,https://drive.google.com/file/d/1ebHOMGdQ7uJ4ZHZ3UgBDBNVb2T4rBmg6/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/MangoThickMilkshake.jpg
+Chocolate Thick Milk Shake,ProductType,5,"Inventory,Food,Restaurant,Thick Milk Shake,Vegeterian,",110,,https://drive.google.com/file/d/1i77sbngmVx0oJM_OJxhq5wCevGov2dP2/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/ChocolateThickMilkshake.jpg
+Sitafal Thick Milk Shake,ProductType,6,"Inventory,Food,Restaurant,Thick Milk Shake,Vegeterian,",110,,https://drive.google.com/file/d/1nepxcUzqR6eUrS-o5k1sARTA-8kVJRE2/view?usp=sharing,
+Pineapple Thick Milk Shake,ProductType,7,"Inventory,Food,Restaurant,Thick Milk Shake,Vegeterian,",110,,https://drive.google.com/file/d/1WO-tWaGRi0o5Te4jS2Ul3VLOlkoSgbgx/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/PineappleThickMilkshake.jpg
+Strawberry Thick Milk Shake,ProductType,8,"Inventory,Food,Restaurant,Thick Milk Shake,Vegeterian,",110,,https://drive.google.com/file/d/1i-66U_7ov4zqSoym4-BKWJQhmphVUft1/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/StrawberryThickMilkshake.jpg
+Litchi Thick Milk Shake,ProductType,9,"Inventory,Food,Restaurant,Thick Milk Shake,Vegeterian,",120,,https://drive.google.com/file/d/1PE48RROtFgfx9wmLbW4CCTwQA0tD5CPc/view?usp=sharing,
+Anjeer Thick Milk Shake,ProductType,10,"Inventory,Food,Restaurant,Thick Milk Shake,Vegeterian,",120,,https://drive.google.com/file/d/1QiFGUEDYVRE_Zmg0oePcDMvnJu1yL_9q/view?usp=sharing,
+Kesar Dry Fruit Thick Milk Shake,ProductType,11,"Inventory,Food,Restaurant,Thick Milk Shake,Vegeterian,",120,,https://drive.google.com/file/d/1pksTCcyu_xslrVcABJX-GMMxJzpheVr7/view?usp=sharing,
+Oreo Thick Milk Shake,ProductType,12,"Inventory,Food,Restaurant,Thick Milk Shake,Vegeterian,",140,,https://drive.google.com/file/d/1pssTa13_iykGVmDT7Lr_7fH7bFUcLZmW/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/OreoThickMilkshake.jpg
+Browni Kaffe Thick Milk Shake,ProductType,13,"Inventory,Food,Restaurant,Thick Milk Shake,Vegeterian,",140,,,
+Ice Cream,ProductClass,1,"Inventory,Food,Restaurant,",,,https://drive.google.com/file/d/1qkYDEbRphUMbXzGECK6SMPvufS5OKmNi/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/IceCream.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Ice Cream,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Ice Cream,",,,,
+Choco Cream,ProductType,4,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",120,,https://drive.google.com/file/d/1hRGzd-nmhi0m2D_CJrRHh2QKTdHYLiwm/view?usp=sharing,
+White Choco Cream,ProductType,5,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",120,,,
+Day & Night,ProductType,6,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",130,,,
+Nutella,ProductType,7,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",130,,https://drive.google.com/file/d/1Z_Zovegzec8maoaE5hifVraLUv0tXfIf/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/grocerylatest/NUTELLA.jpg
+Ferrero,ProductType,8,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",130,,https://drive.google.com/file/d/1H0Ah-Dr5l_M681CvG4bqvbMHOFf29fFA/view?usp=sharing,
+Dryfruite,ProductType,9,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",140,,https://drive.google.com/file/d/1HC4DHlnk598tT2gp4vi9fKcrM2oImqa-/view?usp=sharing,
+Kitkat,ProductType,10,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",140,,,
+Black Forest,ProductType,11,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",150,,https://drive.google.com/file/d/1tR6fwzAKgv7ca9NID_pvaXhonN4-0-ai/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/BlackForest.jpg
+5 Star,ProductType,12,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",150,,,
+Oreo,ProductType,13,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",150,,https://drive.google.com/file/d/1eDyRvTr7NiF_eIW9g4MoYCMzU5rHoOSF/view?usp=sharing,
+Belgium,ProductType,14,"Inventory,Food,Restaurant,Ice Cream,Vegeterian,",150,,https://drive.google.com/file/d/1GFmIh6ayw4FAJy_Aa-OC8xrePrbQLMoA/view?usp=sharing,
+Mastani,ProductClass,1,"Inventory,Food,Restaurant,",,,https://drive.google.com/file/d/1eq3bCCXKRxUzQh-Z-1HSdykhPW8SDxQL/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant7/mastani.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Mastani,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Mastani,",,,,
+Mango Mastani,ProductType,4,"Inventory,Food,Restaurant,Mastani,Vegeterian,",130,,https://drive.google.com/file/d/1x1W3-4w0CLGLlbwKYCXVTc1dCDP448KA/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MangoMastani.jpg
+Strawberry Mastani,ProductType,5,"Inventory,Food,Restaurant,Mastani,Vegeterian,",130,,https://drive.google.com/file/d/1-VrZqVxwSpNRlhYrK4cz28hbVT-V4bK-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Strawberry-Mastani.jpg
+Anjeer Mastani,ProductType,6,"Inventory,Food,Restaurant,Mastani,Vegeterian,",140,,https://drive.google.com/file/d/1Gx5ChC87qx1bmj_WUesEM32NeGUDIknb/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food-20220310/AnjeerMastani.jpg
+Mix Fruit Mastani,ProductType,7,"Inventory,Food,Restaurant,Mastani,Vegeterian,",140,,https://drive.google.com/file/d/1VQRdDDWtxzx-5JvOUAcOxI5n8WrNJSFJ/view?usp=sharing,
+Chocolate Mastani,ProductType,8,"Inventory,Food,Restaurant,Mastani,Vegeterian,",140,,https://drive.google.com/file/d/1SofbABMDvQhAQN6Jr5mHXizE0C-mgjJb/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220212/ChocolateMastani.jpg
+Pineapple Mastani,ProductType,9,"Inventory,Food,Restaurant,Mastani,Vegeterian,",140,,,
+Dryfruit Mastani,ProductType,10,"Inventory,Food,Restaurant,Mastani,Vegeterian,",150,,https://drive.google.com/file/d/1uRrv-3hlXoJ9mpA1QluLcOh_mUdbtmZT/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/DryFruitMastani.jpg
+Frappe,ProductClass,1,"Inventory,Food,Restaurant,",,,https://drive.google.com/file/d/1kTffB0EK1VJBDNvptHoG18S4SGGAC2Bl/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant7/Frappe.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Frappe,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Frappe,",,,,
+Vanila Frappe,ProductType,4,"Inventory,Food,Restaurant,Frappe,Vegeterian,",130,,https://drive.google.com/file/d/1S1qN8RDkg4a7RZbMKEUmUx3CRiJwnSfX/view?usp=sharing,
+Caramel Frappe,ProductType,5,"Inventory,Food,Restaurant,Frappe,Vegeterian,",150,,https://drive.google.com/file/d/1WMhztPpVBTuCrGQ7ceKg1crYh8T0VI2O/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220907/CaramelWaffle.jpg
+Raspberry Frappe,ProductType,6,"Inventory,Food,Restaurant,Frappe,Vegeterian,",150,,https://drive.google.com/file/d/1JTPicdXf26c52ERg2Wq_4HPiIht7GPRN/view?usp=sharing,
+Moka Cookie Caramel Frappe,ProductType,7,"Inventory,Food,Restaurant,Frappe,Vegeterian,",170,,https://drive.google.com/file/d/1AAHCa13lxbVjAbr4itj0HvekAVSDCctt/view?usp=sharing,
+Brownie Frappe,ProductType,8,"Inventory,Food,Restaurant,Frappe,Vegeterian,",190,,https://drive.google.com/file/d/1P3hkHV2duqUeQx-sncDnVcOBoNRT2s4a/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220907/BrownieFrappe.jpg
+Freak Shakes,ProductClass,1,"Inventory,Food,Restaurant,",,,https://drive.google.com/file/d/19J6JZW2txlnLW0d8KJZ-2SWvDaHj8CA7/view?usp=sharing,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Freak Shakes,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Freak Shakes,",,,,
+Vanila Freak Shake,ProductType,4,"Inventory,Food,Restaurant,Freak Shakes,Vegeterian,",160,,,
+Strawberry Freak Shake,ProductType,5,"Inventory,Food,Restaurant,Freak Shakes,Vegeterian,",160,,https://drive.google.com/file/d/13gvwJ4rHpTLdbqtFr67uL0uya6JijlUL/view?usp=sharing,
+Chocolate Exclusive Shake,ProductType,6,"Inventory,Food,Restaurant,Freak Shakes,Vegeterian,",180,,https://drive.google.com/file/d/1ID7vs6w0EZiGOfw_tw2aVZ54kgqLbmtv/view?usp=sharing,
+Mango Freak Shake,ProductType,7,"Inventory,Food,Restaurant,Freak Shakes,Vegeterian,",190,,https://drive.google.com/file/d/1B_7npLhdusfTbV61Zgt1V5SpKEkunU3C/view?usp=sharing,
+Nutty Nuttela Shake,ProductType,8,"Inventory,Food,Restaurant,Freak Shakes,Vegeterian,",200,,,
+Kitkat Freak Shake,ProductType,9,"Inventory,Food,Restaurant,Freak Shakes,Vegeterian,",220,,https://drive.google.com/file/d/10Z7aeIBF9dAhlPcOwVr4OuE0Kz3cEp2F/view?usp=sharing,
+Dryfruit Freak Shake,ProductType,10,"Inventory,Food,Restaurant,Freak Shakes,Vegeterian,",240,,https://drive.google.com/file/d/1TuNJbI8gvXZ0A3ZUp14_LGjlbcS1aRuC/view?usp=sharing,
+Oreo Freak Shake,ProductType,11,"Inventory,Food,Restaurant,Freak Shakes,Vegeterian,",260,,https://drive.google.com/file/d/1KCrRMuhwi-Ong_ZG3C60bukMXS_onhyB/view?usp=sharing,
+Browni Freak Shake,ProductType,12,"Inventory,Food,Restaurant,Freak Shakes,Vegeterian,",280,,,
+Veg Pizza,ProductClass,1,"Inventory,Food,Restaurant,",,,https://drive.google.com/file/d/1NJ0EHPEnsfZsLMeplK8nK_1AmjeYgoJJ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegPizza.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Veg Pizza,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Veg Pizza,",,,,
+Corn Paneer Pizza,ProductType,4,"Inventory,Food,Restaurant,Veg Pizza,Vegeterian,",150,,https://drive.google.com/file/d/1lU2Cfm2IZjCja1jwoGkPB7Ka3iYBy1ka/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/BigChocolatePizza.jpg
+Chocolate Pizza,ProductType,5,"Inventory,Food,Restaurant,Veg Pizza,Vegeterian,",150,,https://drive.google.com/file/d/1eeaaBBIIAgG4tWPEQgXhTh2hS-HbM4-Q/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChocolatePizza.jpg
+Tandoori Paneer Pizza,ProductType,6,"Inventory,Food,Restaurant,Veg Pizza,Vegeterian,",160,,https://drive.google.com/file/d/1cEBSKoVa2Km5N561EZJ1ubU9rj5WqHtN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Tandoori-Paneer-Pizza.jpg
+Schezwan Paneer Pizza,ProductType,7,"Inventory,Food,Restaurant,Veg Pizza,Vegeterian,",170,,https://drive.google.com/file/d/1xb940NjS5H3kM3VE8TyTuwQWX9favviP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food211221/SchezwanPaneerPizza.jpg
+Baby Corn Pizza,ProductType,8,"Inventory,Food,Restaurant,Veg Pizza,Vegeterian,",180,,https://drive.google.com/file/d/1CG3VfNMRJlDJm6fZZBGrdGdY1Uxt_AL7/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/BabyCornPizza.jpg
+Paneer Makhani Pizza,ProductType,9,"Inventory,Food,Restaurant,Veg Pizza,Vegeterian,",180,,https://drive.google.com/file/d/1Dpd5fFdbLviMBjrKqxQpvDMOKj0yh9LP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/img/PaneerMakhaniPizza.jpg
+Mushroom Pizza,ProductType,10,"Inventory,Food,Restaurant,Veg Pizza,Vegeterian,",190,,https://drive.google.com/file/d/17Y0M3ohDa80ytB2RQqwzXmaFidzmbIyo/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MushroomPizza.jpg
+Peri Peri Pizza,ProductType,11,"Inventory,Food,Restaurant,Veg Pizza,Vegeterian,",180,,https://drive.google.com/file/d/1I2L0EZob4vW8y83bY7vDrH6Pi01Tk_04/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PeriPeriPizza.jpg
+Chocolate Choco Chips Pizza,ProductType,12,"Inventory,Food,Restaurant,Veg Pizza,Vegeterian,",190,,https://drive.google.com/file/d/1YxpvD3m4SU-laeLyk2i7_5kHxv8Gb10s/view?usp=sharing,
+Chocolate Caramel Pizza,ProductType,13,"Inventory,Food,Restaurant,Veg Pizza,Vegeterian,",200,,,
+Margherita Pizza,ProductType,14,"Inventory,Food,Restaurant,Veg Pizza,Vegeterian,",130,,https://drive.google.com/file/d/1KXIyjmMNTjfzRPrpG1lV1FB59-ItEwbd/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MargheritaPizza.jpg
+Corn Paneer Pizza,ProductType,15,"Inventory,Food,Restaurant,Veg Pizza,Vegeterian,",140,,https://drive.google.com/file/d/1lU2Cfm2IZjCja1jwoGkPB7Ka3iYBy1ka/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/BigChocolatePizza.jpg
+Schezwan Pizza,ProductType,16,"Inventory,Food,Restaurant,Veg Pizza,Vegeterian,",140,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food1/SchezwanPizza.jpg
+Tomatino Pizza,ProductType,17,"Inventory,Food,Restaurant,Veg Pizza,Vegeterian,",140,,https://drive.google.com/file/d/1p2CbGrGk9UsWX7uvGdGu13b1WsCetD7J/view?usp=sharing,
+Peppy Paneer Pizza,ProductType,18,"Inventory,Food,Restaurant,Veg Pizza,Vegeterian,",140,,https://drive.google.com/file/d/1aVEGBrH4HGheoYmf8KI5LsVGxtWGVLRJ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food211221/PeppyPaneerPizza.jpg
+BBQ Pizza,ProductType,19,"Inventory,Food,Restaurant,Veg Pizza,Vegeterian,",150,,https://drive.google.com/file/d/1TQv3XXEG4rJbgFJMfyzaVnS_pQ4S8eqw/view?usp=sharing,
+Mexican Pizza,ProductType,20,"Inventory,Food,Restaurant,Veg Pizza,Vegeterian,",150,,https://drive.google.com/file/d/18WYeiymPBNdiz17l3XV1_nl3GJ1VAc4v/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MexicanPizza.jpg
+Garlic Onion Pizza,ProductType,21,"Inventory,Food,Restaurant,Veg Pizza,Vegeterian,",160,,https://drive.google.com/file/d/1_1zvvSPYyk_MKPJRKepQy1LzfdKzLFwn/view?usp=sharing,
+Buddyzz Special Pizza,ProductType,22,"Inventory,Food,Restaurant,Veg Pizza,Vegeterian,",220,,,
+Momos,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/CheeseCornMomos.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Momos,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Momos,",,,,
+Veg Momos,ProductType,4,"Inventory,Food,Restaurant,Momos,Vegeterian,",80,,https://drive.google.com/file/d/1S-bZcPU3vSXHjz8JqACQFG5VMAHoUvJA/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/VegMomos.jpg
+Paneer Momos,ProductType,5,"Inventory,Food,Restaurant,Momos,Vegeterian,",93,,https://drive.google.com/file/d/1s_7jGB2QYSZyCxyyaMJasbA0g7061IPB/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerMomos.jpg
+Cheese Momos,ProductType,6,"Inventory,Food,Restaurant,Momos,Vegeterian,",100,,,
+Schezwan Momos,ProductType,7,"Inventory,Food,Restaurant,Momos,Vegeterian,",100,,https://drive.google.com/file/d/1z9-VwDzb9EB9oVXobquTAOg_-UICzW3r/view?usp=sharing,
+Manchurian Momos,ProductType,8,"Inventory,Food,Restaurant,Momos,Vegeterian,",100,,https://drive.google.com/file/d/1we05W-6-8eLNRSfR3LNxasSS05JbhGqS/view?usp=sharing,
+Buddyzz Special Momos,ProductType,9,"Inventory,Food,Restaurant,Momos,Vegeterian,",120,,,
+Appetizers,ProductClass,1,"Inventory,Food,Restaurant,",,,https://drive.google.com/file/d/16wQxUUGeqGxlE3jdhEUkXXto7JaVniXi/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220306/Appetizers.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Appetizers,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Appetizers,",,,,
+Fries,ProductType,4,"Inventory,Food,Restaurant,Appetizers,Vegeterian,",70,,https://drive.google.com/file/d/15PKFi42PpHzYRDPF5fKE5IeaSx6QUMYl/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Fries.jpg
+Masala Fries,ProductType,5,"Inventory,Food,Restaurant,Appetizers,Vegeterian,",80,,https://drive.google.com/file/d/1sbGFfcbLEpWBEussjAiV6sD4AGax8O8I/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MasalaFries.jpg
+Peri Peri Fries,ProductType,6,"Inventory,Food,Restaurant,Appetizers,Vegeterian,",90,,https://drive.google.com/file/d/1Xca3b3wbJDb1PAW3FCV9gz2n_PJ_nMGj/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PeriPeriFries.jpg
+BBQ Fries,ProductType,7,"Inventory,Food,Restaurant,Appetizers,Vegeterian,",90,,https://drive.google.com/file/d/1sakiSxydXyGHQEsl_yoebC0q0tTwdzPt/view?usp=sharing,
+Tandoori Fries,ProductType,8,"Inventory,Food,Restaurant,Appetizers,Vegeterian,",100,,https://drive.google.com/file/d/1oHHX2-_StGKFp2DrZz6x7wF2yuiO098u/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/TandooriFries.jpg
+Schezwan Fries,ProductType,9,"Inventory,Food,Restaurant,Appetizers,Vegeterian,",100,,https://drive.google.com/file/d/1rbkBO0nAfQliYZtNW9v0JoKEZ9YVHf0V/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/SchezwanFries.jpg
+Salsa Mexican Fries,ProductType,10,"Inventory,Food,Restaurant,Appetizers,Vegeterian,",100,,https://drive.google.com/file/d/1g1VQknenonrTRx49dnwfEhvVge5Arb1B/view?usp=sharing,
+Chilli Garlic Fries,ProductType,11,"Inventory,Food,Restaurant,Appetizers,Vegeterian,",110,,https://drive.google.com/file/d/12BOKKhr0u7OKNfmM_spi5FNuwzLCtpVZ/view?usp=sharing,
+Buddyzz Special Fries,ProductType,12,"Inventory,Food,Restaurant,Appetizers,Vegeterian,",120,,https://drive.google.com/file/d/1B1tb2xdhl_gMFhakjhy70UceZtfTJlgF/view?usp=sharing,
+Burger,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Burger.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Burger,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Burger,",,,,
+Veg Burger,ProductType,4,"Inventory,Food,Restaurant,Burger,Vegeterian,",70,,https://drive.google.com/file/d/1d4T4ocGTOibUjikI_CZrc4fkIRChDq8d/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Burger.jpg
+Cheese Burger,ProductType,5,"Inventory,Food,Restaurant,Burger,Vegeterian,",90,,https://drive.google.com/file/d/17tjEKk0Js0ihvdynVmKov5ZKWUmFvjAW/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/CheeseBurger.jpg
+Mayo Burger,ProductType,6,"Inventory,Food,Restaurant,Burger,Vegeterian,",80,,https://drive.google.com/file/d/1o5eeS70UJZxDj8UUhdGePMmI-56I2Wez/view?usp=sharing,
+Schezwan Burger,ProductType,7,"Inventory,Food,Restaurant,Burger,Vegeterian,",80,,https://drive.google.com/file/d/1jM6gSOcmk6buy7fqsOaCQdOrS3WkqvwP/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Schezwan-Burger.jpg
+Paneer Burger,ProductType,8,"Inventory,Food,Restaurant,Burger,Vegeterian,",90,,https://drive.google.com/file/d/1zje18o_gk0sCo3Nt9PK7QexWDqEjCkvO/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerBurger.jpg
+Cheese Corn Burger,ProductType,9,"Inventory,Food,Restaurant,Burger,Vegeterian,",100,,https://drive.google.com/file/d/1e1QDFv2udSspHiS49ODQM-0WtMMp2kRS/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/cornburger.jpg
+Desi Burger,ProductType,10,"Inventory,Food,Restaurant,Burger,Vegeterian,",90,,https://drive.google.com/file/d/14vB44NNO3aQ5MALYTEtt7yIJN9rIFD49/view?usp=sharing,
+Peri Peri Burger,ProductType,11,"Inventory,Food,Restaurant,Burger,Vegeterian,",100,,https://drive.google.com/file/d/1P0eX6NzzsO2HAmVFIfM9gcL60atJeBFC/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food1/PeriPeriBurger.jpg
+Mexican Burger,ProductType,12,"Inventory,Food,Restaurant,Burger,Vegeterian,",100,,https://drive.google.com/file/d/1WTISml1NFNJUfkSrNdruD_VNiV4RPKpY/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food1/MexicanBurger.jpg
+Manchurian Burger,ProductType,13,"Inventory,Food,Restaurant,Burger,Vegeterian,",110,,https://drive.google.com/file/d/1Dbu_w59XJFD05sybHFFmzaJqphDDTaxt/view?usp=sharing,
+Buddyzz Special Burger,ProductType,14,"Inventory,Food,Restaurant,Burger,Vegeterian,",120,,https://drive.google.com/file/d/1F7N6CIq42I3nqfS1VuyViazeRF8rarbz/view?usp=sharing,
+Grilled Sandwich,ProductClass,1,"Inventory,Food,Restaurant,",,,https://drive.google.com/file/d/1SlsTlyhf9GK7x2o6o_bFGOjVDKwulYzN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/img/GrilledSandwich.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Grilled Sandwich,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Grilled Sandwich,",,,,
+Veg Chilli,ProductType,4,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",80,,https://drive.google.com/file/d/1D9p-R2wrUPDWZJkAY5X_wRs1dBdt3dKR/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegChilli.jpg
+Mayo Chilli,ProductType,5,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",90,,https://drive.google.com/file/d/1iYjWKeynRLyTr6tuKxHhqyT1TuN1i2tD/view?usp=sharing,
+Schezwan Grilled Sandwich,ProductType,6,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",90,,https://drive.google.com/file/d/1u6txwP_5DtLV7bRdcNzdwQQNEGotfGJq/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food01092022/SchezwanGrilledSandwich.jpg
+Tandoori Grilled Sandwich,ProductType,7,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",90,,https://drive.google.com/file/d/1rVDXp2u3PzH0BIN_d8cAzlhgB7NNF4SW/view?usp=sharing,
+Paneer Grilled Sandwich,ProductType,8,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",100,,https://drive.google.com/file/d/1hfUN6hLG6jDN3Zpvq0NbITg3e08UTA1x/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerGrilledSandwich.jpg
+Manchurian Grilled Sandwich,ProductType,9,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",100,,https://drive.google.com/file/d/1Fv6ezUCxaENhuvFNwExvPCJFtNY-GbNd/view?usp=sharing,
+Peri Peri Grilled Sandwich,ProductType,10,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",100,,https://drive.google.com/file/d/1tuAI8mJjbJwVYrYt4Wm8ZvcB5BhAoobg/view?usp=sharing,
+Cheese Grilled Sandwich,ProductType,11,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",110,,https://drive.google.com/file/d/13F__b0WitvKxjZ99DyU5CX5Jmrlv_SLq/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/CheeseGrilledSandwich.jpg
+Schezwan Paneer Grilled Sandwich,ProductType,12,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",110,,https://drive.google.com/file/d/1x80dg8c6XpR85RcAnj0Hlsf08nx7Qjb0/view?usp=sharing,
+Cheese Corn Grilled Sandwich,ProductType,13,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",120,,https://drive.google.com/file/d/1vrY4V30B3KjrC9TkzY2a6C-xIvIuQ23Z/view?usp=sharing,
+Cheese Corn Paneer Grilled Sandwich,ProductType,14,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",120,,https://drive.google.com/file/d/11Geuggf7U-Vr5qtSCbiZoanTf-_f2iCa/view?usp=sharing,
+Buddyzz Special Sandwich,ProductType,15,"Inventory,Food,Restaurant,Grilled Sandwich,Vegeterian,",120,,,
+Maggi,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/grocery-2/Maggi.png
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Maggi,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Maggi,",,,,
+Plain Maggi,ProductType,4,"Inventory,Food,Restaurant,Maggi,Vegeterian,",70,,https://drive.google.com/file/d/1_YcVGC4h24w-PjmhpvOMk_0nb91Rww2r/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Plain-Maggi.jpg
+Masala Maggi,ProductType,5,"Inventory,Food,Restaurant,Maggi,Vegeterian,",80,,https://drive.google.com/file/d/1GaiMtc-NXiwf1CIGlQ88Y7-mM_AnBb2Y/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MasalaMaggi.jpg
+Cheese Maggi,ProductType,6,"Inventory,Food,Restaurant,Maggi,Vegeterian,",90,,https://drive.google.com/file/d/1s_px5AkcwichWNunPlHPy12ov-lEQYuu/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/CheeseMaggi.jpg
+Mayo Maggi,ProductType,7,"Inventory,Food,Restaurant,Maggi,Vegeterian,",90,,https://drive.google.com/file/d/1VhKQ1OlpQ1cuRriRL8yYqytRs-pfc51-/view?usp=sharing,
+Veg Maggi,ProductType,8,"Inventory,Food,Restaurant,Maggi,Vegeterian,",90,,https://drive.google.com/file/d/1nHO6MNtAfaTC3eb-_hdothgxBygESH1A/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220228/VegMaggi.jpg
+Schezwan Maggi,ProductType,9,"Inventory,Food,Restaurant,Maggi,Vegeterian,",90,,https://drive.google.com/file/d/1GuczB8KXOg7NxkOin7re5XnTGOcXtb8y/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220226/SchezwanMaggi.jpg
+Desi Maggi,ProductType,10,"Inventory,Food,Restaurant,Maggi,Vegeterian,",90,,https://drive.google.com/file/d/1sDH-opH5qHLNO50DoEPEpBRJIIzRF_O9/view?usp=sharing,
+Corn Maggi,ProductType,11,"Inventory,Food,Restaurant,Maggi,Vegeterian,",90,,https://drive.google.com/file/d/1_RvtUZSqK3ebdX5ty3Ygj7Oe593pOZs-/view?usp=sharing,
+Chocolate Maggi,ProductType,12,"Inventory,Food,Restaurant,Maggi,Vegeterian,",90,,https://drive.google.com/file/d/1pKWahFoZ-ENKXXVafqk0l3ljorejxyml/view?usp=sharing,
+Mushroom Maggi,ProductType,13,"Inventory,Food,Restaurant,Maggi,Vegeterian,",100,,https://drive.google.com/file/d/1YGeQQE2wtsJBkKtMpqkkxyrN9btiTH9B/view?usp=sharing,
+Buddyzz Special Maggi,ProductType,14,"Inventory,Food,Restaurant,Maggi,Vegeterian,",110,,https://drive.google.com/file/d/1gjkDwgMDv7tfztPbxFI-PvP7VLHg9UU8/view?usp=sharing,
+Toast,ProductClass,1,"Inventory,Food,Restaurant,",,,https://drive.google.com/file/d/1vBVn2F_bnvl9AuERtVscgLCNmll32YEk/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220524/Toast.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Toast,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Toast,",,,,
+Plain Toast,ProductType,4,"Inventory,Food,Restaurant,Toast,Vegeterian,",50,,https://drive.google.com/file/d/1ZRXJ8ghJFMtqTQEp_42N8m6Xlp0K2-sJ/view?usp=sharing,
+Bread & Butter,ProductType,5,"Inventory,Food,Restaurant,Toast,Vegeterian,",60,,https://drive.google.com/file/d/1_OYQR9ZJyuqAsL75MzChUYo5YBxFbS2I/view?usp=sharing,
+Peanut Butter,ProductType,6,"Inventory,Food,Restaurant,Toast,Vegeterian,",90,,https://drive.google.com/file/d/109pFPPESWlupE_JNEzByYQAU4iV07dNM/view?usp=sharing,
+Tomato Garlic Toast,ProductType,7,"Inventory,Food,Restaurant,Toast,Vegeterian,",100,,https://drive.google.com/file/d/1F635meNGj5eZfXKXZpbAbJhD4Pzi_dya/view?usp=sharing,
+Nuttella Bread,ProductType,8,"Inventory,Food,Restaurant,Toast,Vegeterian,",120,,https://drive.google.com/file/d/1qP1ts_YwMLqEQWXBgjNChAKk3neePlFY/view?usp=sharing,
+Extra,ProductClass,1,"Inventory,Food,Restaurant,",,,https://drive.google.com/file/d/11s_IyKvdviDrKYTI7uuv3CRr4noeUzSn/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220224/Extra.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Extra,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Extra,",,,,
+Cheese,ProductType,4,"Inventory,Food,Restaurant,Extra,Vegeterian,",40,,https://drive.google.com/file/d/1ZsUp0VpVhJ019MiMHB1zmsxtNTEns2rW/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/grocery122021/Cheese.jpg
+Mayo,ProductType,5,"Inventory,Food,Restaurant,Extra,Vegeterian,",40,,,
+Extra Topping,ProductLine,6,"Inventory,Food,Restaurant,Extra,Vegeterian,",40,,,
+Extra Crush,ProductType,7,"Inventory,Food,Restaurant,Extra,Vegeterian,",40,,,
+Pasta,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/Pasta.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Pasta,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Pasta,",,,,
+Masala Pasta,ProductType,4,"Inventory,Food,Restaurant,Pasta,Vegeterian,",80,,https://drive.google.com/file/d/1fzgYyhyD4ZUB629j5NAsv5lc8hgaEGFi/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-4/MasalaPasta.jpg
+Veg Pasta,ProductType,5,"Inventory,Food,Restaurant,Pasta,Vegeterian,",90,,https://drive.google.com/file/d/1eVK1W7gKXbJ076BPmWBsib-iud_4SeN4/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegPasta.jpg
+Cheese Pasta,ProductType,6,"Inventory,Food,Restaurant,Pasta,Vegeterian,",110,,https://drive.google.com/file/d/1pggTZVZu-r3xOjbwhBNIplWYa0Q1Mtr5/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/CheesePasta.jpg
+Mayo Pasta,ProductType,7,"Inventory,Food,Restaurant,Pasta,Vegeterian,",100,,https://drive.google.com/file/d/1buSokLVnifnNm9sVj5PQGueh7FgPTQnB/view?usp=sharing,
+Cheese White Sauce Pasta,ProductType,8,"Inventory,Food,Restaurant,Pasta,Vegeterian,",120,,https://drive.google.com/file/d/1MgYCwNsk8MG45Bvj30voLcBlTnqvAXhB/view?usp=sharing,
+Cheese Red Sauce Pasta,ProductType,9,"Inventory,Food,Restaurant,Pasta,Vegeterian,",140,,https://drive.google.com/file/d/1CaZEswoL1DGLWH1CtQD8Z6Sx6FilmrSM/view?usp=sharing,
+Buddyzz Special Pasta,ProductType,10,"Inventory,Food,Restaurant,Pasta,Vegeterian,",170,,https://drive.google.com/file/d/1BD3WoF3hY6gmrhiZhM_sX4Z9uoeP2c6S/view?usp=sharing,

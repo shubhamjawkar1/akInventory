@@ -1,0 +1,333 @@
+label,nodeType,order,path,price,description,link,imageLink,Swiggy ,Zomato 
+Veg Soups,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food2022022/VegSoups.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Veg Soups,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Veg Soups,",,,,,,
+Veg Hot & Sour Soup,ProductType,4,"Inventory,Food,Restaurant,Veg Soups,Vegeterian,",80,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/VegHotSourSoup.jpg,,
+Veg Manchow Soup,ProductType,5,"Inventory,Food,Restaurant,Veg Soups,Vegeterian,",80,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/vegManchowSoup.jpg,120,120
+Veg Lung Fung Soup,ProductType,6,"Inventory,Food,Restaurant,Veg Soups,Vegeterian,",80,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/VegLungFungSoup2.jpg,,
+Veg Tum Yum Soup,ProductType,7,"Inventory,Food,Restaurant,Veg Soups,Vegeterian,",80,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/VegTumYumSoup.jpg,,
+Veg Clear Soup,ProductType,8,"Inventory,Food,Restaurant,Veg Soups,Vegeterian,",80,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Clear-Soup.jpg,110,110
+Veg Tomato Soup,ProductType,9,"Inventory,Food,Restaurant,Veg Soups,Vegeterian,",80,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/VegTomatoSoup.jpg,110,110
+Veg Sweet Corn Soup,ProductType,10,"Inventory,Food,Restaurant,Veg Soups,Vegeterian,",100,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegSweetCornSoup.jpg,140,140
+Veg Royal Soup,ProductType,11,"Inventory,Food,Restaurant,Veg Soups,Vegeterian,",100,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/VegRoyalSoup.jpg,140,140
+Veg Asian Kitchen Spl. Soup,ProductType,12,"Inventory,Food,Restaurant,Veg Soups,Vegeterian,",120,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/VegAsianKitchenSplSoup.jpg,,
+Veg Starters,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/VegStarters.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Veg Starters,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Veg Starters,",,,,,,
+Veg Aaloo Crispy,ProductType,4,"Inventory,Food,Restaurant,Veg Starters,Vegeterian,",160,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/VegAalooCrispy.jpg,200,200
+Veg Chilly (Dry Gravy),ProductType,5,"Inventory,Food,Restaurant,Veg Starters,Vegeterian,",150,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/VegChillyDryGravy.jpg,,
+Veg Chinese Bhel,ProductType,6,"Inventory,Food,Restaurant,Veg Starters,Vegeterian,",120,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/VegChineseBhel.jpg,160,160
+Veg Crispy,ProductType,7,"Inventory,Food,Restaurant,Veg Starters,Vegeterian,",150,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/VegCrispy.jpg,200,200
+Veg Hong Kong,ProductType,8,"Inventory,Food,Restaurant,Veg Starters,Vegeterian,",160,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegHongKong.jpg,210,210
+Veg Hot Garli,ProductType,9,"Inventory,Food,Restaurant,Veg Starters,Vegeterian,",160,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/VegHotGarli.jpg,210,210
+Veg Manchurian (Dry Gravy),ProductType,10,"Inventory,Food,Restaurant,Veg Starters,Vegeterian,",150,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/VegManchurianDryGravy.jpg,200,200
+Veg Paneer Chilly,ProductType,11,"Inventory,Food,Restaurant,Veg Starters,Vegeterian,",160,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/VegPaneerChillycopy.jpg,210,210
+Veg Paneer Crispy,ProductType,12,"Inventory,Food,Restaurant,Veg Starters,Vegeterian,",160,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/VegPaneerCrispy.jpg,210,210
+Veg Paneer Manchurian,ProductType,13,"Inventory,Food,Restaurant,Veg Starters,Vegeterian,",160,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/VegPaneerManchurian.jpg,210,210
+Veg Schezwan,ProductType,14,"Inventory,Food,Restaurant,Veg Starters,Vegeterian,",160,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/VegSchezwan.jpg,210,210
+Veg Singapore,ProductType,15,"Inventory,Food,Restaurant,Veg Starters,Vegeterian,",160,,,,210,210
+Veg Sweet & Sour,ProductType,16,"Inventory,Food,Restaurant,Veg Starters,Vegeterian,",160,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/VegSweetSour.jpg,,
+Garlic Chana Dhaba Style,ProductType,17,"Inventory,Food,Restaurant,Veg Starters,Vegeterian,",100,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/GarlicChanaDhabaStyle.jpg,140,140
+Veg Rice,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food2/VegRice.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Veg Rice,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Veg Rice,",,,,,,
+Biryani Rice,ProductType,4,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",80,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/BiryaniRice.jpg,110,110
+Jeera Rice,ProductType,5,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",90,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/JeeraRice.jpg,100,100
+Steam Rice,ProductType,6,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",75,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/SteamRice.jpg,80,80
+Veg Chilli Rice(with Gravy),ProductType,7,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",220,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/VegChilliRicewithGravy.jpg,,
+Veg Chopper Rice (with Gravy),ProductType,8,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",230,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/VegChopperRicewithGravy.jpg,,
+Veg Dum Biryani,ProductType,9,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",110,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegDumBiryani.jpg,140,140
+Veg Combination Rice,ProductType,10,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",150,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegCombinationRice.jpg,,
+Veg Fried Rice,ProductType,11,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",100,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Fried-Rice.jpg,140,140
+Veg Hong Kong,ProductType,12,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",140,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegHongKong.jpg,210,210
+Veg Malaysian Rice (With Gravy),ProductType,13,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",220,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/VegMalaysianRiceWithGravy.jpeg,,
+Veg Manchurian Rice (With Gravy),ProductType,14,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",170,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/VegManchurianRiceWithGravy.jpg,,
+Veg Mughali Rice,ProductType,15,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",200,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/VegMughaliRice.jpg,,
+Veg Paneer Rice,ProductType,16,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",150,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/VegPaneerRice.jpg,,
+Paneer Tikka Biryani,ProductType,17,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",170,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerTikkaBiryani.jpg,,
+Veg Schezwan Rice,ProductType,18,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",110,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegSchezwanRice.jpg,,
+Veg Sherpa Rice (With Gravy),ProductType,19,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/VegSherpaRiceWithGravy.jpg,,
+Veg Singapore Rice,ProductType,20,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",130,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegSingaporeRice.jpg,,
+Veg Triple Rice,ProductType,21,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",150,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/imgs-2/VegTripleRice.jpg,,
+Asian Kitchen Spl Veg Rice,ProductType,22,"Inventory,Food,Restaurant,Veg Rice,Vegeterian,",200,,,,,
+Veg Entree,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220323/VegEntree.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Veg Entree,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Veg Entree,",,,,,,
+Aloo Matar,ProductType,4,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",120,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/AlooMatar.jpg,150,150
+Aloo Palak,ProductType,5,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",120,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/AlooPalak.jpg,150,150
+Aloo Shimla,ProductType,6,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",120,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/AlooShimla1.jpg,150,150
+Chana Masala,ProductType,7,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",140,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/ChanaMasala.jpg,160,160
+Dal Butter Tadka,ProductType,8,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",100,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/DalButterTadka.jpg,110,110
+Dal Fry,ProductType,9,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",80,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/DalFry.jpg,80,80
+Dal Khichdi,ProductType,10,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",130,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/DalKhichdi.jpg,150,150
+Dal Khichdi Tadka,ProductType,11,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",100,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/DalKhichdiTadka.jpg,170,170
+Dal Tadka,ProductType,12,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",70,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/DalTadka.jpg,100,100
+Mix Vegetable,ProductType,13,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",120,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MixVegetable.jpg,160,160
+Palak Khichdi,ProductType,14,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",90,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/PalakKhichdi.jpg,120,120
+Veg Afgani,ProductType,15,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",140,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-4/VegAfgani.jpg,,
+Veg Handi,ProductType,16,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",140,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Handi.jpg,190,190
+Veg Jaipuri,ProductType,17,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",140,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegJaipuri.jpg,190,190
+Veg Kadai,ProductType,18,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",140,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Kadai.jpg,190,190
+Veg Kashmiri Pulao,ProductType,19,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",140,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/VegKashmiriPulao.jpg,,
+Veg Kolhapuri,ProductType,20,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",150,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegKolhapuri.jpg,190,190
+Veg Korma,ProductType,21,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/VegKorma.jpg,240,240
+Veg Malai Kofta,ProductType,22,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/VegMalaiKofta.jpg,240,240
+Veg Pulao,ProductType,23,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",120,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegPulao.jpg,190,190
+Veg Tawa,ProductType,24,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",160,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegTawa.jpg,210,210
+Veg Toofani,ProductType,25,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Toofani.jpg,240,240
+Veg Asian Kitchen Spl,ProductType,26,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",180,,,,,
+Paneer Angara,ProductType,27,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerAngara.jpg,240,240
+Paneer Bhurji,ProductType,28,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",170,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/PaneerBhurji.jpg,230,230
+Paneer Biryani,ProductType,29,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",140,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-4/PaneerBiryani.jpg,190,190
+Paneer Butter Masala,ProductType,30,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerButterMasala.jpg,240,240
+Paneer Finger,ProductType,31,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/PaneerFinger.jpg,240,240
+Paneer Golden Dry,ProductType,32,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",220,,,,290,290
+Paneer Handi,ProductType,33,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/PaneerHandi.jpg,240,240
+Paneer Hara Bhara,ProductType,34,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",220,,,,290,290
+Paneer Hyderabadi,ProductType,35,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/PaneerHyderabadi.jpg,240,240
+Paneer Kadai,ProductType,36,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",170,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/PaneerKadai.jpg,230,230
+Paneer Korma,ProductType,37,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food122021/PaneerKorma.jpg,240,240
+Paneer Lajawab,ProductType,38,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerLajawab.jpg,240,240
+Paneer Lapeta,ProductType,39,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",180,,,,240,240
+Paneer Masala Fry,ProductType,40,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/PaneerMasalaFry.jpg,240,240
+Paneer Mutter,ProductType,41,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerMutter.jpg,240,240
+Paneer Roasted Dry,ProductType,42,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",220,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/PaneerRoastedDry.JPG,290,290
+Paneer Shimla,ProductType,43,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/PaneerShimla.jpg,240,240
+Paneer Tawa,ProductType,44,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",170,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerTawa.jpg,230,230
+Paneer Tikka,ProductType,45,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/PaneerTikka.jpg,240,240
+Paneer Tikka Masala,ProductType,46,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",200,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerTikkaMasala.jpg,270,270
+Paneer Pakoda,ProductType,47,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",290,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerPakoda.jpg,,
+Paneer Pakoda 250 gms,ProductUnit,48,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,Paneer Pakoda,",150,,,,,
+Paneer Pakoda (500 gms),ProductUnit,49,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,Paneer Pakoda,",290,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/PaneerPakoda500gms.jpg,,
+Paneer Koliwada,ProductType,50,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",200,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/PaneerKoliwada.jpg,270,270
+Paneer Asian Kitchen Spl.,ProductType,51,"Inventory,Food,Restaurant,Veg Entree,Vegeterian,",220,,,,,
+Noodles,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-6/Noodles.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Noodles,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Noodles,",,,,,,
+Veg Chilly Noodles,ProductType,4,"Inventory,Food,Restaurant,Noodles,Vegeterian,",190,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food122021/VegChillyNoodles.jpg,250,250
+Veg Chopper Noodles (With Gravy),ProductType,5,"Inventory,Food,Restaurant,Noodles,Vegeterian,",200,,,,270,270
+Veg Hakka Noodles,ProductType,6,"Inventory,Food,Restaurant,Noodles,Vegeterian,",100,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Veg-Hakka-Noodles.jpg,140,140
+Veg Hong Kong Noodles,ProductType,7,"Inventory,Food,Restaurant,Noodles,Vegeterian,",140,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegHongkongNoodles.jpg,190,190
+Veg Manchurian Noodles,ProductType,8,"Inventory,Food,Restaurant,Noodles,Vegeterian,",160,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegManchurianNoodles.jpg,210,210
+Veg Schezwan Noodles,ProductType,9,"Inventory,Food,Restaurant,Noodles,Vegeterian,",140,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/VegSchezwanNoodles.jpg,190,190
+Veg Sherpa Noodles,ProductType,10,"Inventory,Food,Restaurant,Noodles,Vegeterian,",200,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/VegSherpaNoodles.jpg,270,270
+Veg Triple Noodles (With Gravy),ProductType,11,"Inventory,Food,Restaurant,Noodles,Vegeterian,",160,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/VegTripleNoodlesWithGravy.jpg,,
+Asian Kitchen Spl Noodles (With Gravy),ProductType,12,"Inventory,Food,Restaurant,Noodles,Vegeterian,",220,,,,,
+Roti and Naan,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Roti.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Roti and Naan,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Roti and Naan,",,,,,,
+Aloo Paratha ,ProductType,4,"Inventory,Food,Restaurant,Vegeterian,Roti and Naan,",40,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/AlooParatha.jpg,,
+Tandoori Naan,ProductType,5,"Inventory,Food,Restaurant,Vegeterian,Roti and Naan,",25,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Tandoori-Naan.jpg,38,38
+Tandoori Butter Naan,ProductType,6,"Inventory,Food,Restaurant,Vegeterian,Roti and Naan,",30,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Tandoori-Butter-Naan.jpg,,
+Garlic Naan,ProductType,7,"Inventory,Food,Restaurant,Vegeterian,Roti and Naan,",30,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Vegeterian/GarlicNaan.jpg,40,40
+Butter Garlic Naan,ProductType,8,"Inventory,Food,Restaurant,Vegeterian,Roti and Naan,",40,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ButterGarlicNaan.jpg,60,60
+Tandoori Roti,ProductType,9,"Inventory,Food,Restaurant,Vegeterian,Roti and Naan,",10,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/TandooriRoti.jpg,20,20
+Tandoori Butter Roti,ProductType,10,"Inventory,Food,Restaurant,Vegeterian,Roti and Naan,",15,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/TandooriButterRoti.jpg,25,25
+Breakfast,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Breakfast.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Breakfast,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Breakfast,",,,,,,
+Medu Vada,ProductType,4,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",20,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Cafe/MeduVada.jpg,,
+Poha,ProductType,5,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",20,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Poha.jpg,,
+Upma,ProductType,6,"Inventory,Food,Restaurant,Breakfast,Vegeterian,",20,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Upma.jpg,,
+Beverages,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Beverages.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Beverages,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Beverages,",,,,,,
+Tea,ProductType,4,"Inventory,Food,Restaurant,Beverages,Vegeterian,",10,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Tea.jpg,,
+Water,ProductType,5,"Inventory,Food,Restaurant,Beverages,Vegeterian,",20,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/Water.jpg,,
+Water 1 LTR,ProductUnit,6,"Inventory,Food,Restaurant,Beverages,Vegeterian,ProductType,",20,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/Water1LTR.jpg,,
+Water 500 ML,ProductUnit,7,"Inventory,Food,Restaurant,Beverages,Vegeterian,ProductType,",10,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/Water500ML.jpg,,
+Soft Drink (Small),ProductType,8,"Inventory,Food,Restaurant,Beverages,Vegeterian,",10,,,,,
+Soft Drink (Large),ProductType,9,"Inventory,Food,Restaurant,Beverages,Vegeterian,",20,,,,,
+Caramel Custard,ProductType,10,"Inventory,Food,Restaurant,Beverages,Vegeterian,",35,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/CaramelCustard.jpg,,
+Rabdi,ProductType,11,"Inventory,Food,Restaurant,Beverages,Vegeterian,",45,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food281221/Rabdi.jpg,,
+Non Veg Soups,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220524/NonVegSoups.jpg,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Non Veg Soups,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg,,
+Vegeterian,ProductLine,3,"Inventory,Food,Restaurant,Non Veg Soups,",,,,,,
+Chicken Hot & Sour Soup,ProductType,4,"Inventory,Food,Restaurant,Non Veg Soups,NonVegeterian,",90,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenHotSourSoup.jpg,,
+Chicken Manchow Soup,ProductType,5,"Inventory,Food,Restaurant,Non Veg Soups,NonVegeterian,",90,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenManchowSoup.jpg,120,120
+Chicken Lung Fung Soup,ProductType,6,"Inventory,Food,Restaurant,Non Veg Soups,NonVegeterian,",90,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenLungFungSoup.jpg,120,120
+Chicken Tom Yum Soup,ProductType,7,"Inventory,Food,Restaurant,Non Veg Soups,NonVegeterian,",90,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/ChickenTomYumSoup.jpg,120,120
+Chicken Clear Soup,ProductType,8,"Inventory,Food,Restaurant,Non Veg Soups,NonVegeterian,",90,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenClearSoup.jpg,120,120
+Chicken Tomato Soup,ProductType,9,"Inventory,Food,Restaurant,Non Veg Soups,NonVegeterian,",90,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/ChickenTomatoSoup.jpg,120,120
+Spl Prawns Soup,ProductType,10,"Inventory,Food,Restaurant,Non Veg Soups,NonVegeterian,",120,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/SplPrawnsSoup.jpg,,
+Chicken Sweet Corn Soup,ProductType,11,"Inventory,Food,Restaurant,Non Veg Soups,NonVegeterian,",90,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenSweetCornSoup.jpg,120,120
+Chicken Royal Soup,ProductType,12,"Inventory,Food,Restaurant,Non Veg Soups,NonVegeterian,",120,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/ChickenRoyalSoup.jpg,160,160
+Asian Kitchen Spl. Soup,ProductType,13,"Inventory,Food,Restaurant,Non Veg Soups,NonVegeterian,",150,,,,,
+Non Veg Starters,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/NonVegStarters.jpg,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Non Veg Starters,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg,,
+Vegeterian,ProductLine,3,"Inventory,Food,Restaurant,Non Veg Starters,",,,,,,
+Chicken Lollypop Dry (6 pcs),ProductType,4,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",150,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/ChickenLollypopDry6pcs.jpg,,
+Chicken Lollypop Gravy (6 pcs),ProductType,5,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",200,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/ChickenLollypopGravy6pcs.jpg,,
+Chicken 65,ProductType,6,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",165,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Chicken65.jpg,220,220
+Chicken Crispy,ProductType,7,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenCrispy.jpg,240,240
+Chicken Schezwan,ProductType,8,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",170,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenSchezwan.jpg,230,230
+Chicken Hong Kong,ProductType,9,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",170,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenHongkong.jpg,230,230
+Chicken Manchurian Dry,ProductType,10,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",150,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenManchurianDry.jpg,200,200
+Chicken Manchurian Gravy,ProductType,11,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",170,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/NonVegeterian/ChickenManchurianGravy.jpg,230,230
+Chicken Chilly Dry,ProductType,12,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",150,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/NonVegeterian/ChickenChillyDry.jpg,200,200
+Chicken Chilly Gravy,ProductType,13,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenChillyGravy.jpg,240,240
+Chicken Singapore,ProductType,14,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",190,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenSingapore.jpg,250,250
+Chicken Satey,ProductType,15,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",190,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/ChickenSatey.jpg,,
+Chicken Garlic,ProductType,16,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenGarlic.jpg,,
+Chicken Ferrari Crispy,ProductType,17,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",210,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ChickenFerrariCrispy.jpg,280,280
+Chicken Dragon,ProductType,18,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",220,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenCrispy.jpg,290,290
+Chicken Salt & Pepper,ProductType,19,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",190,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ChickenSaltPepper.jpg,,
+Chicken Drumstick,ProductType,20,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",320,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-4/ChickenDrumstick.jpg,420,420
+Chicken Pakoda,ProductType,21,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",260,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenPakoda.jpg,,
+Chicken Pakoda (250 gms),ProductUnit,22,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,Chicken Pakoda,",150,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ChickenPakoda250gms.jpg,,
+Chicken Pakoda (500 gms),ProductUnit,23,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,Chicken Pakoda,",260,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/ChickenPakoda500gms.jpg,,
+Chicken Finger,ProductType,24,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ChickenFinger.jpg,210,210
+Chicken Saibo,ProductType,25,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",210,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/ChickenSaibo.jpg,,
+Chicken Asian Kitchen Special,ProductType,26,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",220,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/ChickenAsianKitchenSpecial.jpg,,
+Chicken Lollypop Masala Dry (6 pcs),ProductType,27,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ChickenLollypopMasalaDry6Pcs.jpg,,
+Prawns 65,ProductType,28,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",210,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/Prawns65.jpg,250,250
+Prawns Chilly,ProductType,29,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",220,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Prawns-Chilly.jpg,270,270
+Prawns Crispy,ProductType,30,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",210,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/PrawnsCrispy.jpg,240,240
+Prawns Garlic,ProductType,31,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",220,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Prawns-Garlic.jpg,250,250
+Prawns Manchurian,ProductType,32,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",220,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Prawns-Manchurian.jpg,270,270
+Prawns Koliwada,ProductType,33,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",290,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Prawns-Koliwada.jpg,360,360
+Prawns Schezwan,ProductType,34,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",220,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Prawns-Schezwan.JPG,290,290
+Prawns Koliwada Spl,ProductType,35,"Inventory,Food,Restaurant,Non Veg Starters,NonVegeterian,",290,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/PrawnsKoliwadaSpl.jpg,,
+Kabab,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant7/Kabab.jpg,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Kabab,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg,,
+Vegeterian,ProductLine,3,"Inventory,Food,Restaurant,Kabab,",,,,,,
+Chicken Tandoori,ProductType,4,"Inventory,Food,Restaurant,Kabab,NonVegeterian,",310,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenTandooriFull.jpg,,
+Chicken Tandoori (Full),ProductUnit,5,"Inventory,Food,Restaurant,Kabab,NonVegeterian,Chicken Tandoori,",310,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenTandooriFull.jpg,,
+Chicken Tandoori (Half),ProductUnit,6,"Inventory,Food,Restaurant,Kabab,NonVegeterian,Chicken Tandoori,",200,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenTandooriHalf.jpg,,
+Chicken Leg piece,ProductType,7,"Inventory,Food,Restaurant,Kabab,NonVegeterian,",140,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenLegPiece.jpg,190,190
+Chicken Malai tikka Kebab,ProductType,8,"Inventory,Food,Restaurant,Kabab,NonVegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ChickenMalaitikkaKebab.jpg,240,240
+Chicken Banjara Kebab (6 pcs),ProductType,9,"Inventory,Food,Restaurant,Kabab,NonVegeterian,",170,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ChickenBanjaraKebab6pcs.jpg,230,230
+Chicken Tikka (6 pcs),ProductType,10,"Inventory,Food,Restaurant,Kabab,NonVegeterian,",170,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenTikka6pcs.jpg,230,230
+Chicken Pahadi (6 pcs),ProductType,11,"Inventory,Food,Restaurant,Kabab,NonVegeterian,",170,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/ChickenPahadi6pcs.jpg,230,230
+Chicken Reshmi Kebab (6 pcs),ProductType,12,"Inventory,Food,Restaurant,Kabab,NonVegeterian,",170,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ChickenReshmiKebab6pcs.jpg,230,230
+Schezwan Tandoori,ProductType,13,"Inventory,Food,Restaurant,Kabab,NonVegeterian,",380,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/imgs-2/SchezwanTandoori.jpg,500,500
+Chicken Pahadi Tandoori,ProductType,14,"Inventory,Food,Restaurant,Kabab,NonVegeterian,",360,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/ChickenPahadiTandoori.jpg,470,470
+Chicken Arabi Tandoori,ProductType,15,"Inventory,Food,Restaurant,Kabab,NonVegeterian,",380,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/ChickenArabiTandoori.jpg,,
+Chicken Lemon Tandoori,ProductType,16,"Inventory,Food,Restaurant,Kabab,NonVegeterian,",380,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/ChickenLemonTandoori.jpg,470,470
+Non Veg Entree,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220217/NonVegEntree.jpg,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Non Veg Entree,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg,,
+Vegeterian,ProductLine,3,"Inventory,Food,Restaurant,Non Veg Entree,",,,,,,
+Butter Chicken,ProductType,4,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",170,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ButterChicken.jpg,230,230
+Chicken Afgani,ProductType,5,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",170,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/chickenafgani.jpg,,
+Chicken Angara,ProductType,6,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",190,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/ChickenAngara.jpg,230,230
+Chicken Handi,ProductType,7,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",170,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenHandi.jpg,200,200
+Chicken Handi Family,ProductType,8,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",300,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/ChickenHandiFamily.jpg,,
+Chicken Bhuna Gosht,ProductType,9,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ChickenBhunaGosht.jpg,240,240
+Chicken Chatpata,ProductType,10,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",190,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food122021/ChickenChatpata.jpg,240,240
+Chicken Dabba Gosht,ProductType,11,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",190,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/ChickenDabbaGosht.jpg,,
+Chicken Darbari Dry,ProductType,12,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",240,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/ChickenDarbariDry.jpg,,
+Chicken Dahiwala,ProductType,13,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",150,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/ChickenDahiwala.jpg,160,160
+Chicken Dal Gosht,ProductType,14,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",140,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ChickenDalGosht.jpg,160,160
+Chicken Do-Pyaza,ProductType,15,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",160,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/Cafe/ChickenDoPyaza.jpg,,
+Chicken Golden Dry (Boneless),ProductType,16,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",250,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/ChickenGoldenDryBoneless.jpg,,
+Chicken Hyderabadi,ProductType,17,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",200,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-3/ChickenHyderabadi.jpg,240,240
+Chicken Kabuli,ProductType,18,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/ChickenKabuli.jpg,210,210
+Chicken Kadai,ProductType,19,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",170,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenKadai.jpg,,
+Chicken Kashmiri,ProductType,20,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",200,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenKashmiri.jpg,240,240
+Chicken Kolhapuri,ProductType,21,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",200,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenKolhapuri.gif,240,240
+Chicken Korma,ProductType,22,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",200,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenKorma.jpg,240,240
+Chicken Tangdi Masala (4 pcs),ProductType,23,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",500,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/ChickenTangdiMasala4pcs.jpg,,
+Chicken Lahori Dry,ProductType,24,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",290,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/ChickenLahoriDry.jpg,,
+Chicken Lucknowi,ProductType,25,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",170,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ChickenLucknowi.jpg,200,200
+Chicken Lapeta,ProductType,26,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",550,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenLapeta.jpg,,
+Chicken Lapeta (Full 24 pcs),ProductUnit,27,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,Chicken Lapeta,",550,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ChickenLapetaFull24pcs.jpg,,
+Chicken Lapeta (Half 12 pcs),ProductUnit,28,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,Chicken Lapeta,",300,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/ChickenLapetaHalf12pcs.jpg,,
+Chicken Lasuni Dry (Boneless),ProductType,29,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",250,,,,,
+Chicken Lazeez,ProductType,30,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",230,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/ChickenLazeez2.jpg,270,270
+Chicken Maharaja Dry (Boneless),ProductType,31,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",250,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ChickenMaharajaDryBoneless.jpg,,
+Chicken Masala,ProductType,32,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",140,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenMasala.jpg,160,160
+Chicken Masala Fry,ProductType,33,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",150,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenMasalaFry.jpg,160,160
+Chicken Mughali,ProductType,34,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",250,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ChickenMughali.jpg,,
+Chicken Patiyala,ProductType,35,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",250,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenPatiyala.jpg,290,290
+Chicken Tangdi Masala (2 pcs),ProductType,36,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",300,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220216/ChickenTangdiMasala.jpg,,
+Chicken Rogan Josh,ProductType,37,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",190,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/ChickenRoganJosh.jpg,210,210
+Chicken Rashida,ProductType,38,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ChickenRashidaFull.jpeg,210,210
+Chicken Stew (Fry),ProductType,39,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",200,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/ChickenStewFry.jpg,,
+Mutton Kheema,ProductType,40,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",140,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/MuttonKheema.jpg,,
+Mutton Kheema Fry,ProductType,41,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",160,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/MuttonKheemaFry.jpg,,
+Murg Musallam,ProductType,42,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",470,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/MurgMusallam.jpg,,
+Murg Musallam Full,ProductUnit,43,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,Murg Musallam,",470,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/MurgMusallamFull.jpg,,
+Murg Musallam Half,ProductUnit,44,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,Murg Musallam,",320,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/MurgMusallamHalf.jpg,,
+Asian Kitchen Spl. Murg Musallam,ProductType,45,"Inventory,Food,Restaurant,Non Veg Entree,NonVegeterian,",530,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/AsianKitchenSplMurgMusallam.jpg,,
+Rice,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Rice.jpg,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Rice,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg,,
+Vegeterian,ProductLine,3,"Inventory,Food,Restaurant,Rice,",,,,,,
+Egg Fried Rice,ProductType,4,"Inventory,Food,Restaurant,Rice,NonVegeterian,",110,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/EggFriedRice.jpg,140,140
+Chicken Chilly Rice (With Gravy),ProductType,5,"Inventory,Food,Restaurant,Rice,NonVegeterian,",250,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenChillyRiceWithGravy.jpg,,
+Chicken Chopper Rice,ProductType,6,"Inventory,Food,Restaurant,Rice,NonVegeterian,",240,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/ChickenChopperRice.jpg,,
+Chicken Combination Rice,ProductType,7,"Inventory,Food,Restaurant,Rice,NonVegeterian,",160,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenCombinationRice.png,,
+Chicken Dum Biryani,ProductType,8,"Inventory,Food,Restaurant,Rice,NonVegeterian,",130,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenDumBiryani.jpg,150,150
+Chicken Fried Rice,ProductType,9,"Inventory,Food,Restaurant,Rice,NonVegeterian,",120,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenFriedRice.jpg,150,150
+Chicken Garlic Rice,ProductType,10,"Inventory,Food,Restaurant,Rice,NonVegeterian,",250,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/ChickenGarlicRice.jpg,,
+Chicken Hong Kong Rice,ProductType,11,"Inventory,Food,Restaurant,Rice,NonVegeterian,",150,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenHongKongRice.jpeg,,
+Chicken Hyderabadi Biryani,ProductType,12,"Inventory,Food,Restaurant,Rice,NonVegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-5/ChickenHyderabadiBiryani.jpg,210,210
+Chicken Malaysian Rice (With Gravy),ProductType,13,"Inventory,Food,Restaurant,Rice,NonVegeterian,",260,,,,,
+Chicken Manchurian Rice (With Gravy),ProductType,14,"Inventory,Food,Restaurant,Rice,NonVegeterian,",220,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenManchurianRiceWithGravy.jpg,,
+Chicken Mughalai Rice,ProductType,15,"Inventory,Food,Restaurant,Rice,NonVegeterian,",270,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ChickenMughalaiRice.jpg,,
+Chicken Pulao (Boneless),ProductType,16,"Inventory,Food,Restaurant,Rice,NonVegeterian,",140,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ChickenPulaoBoneless3.jpg,,
+Chicken Schezwan Rice,ProductType,17,"Inventory,Food,Restaurant,Rice,NonVegeterian,",140,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenSchezwanRice.jpg,,
+Chicken Sherpa Rice (With Gravy),ProductType,18,"Inventory,Food,Restaurant,Rice,NonVegeterian,",200,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ChickenSherpaRiceWithGravy.jpg,,
+Chicken Singapore Rice,ProductType,19,"Inventory,Food,Restaurant,Rice,NonVegeterian,",160,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenSingaporeRice.jpg,,
+Chicken Tandoori Pulav,ProductType,20,"Inventory,Food,Restaurant,Rice,NonVegeterian,",170,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ChickenTandooriPulav.jpg,,
+Chicken Tikka Biryani (Boneless),ProductType,21,"Inventory,Food,Restaurant,Rice,NonVegeterian,",190,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/ChickenTikkaBiryaniBoneless2.jpg,,
+Chicken Triple Rice (With Gravy),ProductType,22,"Inventory,Food,Restaurant,Rice,NonVegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ChickenTripleRiceWithGravy.jpg,,
+Asian Kitchen Spl. Rice (With Gravy),ProductType,23,"Inventory,Food,Restaurant,Rice,NonVegeterian,",230,,,,,
+Mix Triple Rice,ProductType,24,"Inventory,Food,Restaurant,Rice,NonVegeterian,",290,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/MixTripleRice.jpg,,
+Prawns Fried Rice,ProductType,25,"Inventory,Food,Restaurant,Rice,NonVegeterian,",170,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Prawns-Fried-Rice.jpg,210,210
+Prawns Manchurian Rice,ProductType,26,"Inventory,Food,Restaurant,Rice,NonVegeterian,",250,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Prawns-Manchurian-Rice.gif,,
+Prawns Triple Rice,ProductType,27,"Inventory,Food,Restaurant,Rice,NonVegeterian,",250,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/PrawnsTripleRice.jpg,,
+Chicken Chilly Noodles (With Gravy),ProductType,4,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",250,,,,,
+Chicken Chopper Noodles,ProductType,5,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",240,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/ChickenChopperNoodles2.jpg,280,280
+Chicken Chow Mein Noodles,ProductType,6,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",150,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenChowmeinNoodles.jpg,,
+Chicken Garlic Noodles,ProductType,7,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",250,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/ChickenGarlicNoodles.jpg,330,330
+Chicken Hakka Noodles,ProductType,8,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",120,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenHakkaNoodles.jpg,140,140
+Chicken Hong Kong Noodles,ProductType,9,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",150,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenHongkongNoodles.jpg,190,190
+Chicken Manchurian Noodles,ProductType,10,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",200,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenManchurianNoodles.jpg,210,210
+Chicken Schezwan Noodle,ProductType,11,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",140,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ChickenSchezwanNoodle.jpg,190,190
+Chicken Sherpa Noodles,ProductType,12,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",200,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ChickenSherpaNoodles.jpg,270,270
+Chicken Singapore Noodles,ProductType,13,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",160,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenSingaporeNoodles.jpg,200,200
+Chicken Triple Noodles,ProductType,14,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenTripleNoodles.jpg,210,210
+Chicken American Chopsuey,ProductType,15,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",180,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenAmericanChopsy.jpg,210,210
+Asian Kitchen Spl. Noodles,ProductType,16,"Inventory,Food,Restaurant,Noodles,NonVegeterian,",220,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/AsianKitchenSplNoodles.jpg,,
+Egg Bhurji,ProductType,4,"Inventory,Food,Restaurant,Breakfast,NonVegeterian,",50,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/EggBhurji.jpg,70,70
+Egg Boiled Double,ProductType,5,"Inventory,Food,Restaurant,Breakfast,NonVegeterian,",50,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/EggBoiledDouble.jpg,,
+Egg Boiled Masala,ProductType,6,"Inventory,Food,Restaurant,Breakfast,NonVegeterian,",50,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/EggBoiledMasala.jpg,70,70
+Egg Boiled Bhurji,ProductType,7,"Inventory,Food,Restaurant,Breakfast,NonVegeterian,",70,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-4/EggBoiledBhurji.jpg,100,100
+Egg Half Fry Double,ProductType,8,"Inventory,Food,Restaurant,Breakfast,NonVegeterian,",50,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/EggHalfFryDouble.jpg,,
+Egg Masala Fry,ProductType,9,"Inventory,Food,Restaurant,Breakfast,NonVegeterian,",90,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/EggMasalaFry.jpg,120,120
+Egg Omlet Double,ProductType,10,"Inventory,Food,Restaurant,Breakfast,NonVegeterian,",50,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/EggOmletDouble.jpg,,
+Fish Dishes,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food1415062022/FishDishes.jpg,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Fish Dishes,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg,,
+Vegeterian,ProductLine,3,"Inventory,Food,Restaurant,Fish Dishes,",,,,,,
+Fish Finger,ProductType,4,"Inventory,Food,Restaurant,Fish Dishes,NonVegeterian,",270,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/FishFinger.jpg,330,330
+Fish Koliwada,ProductType,5,"Inventory,Food,Restaurant,Fish Dishes,NonVegeterian,",320,,,,400,400
+Asian Kitchen Spl Fish Koliwada,ProductType,6,"Inventory,Food,Restaurant,Fish Dishes,NonVegeterian,",370,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/AsianKitchenSplFishKoliwada2.jpg,,
+Prawns Masala Fry,ProductType,7,"Inventory,Food,Restaurant,Fish Dishes,NonVegeterian,",190,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/PrawnsMasalaFry.jpg,230,230
+Prawns Handi,ProductType,8,"Inventory,Food,Restaurant,Fish Dishes,NonVegeterian,",220,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/PrawnsHandi.jpg,240,240
+Prawns Korma,ProductType,9,"Inventory,Food,Restaurant,Fish Dishes,NonVegeterian,",220,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/PrawnsKorma.jpg,240,240
+Prawns Lazees,ProductType,10,"Inventory,Food,Restaurant,Fish Dishes,NonVegeterian,",240,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/PrawnsLazees.jpg,270,270
+Prawns Kadai,ProductType,11,"Inventory,Food,Restaurant,Fish Dishes,NonVegeterian,",210,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/PrawnsKadai2.jpg,,
+Asian Kitchen Spl Prawns Masala,ProductType,12,"Inventory,Food,Restaurant,Fish Dishes,NonVegeterian,",270,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/AsianKitchenSplPrawnsMasala.jpg,,
+Shawarma,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food03022022/Shawarma.jpg,,
+NonVegeterian,ProductLine,2,"Inventory,Food,Restaurant,Shawarma,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg,,
+Vegeterian,ProductLine,3,"Inventory,Food,Restaurant,Shawarma,",,,,,,
+Shawarma Pav,ProductType,4,"Inventory,Food,Restaurant,Shawarma,NonVegeterian,",30,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ShawarmaPav.jpg,,
+Shawarma Khabus,ProductType,5,"Inventory,Food,Restaurant,Shawarma,NonVegeterian,",60,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ShawarmaKhabus.jpg,,
+Spl Shawarma Khabus Cheese,ProductType,6,"Inventory,Food,Restaurant,Shawarma,NonVegeterian,",80,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/SplShawarmaKhabusCheese.jpg,,
+Arabian Shawarma,ProductType,7,"Inventory,Food,Restaurant,Shawarma,NonVegeterian,",150,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/ArabianShawarma.jpg,,
+Open Shawarma,ProductType,8,"Inventory,Food,Restaurant,Shawarma,NonVegeterian,",150,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/OpenShawarma.jpg,,
+Spl Asian Kitchen Shawarma,ProductType,9,"Inventory,Food,Restaurant,Shawarma,NonVegeterian,",170,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/SplAsianKitchenShawarma.jpg,,
+Extra Mayonnaise,ProductType,10,"Inventory,Food,Restaurant,Shawarma,NonVegeterian,",10,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food22240622/ExtraMayonnaise.jpg,,
+Salads,ProductClass,1,"Inventory,Food,Restaurant,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Salads,",,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg,,
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Salads,",,,,,,
+Russian Salad,ProductType,4,"Inventory,Food,Restaurant,Salads,Vegeterian,",90,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/RussianSalad.jpg,,
+Coleslaw Salad,ProductType,5,"Inventory,Food,Restaurant,Salads,Vegeterian,",70,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/ColeslawSalad2.jpg,,
+Fruit Salad,ProductType,6,"Inventory,Food,Restaurant,Salads,Vegeterian,",120,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/FruitSalad.jpg,,
+Green Salad,ProductType,7,"Inventory,Food,Restaurant,Salads,Vegeterian,",40,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/GreenSalad.jpg,60,60
+Caesar Salad,ProductType,8,"Inventory,Food,Restaurant,Salads,Vegeterian,",70,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/CaesarSalad.jpg,,
+Green Salad with French Dressing,ProductType,9,"Inventory,Food,Restaurant,Salads,Vegeterian,",60,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/GreenSaladwithFrenchDressing.jpg,80,80
+Green Salad with Itallian Dressing,ProductType,10,"Inventory,Food,Restaurant,Salads,Vegeterian,",60,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/GreenSaladwithItallianDressing.jpg,,
+Arabic Fattoush Salad,ProductType,11,"Inventory,Food,Restaurant,Salads,Vegeterian,",110,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/ArabicFattoushSalad.jpg,,
+Italian Salad,ProductType,12,"Inventory,Food,Restaurant,Salads,Vegeterian,",110,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/pendingInventoryImages/ItalianSalad2.jpg,,
+French Salad,ProductType,13,"Inventory,Food,Restaurant,Salads,Vegeterian,",110,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220127/FrenchSalad.jpg,,

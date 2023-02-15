@@ -1,0 +1,67 @@
+label,nodeType,order,path,price,description,ingredients,link,imageLink
+Rice,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Rice.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Rice,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Rice,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/NonVegetarian.jpg
+Hyderabadi Dum Chicken Biryani,ProductType,4,"Inventory,Food,Restaurant,Rice,NonVegeterian,",70,,"Basmati rice  ,Chicken   ,Yoghurt  ,
+Chilli Powder  ,Garam masala powder  ,
+Turmeric powder  ,Whole garam masala Cinnamon  sticks,Cardamom pods ,Caraway seeds  ,
+Black peppercorns  ",https://drive.google.com/file/d/12dYXvrbXwJIx1D0r75DeVsaYR1JTICGN/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220103/HyderabadiDumChickenBiryani.jpg
+Spl Dum Chicken Biryani,ProductType,5,"Inventory,Food,Restaurant,Rice,NonVegeterian,",100,," rice Long grained basmati rice  ,
+Water  ,Shahi Jeera  ,
+ Bay Leaf  , cinnamon  inch,
+green cardamoms  ,cloves   ,
+ gravy Oil  , onions sliced   ,
+star anise  ,green cardamoms  ,
+black cardamom  ",https://drive.google.com/file/d/1zIqrtMg_5_zNKT3MNH4UkuZtmiZQgmbU/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220103/SplDumChickenBiryani.jpg
+Bakreki Mutton Biryani,ProductType,6,"Inventory,Food,Restaurant,Rice,NonVegeterian,",200,,"Mutton  ,Basmati Rice  ,turmeric powder  ,
+Saffron  ,salt  pinch,Coriander leaves  ,
+Cloves  ,Black cardamom  ,Green cardamom  ,
+Crush pepper  ,Red chili powder  ",https://drive.google.com/file/d/1qDUm6v8vlYjPeWlRIzhypO24HcylHF5x/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220103/BakrekiMuttonBiryani.jpg
+Starters,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/categoryimages3/Starters.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Starters,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Starters,",,,,,
+Anda Fry,ProductType,4,"Inventory,Food,Restaurant,Starters,NonVegeterian,",10,,,https://drive.google.com/file/d/1FBd7AJEge6OjGzOd_M2uXL1gTXR0Dskh/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/AndaFry.jpeg
+Chicken Leg Piece,ProductType,5,"Inventory,Food,Restaurant,Starters,NonVegeterian,",50,," leg piece clean and wash well, spoon red chilli powder,
+ spoon turmeric powder, spoon garam masala powder, spoon salt, lemon juice,  beaten yogurt,
+ spoon ginger garlic paste",https://drive.google.com/file/d/1ODdpZhyNV57PXbgk6pBg5Q8D-M37-6jZ/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenLegPiece.jpg
+Machli Fry,ProductType,6,"Inventory,Food,Restaurant,Starters,NonVegeterian,",70,,,https://drive.google.com/file/d/1nG6zRyDaf-VOziAbELRz4Pex02P_5S4O/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220103/MachliFry.jpg
+Chicken 65,ProductType,7,"Inventory,Food,Restaurant,Starters,NonVegeterian,",100,,"To MarinateBoneless Chicken Thighs or Breast  ,
+Minced Garlic  ,Minced Ginger  ,
+turmeric powder  ,Coriander Powder  ,
+Freshly Grounded Black Pepper  ,
+Red Chili Powder   ,Garam Masala  pinch,
+cumin powder  ,Kashmiri Chilli Powder  ,
+Egg-beaten  ,Lemon Juice  ",https://drive.google.com/file/d/1KiB00yMYljrQJTd8pi_-yERqqS-9omgS/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Chicken65.jpg
+Chicken Pakoda,ProductType,8,"Inventory,Food,Restaurant,Starters,NonVegeterian,",100,,"  chicken,  besan,  corn flour,
+  red chilli powder,  ginger garlic paste,
+  haldi,  salt,  oil  frying",https://drive.google.com/file/d/1MBVf5Xw3U8eGIhl0HsdSpL4JOt7ZW5Le/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenPakoda.jpg
+Chicken Tandoori Thay,ProductType,9,"Inventory,Food,Restaurant,Starters,NonVegeterian,",100,,"   chicken ( preferably wings, thighs, breast, legs)  ,Red Chilli Paste  ,Ginger Garlic Paste  ,
+chat masala  ,tandoori masala  ,Oil  ,
+Hung Curd  salt",https://drive.google.com/file/d/1lUBPCBelFb3qo_mN1wV4V9ArAeckJ5Ww/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220103/ChickenTandooriThay.jpg
+Chicken Pakoda,ProductType,10,"Inventory,Food,Restaurant,Starters,NonVegeterian,",100,,"  chicken,  besan,  corn flour,
+  red chilli powder,  ginger garlic paste,
+  haldi,  salt,  oil  frying",https://drive.google.com/file/d/1MBVf5Xw3U8eGIhl0HsdSpL4JOt7ZW5Le/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenPakoda.jpg
+Chicken Tandoori Murga,ProductType,11,"Inventory,Food,Restaurant,Starters,NonVegeterian,",400,,,https://drive.google.com/file/d/1EEChgSi-ZMSg1T_wX3QAiho3xmZgVyUL/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220103/ChickenTandooriMurga.jpg
+Entree,ProductClass,1,"Inventory,Food,Restaurant,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant7/Entree.jpg
+Vegeterian,ProductLine,2,"Inventory,Food,Restaurant,Entree,",,,,,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/Salad.jpg
+NonVegeterian,ProductLine,3,"Inventory,Food,Restaurant,Entree,",,,,,
+Chicken Curry,ProductType,4,"Inventory,Food,Restaurant,Entree,NonVegeterian,",100,," chicken,oil,Green chillies-,
+Onion-,Tomato-,Chilli powder-  ,
+Coriander powder-  ,Cumin powder- ,
+Cumin seeds- ,Turmeric powder- ,
+Curd ",https://drive.google.com/file/d/1dU5-tSB4k1PcuEGJMCv4sWBNDgUrp2y5/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenCurry.jpg
+Chicken Lapeta,ProductType,5,"Inventory,Food,Restaurant,Entree,NonVegeterian,",150,,"   Onion, Tomatoes, Green chillies,
+  coriander leaves, whole cashewnuts,
+  roasted poppy seeds,  roasted cumin powder,
+  ginger paste,  garlic paste,  Paneer,
+  coriander powder",https://drive.google.com/file/d/1IAN_u53Nx3sgkcuN1RbmJb88rxcHmTzs/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenLapeta.jpg
+Chicken Masala,ProductType,6,"Inventory,Food,Restaurant,Entree,NonVegeterian,",150,,"  Chicken   ,
+Eastern Chicken Masala  , Onion sliced  ,
+Sliced Ginger  ,Garlic cloves  ,green chilli  ,
+Curry leave stalks  ,Refined vegetable Oil  ,
+Mustard ",https://drive.google.com/file/d/16eM27vE_lLNM8GKZT5a35PjfaUi0laY9/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/restaurant-2/ChickenMasala.jpg
+Bakra Mutton Masala,ProductType,7,"Inventory,Food,Restaurant,Entree,NonVegeterian,",200,,"Mutton  ,Onion ,cut into diced  ,
+Garlic cloves,turmeric powder  ,
+Coriander Powder  ,Red Chili Powder ,  ,Garam Masala  ,Curd  ,
+Mustard Oil  ",https://drive.google.com/file/d/1KV7NklqOSa3L-TBz1cWxtXiWvxTas3da/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220103/BakraMuttonMasala.jpg
+Anda Curry Kolhapuri,ProductType,8,"Inventory,Food,Restaurant,Entree,NonVegeterian,",80,,,https://drive.google.com/file/d/1Uhb9JFvLGEE70xR7z15gnYa0uKrYhdN-/view?usp=sharing,https://d32jc9rx98ldq0.cloudfront.net/staging/inventory/compressed/food20220103/AndaCurryKolhapuri.jpg
